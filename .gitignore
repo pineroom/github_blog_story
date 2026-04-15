@@ -1,0 +1,4 @@
+.processed_*
+.slack_config
+process.log
+.DS_Store
