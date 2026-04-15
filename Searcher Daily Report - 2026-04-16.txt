@@ -1,0 +1,91 @@
+Searcher Daily Report
+Generated at: 2026-04-16 08:00:55
+Removed duplicates (today): 1
+Removed duplicates (7 days): 33
+
+[AI]
+1. 苦戦中の靴小売業者オールバーズが AI への奇妙な方向転換で 1 億 2,700 万ドルの価値を追加 - CNBC
+   原題: Struggling shoe retailer Allbirds makes bizarre pivot to AI, adds $127 million in value - CNBC
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 15 Apr 2026 13:25:37 GMT
+
+2. あなたが嫌い​​な会議は、AI を維持する可能性があります。仕事を盗むことから - ニューヨーク・タイムズ
+   原題: That Meeting You Hate May Keep A.I. From Stealing Your Job - The New York Times
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 15 Apr 2026 15:20:07 GMT
+
+3. AIが生成したヴァル・キルマー、不穏な『墓のように深く』予告編に出演 - ローリングストーン誌
+   原題: An AI-Generated Val Kilmer Stars In Unsettling ‘As Deep as the Grave’ Trailer - Rolling Stone
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 15 Apr 2026 22:58:01 GMT
+
+4. ローマ法王との確執が激化する中、トランプ大統領が新たなAIイメージを共有 - デトロイト・ニュース
+   原題: Trump shares new AI image as his feud with the Pope escalates - The Detroit News
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 15 Apr 2026 22:44:00 GMT
+
+5. グレイソン・ペリーの未来を見たレビュー – AI に関するこれらの洞察のいくつかは、まさに驚くべきものです - ガーディアン
+   原題: Grayson Perry Has Seen the Future review – some of these insights into AI are just mindblowing - The Guardian
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 15 Apr 2026 21:01:00 GMT
+
+
+[CarPlay]
+1. 古い車？ 1,000 ドルの CarPlay 改造を 80 ドル以下で実現 - New York Post
+   原題: Old car? Give it a $1,000 CarPlay facelift for under $80 - New York Post
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 15 Apr 2026 20:22:00 GMT
+
+2. WhatsApp に新しい CarPlay アプリが登場 - MacRumors
+   原題: WhatsApp Gets New CarPlay App - MacRumors
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 07 Apr 2026 23:32:35 GMT
+
+3. ChatGPT が Apple CarPlay に登場しますが、ロボットと会話したい場合に限ります - techradar.com
+   原題: ChatGPT comes to Apple CarPlay but only if you are willing to talk to a robot - techradar.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 01 Apr 2026 07:00:00 GMT
+
+4. Apple CarPlay Ultra について知っておくべきことすべて - Man of Many
+   原題: Everything You Need to Know About Apple CarPlay Ultra - Man of Many
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 13 Apr 2026 07:00:00 GMT
+
+
+[Android Auto]
+1. Android Auto ユーザーは、Gemini はおしゃべりをやめず、物事を正しく進めさえしていないと主張 - Android Authority
+   原題: Android Auto users say Gemini won't stop talking, and it's not even getting things right - Android Authority
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 15 Apr 2026 11:20:55 GMT
+
+2. Google Meet、とんでもない制限付きで Android Auto に展開 - Pocket-lint
+   原題: Google Meet rolls out to Android Auto with a ridiculous restriction - Pocket-lint
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 13 Apr 2026 20:55:40 GMT
+
+
+[Arduino]
+1. プロジェクト #12: ロボット工学 - Arduino UNO R4 WiFi - Mk36 - Hackster.io
+   原題: Project #12: Robotics - Arduino UNO R4 WiFi - Mk36 - Hackster.io
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 15 Apr 2026 16:54:12 GMT
+
+2. 20個IR赤外線障害物回避センサーモジュール – ロボットカーArduino用3.3V-5V - ruhrkanal.news
+   原題: 20pcs IR Infrared Obstacle Avoidance Sensor Module – 3.3V-5V For Robot Car Arduino - ruhrkanal.news
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 15 Apr 2026 19:50:44 GMT
+
+3. Arduinoのバグを修正したいですか?まず、クアルコムの 6,000 語のプライバシー ポリシーに同意します - Adafruit
+   原題: Want to Fix a Bug in Arduino? First, Agree to Qualcomm’s 6,000-Word Privacy Policy - Adafruit
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 18 Mar 2026 07:00:00 GMT
+
+4. Linux、AI、リアルタイム設計のための Arduino UNO Q バンドル - Elektor Magazine
+   原題: Arduino UNO Q Bundle for Linux, AI, and Real-Time Design - Elektor Magazine
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 05 Apr 2026 08:23:00 GMT
+
+5. Binghe 2 個 ESP-32D 開発ボード – WiFi + Bluetooth 2-in-1 モジュール Type-C 搭載、Arduino と互換性あり - ruhrkanal.news
+   原題: Binghe 2 Pcs ESP-32D Development Board – WiFi + Bluetooth 2-in-1 Module With Type-C, Compatible With Arduino - ruhrkanal.news
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 15 Apr 2026 13:42:15 GMT
