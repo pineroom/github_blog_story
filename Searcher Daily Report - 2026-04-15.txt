@@ -1,0 +1,16 @@
+Searcher Daily Report
+Generated at: 2026-04-15 10:22:27
+Removed duplicates (today): 3
+Removed duplicates (7 days): 57
+
+[AI]
+- No new items after dedupe
+
+[CarPlay]
+- No new items after dedupe
+
+[Android Auto]
+- No new items after dedupe
+
+[Arduino]
+- No new items after dedupe
