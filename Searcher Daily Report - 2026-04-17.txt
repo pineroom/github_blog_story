@@ -1,0 +1,86 @@
+Searcher Daily Report
+Generated at: 2026-04-17 08:00:52
+Removed duplicates (today): 3
+Removed duplicates (7 days): 30
+
+[AI]
+1. Anthropic、Mythos よりもリスクの低い AI モデルである Claude Opus 4.7 を公開 - CNBC
+   原題: Anthropic rolls out Claude Opus 4.7, an AI model that is less risky than Mythos - CNBC
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 16 Apr 2026 14:35:52 GMT
+
+2. ロンドンのナイトクラブ閉鎖に男がAIを使って虚偽の供述をしたと警察が発表 - ガーディアン
+   原題: Man used AI to make false statements to shut down London nightclub, police say - The Guardian
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 16 Apr 2026 19:54:00 GMT
+
+3. AI の緊張が沸騰 - The Hill
+   原題: AI tensions boil over - The Hill
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 16 Apr 2026 22:01:00 GMT
+
+4. AIキャンペーンテキストがミネソタ州のディープフェイク法問題を引き起こす - FOX 9 ミネアポリスセントルイスポール
+   原題: AI campaign text sparks deepfake law questions in Minnesota - FOX 9 Minneapolis-St. Paul
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 16 Apr 2026 22:13:07 GMT
+
+5. AIポルノ捜査で学生2人が起訴されるとメイソン教育長が語る - WLWT
+   原題: Mason superintendent speaks as 2 students face charges in AI porn investigations - WLWT
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 16 Apr 2026 22:44:00 GMT
+
+
+[CarPlay]
+1. Android Auto に便利な新しい Google アプリが登場 Apple CarPlay ドライバーはすでに楽しんでいる - t3.com
+   原題: Android Auto gets useful new Google app Apple CarPlay drivers have already been enjoying - t3.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 16 Apr 2026 08:00:00 GMT
+
+2. Amazon、ワイヤレス CarPlay スクリーンをわずか 49 ドルで販売 - Autoblog
+   原題: Amazon Has a Wireless CarPlay Screen on Sale for Just $49 - Autoblog
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 16 Apr 2026 18:00:00 GMT
+
+3. ランドローバー フリーランダー 2 (2007-2012) 用 9 インチ Android 14 カーステレオ - ワイヤレス CarPlay、Android Auto、GPS、タッチスクリーン - umlconnector.com
+   原題: 9" Android 14 Car Stereo For Land Rover Freelander 2 (2007-2012) - Wireless CarPlay, Android Auto, GPS, Touchscreen - umlconnector.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 16 Apr 2026 22:31:54 GMT
+
+
+[Android Auto]
+1. Google Meet が Android Auto に搭載されましたが、落とし穴があります - Android Central
+   原題: Google Meet lands on Android Auto, but there’s a catch - Android Central
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 13 Apr 2026 18:48:04 GMT
+
+2. Android Auto の Gemini がおしゃべりすぎる (そしてくだらない) 人々は Google アシスタントに戻りつつある - Android Police
+   原題: Gemini on Android Auto is so chatty (and rubbish) people are switching back to Google Assistant - Android Police
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 16 Apr 2026 10:55:14 GMT
+
+
+[Arduino]
+1. GTIWUNG 100 個ブレッドボード ジャンパー ワイヤー - オス - オス 15cm、24AWG、マルチカラー Arduino & Raspberry Pi 用 - ruhrkanal.news
+   原題: GTIWUNG 100PCS Breadboard Jumper Wires - Male To Male 15cm, 24AWG, Multicolor For Arduino & Raspberry Pi - ruhrkanal.news
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 16 Apr 2026 20:05:32 GMT
+
+2. ディフューザー付きケース 8×32 LED WS2812 #3DPrinting #3DMonday - Adafruit
+   原題: Case with Diffuser 8×32 LED WS2812 #3DPrinting #3DThursday - Adafruit
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 16 Apr 2026 05:00:43 GMT
+
+3. Freenove RFID スターター キット V2.0 ボード V4 付き - 267 ページのチュートリアル、198 項目、Arduino 学習用の 49 プロジェクト - ruhrkanal.news
+   原題: Freenove RFID Starter Kit V2.0 With Board V4 - 267-Page Tutorial, 198 Items, 49 Projects For Arduino Learning - ruhrkanal.news
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 16 Apr 2026 17:44:40 GMT
+
+4. Innfeeltech 両面 PCB プロトタイプ ボード 10 個 - 3x7cm、FR-4、錫メッキ、Arduino および DIY 用 - ruhrkanal.news
+   原題: Innfeeltech 10 Pcs Double Sided PCB Prototype Boards - 3x7cm, FR-4, Tinned, For Arduino & DIY - ruhrkanal.news
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 16 Apr 2026 21:51:35 GMT
+
+5. Wifi 制御の Arduino ベースの 3D プリント戦車を構築するにはどうすればよいですか? - ハックスターアイオ
+   原題: How I Build Wifi controlled Arduino based 3d printed Tank ? - Hackster.io
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 11 Apr 2026 00:30:29 GMT
