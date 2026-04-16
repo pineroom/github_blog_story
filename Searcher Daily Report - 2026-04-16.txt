@@ -1,111 +1,16 @@
 Searcher Daily Report
-Generated at: 2026-04-16 16:01:22
+Generated at: 2026-04-16 16:01:23
 Removed duplicates (today): 1
-Removed duplicates (7 days): 18
+Removed duplicates (7 days): 59
 
 [AI]
-1. 靴メーカーが AI 企業としてブランド変更したため、Allbirds の株価が 600% 近く急騰 - Yahoo Finance
-   原題: Allbirds stock soars nearly 600% as the shoemaker rebrands as an AI company - Yahoo Finance
-   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
-   Published: Wed, 15 Apr 2026 21:36:03 GMT
-
-2. 苦戦中の靴小売業者オールバーズが AI への奇妙な方向転換で 1 億 2,700 万ドルの価値を追加 - CNBC
-   原題: Struggling shoe retailer Allbirds makes bizarre pivot to AI, adds $127 million in value - CNBC
-   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
-   Published: Wed, 15 Apr 2026 13:25:37 GMT
-
-3. ウールスニーカーメーカーがAIへの転換を発表後、オールバーズの株価が急上昇 - ガーディアン
-   原題: Shares in Allbirds surge after maker of wool sneakers announces pivot to AI - The Guardian
-   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
-   Published: Wed, 15 Apr 2026 23:38:00 GMT
-
-4. グレイソン・ペリーの未来を見たレビュー – AI に関するこれらの洞察のいくつかは、まさに驚くべきものです - ガーディアン
-   原題: Grayson Perry Has Seen the Future review – some of these insights into AI are just mindblowing - The Guardian
-   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
-   Published: Wed, 15 Apr 2026 22:55:00 GMT
-
-5. AI主導のチップ需要でTSMCの利益が58%急増 - Bloomberg.com
-   原題: TSMC’s Profit Surges 58% On AI-Driven Chip Demand - Bloomberg.com
-   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
-   Published: Thu, 16 Apr 2026 05:36:00 GMT
-
+- No new items after dedupe
 
 [CarPlay]
-1. Target のワイヤレス CarPlay アダプターが 60% オフでセール中 - 自動ブログ
-   原題: Target Has a Wireless CarPlay Adapter on Sale for 60% Off - Autoblog
-   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
-   Published: Tue, 14 Apr 2026 17:30:00 GMT
-
-2. CarPlay は私にとって他のすべての車を台無しにしました - Macworld
-   原題: CarPlay ruined every other vehicle for me - Macworld
-   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
-   Published: Tue, 14 Apr 2026 11:15:00 GMT
-
-3. スピーカーのセットアップに関係なく、どの Apple CarPlay カーにもドルビー アトモスを追加できるようになりました - t3.com
-   原題: You can now add Dolby Atmos to any Apple CarPlay car – no matter your speaker setup - t3.com
-   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
-   Published: Wed, 15 Apr 2026 11:00:00 GMT
-
-4. 古い車？ 1,000 ドルの CarPlay 改造を 80 ドル以下で実現 - New York Post
-   原題: Old car? Give it a $1,000 CarPlay facelift for under $80 - New York Post
-   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
-   Published: Wed, 15 Apr 2026 20:22:00 GMT
-
-5. パイオニア、既存の車にプレミアム CarPlay 機能を導入 [U] - 9to5Mac
-   原題: Pioneer bringing a premium CarPlay feature to existing cars [U] - 9to5Mac
-   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
-   Published: Tue, 14 Apr 2026 16:00:00 GMT
-
+- No new items after dedupe
 
 [Android Auto]
-1. Android Auto がついにそれを台無しにする問題を解決するかもしれない - Android Police
-   原題: Android Auto might finally fix the issues ruining it - Android Police
-   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
-   Published: Mon, 13 Apr 2026 15:03:09 GMT
-
-2. (携帯電話をミラーリングするだけではなく) 実際に運転を向上させる 7 つの Android Auto アプリ - How-To Geek
-   原題: 7 Android Auto apps that actually make driving better (instead of just mirroring your phone) - How-To Geek
-   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
-   Published: Mon, 13 Apr 2026 15:15:16 GMT
-
-3. Android Auto の Google Meet が展開開始、仕事用アカウントはサポートされない - 9to5Google
-   原題: Google Meet on Android Auto starts rolling out, doesn’t support work accounts - 9to5Google
-   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
-   Published: Mon, 13 Apr 2026 15:45:00 GMT
-
-4. Android Auto ユーザーは、Gemini はおしゃべりをやめず、物事を正しく進めさえしていないと主張 - Android Authority
-   原題: Android Auto users say Gemini won't stop talking, and it's not even getting things right - Android Authority
-   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
-   Published: Wed, 15 Apr 2026 11:23:26 GMT
-
-5. たった 30 ドルのこの Android Auto 画面なら間違いありません - XDA
-   原題: You can't go wrong with this Android Auto screen that's just $30 - XDA
-   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
-   Published: Thu, 16 Apr 2026 02:49:00 GMT
-
+- No new items after dedupe
 
 [Arduino]
-1. プロジェクト #12: ロボット工学 - Arduino UNO R4 WiFi - Mk36 - Hackster.io
-   原題: Project #12: Robotics - Arduino UNO R4 WiFi - Mk36 - Hackster.io
-   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
-   Published: Wed, 15 Apr 2026 16:54:12 GMT
-
-2. Arduinoのバグを修正したいですか?まず、クアルコムの 6,000 語のプライバシー ポリシーに同意します - Adafruit
-   原題: Want to Fix a Bug in Arduino? First, Agree to Qualcomm’s 6,000-Word Privacy Policy - Adafruit
-   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
-   Published: Wed, 18 Mar 2026 07:00:00 GMT
-
-3. Linux、AI、リアルタイム設計のための Arduino UNO Q バンドル - Elektor Magazine
-   原題: Arduino UNO Q Bundle for Linux, AI, and Real-Time Design - Elektor Magazine
-   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
-   Published: Sun, 05 Apr 2026 08:23:00 GMT
-
-4. 5V 1チャンネルリレーモジュールボード - Arduino、Raspberry Pi用光絶縁高/低レベルトリガー - ruhrkanal.news
-   原題: 5V 1 Channel Relay Module Board - Opto-Isolated High/Low Level Trigger For Arduino, Raspberry Pi - ruhrkanal.news
-   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
-   Published: Wed, 15 Apr 2026 10:20:18 GMT
-
-5. Qualcomm は Arduino を永久に抹殺したのでしょうか? - アダフルーツ
-   原題: Did Qualcomm kill Arduino for good? - Adafruit
-   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
-   Published: Fri, 21 Nov 2025 08:00:00 GMT
+- No new items after dedupe
