@@ -1,0 +1,96 @@
+Searcher Daily Report
+Generated at: 2026-04-18 08:01:26
+Removed duplicates (today): 4
+Removed duplicates (7 days): 29
+
+[AI]
+1. Chrome の AI モードを使用してウェブを探索する新しい方法 - blog.google
+   原題: A new way to explore the web with AI Mode in Chrome - blog.google
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 16 Apr 2026 17:02:28 GMT
+
+2. オレゴン州のワイナリーで起きた家族の確執が、A.I.をめぐる酢に発展スロップ - ニューヨーク・タイムズ
+   原題: A Family Feud at an Oregon Winery Turns to Vinegar Over A.I. Slop - The New York Times
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 17 Apr 2026 09:02:41 GMT
+
+3. 展望: AI の需要は増大しており、現実的なのは Anthropic のみ - CNBC
+   原題: Perspective: AI demand is inflated, and only Anthropic is being realistic - CNBC
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 17 Apr 2026 19:10:15 GMT
+
+4. サム・アルトマンへの攻撃は、反AI運動の暗い裏腹を暴露した | CNN ビジネス - CNN
+   原題: The attack on Sam Altman exposed a dark underbelly of the anti-AI movement | CNN Business - CNN
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 17 Apr 2026 09:02:32 GMT
+
+5. サム・アルトマンが支援する18億ドルのスタートアップ、AIにより臨床試験をより早く医薬品を入手できると賭ける - フォーブス
+   原題: This Sam Altman-Backed $1.8 Billion Startup Bets AI Can Get Drugs Through Clinical Trials Faster - Forbes
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 17 Apr 2026 10:30:00 GMT
+
+
+[CarPlay]
+1. CarPlay の ChatGPT 統合は予想よりもはるかに便利です - XDA
+   原題: CarPlay’s ChatGPT integration is way more useful than I expected - XDA
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 17 Apr 2026 15:30:22 GMT
+
+2. パイオニア、CarPlay、ドルビーアトモス、そして高額な価格を組み合わせた 1-DIN レシーバーを発売 - autoevolution
+   原題: Pioneer Launches 1-DIN Receiver That Combines CarPlay, Dolby Atmos, and a Hefty Price - autoevolution
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 17 Apr 2026 09:12:46 GMT
+
+3. Apple の CarPlay 機能が iPhone の複数の AI チャットボット アプリをサポートするようになりました - 9to5Mac
+   原題: Apple’s CarPlay feature now supports multiple AI chatbot apps from iPhone - 9to5Mac
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 17 Apr 2026 14:19:00 GMT
+
+4. Apple が CarPlay で複数の AI チャットボット アプリをサポート - MacDailyNews
+   原題: Apple now supports multiple AI chatbot apps on CarPlay - MacDailyNews
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 17 Apr 2026 16:00:35 GMT
+
+5. この便利な iOS 26 機能により、Apple Music を CarPlay で簡単に使用できるようになります - bgr.com
+   原題: This Useful iOS 26 Feature Makes Apple Music Way Easier To Use In CarPlay - bgr.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 17 Apr 2026 19:17:00 GMT
+
+
+[Android Auto]
+1. 車のディスプレイの品質を変える Android Auto の隠された設定のロックを解除する - Talk Android
+   原題: Unlock Android Auto’s Hidden Setting That Transforms Your Car Display Quality - Talk Android
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 17 Apr 2026 06:30:00 GMT
+
+2. 携帯電話から変更する必要がある 5 つの Android Auto 設定 - How-To Geek
+   原題: 5 Android Auto settings you should change from your phone - How-To Geek
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 17 Apr 2026 15:00:16 GMT
+
+
+[Arduino]
+1. 新しいガイド: ESP-NOW トランシーバー #AdafruitLearningSystem @Adafruit - Adafruit
+   原題: NEW GUIDE: ESP-NOW Walkie Talkies #AdafruitLearningSystem @Adafruit - Adafruit
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 17 Apr 2026 12:30:26 GMT
+
+2. AD8317 対数 RF 検出器モジュール – Arduino および DIY 用 1MHz ～ 10GHz 信号パワーメータ - RuhrkanalNEWS
+   原題: AD8317 Logarithmic RF Detector Module – 1MHz-10GHz Signal Power Meter For Arduino & DIY - RuhrkanalNEWS
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 17 Apr 2026 11:13:49 GMT
+
+3. 40 個 10 センチメートルデュポンオス - ブレッドボード Arduino 用ジャンパー ワイヤ リボン ケーブル - portalcantagalo.com.br
+   原題: 40pcs 10CM Dupont Male To Male Jumper Wire Ribbon Cable For Breadboard Arduino - portalcantagalo.com.br
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 17 Apr 2026 10:07:52 GMT
+
+4. uxcell 角度センサー モジュール SW-520D 5 個 – Arduino 用チルト スイッチ センサー、デジタル出力、3.3V-5V - RuhrkanalNEWS
+   原題: Uxcell 5pcs Angle Sensor Module SW-520D – Tilt Switch Sensor For Arduino, Digital Output, 3.3V-5V - RuhrkanalNEWS
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 17 Apr 2026 12:51:13 GMT
+
+5. Arduino UNO Q のハンズオン - Hackster.io
+   原題: Hands-On with the Arduino UNO Q - Hackster.io
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 19 Dec 2025 16:14:50 GMT
