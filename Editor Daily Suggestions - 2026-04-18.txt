@@ -1,0 +1,41 @@
+Editor Daily Suggestion Report
+Generated at: 2026-04-18 08:30:12
+Reference searcher report date: 2026-04-18
+
+[GA4 Top Posts (last 28 days)]
+1. Android Autoでナビ中にGeminiが使える - シニアオタク (403 PV) /gemini-coming-to-android-auto-1/
+
+2. CodexとGitHubの連携環境の作成要領 - シニアオタク (324 PV) /codex-github-integration-1/
+
+3. Xcode 26 の「Coding Intelligence（コーディングインテリジェンス）」機能 - シニアオタク (232 PV) /xcode26-coding-intelligence-1/
+
+4. 【Arduino UNO Q】 Arduino App CLIの概要 - シニアオタク (212 PV) /arduino-uno-q-arduino-app-cli-overview-1/
+
+5. Arduino UNO Qと開発環境 Arduino App Lab - シニアオタク (190 PV) /uno-q-with-arduino-app-lab-1/
+
+
+[Next Blog Themes]
+1. テーマ: AI
+   想定読者: AIに関心のある読者
+   仮タイトル: AI: Codex for (almost) everythingを試して分かった実用ポイント
+
+   記事の概要: Codex for (almost) everything / Introducing GPTを起点に、Android Autoでナビ中にGeminiが使える - シニアオタクの読者向けに「何が変わるか」「どう設定するか」「どこで失敗しやすいか」を具体化する。
+
+   見出し案: 1) Codex for (almost) everythingの要点を3分で把握 2) Introducing GPTと比較した実務上の違い 3) すぐ試せる設定・検証手順
+
+2. テーマ: CarPlay
+   想定読者: CarPlayに関心のある読者
+   仮タイトル: CarPlay: Apple’s CarPlay feature now supports multiple AI chatbot apps from iPhoneを試して分かった実用ポイント
+
+   記事の概要: Apple’s CarPlay feature now supports multiple AI chatbot apps from iPhone / Pioneer bringing a premium CarPlay feature to existing cars [U]を起点に、Android Autoでナビ中にGeminiが使える - シニアオタクの読者向けに「何が変わるか」「どう設定するか」「どこで失敗しやすいか」を具体化する。
+
+   見出し案: 1) Apple’s CarPlay feature now supports multiple AI chatbot apps from iPhoneの要点を3分で把握 2) Pioneer bringing a premium CarPlay feature to existing cars [U]と比較した実務上の違い 3) すぐ試せる設定・検証手順
+
+3. テーマ: Android Auto
+   想定読者: Android Autoに関心のある読者
+   仮タイトル: Android Auto: Google Meet on Android Auto starts rolling out, doesn’t support work accountsを試して分かった実用ポイント
+
+   記事の概要: Google Meet on Android Auto starts rolling out, doesn’t support work accounts / Google Meet now on Apple CarPlay, Android Auto coming ‘soon’を起点に、Android Autoでナビ中にGeminiが使える - シニアオタクの読者向けに「何が変わるか」「どう設定するか」「どこで失敗しやすいか」を具体化する。
+
+   見出し案: 1) Google Meet on Android Auto starts rolling out, doesn’t support work accountsの要点を3分で把握 2) Google Meet now on Apple CarPlay, Android Auto coming ‘soon’と比較した実務上の違い 3) すぐ試せる設定・検証手順
+
