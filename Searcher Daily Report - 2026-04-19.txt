@@ -1,0 +1,76 @@
+Searcher Daily Report
+Generated at: 2026-04-19 08:01:06
+Removed duplicates (today): 2
+Removed duplicates (7 days): 36
+
+[AI]
+1. 個人金融向けの AI プロンプトの作成には「コツ」がある、MIT 教授が語る - CNBC
+   原題: There's an 'art' to writing AI prompts for personal finance, MIT professor says - CNBC
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 18 Apr 2026 14:30:01 GMT
+
+2. AIが人類を攻撃する可能性を警告する運動が拡大中 - ワシントン・ポスト
+   原題: Inside a growing movement warning AI could turn on humanity - The Washington Post
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 18 Apr 2026 22:58:57 GMT
+
+3. シャーリーズ・セロン、ティモシー・シャラメの「無謀な」コメントを非難。 AIは間もなく自分の仕事を「できるようになる」かもしれないが、バレエやオペラの代わりにはならないと主張 - 締め切り
+   原題: Charlize Theron Censures Timothée Chalamet Over “Reckless” Comments; Says AI May Soon “Be Able To Do” His Job But Will Not Replace Ballet & Opera - Deadline
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 18 Apr 2026 21:23:00 GMT
+
+4. AI とフィットネス: 一部のアスリートがトレーニングにチャットボットを使用している理由 - ニューヨーク タイムズ
+   原題: AI and Fitness: Why Some Athletes Are Using Chatbots for Their Workouts - The New York Times
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 18 Apr 2026 09:00:21 GMT
+
+5. オールバーズの「ヘイル・メアリー」が AI 貿易について今語ること - Yahoo Finance
+   原題: What the Allbirds 'Hail Mary' says about the AI trade right now - Yahoo Finance
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 18 Apr 2026 11:38:47 GMT
+
+
+[CarPlay]
+1. Apple、CarPlay Ultraがこれらの自動車ブランドに導入されると発表 - MacRumors
+   原題: Apple Says CarPlay Ultra is Coming to These Vehicle Brands - MacRumors
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 18 Apr 2026 12:59:00 GMT
+
+2. 別の AI アプリが CarPlay で起動しますが、iPhone が完全にアップデートされている場合に限ります - autoevolution
+   原題: Another AI App Launches on CarPlay, but Only if Your iPhone Is Fully Updated - autoevolution
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 18 Apr 2026 05:59:08 GMT
+
+3. ChatGPT が Apple CarPlay に登場しますが、ロボットと会話したい場合に限ります - TechRadar
+   原題: ChatGPT comes to Apple CarPlay but only if you are willing to talk to a robot - TechRadar
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 01 Apr 2026 07:00:00 GMT
+
+4. OpenAI が ChatGPT の音声モードを CarPlay に導入 - Engadget
+   原題: OpenAI brings ChatGPT's Voice mode to CarPlay - Engadget
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 02 Apr 2026 07:00:00 GMT
+
+
+[Android Auto]
+1. 5 新しい Android スマートフォンでは必ず変更する Android Auto 設定 - Android Central
+   原題: 5 Android Auto settings I always change on any new Android phone - Android Central
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 18 Apr 2026 18:13:00 GMT
+
+2. 登場: Android Auto 16.7 アップデートが誰でも利用可能になりました - autoevolution
+   原題: It's Here: Android Auto 16.7 Update Now Available for Everyone - autoevolution
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 18 Apr 2026 05:26:36 GMT
+
+
+[Arduino]
+1. 10 個 4 ウェイ Dupont コネクタ ハウジング - 2.54mm ピッチ、ジャンパー ワイヤ、Raspberry Pi、Arduino 用 - ruhrkanal.news
+   原題: 10 Pcs 4-Way Dupont Connector Housing - 2.54mm Pitch, For Jumper Wires, Raspberry Pi, Arduino - ruhrkanal.news
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 18 Apr 2026 21:04:04 GMT
+
+2. パトリスDIYエレクトロニクスセンサーパックのArduino Tutorial.clapスイッチを備えたサウンドセンサーモジュール - portalcantagalo.com.br
+   原題: Sound Sensor Module With Arduino Tutorial.clap Switch At Patrice DIY Electronics Sensor Pack - portalcantagalo.com.br
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 18 Apr 2026 13:40:41 GMT
