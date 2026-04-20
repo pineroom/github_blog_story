@@ -1,0 +1,91 @@
+Searcher Daily Report
+Generated at: 2026-04-21 08:01:26
+Removed duplicates (today): 1
+Removed duplicates (7 days): 33
+
+[AI]
+1. アマゾン、AIインフラ契約の一環としてAnthropicにさらに最大250億ドルを投資 - CNBC
+   原題: Amazon to invest up to another $25 billion in Anthropic as part of AI infrastructure deal - CNBC
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 20 Apr 2026 20:30:09 GMT
+
+2. Amazon と Anthropic が戦略的提携を拡大 - Amazon について
+   原題: Amazon and Anthropic expand strategic collaboration - About Amazon
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 20 Apr 2026 20:35:45 GMT
+
+3. アマゾンが関係を深める、AIスタートアップAnthropicに投資 - 本誌
+   原題: Amazon Deepens Ties, Investment in AI Start-Up Anthropic - Barron's
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 20 Apr 2026 21:42:00 GMT
+
+4. AIチャットボットはあなたをさらに愚かにする可能性がある - BBC
+   原題: AI chatbots could be making you stupider - BBC
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 20 Apr 2026 10:00:00 GMT
+
+5. Axios Live: AI は適切なガードレールで子供のメンタルヘルスをサポートできる - Axios
+   原題: Axios Live: AI could support child mental health — with the right guardrails - Axios
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 20 Apr 2026 22:06:16 GMT
+
+
+[CarPlay]
+1. Apple Sports が CarPlay で動作するようになりました。セットアップ方法は次のとおりです - 9to5Mac
+   原題: Apple Sports now works with CarPlay, here’s how to set up - 9to5Mac
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 20 Apr 2026 16:38:00 GMT
+
+2. Apple Sports AppにiPhoneとCarPlayの2つの新機能が追加 - MacRumors
+   原題: Apple Sports App Receives Two New Features Across iPhone and CarPlay - MacRumors
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 20 Apr 2026 16:31:46 GMT
+
+3. Apple CarPlay Ultraが間もなくヒュンダイ、起亜、その他の主流ブランドに導入予定 - Tech Times
+   原題: Apple CarPlay Ultra Will Soon Launch to Hyundai, Kia, and Other Mainstream Brands - Tech Times
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 20 Apr 2026 03:35:16 GMT
+
+4. Apple Sports が新機能追加で CarPlay に拡張 - Appleosophy
+   原題: Apple Sports Expands to CarPlay with New Feature Additions - Appleosophy
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 20 Apr 2026 19:39:00 GMT
+
+
+[Android Auto]
+1. Android Auto 用の Gemini が登場しました。ユーザーはそうならなければよかったと思う - autoevolution
+   原題: Gemini for Android Auto Is Here. Users Wish It Weren't - autoevolution
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 20 Apr 2026 09:26:51 GMT
+
+2. これら 3 つの Android Auto 機能により、私の車が私の車のように感じられました - MakeUseOf
+   原題: These 3 Android Auto features made my car feel like mine - MakeUseOf
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 20 Apr 2026 13:00:17 GMT
+
+
+[Arduino]
+1. ESP32-P4 LP (低電力) コア用のオープンソース Arduino ライブラリ - Adafruit
+   原題: An open source Arduino library for the ESP32-P4 LP (Low Power) core - Adafruit
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 20 Apr 2026 16:18:54 GMT
+
+2. KEYESTUDIO Arduino & Python 用スマート ホーム スターター キット - STEM 用エレクトロニクス DIY 木造住宅センサー キット - ruhrkanal.news
+   原題: KEYESTUDIO Smart Home Starter Kit For Arduino & Python - Electronics DIY Wooden House Sensor Kit For STEM - ruhrkanal.news
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 20 Apr 2026 14:02:52 GMT
+
+3. DIY カスタム低コスト CNC マシン - Hackster.io
+   原題: DIY Custom Low Cost CNC Machine - Hackster.io
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 20 Apr 2026 13:51:41 GMT
+
+4. JYUDAUFU 4 パック 9g 360° マイクロ サーボ モーター テスターとドライバー付き – Arduino、Raspberry Pi、RC カー、ロボット、DIY プロジェクト用 - ruhrkanal.news
+   原題: JYUDAUFU 4-Pack 9g 360° Micro Servo Motors With Tester & Screwdriver – For Arduino, Raspberry Pi, RC Cars, Robots, DIY Projects - ruhrkanal.news
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 20 Apr 2026 21:09:47 GMT
+
+5. DORHEA 5x ESP32 WiFi 開発ボード - ESP-32S NodeMCU、CP2102 搭載、Arduino と互換性あり - ruhrkanal.news
+   原題: DORHEA 5x ESP32 WiFi Development Boards - ESP-32S NodeMCU With CP2102, Compatible With Arduino - ruhrkanal.news
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 20 Apr 2026 22:45:05 GMT
