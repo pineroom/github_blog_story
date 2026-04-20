@@ -1,7 +1,7 @@
 Searcher Daily Report
-Generated at: 2026-04-20 08:00:52
-Removed duplicates (today): 2
-Removed duplicates (7 days): 23
+Generated at: 2026-04-20 15:14:56
+Removed duplicates (today): 1
+Removed duplicates (7 days): 0
 
 [AI]
 1. 数千人のCEOがAIが雇用や生産性に何の影響も与えていないことを認め、経済学者らは40年前の矛盾を復活させている - フォーチュン
@@ -9,93 +9,103 @@ Removed duplicates (7 days): 23
    出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
    Published: Sun, 19 Apr 2026 14:58:00 GMT
 
-2. シリコンバレーの AI エージェントの問題: 無駄なトークンと「混沌とした」システム - CNBC
-   原題: SiIicon Valley's AI agent hiccups: Wasted tokens and 'chaotic' systems - CNBC
+2. AIスタートアップCursor、評価額500億ドル以上で20億ドルの資金調達に向け交渉中 - CNBC
+   原題: AI startup Cursor in talks to raise $2 billion funding round at valuation of over $50 billion - CNBC
    出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
-   Published: Sun, 19 Apr 2026 12:00:01 GMT
+   Published: Sun, 19 Apr 2026 21:19:57 GMT
 
-3. スクープ：ウェス・ムーア、ミトス時代の脅威についてAI幹部と会談 - Axios
-   原題: Scoop: Wes Moore to meet with AI execs on Mythos-era threat - Axios
+3. AI が無視できないほど危険になるのはいつですか? - フォーブス
+   原題: When Does AI Become Too Dangerous To Ignore? - Forbes
    出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
-   Published: Sun, 19 Apr 2026 21:40:27 GMT
+   Published: Mon, 20 Apr 2026 05:33:09 GMT
 
-4. トランプ大統領、ローマ法王との確執とAI画像削除後、大統領執務室で聖書の一節を朗読へ - CNN
-   原題: Trump to read Bible verse from Oval Office after feud with Pope and deleted AI image - CNN
+4. AIのトークンエコノミー革命が新たな中国テクノロジーの勝者を生み出す - Yahoo Finance
+   原題: AI’s Token Economy Revolution Creates New China Tech Winners - Yahoo Finance
    出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
-   Published: Sun, 19 Apr 2026 04:01:55 GMT
+   Published: Mon, 20 Apr 2026 03:52:00 GMT
 
-5. 私の上司はChatGPTに悩まされています。一緒に遊ぶ必要がありますか? - ニューヨーク・タイムズ紙
-   原題: My Boss Is Addled by ChatGPT. Do I Have to Play Along? - The New York Times
+5. トランプ大統領、法王との確執やAIイエスの投稿のさなか、宗教右派での運を試す - ガーディアン
+   原題: Trump tests his luck with the religious right amid feud with pope and AI Jesus posts - The Guardian
    出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
-   Published: Sun, 19 Apr 2026 09:03:05 GMT
+   Published: Mon, 20 Apr 2026 01:30:00 GMT
 
 
 [CarPlay]
-1. Apple の CarPlay で ChatGPT を使用できるようになりました - The Verge
-   原題: You can now use ChatGPT with Apple’s CarPlay - The Verge
+1. Apple、CarPlay Ultraがこれらの自動車ブランドに導入されると発表 - MacRumors
+   原題: Apple Says CarPlay Ultra is Coming to These Vehicle Brands - MacRumors
    出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
-   Published: Tue, 31 Mar 2026 07:00:00 GMT
+   Published: Sat, 18 Apr 2026 12:59:00 GMT
 
-2. Siri のことは忘れてください — iOS 26.5 ベータ版で新しい CarPlay を試してみたところ、運転中に ChatGPT と会話できるようになりました - Tom's Guide
-   原題: Forget Siri — I just tried the new CarPlay with iOS 26.5 beta and now I can talk to ChatGPT while I drive - Tom's Guide
+2. この便利な iOS 26 機能により、Apple Music を CarPlay で簡単に使用できるようになります - bgr.com
+   原題: This Useful iOS 26 Feature Makes Apple Music Way Easier To Use In CarPlay - bgr.com
    出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
-   Published: Sun, 05 Apr 2026 07:00:00 GMT
+   Published: Fri, 17 Apr 2026 19:17:00 GMT
 
-3. Apple、CarPlay Ultra で車のダッシュボードを独占する準備ができている - VOI.id
-   原題: Apple Ready to Dominate the Car Dashboard with CarPlay Ultra - VOI.id
+3. CarPlay の ChatGPT 統合は予想よりもはるかに便利です - XDA
+   原題: CarPlay’s ChatGPT integration is way more useful than I expected - XDA
    出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
-   Published: Sun, 19 Apr 2026 10:35:00 GMT
+   Published: Fri, 17 Apr 2026 15:30:22 GMT
+
+4. 別の AI アプリが CarPlay で起動しますが、iPhone が完全にアップデートされている場合に限ります - autoevolution
+   原題: Another AI App Launches on CarPlay, but Only if Your iPhone Is Fully Updated - autoevolution
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 18 Apr 2026 05:59:08 GMT
+
+5. Apple の CarPlay 機能が iPhone の複数の AI チャットボット アプリをサポート - 9to5Mac
+   原題: Apple’s CarPlay feature now supports multiple AI chatbot apps from iPhone - 9to5Mac
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 17 Apr 2026 14:19:00 GMT
 
 
 [Android Auto]
-1. これら 4 つの Android Auto オートメーションを設定したら、私道で時間を無駄にすることがなくなりました - How-To Geek
+1. 5 新しい Android スマートフォンでは必ず変更する Android Auto 設定 - Android Central
+   原題: 5 Android Auto settings I always change on any new Android phone - Android Central
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 18 Apr 2026 18:13:00 GMT
+
+2. 登場: Android Auto 16.7 アップデートが誰でも利用可能になりました - autoevolution
+   原題: It's Here: Android Auto 16.7 Update Now Available for Everyone - autoevolution
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 18 Apr 2026 05:26:36 GMT
+
+3. これら 4 つの Android Auto オートメーションを設定したら、私道で時間を無駄にすることがなくなりました - How-To Geek
    原題: I stopped wasting time in my driveway after setting up these 4 Android Auto automations - How-To Geek
    出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
    Published: Sun, 19 Apr 2026 13:45:16 GMT
 
-2. Android Auto で Gemini をテストしたところ、Gemini との会話が止まらなくなりました: 成功する 5 つのタスク - ZDNET
+4. 携帯電話から変更する必要がある 5 つの Android Auto 設定 - How-To Geek
+   原題: 5 Android Auto settings you should change from your phone - How-To Geek
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 17 Apr 2026 15:00:16 GMT
+
+5. Android Auto で Gemini をテストしたところ、Gemini との会話が止まらなくなりました: 成功する 5 つのタスク - ZDNET
    原題: I tested Gemini on Android Auto and now I can't stop talking to it: 5 tasks it nails - ZDNET
    出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
    Published: Mon, 06 Apr 2026 07:00:00 GMT
 
-3. Google マップは、350 以上の Android Auto EV モデルのバッテリー予測と旅行計画を簡素化します。 - blog.google
-   原題: Google Maps simplifies battery predictions and trip planning for 350+ Android Auto EV models. - blog.google
-   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
-   Published: Mon, 30 Mar 2026 07:00:00 GMT
-
-4. Android Auto の次の機能は、あなたの車をオフィスに変えることです - Android Police
-   原題: Android Auto’s next feature wants to turn your car into an office - Android Police
-   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
-   Published: Sat, 04 Apr 2026 07:00:00 GMT
-
-5. YouTube がバックグラウンド再生コントロールの Android Auto サポートを追加 - 9to5Google
-   原題: YouTube adds Android Auto support for background play controls - 9to5Google
-   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
-   Published: Sun, 29 Mar 2026 07:00:00 GMT
-
 
 [Arduino]
-1. 新しい Arduino ラインナップをご紹介します: メディアキャリア、デバッガなど - Hackster.io
-   原題: Meet the New Arduino Lineup: Media Carriers, Debuggers, and More - Hackster.io
+1. DVD ディスプレイを使用した Arduino ピンボール マシン (TM1628) - Hackster.io
+   原題: Arduino Pinball Machine Using a DVD Display (TM1628) - Hackster.io
    出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
-   Published: Sat, 28 Mar 2026 11:10:19 GMT
+   Published: Mon, 20 Apr 2026 01:55:35 GMT
 
-2. ブラウザベースの Arduino エミュレータ用の AVR8 をシミュレートする - Hackaday
+2. Arduino 830タイポイント無はんだブレッドボード用プロトタイプPCB - MB102、Raspberry Pi電子ブレッドボードキット - portalcantagalo.com.br
+   原題: Prototype PCB For Arduino 830 Tie Point Solderless Breadboard - MB102 , Raspberry Pi Electronic Breadboard Kit - portalcantagalo.com.br
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 20 Apr 2026 00:55:54 GMT
+
+3. ブラウザベースの Arduino エミュレータ用の AVR8 をシミュレートする - Hackaday
    原題: Simulating The AVR8 For A Browser-based Arduino Emulator - Hackaday
    出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
    Published: Mon, 06 Apr 2026 07:00:00 GMT
 
-3. Arduino Uno Q 上にクリップボード サーバーを構築したところ、自分が嫌いだと気づいていなかったワークフローが置き換えられました - XDA
+4. Arduino Uno Q 上にクリップボード サーバーを構築したところ、自分が嫌いだと気づいていなかったワークフローが置き換えられました - XDA
    原題: I built a clipboard server on the Arduino Uno Q, and it replaced a workflow I didn't realize I hated - XDA
    出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
    Published: Wed, 01 Apr 2026 07:00:00 GMT
 
-4. 40 パック 19 極 2.54mm ピッチ PCB コネクタ - Arduino 用直角オスヘッダーピン - RuhrkanalNEWS
-   原題: 40-Pack 19-Way 2.54mm Pitch PCB Connectors - Right Angle Male Header Pins For Arduino - RuhrkanalNEWS
+5. クアルコムがArduinoを買収、オープンソースコミュニティは懐疑的 - IEEE Spectrum
+   原題: Qualcomm Buys Arduino, and the Open-Source Community Is Skeptical - IEEE Spectrum
    出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
-   Published: Sun, 19 Apr 2026 08:17:01 GMT
-
-5. クアルコムの最新 AI プレイ: メーカーの夢を株主価値に変える - Adafruit
-   原題: Qualcomm’s Latest AI Play: Turning Maker Dreams into Shareholder Value - Adafruit
-   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
-   Published: Tue, 07 Oct 2025 07:00:00 GMT
+   Published: Sat, 18 Oct 2025 07:00:00 GMT
