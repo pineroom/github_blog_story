@@ -1,0 +1,96 @@
+Searcher Daily Report
+Generated at: 2026-04-22 08:01:02
+Removed duplicates (today): 1
+Removed duplicates (7 days): 26
+
+[AI]
+1. 独占：メタ、AIトレーニングデータ用に従業員のマウスの動きやキーストロークの捕捉を開始 - ロイター
+   原題: Exclusive: Meta to start capturing employee mouse movements, keystrokes for AI training data - Reuters
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 21 Apr 2026 20:04:08 GMT
+
+2. AIをトレーニングするために従業員のクリックとキーストロークを追跡するメタ - BBC
+   原題: Meta to track workers' clicks and keystrokes to train AI - BBC
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 21 Apr 2026 22:47:56 GMT
+
+3. Meta の AI 従業員追跡展開に関するメモ全文を読む - Business Insider
+   原題: Read the full memo behind Meta's AI employee tracking rollout - Business Insider
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 21 Apr 2026 19:17:17 GMT
+
+4. AI による人員削減ウォール街で台頭している - ニューヨーク・タイムズ
+   原題: Job Cuts Driven by A.I. Are Rising on Wall Street - The New York Times
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 21 Apr 2026 15:27:17 GMT
+
+5. SpaceX、今年後半にCursorを600億ドルで買収するか、「私たちの協力」に100億ドル支払う可能性があると発表 - CNBC
+   原題: SpaceX says it can buy Cursor later this year for $60 billion or pay $10 billion for 'our work together' - CNBC
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 21 Apr 2026 22:20:56 GMT
+
+
+[CarPlay]
+1. CarPlay は、最近の 3 つのエキサイティングなアプリのアップデートでさらに良くなりました - 9to5Mac
+   原題: CarPlay just got even better with three exciting recent app updates - 9to5Mac
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 21 Apr 2026 20:25:00 GMT
+
+2. Apple Sports で CarPlay ウィジェットでスコアを追跡できるようになりました - The Verge
+   原題: Apple Sports now lets you follow scores in a CarPlay widget - The Verge
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 21 Apr 2026 09:08:22 GMT
+
+3. もっと多くのドライバーに知ってほしい 4 つの CarPlay 音声コマンド - Pocket-lint
+   原題: 4 CarPlay voice commands I wish more drivers knew - Pocket-lint
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 21 Apr 2026 00:00:00 GMT
+
+4. Apple、長年待ち望まれていたスポーツアプリアップデートの一環として新しいCarPlayウィジェットをリリース - autoevolution
+   原題: Apple Releases New CarPlay Widget as Part of Long-Overdue Sports App Update - autoevolution
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 21 Apr 2026 09:45:02 GMT
+
+5. OpenAIのChatGPTがiOS 26.4のCarPlay経由でハンズフリーで利用可能に - AppleInsider
+   原題: OpenAI's ChatGPT now available hands-free via CarPlay with iOS 26.4 - AppleInsider
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 31 Mar 2026 07:00:00 GMT
+
+
+[Android Auto]
+1. 自動車ソフトウェアの未来: Rivian は、Tesla の Apple ステータスに対する Android となる可能性がありますか? - MSN
+   原題: The future of auto software: Could Rivian be the Android to Tesla's Apple status? - MSN
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 21 Apr 2026 16:49:07 GMT
+
+2. 2+64G] Techschermo カーラジオ クライスラー 300 300C 2004-2011 ワイヤレス Carplay と Android Auto 付き - 9 インチ タッチスクリーン Android カーステレオ - DSP/GPS/SWC/WiFi/Bluetooth + AHD バックアップ カメラ - ruhrkanal.news
+   原題: 2+64G] Techschermo Car Radio For Chrysler 300 300C 2004-2011 With Wireless Carplay And Android Auto - 9 Inch Touchscreen Android Car Stereo - DSP/GPS/SWC/WiFi/Bluetooth + AHD Backup Camera - ruhrkanal.news
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 21 Apr 2026 19:56:13 GMT
+
+
+[Arduino]
+1. TFTGraph、TFT ディスプレイ用のデータ視覚化 Arduino ライブラリ - Adafruit
+   原題: TFTGraph, a data visualizing Arduino library for TFT displays - Adafruit
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 21 Apr 2026 20:37:05 GMT
+
+2. QualcommのArduino Ventuno QはNvidiaのロボティクス向けエッジAIの支配を打ち破ることができるのか? - フュートゥラムグループ
+   原題: Can Qualcomm’s Arduino Ventuno Q Break Nvidia’s Grip on Edge AI for Robotics? - The Futurum Group
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 21 Apr 2026 18:46:26 GMT
+
+3. TinyGo 0.41.0 は、Espressif の ESP32 チップと Arduino UNO Q 互換性でワイヤレスをサポート - Hackster.io
+   原題: TinyGo 0.41.0 Brings Wireless Support on Espressif's ESP32 Chips and Arduino UNO Q Compatibility - Hackster.io
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 21 Apr 2026 12:23:41 GMT
+
+4. DAOKAI 5x アナログピエゾ振動センサーモジュール Arduino 用 - 3.3V/5V ケーブル付き、振動強度を検出 - ruhrkanal.news
+   原題: DAOKAI 5x Analog Piezo Vibration Sensor Modules For Arduino - 3.3V/5V With Cable, Detect Vibration Strength - ruhrkanal.news
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 21 Apr 2026 17:38:55 GMT
+
+5. AITRIP 5x DHT11 デジタル温度および湿度センサーモジュール (ワイヤー付き) - Arduino、Raspberry Pi 用 - ruhrkanal.news
+   原題: AITRIP 5x DHT11 Digital Temperature & Humidity Sensor Modules With Wires - For Arduino, Raspberry Pi - ruhrkanal.news
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 21 Apr 2026 14:16:01 GMT
