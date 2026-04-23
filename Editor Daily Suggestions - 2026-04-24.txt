@@ -1,0 +1,41 @@
+Editor Daily Suggestion Report
+Generated at: 2026-04-24 08:30:14
+Reference searcher report date: 2026-04-24
+
+[GA4 Top Posts (last 28 days)]
+1. Android Autoでナビ中にGeminiが使える - シニアオタク (415 PV) /gemini-coming-to-android-auto-1/
+
+2. CodexとGitHubの連携環境の作成要領 - シニアオタク (346 PV) /codex-github-integration-1/
+
+3. 【Arduino UNO Q】 Arduino App CLIの概要 - シニアオタク (221 PV) /arduino-uno-q-arduino-app-cli-overview-1/
+
+4. Xcode 26 の「Coding Intelligence（コーディングインテリジェンス）」機能 - シニアオタク (210 PV) /xcode26-coding-intelligence-1/
+
+5. 最近のAndroid Autoのトラブル（2026年3月） - シニアオタク (188 PV) /recent-android-auto-issues-1/
+
+
+[Next Blog Themes]
+1. テーマ: AI
+   想定読者: AIに関心のある読者
+   仮タイトル: AI: GPTを試して分かった実用ポイント
+
+   記事の概要: GPT / Introducing GPTを起点に、Android Autoでナビ中にGeminiが使える - シニアオタクの読者向けに「何が変わるか」「どう設定するか」「どこで失敗しやすいか」を具体化する。
+
+   見出し案: 1) GPTの要点を3分で把握 2) Introducing GPTと比較した実務上の違い 3) すぐ試せる設定・検証手順
+
+2. テーマ: CarPlay
+   想定読者: CarPlayに関心のある読者
+   仮タイトル: CarPlay: Pioneer Sphera brings a premium CarPlay feature to existing cars, now availableを試して分かった実用ポイント
+
+   記事の概要: Pioneer Sphera brings a premium CarPlay feature to existing cars, now available / CarPlay just got even better with three exciting recent app updatesを起点に、Android Autoでナビ中にGeminiが使える - シニアオタクの読者向けに「何が変わるか」「どう設定するか」「どこで失敗しやすいか」を具体化する。
+
+   見出し案: 1) Pioneer Sphera brings a premium CarPlay feature to existing cars, now availableの要点を3分で把握 2) CarPlay just got even better with three exciting recent app updatesと比較した実務上の違い 3) すぐ試せる設定・検証手順
+
+3. テーマ: Android Auto
+   想定読者: Android Autoに関心のある読者
+   仮タイトル: Android Auto: I was excited for Gemini on Android Auto, until I tried it — it could be much betterを試して分かった実用ポイント
+
+   記事の概要: I was excited for Gemini on Android Auto, until I tried it — it could be much better / Google Meet on Android Auto starts rolling out, doesn’t support work accountsを起点に、Android Autoでナビ中にGeminiが使える - シニアオタクの読者向けに「何が変わるか」「どう設定するか」「どこで失敗しやすいか」を具体化する。
+
+   見出し案: 1) I was excited for Gemini on Android Auto, until I tried it — it could be much betterの要点を3分で把握 2) Google Meet on Android Auto starts rolling out, doesn’t support work accountsと比較した実務上の違い 3) すぐ試せる設定・検証手順
+
