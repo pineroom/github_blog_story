@@ -1,0 +1,111 @@
+Searcher Daily Report
+Generated at: 2026-04-24 23:22:10
+Removed duplicates (today): 0
+Removed duplicates (7 days): 0
+
+[AI]
+1. Anthropic の新しい神話 A.I.モデルが世界的な警報を発する - ニューヨーク・タイムズ
+   原題: Anthropic’s New Mythos A.I. Model Sets Off Global Alarms - The New York Times
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 22 Apr 2026 14:18:09 GMT
+
+2. 秘密のAIハッキングシステムが世界的な争奪戦を引き起こした - ワシントン・ポスト
+   原題: A secretive AI hacking system has sparked a global scramble - The Washington Post
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 24 Apr 2026 13:36:54 GMT
+
+3. DiscordグループによるMythosへのアクセスでAIによるハッキングの本当の危険性が明らかに - Fortune
+   原題: Mythos access by Discord group reveals real danger of AI-powered hacking - Fortune
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 24 Apr 2026 13:30:00 GMT
+
+4. DeepSeek、躍進から1年で主力AIモデルを発表 - Bloomberg.com
+   原題: DeepSeek Unveils Flagship AI Model a Year After Breakthrough - Bloomberg.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 24 Apr 2026 04:54:00 GMT
+
+5. 中国のAI新興企業DeepSeekが新モデルを発表。昨年のような波を起こすでしょうか？ - CNN
+   原題: China’s AI upstart DeepSeek drops new model. Will it make waves like last year? - CNN
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 24 Apr 2026 07:22:19 GMT
+
+
+[CarPlay]
+1. 2026 年 4 月に Apple CarPlay に追加された 5 つの新機能 - bgr.com
+   原題: 5 New Features Added To Apple CarPlay In April 2026 - bgr.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 23 Apr 2026 19:55:12 GMT
+
+2. CarPlay は、最近の 3 つのエキサイティングなアプリのアップデートでさらに良くなりました - 9to5Mac
+   原題: CarPlay just got even better with three exciting recent app updates - 9to5Mac
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 21 Apr 2026 20:25:00 GMT
+
+3. すべての Apple CarPlay ユーザーが知っておくべき 10 のハック - ライフハッカー
+   原題: 10 Hacks Every Apple CarPlay User Should Know - Lifehacker
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 21 Apr 2026 20:00:00 GMT
+
+4. 男性は、Apple CarPlay で更新された Google マップ、Apple マップ、Waze を比較し、明らかに勝者がいるから間違ったものを使用するのはやめるべきだと言う - supercarblondie.com
+   原題: Man compares the updated Google Maps, Apple Maps, and Waze on Apple CarPlay and says there’s a clear winner so stop using the wrong one - supercarblondie.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 24 Apr 2026 08:17:00 GMT
+
+5. iOS 26.4はCarPlayに2つの新機能を追加 - MacRumors
+   原題: iOS 26.4 Added Two New Features to CarPlay - MacRumors
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 22 Apr 2026 19:10:10 GMT
+
+
+[Android Auto]
+1. ついに Android Auto の音声コマンドをワンタップ ショートカットに置き換えました。機能がさらに向上しました - Android Police
+   原題: I finally replaced Android Auto voice commands with one-tap shortcuts, and they just work better - Android Police
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 23 Apr 2026 10:00:10 GMT
+
+2. すべての Android Auto ユーザーが知っておくべき 10 のハック - ライフハッカー
+   原題: 10 Hacks Every Android Auto User Should Know - Lifehacker
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 22 Apr 2026 21:30:00 GMT
+
+3. この非表示の Android Auto 設定により、接続遅延がついに解決されました - Android Police
+   原題: This hidden Android Auto setting finally fixed my connection lag - Android Police
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 22 Apr 2026 16:15:11 GMT
+
+4. Android Auto は地図だけではありません。Android Auto を使って私がやっている他の 5 つのことを紹介します - How-To Geek
+   原題: Android Auto isn't just for maps—here's 5 other things I do with it - How-To Geek
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 22 Apr 2026 16:00:17 GMT
+
+5. 試してみるまでは、Android Auto での Gemini に興奮していました - はるかに優れている可能性があります - 9to5Google
+   原題: I was excited for Gemini on Android Auto, until I tried it — it could be much better - 9to5Google
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 22 Apr 2026 15:00:00 GMT
+
+
+[Arduino]
+1. チュートリアルコーディングArduinoの台頭が新たな疑問を引き起こす - デトロイト事務局
+   原題: The Rise of Tutorial Coding Arduino Raises New Questions - The Detroit Bureau
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 24 Apr 2026 12:50:58 GMT
+
+2. 音に反応するノーチラスランプ (Arduino プロジェクト) #3DPrinting #3DMonday - Adafruit
+   原題: Sound-Reactive Nautilus Lamp (Arduino Project) #3DPrinting #3DThursday - Adafruit
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 24 Apr 2026 00:00:42 GMT
+
+3. Arduino UNO用のLinux風のOS - Hackster.io
+   原題: A Linux-Like OS for the Arduino UNO - Hackster.io
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 24 Apr 2026 01:18:54 GMT
+
+4. KernelUNO、Arduino Uno 用 OS - ハッカデイ
+   原題: KernelUNO, An OS For The Arduino Uno - Hackaday
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 23 Apr 2026 11:00:00 GMT
+
+5. QualcommのArduino Ventuno Qは、Nvidiaのロボティクス向けエッジAIの支配を打ち破ることができるでしょうか? - フュートゥラムグループ
+   原題: Can Qualcomm’s Arduino Ventuno Q Break Nvidia’s Grip on Edge AI for Robotics? - The Futurum Group
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 21 Apr 2026 18:46:26 GMT
