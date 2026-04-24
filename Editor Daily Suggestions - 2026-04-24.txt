@@ -1,6 +1,6 @@
 Editor Daily Suggestion Report
-Generated at: 2026-04-24 23:21:39
-Reference searcher report date: 2026-04-12
+Generated at: 2026-04-24 23:22:22
+Reference searcher report date: 2026-04-24
 
 [GA4 Top Posts (last 28 days)]
 1. Android Autoでナビ中にGeminiが使える - シニアオタク (415 PV) /gemini-coming-to-android-auto-1/
