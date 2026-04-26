@@ -1,0 +1,71 @@
+Searcher Daily Report
+Generated at: 2026-04-27 08:01:11
+Removed duplicates (today): 0
+Removed duplicates (7 days): 39
+
+[AI]
+1. AI を盗聴できるポッドキャストエリート - ニューヨーク・タイムズ
+   原題: The Podcast Where You Can Eavesdrop on the A.I. Elite - The New York Times
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 26 Apr 2026 09:02:24 GMT
+
+2. 「過激化しているように感じます」: Meta AI の幹部は、エージェントがトップの従業員を殴るのを目撃しました。彼女は現在、Z世代が失われる前に仕事を見つけられるよう支援する非営利団体を設立した - フォーチュン
+   原題: 'You feel radicalized': A Meta AI exec watched agents beat her top workers. Now she's built a nonprofit to help Gen Z find jobs before they disappear - Fortune
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 26 Apr 2026 08:00:00 GMT
+
+3. 14 歳のティーン、寄り目の検出と治療の可能性を支援する AI 搭載デバイスを発明 - People.com
+   原題: Teen, 14, Invents AI-Powered Device to Help Detect, and Potentially Treat, Crossed Eyes - People.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 26 Apr 2026 21:00:00 GMT
+
+4. AI 時代のシードマネー: ベンチャーのベクトル - Forbes
+   原題: Seed Money In The AI Age: Venture Vectors - Forbes
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 26 Apr 2026 22:02:50 GMT
+
+5. 世界のAI首都サンフランシスコは経済的に遅れている - エコノミスト
+   原題: San Francisco, AI capital of the world, is an economic laggard - The Economist
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 26 Apr 2026 16:23:37 GMT
+
+
+[CarPlay]
+1. Apple のデフォルト設定よりもはるかに便利になる 6 つの CarPlay アプリ - MakeUseOf
+   原題: 6 CarPlay apps that make it far more useful than Apple's default setup - MakeUseOf
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 26 Apr 2026 10:00:16 GMT
+
+2. 車載ビジュアル AM/FM、Carplay、Android Auto がダッシュボードに表示 - AUTO Connected Car News
+   原題: In-Vehicle Visuals AM/FM, Carplay & Android Auto Displays on Dashes - AUTO Connected Car News
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 26 Apr 2026 21:12:07 GMT
+
+
+[Android Auto]
+1. Android Auto を搭載した 2 台の携帯電話を使用しています。これらを簡単に切り替える方法は次のとおりです - Android Authority
+   原題: I use two phones with Android Auto — here’s how I easily switch between them - Android Authority
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 26 Apr 2026 10:32:40 GMT
+
+
+[Arduino]
+1. Arduino Nano ESP32 で音声アシスタントが動作 - Let's Data Science
+   原題: Voice Assistant Runs on Arduino Nano ESP32 - Let's Data Science
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 26 Apr 2026 19:30:37 GMT
+
+2. 5個 KY-019 5V 1チャンネルリレーモジュール - Arduino、Raspberry Pi、エレクトロニクスプロジェクト用のハイレベルトリガー - ruhrkanal.news
+   原題: 5Pcs KY-019 5V One Channel Relay Module - High Level Trigger For Arduino, Raspberry Pi, Electronics Projects - ruhrkanal.news
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 26 Apr 2026 17:55:23 GMT
+
+3. 圧力センサーマット Arduino 圧力センサー Fafeicy 圧力センサーモジュール - Micro:bit プロジェクト用 3.3-5V 薄膜センサー 薄膜圧力センサー Micro:bit 互換圧力センサー - portalcantagalo.com.br
+   原題: Pressure Sensor Mat Arduino Pressure Sensor Fafeicy Pressure Sensor Module - 3.3-5V Thin Film Sensor For Micro:bit Projects Thin Film Pressure Sensor Micro:bit Compatible Pressure Sensor - portalcantagalo.com.br
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 26 Apr 2026 21:08:02 GMT
+
+4. Arduino と Qualcomm が Hackster の 2026 年最初の開発者コンテストを開始 世界的なコンテストが 300 台の Arduino UNO Q ボードとエッジ AI イノベーションを紹介する機会で開幕 - PR Newswire
+   原題: Arduino and Qualcomm Launch Hackster's First Developer Contest of 2026 Global Competition Kicks Off With 300 Arduino UNO Q Boards and Opportunities to Showcase Edge AI Innovation - PR Newswire
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 04 Mar 2026 08:00:00 GMT
