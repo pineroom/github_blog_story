@@ -1,0 +1,56 @@
+Searcher Daily Report
+Generated at: 2026-04-28 08:00:49
+Removed duplicates (today): 0
+Removed duplicates (7 days): 41
+
+[AI]
+1. 中国、メタによる大規模なAI買収を撤回すると発表 - ワシントン・ポスト
+   原題: China says it will reverse major AI acquisition by Meta - The Washington Post
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 27 Apr 2026 22:11:31 GMT
+
+2. 中国、メタによるAI新興企業マナスの20億ドル買収を阻止 - CNBC
+   原題: China blocks Meta's $2 billion takeover of AI startup Manus - CNBC
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 27 Apr 2026 09:03:53 GMT
+
+3. 意見 |中国のAI「ホテル・カリフォルニア」 - WSJ
+   原題: Opinion | China’s AI ‘Hotel California’ - WSJ
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 27 Apr 2026 21:47:00 GMT
+
+4. インディアナ州からアイダホ州まで、AI に対する反発勢いを増す - ニューヨーク・タイムズ
+   原題: From Indiana to Idaho, a Backlash Against A.I. Gathers Momentum - The New York Times
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 27 Apr 2026 16:11:56 GMT
+
+5. Nvidia の次期 AI スーパーチップには新しい種類のメモリが必要 — そしてそれを制御するのは 1 つの企業 - Yahoo Finance
+   原題: Nvidia's Next AI Superchip Needs A New Kind of Memory — And One Company Controls It - Yahoo Finance
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 27 Apr 2026 22:01:14 GMT
+
+
+[CarPlay]
+1. OpenAI が ChatGPT の音声モードを CarPlay に導入 - Engadget
+   原題: OpenAI brings ChatGPT's Voice mode to CarPlay - Engadget
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 02 Apr 2026 07:00:00 GMT
+
+
+[Android Auto]
+1. Android Auto ユーザーは Gemini を手に入れるが、数分後に失う - autoevolution
+   原題: Android Auto Users Get Gemini, Lose It Minutes Later - autoevolution
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 27 Apr 2026 12:06:45 GMT
+
+
+[Arduino]
+1. KernelUNO – Linux のようなシェルを備えた Arduino UNO 用の軽量 OS - CNX ソフトウェア
+   原題: KernelUNO – A lightweight OS for Arduino UNO with a Linux-like shell - CNX Software
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 27 Apr 2026 02:47:11 GMT
+
+2. HALJIA 120 個 4 インチ ジャンパー ワイヤー キット – オスからメス、オスからオス、メスからメス – Arduino やブレッドボードに最適 - ruhrkanal.news
+   原題: HALJIA 120pcs 4-Inch Jumper Wire Kit – Male To Female, Male To Male, Female To Female – Perfect For Arduino & Breadboards - ruhrkanal.news
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 27 Apr 2026 22:56:04 GMT
