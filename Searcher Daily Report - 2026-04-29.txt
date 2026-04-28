@@ -1,0 +1,96 @@
+Searcher Daily Report
+Generated at: 2026-04-29 08:01:18
+Removed duplicates (today): 0
+Removed duplicates (7 days): 33
+
+[AI]
+1. OpenAI、主要収益を逃し、IPOに向け一か八かの猛ダッシュでユーザーターゲット - WSJ
+   原題: OpenAI Misses Key Revenue, User Targets in High-Stakes Sprint Toward IPO - WSJ
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 28 Apr 2026 17:49:00 GMT
+
+2. 「コンピューティングのコストは従業員のコストをはるかに超えています」: Nvidia 幹部は、現在 AI は人間の従業員に支払うよりも高価であると述べています - Fortune
+   原題: ‘The cost of compute is far beyond the costs of the employees’: Nvidia executive says right now AI is more expensive than paying human workers - Fortune
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 28 Apr 2026 07:11:00 GMT
+
+3. OpenAIは収益目標を達成できなかったと伝えられている。オラクルとこれらのチップ株の株価は下落している - CNBC
+   原題: OpenAI reportedly missed revenue targets. Shares of Oracle and these chip stocks are falling - CNBC
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 28 Apr 2026 11:36:35 GMT
+
+4. AI株の利益が目標を下回る中、シーゲイト株が反発 - Investor's Business Daily
+   原題: Seagate Stock Rallies On As AI Stock's Earnings Crush Targets - Investor's Business Daily
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 28 Apr 2026 21:08:00 GMT
+
+5. OpenAIが収益を逃した後もAI投資家は強気を維持 - Axios
+   原題: AI investors stay bullish after OpenAI revenue miss - Axios
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 28 Apr 2026 21:40:03 GMT
+
+
+[CarPlay]
+1. iOS 26.4 では CarPlay に 2 つの新機能が追加され、さらに大きな機能が追加される - 9to5Mac
+   原題: iOS 26.4 gave CarPlay two new features, with another big one coming - 9to5Mac
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 28 Apr 2026 20:11:00 GMT
+
+2. ChatGPT が CarPlay に登場するにつれて Android Auto は取り残される - Android Authority
+   原題: Android Auto left behind as ChatGPT comes to CarPlay - Android Authority
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 01 Apr 2026 07:00:00 GMT
+
+3. スピーカーのセットアップに関係なく、どの Apple CarPlay カーにもドルビー アトモスを追加できるようになりました - t3.com
+   原題: You can now add Dolby Atmos to any Apple CarPlay car – no matter your speaker setup - t3.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 15 Apr 2026 07:00:00 GMT
+
+
+[Android Auto]
+1. この隠れた Android Auto 表示機能は、予想以上に大きな違いをもたらします - XDA
+   原題: This hidden Android Auto display feature makes a bigger difference than I expected - XDA
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 28 Apr 2026 15:34:20 GMT
+
+2. YouTube が Android Auto で利用できるようになりましたが、落とし穴があります - Android Police
+   原題: YouTube is now available on Android Auto, but there is a catch - Android Police
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 30 Mar 2026 07:00:00 GMT
+
+3. Android Auto で Gemini を試してみましたが、あらゆる点で Google アシスタントよりも劣っています - MakeUseOf
+   原題: I tried Gemini on Android Auto and it's worse than Google Assistant in every way that matters - MakeUseOf
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 28 Apr 2026 18:01:18 GMT
+
+4. Android Auto はあなたが思っているよりもはるかに多くのアプリをサポートしています - ここに 4 つの驚きがあります - How-To Geek
+   原題: Android Auto supports way more apps than you think—here are 4 surprises - How-To Geek
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 28 Apr 2026 19:01:18 GMT
+
+
+[Arduino]
+1. Easyduino: KiCad 用のオープンソース PCB 開発ボードのリポジトリ - Adafruit
+   原題: Easyduino: a repository of open source PCB devboards for KiCad - Adafruit
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 28 Apr 2026 20:22:00 GMT
+
+2. RS南アフリカがArduino UNO Qのマスターディストリビューターに指名 - dataweek.co.za
+   原題: RS South Africa named master distributor for the Arduino UNO Q - dataweek.co.za
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 28 Apr 2026 13:43:44 GMT
+
+3. Arduino スケール プロジェクト Hx711、ロード セルの問題 - 一般的なガイダンス - Arduino フォーラム Arduino ロード セル キット - portalcantagalo.com.br
+   原題: Arduino Scale Project Hx711, Load Cell Issue - General Guidance - Arduino Forum Arduino Load Cell Kit - portalcantagalo.com.br
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 28 Apr 2026 18:36:52 GMT
+
+4. Arduino、ロボット工学などのための高性能 SBC VENTUNO Q で 21 周年を祝う - Hackster.io
+   原題: Arduino Celebrates Turning 21 with the VENTUNO Q, a High-Performance SBC for Robotics and More - Hackster.io
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 09 Mar 2026 11:55:19 GMT
+
+5. クアルコムの最新 AI プレイ: メーカーの夢を株主価値に変える - Adafruit
+   原題: Qualcomm’s Latest AI Play: Turning Maker Dreams into Shareholder Value - Adafruit
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 07 Oct 2025 07:00:00 GMT
