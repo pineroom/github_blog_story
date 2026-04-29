@@ -1,0 +1,86 @@
+Searcher Daily Report
+Generated at: 2026-04-30 08:01:27
+Removed duplicates (today): 2
+Removed duplicates (7 days): 35
+
+[AI]
+1. 投資家がAI投資を精査する中、米国の大手ハイテク株が揺れる - BBC
+   原題: Big US tech stocks swing as investors probe AI spend - BBC
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 29 Apr 2026 21:41:41 GMT
+
+2. A.I.支出は記録を打ち立て、終わりは見えない - ニューヨーク・タイムズ
+   原題: A.I. Spending Sets a Record, With No End in Sight - The New York Times
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 29 Apr 2026 21:33:33 GMT
+
+3. テクノロジー関連収益のライブ: Google と Meta が AI 支出予測を押し上げる - Financial Times
+   原題: Tech earnings live: Google and Meta boost AI spending forecasts - Financial Times
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 29 Apr 2026 22:11:39 GMT
+
+4. A.I.ボットが科学者に生物兵器の作り方を教える - ニューヨーク・タイムズ
+   原題: A.I. Bots Told Scientists How to Make Biological Weapons - The New York Times
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 29 Apr 2026 09:00:11 GMT
+
+5. Appleの研究者は、回答する前に複数のアイデアを並行してテストするAIを構築した - 9to5Mac
+   原題: Apple researchers built an AI that tests several ideas in parallel before answering - 9to5Mac
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 29 Apr 2026 22:43:00 GMT
+
+
+[CarPlay]
+1. パイオニア、ドルビーアトモスを搭載した世界初のアフターマーケット空間オーディオレシーバーであるSPHERAを発売 - AndroidGuys
+   原題: Pioneer Launches SPHERA: World’s First Aftermarket Spatial Audio Receiver with Dolby Atmos - AndroidGuys
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 29 Apr 2026 12:01:31 GMT
+
+2. Best Buy では、Pioneer CarPlay および Android Auto タッチスクリーン レシーバーを本日 200 ドル割引で販売しています - 9to5Toys
+   原題: Best Buy has this Pioneer CarPlay and Android Auto touchscreen receiver at $200 off today - 9to5Toys
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 29 Apr 2026 14:02:00 GMT
+
+3. 13.1 インチ Android カーステレオ シボレー シルバラード/GMC シエラ 2014-2018 - ワイヤレス CarPlay & Android Auto - kliksolonews.com
+   原題: 13.1" Android Car Stereo For Chevy Silverado/GMC Sierra 2014-2018 - Wireless CarPlay & Android Auto - kliksolonews.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 29 Apr 2026 18:57:16 GMT
+
+
+[Android Auto]
+1. 私は何年も Android Auto を使用してきましたが、これら 5 つの変更により最大の問題が解決されました - ZDNET
+   原題: I've used Android Auto for years, and these 5 changes solved my biggest issues - ZDNET
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 29 Apr 2026 14:45:00 GMT
+
+2. ほとんどのドライバーがまだ知らないキラー Android Auto アップグレード - Torque News
+   原題: The Killer Android Auto Upgrade Most Drivers Don't Know About Yet - Torque News
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 29 Apr 2026 20:35:22 GMT
+
+3. 数百万台の Android Automotive 車がついに Gemini を搭載します – あなたの車もその 1 つですか? - t3.com
+   原題: Millions of Android Automotive cars are finally getting Gemini – is your car one of them? - t3.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 29 Apr 2026 16:30:00 GMT
+
+
+[Arduino]
+1. Arduino 用 HC-SR312 モーション検出器 5 個 HC-SR312 AM312 ミニ PIR モーション センサー モジュール - portalcantagalo.com.br
+   原題: HC-SR312 Motion Detector For Arduino 5PCS HC-SR312 AM312 Mini PIR Motion Sensor Modules - portalcantagalo.com.br
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 29 Apr 2026 14:44:10 GMT
+
+2. Arduino UNO Q シングルボードコンピュータがマウザー - Engineering.com で入手可能になりました
+   原題: Arduino UNO Q single board computer now available at Mouser - Engineering.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 20 Oct 2025 07:00:00 GMT
+
+3. Arduino ブリック センサー開発用ロータリー エンコーダー モジュール ラウンド オーディオ回転 - portalcantagalo.com.br
+   原題: Rotary Encoder Module For Arduino Brick Sensor Development Round Audio Rotating - portalcantagalo.com.br
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 29 Apr 2026 18:19:43 GMT
+
+4. ブラウザベースの Arduino エミュレータ用の AVR8 をシミュレートする - Hackaday
+   原題: Simulating The AVR8 For A Browser-based Arduino Emulator - Hackaday
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 06 Apr 2026 07:00:00 GMT
