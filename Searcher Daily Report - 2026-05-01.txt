@@ -1,0 +1,101 @@
+Searcher Daily Report
+Generated at: 2026-05-01 08:00:55
+Removed duplicates (today): 2
+Removed duplicates (7 days): 29
+
+[AI]
+1. 意見 |シリコンバレーはアンダークラスの永続化に備えている - ニューヨーク・タイムズ
+   原題: Opinion | Silicon Valley Is Bracing for a Permanent Underclass - The New York Times
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 30 Apr 2026 09:02:42 GMT
+
+2. 現実世界のテストでは、AI モデルは患者の診断において ER 医師よりも優れた成績を収めた - NPR
+   原題: In real-world test, an AI model did better than ER doctors at diagnosing patients - NPR
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 30 Apr 2026 18:00:35 GMT
+
+3. ハーバード大学の緊急トリアージ診断試験でAIが医師を上回る成績 - ガーディアン
+   原題: AI outperforms doctors in Harvard trial of emergency triage diagnoses - The Guardian
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 30 Apr 2026 18:10:00 GMT
+
+4. 新しい研究は、診断推論と複雑な医学的評価においてAIが医師を上回ることを示唆しています - ABC7 サンフランシスコ
+   原題: New study suggests AI outperforming doctors in diagnostic reasoning and complex medical assessments - ABC7 San Francisco
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 30 Apr 2026 21:23:56 GMT
+
+5. エヴァンジェリン・リリー、マーベル・スタジオの人員削減を非難、「MCUに命を吹き込んだ」アーティストたちは「AIに取って代わられる」と語る - ハリウッド・レポーター
+   原題: Evangeline Lilly Slams Marvel Studios Layoffs, Says Artists Who “Brought MCU to Life” Are “Being Replaced by AI” - The Hollywood Reporter
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 30 Apr 2026 22:02:54 GMT
+
+
+[CarPlay]
+1. 「こんなことがあるとは知らなかった」: Apple CarPlay をスクロールする女性。その後、彼女はドクターペッパーを注文できる隠された機能に気づきました - Motor1.com
+   原題: ‘Never Knew This Was A Thing’: Woman Scrolls Through Apple CarPlay. Then She Realizes A Hidden Feature Lets You Order A Dr. Pepper - Motor1.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 30 Apr 2026 20:01:20 GMT
+
+2. GM、Apple CarPlayとAndroid Autoの締め出しで大規模な販売崩壊のリスク - Torque News
+   原題: GM Risks Massive Sales Collapse by Locking Out Apple CarPlay and Android Auto - Torque News
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 30 Apr 2026 18:12:31 GMT
+
+3. 何？！ Apple の CarPlay が電動スクーターや電動自転車に搭載される？ Inokim が最初にもう一度 - autoevolution
+   原題: What?! Apple's CarPlay on E-Scooters and E-Bikes? Inokim Does It First, Again - autoevolution
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 30 Apr 2026 16:20:55 GMT
+
+4. これらのあまり知られていない Apple CarPlay ハックを使用すると、あなたの運転体験が完全に変わります - supercarblondie.com
+   原題: Using these little-known Apple CarPlay hacks will completely transform your driving experience with it - supercarblondie.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 30 Apr 2026 14:21:00 GMT
+
+5. フォード マスタング 2015-2021 用 10.4 インチ CarPlay スクリーン – Android Auto、タッチスクリーン マルチメディア ステレオ、HD 1024x768、OEM 機能を保持 - kliksolonews.com
+   原題: 10.4-Inch CarPlay Screen For Ford Mustang 2015-2021 – Android Auto, Touchscreen Multimedia Stereo, HD 1024x768, Retains OEM Functions - kliksolonews.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 30 Apr 2026 16:45:49 GMT
+
+
+[Android Auto]
+1. Android Auto ではアラームを解除できませんが、Google は解決策に取り組んでいます - Android Authority
+   原題: Android Auto doesn't let you dismiss alarms, but Google is working on a solution - Android Authority
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 30 Apr 2026 11:51:16 GMT
+
+2. Android Auto、ついにアラームで問題を解決するかもしれない - Android Police
+   原題: Android Auto may finally solve its issue with alarms - Android Police
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 30 Apr 2026 14:00:47 GMT
+
+3. Android Auto ホーム画面ウィジェットはほぼ起動の準備が整っているようです - Android Authority
+   原題: Android Auto home screen widgets look nearly ready to launch - Android Authority
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 30 Apr 2026 19:50:43 GMT
+
+4. Android Auto の音声コマンドと戦うのはやめて、代わりにこれらのカスタム ショートカットを使用してください - How-To Geek
+   原題: Stop fighting Android Auto’s voice commands—use these custom shortcuts instead - How-To Geek
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 29 Apr 2026 13:00:16 GMT
+
+5. Android Auto はウィジェットの利用に一歩近づいています - Android Police
+   原題: Android Auto is one step closer to getting widgets - Android Police
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 30 Apr 2026 20:38:28 GMT
+
+
+[Arduino]
+1. 6-DOF ロボット アームを備えた RC ローバー (Arduino 制御) #3Dprinting #3DMonday - Adafruit
+   原題: RC Rover with 6-DOF Robot Arm (Arduino Controlled) #3Dprinting #3DThursday - Adafruit
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 30 Apr 2026 17:00:27 GMT
+
+2. Arduino を搭載したクレーン レコード プレーヤーが産業への影響と実践的な制御をもたらす - Yanko Design
+   原題: Arduino-powered crane record player brings industrial influence and hands-on controls - Yanko Design
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 29 Apr 2026 15:20:12 GMT
+
+3. Adafruit：Arduinoのルールは「オープンソースと互換性がない」 - 新しいスタック
+   原題: Adafruit: Arduino’s Rules Are ‘Incompatible With Open Source’ - The New Stack
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 14 Dec 2025 08:00:00 GMT
