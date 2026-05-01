@@ -1,0 +1,111 @@
+Searcher Daily Report
+Generated at: 2026-05-02 08:01:06
+Removed duplicates (today): 2
+Removed duplicates (7 days): 20
+
+[AI]
+1. ホワイトハウスの新たな薬物乱用戦略は廃水検査、AI、さらなる治療法、信仰に基づく選択肢を浮き彫りにする - CBSニュース
+   原題: New White House drug abuse strategy floats wastewater testing, AI, more treatment and faith-based options - CBS News
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 01 May 2026 01:25:00 GMT
+
+2. 中国のハイテク労働者が解雇され、AIに置き換えられる。それは合法ですか？ - NPR
+   原題: A tech worker in China is laid off and replaced by AI. Is it legal? - NPR
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 01 May 2026 10:35:51 GMT
+
+3. AppleはAIによる買収が検討されている可能性があるというヒントを与えたばかり - MarketWatch
+   原題: Apple just gave a clue that an AI acquisition may be in the cards - MarketWatch
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 01 May 2026 19:35:00 GMT
+
+4. AIの熱狂で供給が枯渇、Apple、Mac Miniの開始価格を799ドルに値上げ - Bloomberg.com
+   原題: Apple Raises Mac Mini’s Starting Price to $799 After AI Frenzy Drains Supply - Bloomberg.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 01 May 2026 20:31:40 GMT
+
+5. Mac Miniの需要が急増中、Appleは開始価格を599ドルから799ドルに引き上げたばかり - Business Insider
+   原題: Demand for the Mac Mini is surging — and Apple just raised the starting price from $599 to $799 - Business Insider
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 01 May 2026 22:32:52 GMT
+
+
+[CarPlay]
+1. ChatGPT と Perplexity AI を CarPlay 音声アシスタントとしてテストしました - このモデルの方が優れていました - ZDNET
+   原題: I tested ChatGPT and Perplexity AI as my CarPlay voice assistants - this model was better - ZDNET
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 01 May 2026 02:00:00 GMT
+
+2. Apple CarPlay で ChatGPT を試してみましたが、完全に台無しになりました - MakeUseOf
+   原題: I tried ChatGPT on Apple CarPlay, and now I'm absolutely spoiled - MakeUseOf
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 01 May 2026 22:00:19 GMT
+
+3. すべての Apple CarPlay ユーザーが知っておくべき 10 のハック - ライフハッカー
+   原題: 10 Hacks Every Apple CarPlay User Should Know - Lifehacker
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 21 Apr 2026 07:00:00 GMT
+
+4. Apple、CarPlay Ultraがこれらの自動車ブランドに導入されると発表 - MacRumors
+   原題: Apple Says CarPlay Ultra is Coming to These Vehicle Brands - MacRumors
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 18 Apr 2026 07:00:00 GMT
+
+5. Apple CarPlayから直接食べ物を注文できるが、ほとんど誰も知らなかったようだ - Yahoo Autos
+   原題: You Can Order Food Straight From Apple CarPlay and Apparently Almost Nobody Knew - Yahoo Autos
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 01 May 2026 18:00:44 GMT
+
+
+[Android Auto]
+1. Android Auto はホーム画面ウィジェットの導入に一歩近づいています - Android Police
+   原題: Android Auto is one step closer to getting home screen widgets - Android Police
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 30 Apr 2026 20:38:28 GMT
+
+2. Android Auto アプリのウィジェットはモバイル設定を反映、リリースが近づくとリークが判明 - 9to5Google
+   原題: Android Auto app widgets mirror mobile setup, leak shows as release nears - 9to5Google
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 01 May 2026 14:22:00 GMT
+
+3. 「難しいことではありません」：長年のユーザーの不満を経て、Android Auto でまもなくアラームを解除できるようになるかもしれない - TechRadar
+   原題: 'It should not be hard': Android Auto might soon let you dismiss alarms, after years of user frustration - TechRadar
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 01 May 2026 12:30:32 GMT
+
+4. Android Auto の Google マップでは、ルート沿いの道路に大きなラベルが表示されるようになりました [ギャラリー] - 9to5Google
+   原題: Google Maps on Android Auto now shows bigger labels on streets along your route [Gallery] - 9to5Google
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 24 Apr 2026 19:50:00 GMT
+
+5. Gemini for Android Auto がアシスタントに戻る奇妙なバグ、Google も認識 - 9to5Google
+   原題: Gemini for Android Auto reverting to Assistant in bizarre bug, Google is aware - 9to5Google
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 24 Apr 2026 15:46:00 GMT
+
+
+[Arduino]
+1. Arduino が UNO Q、VENTUNO Q アプリ ラボをアップデートし、モジュール作成に「カスタム ブリック」サポートを導入 - Hackster.io
+   原題: Arduino Updates Its UNO Q, VENTUNO Q App Lab to Bring "Custom Bricks" Support for Modular Making - Hackster.io
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 01 May 2026 11:14:31 GMT
+
+2. KernelUNO、Arduino Uno 用 OS - ハッカデイ
+   原題: KernelUNO, An OS For The Arduino Uno - Hackaday
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 23 Apr 2026 07:00:00 GMT
+
+3. Arduino UNO用のLinux風のOS - Hackster.io
+   原題: A Linux-Like OS for the Arduino UNO - Hackster.io
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 24 Apr 2026 00:40:54 GMT
+
+4. クアルコムがArduinoを買収、オープンソースコミュニティは懐疑的 - IEEE Spectrum
+   原題: Qualcomm Buys Arduino, and the Open-Source Community Is Skeptical - IEEE Spectrum
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 18 Oct 2025 07:00:00 GMT
+
+5. クアルコムの買収後、Arduino は次に何が起こるのでしょうか? - EEタイムズ
+   原題: What Comes Next for Arduino after Qualcomm’s Acquisition? - EE Times
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 22 Dec 2025 08:00:00 GMT
