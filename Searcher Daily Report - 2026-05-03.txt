@@ -1,0 +1,96 @@
+Searcher Daily Report
+Generated at: 2026-05-03 08:01:13
+Removed duplicates (today): 0
+Removed duplicates (7 days): 34
+
+[AI]
+1. トランプ大統領、AIが生成したリンカーン記念館の反射プールでくつろぐ奇妙な画像を閣僚らと共有 - Yahoo!ニュース
+   原題: Trump shares bizarre AI-generated image of himself lounging in Lincoln Memorial reflecting pool with Cabinet members - Yahoo
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 02 May 2026 16:55:43 GMT
+
+2. 世論調査：雇用喪失、中国の脅威でトランプ大統領のAI政策をめぐり共和党が分裂 - ポリティコ
+   原題: Poll: Job losses, China threats split GOP on Trump’s AI agenda - Politico
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 02 May 2026 11:00:00 GMT
+
+3. トランプ大統領の関税に好意的なホワイトハウス、これらの輸入品を祝う - ワシントン・ポスト
+   原題: Trump’s tariff-friendly White House celebrates these imports - The Washington Post
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 02 May 2026 16:00:46 GMT
+
+4. AI が Big Law の人材パイプラインを脅かす - Axios
+   原題: AI threatens Big Law's talent pipeline - Axios
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 02 May 2026 10:05:36 GMT
+
+5. AIの熱狂で供給枯渇を受け、Apple、Mac Miniの開始価格を799ドルに値上げ - Fortune
+   原題: Apple raises Mac Mini’s starting price to $799 after AI frenzy drains supply - Fortune
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 02 May 2026 22:22:00 GMT
+
+
+[CarPlay]
+1. xAI が Apple CarPlay に Grok Voice モードを導入 - 9to5Mac
+   原題: xAI is bringing Grok Voice mode to Apple CarPlay - 9to5Mac
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 02 May 2026 18:24:00 GMT
+
+2. 後部座席の赤ちゃんを見守る賢い方法 - WIRED.jp
+   原題: A Smarter Way to Watch Baby in Your Back Seat - WIRED
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 02 May 2026 10:08:00 GMT
+
+3. 2026 年 4 月に Apple CarPlay に追加された 5 つの新機能 - bgr.com
+   原題: 5 New Features Added To Apple CarPlay In April 2026 - bgr.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 23 Apr 2026 07:00:00 GMT
+
+4. Android Auto がまだ待機中、Apple CarPlay の Google Meet が登場 - ガジェットハック
+   原題: Google Meet on Apple CarPlay Arrives as Android Auto Still Waits - Gadget Hacks
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 29 Apr 2026 07:00:00 GMT
+
+
+[Android Auto]
+1. Android Auto で Gemini を使用する 5 つの賢い方法 - bgr.com
+   原題: 5 Clever Ways To Use Gemini On Android Auto - bgr.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 02 May 2026 11:47:00 GMT
+
+2. Google マップは、350 以上の Android Auto EV モデルのバッテリー予測と旅行計画を簡素化します。 - blog.google
+   原題: Google Maps simplifies battery predictions and trip planning for 350+ Android Auto EV models. - blog.google
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 30 Mar 2026 07:00:00 GMT
+
+3. 私の Android Auto のお気に入りは、高度にカスタマイズ可能なこれらの隠しショートカットです - ZDNET
+   原題: My favorite Android Auto find is these hidden shortcuts that are highly customizable - ZDNET
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 10 Apr 2026 07:00:00 GMT
+
+4. Gemini が 5 つのユースケースで Android Auto を強化 - Let's Data Science
+   原題: Gemini Enhances Android Auto With Five Use Cases - Let's Data Science
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 02 May 2026 11:47:00 GMT
+
+
+[Arduino]
+1. TFTGraph、TFT ディスプレイ用のデータ視覚化 Arduino ライブラリ - Adafruit
+   原題: TFTGraph, a data visualizing Arduino library for TFT displays - Adafruit
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 21 Apr 2026 20:37:05 GMT
+
+2. Arduino と Qualcomm が Hackster の 2026 年最初の開発者コンテストを開始 300 台の Arduino UNO Q ボードとエッジ AI イノベーションを紹介する機会で世界大会が開幕 - Yahoo Finance
+   原題: Arduino and Qualcomm Launch Hackster's First Developer Contest of 2026 Global Competition Kicks Off With 300 Arduino UNO Q Boards and Opportunities to Showcase Edge AI Innovation - Yahoo Finance
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 03 Mar 2026 08:00:00 GMT
+
+3. Linux の Arduino Uno Q でゲーム - ハッカデイ
+   原題: Gaming On An Arduino Uno Q In Linux - Hackaday
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 10 Feb 2026 08:00:00 GMT
+
+4. Shawn Hymel の CLI ガイドが Arduino UNO Q ユーザーを「かなり制限のある」アプリ ラボから解放 - Hackster.io
+   原題: Shawn Hymel's CLI Guide Frees Arduino UNO Q Users From the "Quite Limiting" App Lab - Hackster.io
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 27 Nov 2025 13:58:00 GMT
