@@ -1,0 +1,96 @@
+Searcher Daily Report
+Generated at: 2026-05-04 08:00:50
+Removed duplicates (today): 0
+Removed duplicates (7 days): 33
+
+[AI]
+1. AIはユーザーに自分は知覚力があると告げ、妄想を引き起こす - BBC
+   原題: AI told users it was sentient - it caused them to have delusions - BBC
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 03 May 2026 01:48:55 GMT
+
+2. 意見 |なぜA.I.雇用の黙示録は（おそらく）起こらない - ニューヨーク・タイムズ
+   原題: Opinion | Why the A.I. Job Apocalypse (Probably) Won’t Happen - The New York Times
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 03 May 2026 10:00:24 GMT
+
+3. 世論調査：中間選挙の新たな大物たちが、有権者が全面的に支持していない議題を推進している - ポリティコ
+   原題: Poll: The midterms' new big players are pushing agendas that voters don’t fully support - Politico
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 03 May 2026 11:00:00 GMT
+
+4. 視聴者がAIの仕業だと思っていた「プラダを着た悪魔2」ミームは、実は人間によって作られたものだった - NBCニュース
+   原題: A 'Devil Wears Prada 2' meme that viewers thought was AI slop was actually made by a human - NBC News
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 03 May 2026 22:04:46 GMT
+
+5. 中国裁判所、AI排除は解雇の言い訳にならないと判決 - Yahoo!ニュース
+   原題: Chinese court says AI displacement is no excuse for firings - Yahoo
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 03 May 2026 22:14:01 GMT
+
+
+[CarPlay]
+1. ChatGPT と Perplexity AI を CarPlay 音声アシスタントとしてテストしました - どちらも Siri の見た目を悪くしました - ZDNET
+   原題: I tested ChatGPT and Perplexity AI as my CarPlay voice assistants - both made Siri look bad - ZDNET
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 03 May 2026 17:00:00 GMT
+
+2. Grok が CarPlay ダッシュボードで ChatGPT と Perplexity に参加しようとしています - デジタル トレンド
+   原題: Grok is about to join ChatGPT and Perplexity on your CarPlay dashboard - Digital Trends
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 03 May 2026 17:31:06 GMT
+
+3. ChatGPT が Apple CarPlay に登場しますが、ロボットと会話したい場合に限ります - TechRadar
+   原題: ChatGPT comes to Apple CarPlay but only if you are willing to talk to a robot - TechRadar
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 01 Apr 2026 07:00:00 GMT
+
+4. 2027年型ボルトEVはゴーカートのようにハンドル、価格は2万9000ドル、CarPlayを廃止 - Torque News
+   原題: 2027 Bolt EV Handles Like A Go-Kart, Starts At $29K, And Ditches CarPlay - Torque News
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 03 May 2026 10:04:30 GMT
+
+5. イーロン・マスク氏のxAI、まもなくGrok VoiceモードをApple CarPlayに導入へ - The Times of India
+   原題: Elon Musk’s xAI to soon bring Grok Voice mode to Apple CarPlay - The Times of India
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 03 May 2026 05:32:00 GMT
+
+
+[Android Auto]
+1. Android Auto にもう一度挑戦してみました。最後に使用してから改善された 5 つの方法を紹介します - How-To Geek
+   原題: I gave Android Auto another shot—here are 5 ways it's improved since I last used it - How-To Geek
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 03 May 2026 15:30:17 GMT
+
+2. Android Auto で Google マップの使用をやめ、実際に機能するアプリに切り替えました - MakeUseOf
+   原題: I stopped using Google Maps on Android Auto and switched to an app that actually works - MakeUseOf
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 03 May 2026 20:00:18 GMT
+
+3. すべての Android Auto ユーザーが知っておくべき 10 のハック - ライフハッカー
+   原題: 10 Hacks Every Android Auto User Should Know - Lifehacker
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 22 Apr 2026 21:39:57 GMT
+
+4. この非表示の Android Auto 設定により、接続遅延がついに解決されました - Android Police
+   原題: This hidden Android Auto setting finally fixed my connection lag - Android Police
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 22 Apr 2026 07:00:00 GMT
+
+
+[Arduino]
+1. Arduino "Andy" Ceccacci の訃報 - Bagnasco & Calcaterra Funeral Home
+   原題: Obituary information for Arduino "Andy" Ceccacci - Bagnasco & Calcaterra Funeral Home
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 02 Feb 2026 08:00:00 GMT
+
+2. LCD 2004 イエロー シリアル IIC I2C TWI 20x4 LCD2004 モジュール表示画面 Arduino EB - portalcantagalo.com.br
+   原題: LCD 2004 Yellow Serial IIC I2C TWI 20x4 LCD2004 Module Display Screen Arduino EB - portalcantagalo.com.br
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 03 May 2026 16:58:02 GMT
+
+3. Qualcomm は Arduino を永久に抹殺したのでしょうか? - アダフルーツ
+   原題: Did Qualcomm kill Arduino for good? - Adafruit
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 21 Nov 2025 08:00:00 GMT
