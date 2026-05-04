@@ -1,0 +1,106 @@
+Searcher Daily Report
+Generated at: 2026-05-05 08:01:08
+Removed duplicates (today): 2
+Removed duplicates (7 days): 25
+
+[AI]
+1. ホワイトハウス、AIの精査を検討発売前のモデル - ニューヨーク・タイムズ
+   原題: White House Considers Vetting A.I. Models Before They Are Released - The New York Times
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 04 May 2026 19:02:35 GMT
+
+2. OpenAI が低遅延の音声 AI を大規模に実現する方法 - OpenAI
+   原題: How OpenAI delivers low-latency voice AI at scale - OpenAI
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 04 May 2026 18:53:18 GMT
+
+3. アンディ・ジャシー氏、アマゾンの投資家はAIへの投資すべてで報われると語る - CNBC
+   原題: Andy Jassy says Amazon investors will be rewarded by all its AI spending - CNBC
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 04 May 2026 22:49:28 GMT
+
+4. オーバーン市議会、AI搭載監視カメラへの予算削減の是非を投票へ - WGME
+   原題: Auburn City Council to vote on whether to cut funding for AI-powered surveillance cameras - WGME
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 04 May 2026 22:51:54 GMT
+
+5. PalantirのCTO、顧客はこれまで以上に多くのトークンを使い果たしていると語る Business Insider Japan
+   原題: Palantir's CTO says clients are burning through more tokens than ever - Business Insider
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 04 May 2026 22:35:36 GMT
+
+
+[CarPlay]
+1. Apple CarPlay に 3 つ目の AI チャットボット アプリが追加 - 9to5Mac
+   原題: Apple CarPlay is gaining a third AI chatbot app - 9to5Mac
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 02 May 2026 18:24:00 GMT
+
+2. Android Auto だけではありません: 最新の iOS アップデートにより CarPlay がダウンします - autoevolution
+   原題: It's Not Just Android Auto: Latest iOS Update Breaks Down CarPlay - autoevolution
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 04 May 2026 09:38:14 GMT
+
+3. CarPlay は、最近の 3 つのエキサイティングなアプリのアップデートでさらに良くなりました - 9to5Mac
+   原題: CarPlay just got even better with three exciting recent app updates - 9to5Mac
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 21 Apr 2026 07:00:00 GMT
+
+4. Apple によると、CarPlay Ultra がこれらの車に搭載されると発表 - 9to5Mac
+   原題: CarPlay Ultra coming to these cars, according to Apple - 9to5Mac
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 04 May 2026 12:50:00 GMT
+
+5. Grok Voice モードが Apple CarPlay に登場—安全規則は本当の話 - ガジェットハック
+   原題: Grok Voice Mode Comes to Apple CarPlay—Safety Rules Are the Real Story - Gadget Hacks
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 04 May 2026 17:10:56 GMT
+
+
+[Android Auto]
+1. 別の失敗したアップデート: 主要な Android Auto Navigation オプションが謎に壊れている - autoevolution
+   原題: Another Botched Update: Key Android Auto Navigation Option Mysteriously Broken - autoevolution
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 03 May 2026 09:27:22 GMT
+
+2. 公式：Android Auto、何百万ものドライバーを激怒させた10年来のバグをついに修正 - Talk Android
+   原題: It’s official: Android Auto finally fixes a decade-old bug that infuriated millions of drivers - Talk Android
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 04 May 2026 15:00:00 GMT
+
+3. Android Auto の遅延を修正しましたが、原因は恥ずかしいほど単純でした - MakeUseOf
+   原題: I fixed my Android Auto lag and the cause was embarrassingly simple - MakeUseOf
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 04 May 2026 19:30:19 GMT
+
+4. すぐにサインアップしてください — Android Auto ダッシュボードを刷新するウィジェットが登場します - TechRadar
+   原題: Sign me up for this immediately — widgets are coming to revamp your Android Auto dashboard - TechRadar
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 04 May 2026 11:00:31 GMT
+
+
+[Arduino]
+1. マイクロコントローラー用のポスト量子暗号化ツールキット - Adafruit
+   原題: A post-quantum cryptography toolkit for microcontrollers - Adafruit
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 04 May 2026 21:06:59 GMT
+
+2. Arduino と Qualcomm が Hackster の 2026 年最初の開発者コンテストを開始 世界的なコンテストが 300 台の Arduino UNO Q ボードとエッジ AI イノベーションを紹介する機会で開幕 - PR Newswire
+   原題: Arduino and Qualcomm Launch Hackster's First Developer Contest of 2026 Global Competition Kicks Off With 300 Arduino UNO Q Boards and Opportunities to Showcase Edge AI Innovation - PR Newswire
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 04 Mar 2026 08:00:00 GMT
+
+3. 5 個 Hc-Sr04 距離測定モジュール Hcsr04 距離センサー - 新しい 3 - portalcantagalo.com.br
+   原題: 5Pcs Hc-Sr04 Distance Measurement Module Hcsr04 Distance Sensor--New 3 - portalcantagalo.com.br
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 04 May 2026 19:54:32 GMT
+
+4. KernelUNO – Linux のようなシェルを備えた Arduino UNO 用の軽量 OS - CNX ソフトウェア
+   原題: KernelUNO – A lightweight OS for Arduino UNO with a Linux-like shell - CNX Software
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 27 Apr 2026 02:47:11 GMT
+
+5. Arduino VENTUNO Q と AI プロトタイピングが組み込みワールド 2026 で... - eeNews Europe
+   原題: Arduino VENTUNO Q and AI Prototyping at embedded world 2026 ... - eeNews Europe
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 27 Mar 2026 07:00:00 GMT
