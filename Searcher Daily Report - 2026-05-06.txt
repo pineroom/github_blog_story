@@ -1,0 +1,106 @@
+Searcher Daily Report
+Generated at: 2026-05-06 08:01:39
+Removed duplicates (today): 2
+Removed duplicates (7 days): 24
+
+[AI]
+1. 議会は潜在的な AI への準備にほとんど取り組んでいない失業 - ニューヨーク・タイムズ
+   原題: Congress Is Doing Little to Prepare for Potential A.I. Job Losses - The New York Times
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 05 May 2026 14:27:05 GMT
+
+2. リチャード・ドーキンス、AIはたとえそれを知らなくても意識があると結論付ける - ガーディアン
+   原題: Richard Dawkins concludes AI is conscious, even if it doesn’t know it - The Guardian
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 05 May 2026 18:48:00 GMT
+
+3. ジム・クレイマー氏: 2026 年以降に購入すべき AI 勝者のリストは次のとおりです - CNBC
+   原題: Jim Cramer: Here's the list of AI winners to buy for 2026 and beyond - CNBC
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 05 May 2026 22:29:17 GMT
+
+4. コロラド州の新しい AI 法案が主要企業からの支持を獲得 - Axios
+   原題: Colorado's new AI bill wins support from key players - Axios
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 05 May 2026 22:46:51 GMT
+
+5. ケイティ・ウィルソン市長、市職員のAI使用制限を解除 - シアトル・タイムズ
+   原題: Mayor Katie Wilson lifts restrictions on city employees’ AI use - The Seattle Times
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 05 May 2026 22:53:30 GMT
+
+
+[CarPlay]
+1. キャデラック リリック、GM が他の EV から Android Auto と Apple CarPlay を廃止 - Autoblog
+   原題: Cadillac Lyriq Keeps Android Auto and Apple CarPlay as GM Drops It From Other EVs - Autoblog
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 05 May 2026 15:15:00 GMT
+
+2. Android Auto がついにホーム画面ウィジェットを搭載、これは CarPlay が長年備えてきた機能です - XDA
+   原題: Android Auto is finally getting home screen widgets, a feature CarPlay has had for years - XDA
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 05 May 2026 17:58:51 GMT
+
+3. iOS 26.4 では CarPlay に 2 つの新機能が追加され、さらに大きな機能が追加される - 9to5Mac
+   原題: iOS 26.4 gave CarPlay two new features, with another big one coming - 9to5Mac
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 28 Apr 2026 20:11:00 GMT
+
+4. Apple Sports が CarPlay で動作するようになりました。セットアップ方法は次のとおりです - 9to5Mac
+   原題: Apple Sports now works with CarPlay, here’s how to set up - 9to5Mac
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 20 Apr 2026 07:00:00 GMT
+
+5. Volvo S60 Recharge を 1 週間運転しました - ソフトウェアが重要である理由の完璧な例です - Tom's Guide
+   原題: I drove the Volvo S60 Recharge for a week — and it’s the perfect example of why software matters - Tom's Guide
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 05 May 2026 13:44:39 GMT
+
+
+[Android Auto]
+1. もっと早く知っておきたかった 3 つの Android Auto の隠れた機能 - XDA
+   原題: 3 hidden Android Auto features I wish I knew about earlier - XDA
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 05 May 2026 15:33:22 GMT
+
+2. Google マップのトップライバルが Android Auto を超えて拡大: Magic Earth が AAOS バージョンを発表 - autoevolution
+   原題: Top Google Maps Rival Expands Beyond Android Auto: Magic Earth Announces AAOS Version - autoevolution
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 05 May 2026 08:44:48 GMT
+
+3. Android Auto の 1 つの設定をオンにしたら、それなしでは運転できなくなりました - MakeUseOf
+   原題: I turned on one setting in Android Auto and now I won't drive without it - MakeUseOf
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 05 May 2026 18:00:19 GMT
+
+4. Android Auto で Gemini を使用する 5 つの賢い方法 - Yahoo Autos
+   原題: 5 Clever Ways To Use Gemini On Android Auto - Yahoo Autos
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 02 May 2026 11:47:00 GMT
+
+
+[Arduino]
+1. Arduino を Wi-Fi に接続する方法 - レッスン #23 - Hackster.io
+   原題: How to Connect Arduino to Wi-Fi - Lesson #23 - Hackster.io
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 05 May 2026 17:33:05 GMT
+
+2. rp2040js は、CircuitPython、Arduino、MicroPython を実行する Wokwi シミュレーション プラットフォーム用の Raspberry Pi Pico エミュレーターです - Adafruit
+   原題: rp2040js is a Raspberry Pi Pico Emulator for the Wokwi Simulation Platform which runs CircuitPython, Arduino and MicroPython - Adafruit
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 05 May 2026 19:16:45 GMT
+
+3. 1.05 インチ TFT LCD スクリーン - 解像度 120x240、GC9A01 ドライバー、SPI インターフェース - kliksolonews.com
+   原題: 1.05 Inch TFT LCD Screen - 120x240 Resolution, GC9A01 Driver, SPI Interface - kliksolonews.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 05 May 2026 15:02:39 GMT
+
+4. Arduino プロジェクトが高度なマルチセンサー統合で限界を押し上げる - MSN
+   原題: Arduino projects push limits with advanced multi-sensor integration - MSN
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 29 Apr 2026 16:29:33 GMT
+
+5. Atmega328p-PU Atmega328p Pdip-28 8 ビット シングルチップ マイクロコントローラー - portalcantagalo.com.br
+   原題: Atmega328p-PU Atmega328p Pdip-28 8-Bit Microcontroller Single-Chip - portalcantagalo.com.br
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 05 May 2026 22:08:35 GMT
