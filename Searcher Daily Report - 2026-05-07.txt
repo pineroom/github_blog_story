@@ -1,0 +1,101 @@
+Searcher Daily Report
+Generated at: 2026-05-07 08:01:04
+Removed duplicates (today): 2
+Removed duplicates (7 days): 31
+
+[AI]
+1. Nvidia、AIに特化した3つの新規工場との大規模な光ファイバー取引の一環として、コーニングに最大32億ドル投資 - CNBC
+   原題: Nvidia to invest up to $3.2 billion in Corning as part of massive optical fiber deal with 3 new factories focused on AI - CNBC
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 06 May 2026 11:30:01 GMT
+
+2. AI チャットボット Grok の作成者 - xAI
+   原題: Creators of Grok, the AI Chatbot - xAI
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 06 May 2026 16:17:13 GMT
+
+3. Anthropic、SpaceXのColossusデータセンターのすべてのAI能力をレンタルへ - Yahoo Finance
+   原題: Anthropic to rent all AI capacity at SpaceX's Colossus data center - Yahoo Finance
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 06 May 2026 18:03:27 GMT
+
+4. クロードの使用制限の引き上げとSpaceXとのコンピューティング契約 - Anthropic
+   原題: Higher usage limits for Claude and a compute deal with SpaceX - Anthropic
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 06 May 2026 16:20:59 GMT
+
+5. AIモデル、取引コンテストで損失 - Bloomberg.com
+   原題: AI Models Lose Money in Trading Contests - Bloomberg.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 06 May 2026 22:41:33 GMT
+
+
+[CarPlay]
+1. iOS 26のCarPlayはビデオ再生機能を約束、最新情報はこちら - 9to5Mac
+   原題: CarPlay in iOS 26 promises video playback feature, here’s the latest - 9to5Mac
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 06 May 2026 15:00:00 GMT
+
+2. 4 つの人気の iPhone アプリが CarPlay で利用可能に - MacRumors
+   原題: Four Popular iPhone Apps Now Available on CarPlay - MacRumors
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 06 May 2026 21:06:18 GMT
+
+3. GoogleはCarPlayの数日後にAndroid AutoダッシュボードにMeetを導入 - Android Authority
+   原題: Google is putting Meet in your Android Auto dashboard just days after CarPlay - Android Authority
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 13 Apr 2026 07:00:00 GMT
+
+4. CarPlay Ultra が近日公開: 実際に次世代 CarPlay を提供しているのはどのブランドですか? - Yahoo自動車
+   原題: CarPlay Ultra Coming Soon: Which Brands Are Actually Giving You the Next-Gen CarPlay? - Yahoo Autos
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 06 May 2026 14:45:06 GMT
+
+
+[Android Auto]
+1. 再設計された Android Auto インターフェイスを試してみましたが、実際に良くなりました - MakeUseOf
+   原題: I tried the redesigned Android Auto interface and it's actually good now - MakeUseOf
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 05 May 2026 14:00:18 GMT
+
+2. Android Auto が約 10 年ぶりにホーム画面ウィジェットをついに導入 - MakeUseOf
+   原題: Android Auto is finally getting home screen widgets after nearly a decade - MakeUseOf
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 04 May 2026 21:46:45 GMT
+
+3. 有線の Android Auto に戻して、接続の切断についてまったく心配しなくなりました - MakeUseOf
+   原題: I switched back to wired Android Auto and stopped worrying about connection drops entirely - MakeUseOf
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 06 May 2026 22:00:19 GMT
+
+4. Android Auto は 10 年前にユーザーが最初に求めていた機能を実現します - autoevolution
+   原題: Android Auto Is Getting the Feature Users First Asked for 10 Years Ago - autoevolution
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 02 May 2026 07:13:01 GMT
+
+5. Android Auto についにウィジェットが追加 - BetaNews
+   原題: Android Auto is finally getting widgets - BetaNews
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 06 May 2026 12:19:45 GMT
+
+
+[Arduino]
+1. EByte E22-T シリーズ LoRa モジュール用の Arduino ライブラリ - Adafruit
+   原題: An Arduino library for the EByte E22-T series LoRa modules - Adafruit
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 06 May 2026 18:58:26 GMT
+
+2. Cassagotchi は 3D プリント可能な、Arduino ナノパワーを搭載した自分で作れるたまごっちクローンです - Hackster.io
+   原題: The Cassagotchi Is a 3D-Printable, Arduino Nano-Powered Tamagotchi Clone You Can Build Yourself - Hackster.io
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 06 May 2026 03:41:48 GMT
+
+3. おやつで支払う猫用スロットマシン - Hackster.io
+   原題: A Slot Machine for Cats That Pays Out in Treats - Hackster.io
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 06 May 2026 05:48:55 GMT
+
+4. Arduino、ロボット工学などのための高性能 SBC VENTUNO Q で 21 周年を祝う - Hackster.io
+   原題: Arduino Celebrates Turning 21 with the VENTUNO Q, a High-Performance SBC for Robotics and More - Hackster.io
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 09 Mar 2026 11:55:19 GMT
