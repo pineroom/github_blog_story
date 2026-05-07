@@ -1,0 +1,86 @@
+Searcher Daily Report
+Generated at: 2026-05-08 08:00:57
+Removed duplicates (today): 2
+Removed duplicates (7 days): 33
+
+[AI]
+1. フランスはFIFAワールドカップでファンのお気に入りだが、AIは栄光を求めて別の国を支援しているとBofAが語る - CNBC
+   原題: France is fan favorite for the FIFA World Cup — but AI is backing another nation for glory, says BofA - CNBC
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 07 May 2026 14:27:39 GMT
+
+2. AI を理解するための秘密 - The Atlantic
+   原題: The Secret to Understanding AI - The Atlantic
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 07 May 2026 14:52:31 GMT
+
+3. 看護調査、ケアの質、安全性、AI の懸念を示す - ボストン・グローブ
+   原題: Nursing survey flags care quality, safety, AI concerns - The Boston Globe
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 07 May 2026 22:15:25 GMT
+
+4. NVIDIA と IREN、最大 5 ギガワットの AI インフラストラクチャの導入を加速する戦略的パートナーシップを発表 - NVIDIA ニュースルーム
+   原題: NVIDIA and IREN Announce Strategic Partnership to Accelerate Deployment of up to 5 Gigawatts of AI Infrastructure - NVIDIA Newsroom
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 07 May 2026 20:37:36 GMT
+
+5. NvidiaとのAIインフラストラクチャ契約でIREN株が13%急上昇 - CNBC
+   原題: IREN shares pop 13% on AI infrastructure deal with Nvidia - CNBC
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 07 May 2026 21:28:19 GMT
+
+
+[CarPlay]
+1. Apple CarPlay のことは忘れてください — 私は Volvo S60 Recharge を 1 週間運転しましたが、Google を活用した新しいインターフェースは非常に優れており、まったく見逃せませんでした - Yahoo Autos
+   原題: Forget Apple CarPlay — I spent a week driving the Volvo S60 Recharge and its new Google-powered interface is so good that I didn't miss it at all - Yahoo Autos
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 05 May 2026 13:44:39 GMT
+
+2. Apple CarPlay Ultra について知っておくべきことすべて - Man of Many
+   原題: Everything You Need to Know About Apple CarPlay Ultra - Man of Many
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 04 May 2026 07:00:00 GMT
+
+3. CarPlay Ultra の説明: Apple の次世代車内体験 - zeera Wireless
+   原題: CarPlay Ultra Explained: Apple’s Next-Generation In-Car Experience - zeera wireless
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 07 May 2026 17:02:01 GMT
+
+
+[Android Auto]
+1. Android Auto ベータ版が突然再びオープンしましたが、急いでください - Android Authority
+   原題: Android Auto beta is suddenly open again, but you'll need to be quick - Android Authority
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 07 May 2026 03:48:32 GMT
+
+2. Android Auto で Gemini を使用する 5 つの賢い方法 - AOL.com
+   原題: 5 Clever Ways To Use Gemini On Android Auto - AOL.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 07 May 2026 21:30:30 GMT
+
+3. 新しい Android Auto アップデートがすべてのユーザーに利用可能になり、新しい大きな機能が間もなく登場します - autoevolution
+   原題: New Android Auto Update Now Available for All Users, a New Big Feature Is Almost Here - autoevolution
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 07 May 2026 03:52:40 GMT
+
+4. 私は何年も Android Auto を使用してきましたが、これら 5 つの変更により最大の問題が解決されました - ZDNET
+   原題: I've used Android Auto for years, and these 5 changes solved my biggest issues - ZDNET
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 29 Apr 2026 07:00:00 GMT
+
+
+[Arduino]
+1. Arduino FORTUNA - ウィンザー・スターの訃報
+   原題: Arduino FORTUNA - Windsor Star Obituaries
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 07 May 2026 09:50:56 GMT
+
+2. Arduino 用 5V 10A チャンネル リレー Odule シールド、42% オフ - portalcantagalo.com.br
+   原題: 5V 10A Channel Relay Odule Shield For Arduino And, 42% OFF - portalcantagalo.com.br
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 07 May 2026 20:15:25 GMT
+
+3. ESP32-P4 LP (低電力) コア用のオープンソース Arduino ライブラリ - Adafruit
+   原題: An open source Arduino library for the ESP32-P4 LP (Low Power) core - Adafruit
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 20 Apr 2026 16:18:54 GMT
