@@ -1,0 +1,106 @@
+Searcher Daily Report
+Generated at: 2026-05-09 08:01:13
+Removed duplicates (today): 0
+Removed duplicates (7 days): 25
+
+[AI]
+1. メタによる AI の抱擁従業員を悲惨な状況にしている - ニューヨーク・タイムズ
+   原題: Meta’s Embrace of A.I. Is Making Its Employees Miserable - The New York Times
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 08 May 2026 14:18:51 GMT
+
+2. この新たな AI 取引により、Nvidia と Micron は劣勢に陥る - Yahoo Finance
+   原題: This new AI trade is leaving Nvidia and Micron in the dust - Yahoo Finance
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 08 May 2026 20:42:50 GMT
+
+3. Nvidia CEO、コーニングとの AI パートナーシップが「アメリカの製造業を活性化する」と語る - CNBC
+   原題: Nvidia CEO says AI partnership with Corning will 'revitalize American manufacturing' - CNBC
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 07 May 2026 22:49:28 GMT
+
+4. Nvidia (NVDA) のことは忘れて、代わりにこの「Agentic AI」の勝者に注目してください - TipRanks
+   原題: Forget Nvidia (NVDA), Focus on This “Agentic AI” Winner Instead - TipRanks
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 08 May 2026 21:49:43 GMT
+
+5. ホワイトハウス、墓にあるトランプ大統領のAI画像を投稿したマーク・ハミル氏を「病気」と非難 - ガーディアン紙
+   原題: White House calls Mark Hamill ‘sick’ for posting AI image of Trump in a grave - The Guardian
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 08 May 2026 14:04:00 GMT
+
+
+[CarPlay]
+1. Grok の音声モードが Apple CarPlay に登場 - Mashable
+   原題: Grok's voice mode comes to Apple CarPlay - Mashable
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 08 May 2026 22:18:45 GMT
+
+2. CarPlay がこれら 3 つのトップ AI チャットボット アプリと連携できるようになりました - 9to5Mac
+   原題: CarPlay now works with these three top AI chatbot apps - 9to5Mac
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 08 May 2026 13:11:00 GMT
+
+3. Apple CarPlay に 3 つ目の AI チャットボットが登場 - MacRumors
+   原題: Apple CarPlay Just Got a Third AI Chatbot - MacRumors
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 08 May 2026 19:42:00 GMT
+
+4. 車の中で大声で話す AI との会話を楽しむために、Grok Voice モードがついに CarPlay に登場 - デジタル トレンド
+   原題: Grok Voice Mode finally arrives on CarPlay, in case you enjoy talking to a loud-mouth AI in your car - Digital Trends
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 08 May 2026 19:26:46 GMT
+
+5. Grok AI 音声モードが Apple CarPlay に登場 - MacRumors
+   原題: Grok AI Voice Mode Arrives on Apple CarPlay - MacRumors
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 08 May 2026 12:41:13 GMT
+
+
+[Android Auto]
+1. Android Auto アプリのウィジェットはモバイル設定を反映、リリースが近づくとリークが判明 - 9to5Google
+   原題: Android Auto app widgets mirror mobile setup, leak shows as release nears - 9to5Google
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 01 May 2026 14:22:00 GMT
+
+2. YouTube が Android Auto で利用できるようになりましたが、落とし穴があります - Android Police
+   原題: YouTube is now available on Android Auto, but there is a catch - Android Police
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 30 Mar 2026 07:00:00 GMT
+
+3. 試してみるまでは、Android Auto での Gemini に興奮していました - はるかに優れている可能性があります - 9to5Google
+   原題: I was excited for Gemini on Android Auto, until I tried it — it could be much better - 9to5Google
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 22 Apr 2026 07:00:00 GMT
+
+4. 4 より多くのドライバーが変更すべき Android Auto 設定 - Pocket-lint
+   原題: 4 Android Auto settings more drivers should change - Pocket-lint
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 22 Apr 2026 07:00:00 GMT
+
+
+[Arduino]
+1. ROBO CORE+ は単なる Arduino クローンではありません - Hackster.io
+   原題: ROBO CORE+ Isn't Just Another Arduino Clone - Hackster.io
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 08 May 2026 16:59:48 GMT
+
+2. 8歳の息子のためにArduinoテニススコアカウンターを作りました - HackerNoon
+   原題: I Built an Arduino Tennis Score Counter for My 8-Year-Old - HackerNoon
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 08 May 2026 01:03:28 GMT
+
+3. KernelUNO、Arduino Uno 用 OS - ハッカデイ
+   原題: KernelUNO, An OS For The Arduino Uno - Hackaday
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 23 Apr 2026 07:00:00 GMT
+
+4. ステッピング モーター ドライブ ボード ロボット カー ギア モーターとタイヤ ホイール キット Arduino DIY STEM プロジェクト カー キット用 - portalcantagalo.com.br
+   原題: Stepper Motor Drive Board Robotic Car Gear Motor And Tire Wheel Kit For Arduino DIY STEM Project Car Kit - portalcantagalo.com.br
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 08 May 2026 17:10:11 GMT
+
+5. クアルコムがArduinoを買収、オープンソースコミュニティは懐疑的 - IEEE Spectrum
+   原題: Qualcomm Buys Arduino, and the Open-Source Community Is Skeptical - IEEE Spectrum
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 18 Oct 2025 13:12:36 GMT
