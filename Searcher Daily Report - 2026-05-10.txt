@@ -1,0 +1,91 @@
+Searcher Daily Report
+Generated at: 2026-05-10 08:01:07
+Removed duplicates (today): 0
+Removed duplicates (7 days): 34
+
+[AI]
+1. それらすべての A.I.メモを取る人?彼らは弁護士を非常に緊張させています。 - ニューヨーク・タイムズ紙
+   原題: All Those A.I. Note Takers? They’re Making Lawyers Very Nervous. - The New York Times
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 09 May 2026 12:00:03 GMT
+
+2. ケビン・オリアリー氏が支援する大規模AIデータセンタープロジェクトにユタ州住民が抗議する理由 - CNN
+   原題: Why Utah residents are protesting a massive AI data center project backed by Kevin O’Leary - CNN
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 09 May 2026 07:00:51 GMT
+
+3. 1株あたり1,500ドルのサンディスク株のことは忘れてください。代わりに、この話題の人工知能 (AI) メモリ ETF を購入してください。 - Yahooファイナンス
+   原題: Forget Sandisk Stock at $1,500 Per Share. Buy This Sizzling Artificial Intelligence (AI) Memory ETF Instead. - Yahoo Finance
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 09 May 2026 21:35:00 GMT
+
+4. ノースカロライナ州立大学卒業生、AI の影響がますます高まる就職市場への参入を準備 - WRAL
+   原題: NC State graduates prepare to enter job market increasingly impacted by AI - WRAL
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 09 May 2026 22:40:46 GMT
+
+5. これらの AI 用語を聞いて、うなずいたことがあるでしょう。それを修正しましょう - TechCrunch
+   原題: So you’ve heard these AI terms and nodded along; let’s fix that - TechCrunch
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 09 May 2026 21:45:00 GMT
+
+
+[CarPlay]
+1. Grok が CarPlay の ChatGPT と Perplexity に参加 - ArenaEV - ArenaEV
+   原題: Grok joins ChatGPT and Perplexity on CarPlay - ArenaEV - ArenaEV
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 09 May 2026 00:02:01 GMT
+
+2. Grok チャットボットが音声モードで Apple CarPlay に登場、ChatGPT と Perplexity に参加 - ACKO Drive
+   原題: Grok Chatbot Comes to Apple CarPlay With Voice Mode, Joining ChatGPT and Perplexity - ACKO Drive
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 09 May 2026 14:32:19 GMT
+
+3. すべての Apple CarPlay ユーザーが知っておくべき 10 のハック - ライフハッカー
+   原題: 10 Hacks Every Apple CarPlay User Should Know - Lifehacker
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 21 Apr 2026 07:00:00 GMT
+
+
+[Android Auto]
+1. Android Auto ベータ プログラムがオープン、より多くのユーザーがリリース前に新機能を試せる - autoevolution
+   原題: Android Auto Beta Program Open, More Users Can Try Out New Features Before Their Release - autoevolution
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 08 May 2026 09:39:05 GMT
+
+2. Android Auto では Google マップをもう使用しません。このナビゲーション アプリが代わりになりました - How-To Geek
+   原題: I don't use Google Maps in Android Auto anymore—this navigation app took its place - How-To Geek
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 09 May 2026 14:00:17 GMT
+
+3. Android Auto ベータ版がまだ公開されている間に参加 (または脱退) する方法 - Android Authority
+   原題: How to join (or leave) the Android Auto beta while it's still open - Android Authority
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 09 May 2026 09:09:52 GMT
+
+4. Android Auto で Gemini をテストしたところ、Gemini との会話が止まらなくなりました: 成功する 5 つのタスク - ZDNET
+   原題: I tested Gemini on Android Auto and now I can't stop talking to it: 5 tasks it nails - ZDNET
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 06 Apr 2026 07:00:00 GMT
+
+5. Android Auto ホーム画面ウィジェットはほぼ起動の準備が整っているようです - Android Authority
+   原題: Android Auto home screen widgets look nearly ready to launch - Android Authority
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 30 Apr 2026 07:00:00 GMT
+
+
+[Arduino]
+1. あなたも、3D プリントされたシェルを使ってこの Arduino Nano たまごっちを構築できます - XDA
+   原題: You, too, can build this Arduino Nano Tamagotchi with a 3D-printed shell - XDA
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 09 May 2026 04:10:33 GMT
+
+2. Arduino アクチュエーター Titri 28BYJ-48 ステッピング モーター - Arduino およびロボティクス プロジェクト用 5V DC 4 相ギア減速モーター ミニ ステッピング モーター - portalcantagalo.com.br
+   原題: Arduino Actuator Titri 28BYJ-48 Stepper Motor - 5V DC 4-Phase Gear Reduction Motor For Arduino & Robotics Projects Mini Stepper Motor - portalcantagalo.com.br
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 09 May 2026 15:59:17 GMT
+
+3. OLEDディスプレイ付きESP32開発ボード - デュアルコア、WiFi/Bluetooth、Arduino IDE互換、Type-C - kliksolonews.com
+   原題: ESP32 Dev Board With OLED Display - Dual Core, WiFi/Bluetooth, Arduino IDE Compatible, Type-C - kliksolonews.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 09 May 2026 05:09:47 GMT
