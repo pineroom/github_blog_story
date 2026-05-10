@@ -1,0 +1,86 @@
+Searcher Daily Report
+Generated at: 2026-05-11 08:01:00
+Removed duplicates (today): 0
+Removed duplicates (7 days): 34
+
+[AI]
+1. ライティングの生徒が AI を使用していることは知っていました。彼らの告白は、力強い教育の瞬間につながりました。ミカ・ネイサン - ガーディアン紙
+   原題: I knew my writing students were using AI. Their confessions led to a powerful teaching moment | Micah Nathan - The Guardian
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 10 May 2026 13:00:00 GMT
+
+2. AI は実際にあなたの仕事を「奪う」わけではありません。代わりに何が起こっているか - CNN
+   原題: AI isn’t actually ‘taking’ your job. Here’s what’s happening instead - CNN
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 10 May 2026 07:00:50 GMT
+
+3. 「Old Woman Naked」はパメラ・レドモンドのA.I.に対する答えです。懸念 - ニューヨーク・タイムズ
+   原題: ‘Old Woman Naked’ is Pamela Redmond’s Answer to A.I. Concerns - The New York Times
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 09 May 2026 12:44:12 GMT
+
+4. OpenAI CEOのサム・アルトマン氏は、Z世代とミレニアル世代はChatGPTを「人生アドバイザー」のように利用しているが、大学生は一歩リードしているかもしれないと語る - Fortune
+   原題: OpenAI CEO Sam Altman says Gen Z and millennials are using ChatGPT like a 'life advisor'—but college students might be one step ahead - Fortune
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 10 May 2026 12:14:00 GMT
+
+5. 市場は「ボトルネックを追いかけるのが好き」：ウォール街はAI株の壮大な値上がりを検討 - Yahoo Finance
+   原題: Markets 'love chasing bottlenecks': Wall Street weighs epic run in AI stocks - Yahoo Finance
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 10 May 2026 10:42:48 GMT
+
+
+[CarPlay]
+1. ChatGPT と Perplexity AI を CarPlay 音声アシスタントとしてテストしました - どちらも Siri の見た目を悪くしました - ZDNET
+   原題: I tested ChatGPT and Perplexity AI as my CarPlay voice assistants - both made Siri look bad - ZDNET
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 03 May 2026 17:00:00 GMT
+
+2. 後部座席の赤ちゃんを見守る賢い方法 - WIRED.jp
+   原題: A Smarter Way to Watch Baby in Your Back Seat - WIRED
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 02 May 2026 07:00:00 GMT
+
+
+[Android Auto]
+1. Android Auto、携帯電話の充電、使用法が時間の経過とともにどのように進化したか - Team-BHP
+   原題: How my Android Auto, phone charging and usage have evolved over time - Team-BHP
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 10 May 2026 13:30:00 GMT
+
+2. アップデートの時期: Android Auto 16.9 がオンラインで発見され、大きな機能が登場 - autoevolution
+   原題: Time To Update: Android Auto 16.9 Spotted Online, Big Features Coming - autoevolution
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 10 May 2026 07:37:47 GMT
+
+3. Google マップは、350 以上の Android Auto EV モデルのバッテリー予測と旅行計画を簡素化します。 - blog.google
+   原題: Google Maps simplifies battery predictions and trip planning for 350+ Android Auto EV models. - blog.google
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 30 Mar 2026 07:00:00 GMT
+
+4. 私のお気に入りの Android Auto は、高度にカスタマイズ可能なこれらの隠しショートカットです - ZDNET
+   原題: My favorite Android Auto find is these hidden shortcuts that are highly customizable - ZDNET
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 10 Apr 2026 07:00:00 GMT
+
+5. この Pixel の安全機能により、運転の安全性が低下しています - Android Authority
+   原題: This Pixel safety feature is making my driving less safe - Android Authority
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 10 May 2026 09:57:33 GMT
+
+
+[Arduino]
+1. 初心者向けの6つの楽しくて簡単なArduinoプロジェクト - SlashGear
+   原題: 6 Fun & Easy Arduino Projects For Beginners - SlashGear
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 07 May 2026 19:42:32 GMT
+
+2. Arduino "Andy" Ceccacci の訃報 - Bagnasco & Calcaterra Funeral Home
+   原題: Obituary information for Arduino "Andy" Ceccacci - Bagnasco & Calcaterra Funeral Home
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 02 Feb 2026 08:00:00 GMT
+
+3. Qualcomm は Arduino を永久に抹殺したのでしょうか? - アダフルーツ
+   原題: Did Qualcomm kill Arduino for good? - Adafruit
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 21 Nov 2025 08:00:00 GMT
