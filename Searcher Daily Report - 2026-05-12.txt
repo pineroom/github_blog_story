@@ -1,0 +1,106 @@
+Searcher Daily Report
+Generated at: 2026-05-12 08:01:14
+Removed duplicates (today): 1
+Removed duplicates (7 days): 29
+
+[AI]
+1. OpenAI、企業がインテリジェンスを中心に構築できるよう支援する OpenAI Deployment Company を立ち上げる - OpenAI
+   原題: OpenAI launches the OpenAI Deployment Company to help businesses build around intelligence - OpenAI
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 11 May 2026 13:04:49 GMT
+
+2. OpenAIの収益責任者ドレッサー氏、エンタープライズAI導入は「転換点にある」と語る - CNBC
+   原題: OpenAI revenue chief Dresser says enterprise AI adoption is 'at a tipping point' - CNBC
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 11 May 2026 19:24:38 GMT
+
+3. ミラ・ムラティ氏の AI 会社が何をしようとしているのか - The Verge
+   原題: Here’s what Mira Murati’s AI company is up to - The Verge
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 11 May 2026 22:19:15 GMT
+
+4. Google、犯罪ハッカーがAIを使用したと発表重大なソフトウェアの欠陥を見つけるには - ニューヨーク・タイムズ
+   原題: Google Says Criminal Hackers Used A.I. to Find a Major Software Flaw - The New York Times
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 11 May 2026 13:00:07 GMT
+
+5. ハッカーはAIを利用してゼロデイ攻撃を構築していた、Google研究者が語る - Bloomberg
+   原題: Hackers Used AI to Build Zero-Day Attack, Google Researchers Say - Bloomberg
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 11 May 2026 13:02:13 GMT
+
+
+[CarPlay]
+1. これらの AI チャットボット アプリ ウィジェットは CarPlay で動作します - 9to5Mac
+   原題: These AI chatbot app widgets work with CarPlay - 9to5Mac
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 11 May 2026 15:04:00 GMT
+
+2. すべてのドライバー向けの CarPlay 音声コマンド トップ 7 - Cult of Mac
+   原題: Top 7 CarPlay voice commands for every driver - Cult of Mac
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 10 Apr 2026 07:00:00 GMT
+
+3. Apple によると、CarPlay Ultra がこれらの車に搭載されると発表 - 9to5Mac
+   原題: CarPlay Ultra coming to these cars, according to Apple - 9to5Mac
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 04 May 2026 12:50:00 GMT
+
+4. クラッチフィールド 5 月のブラック フライデー セールが開催中! CarPlay/Android Auto、Philips Hue、テレビ、その他 - 9to5Toys
+   原題: Crutchfield May Black Friday sale now live! CarPlay/Android Auto, Philips Hue, TVs, more - 9to5Toys
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 11 May 2026 11:23:00 GMT
+
+5. AI チャットボット ウィジェットが CarPlay に音声サポートを追加 - Let's Data Science
+   原題: AI Chatbot Widgets Add Voice Support on CarPlay - Let's Data Science
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 11 May 2026 15:04:14 GMT
+
+
+[Android Auto]
+1. Android Auto には Audible UI の問題がありますが、修正は簡単です - Android Authority
+   原題: Android Auto has an Audible UI problem, but the fix is easy - Android Authority
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 11 May 2026 17:26:15 GMT
+
+2. セール: TCL Android タブレット、Z Fold 7、Android Auto、その他 - 9to5Google
+   原題: Deals: TCL Android tablet, Z Fold 7, Android Auto, more - 9to5Google
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 11 May 2026 15:35:00 GMT
+
+3. Android Auto で車からできるようになった 5 つの奇妙なこと (おそらくやるべきではないにもかかわらず) - How-To Geek
+   原題: 5 weird things Android Auto now lets you do from your car (even though you probably shouldn't) - How-To Geek
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 11 May 2026 15:15:19 GMT
+
+4. 5 月 12 日の Android Show I/O Edition を視聴する方法 - Android Police
+   原題: How to watch The Android Show I/O Edition on May 12 - Android Police
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 11 May 2026 18:46:43 GMT
+
+
+[Arduino]
+1. Visual Studio Code 向けのベンダーに依存しないボード開発 - Adafruit
+   原題: Vendor-independent board development for Visual Studio Code - Adafruit
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 11 May 2026 15:19:45 GMT
+
+2. DigiKey デモ 組み込み世界でのプロトタイピング - Elektor Magazine
+   原題: DigiKey Demos Prototyping at embedded world - Elektor Magazine
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 11 May 2026 09:06:00 GMT
+
+3. CrowView Note 14: Arduino、Raspberry Pi 5、その他多くのデバイス用のラップトップケース付きポータブルディスプレイ - Notebookcheck
+   原題: CrowView Note 14: Portable display with laptop case for Arduino, Raspberry Pi 5 and many other devices - Notebookcheck
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 09 May 2026 14:22:00 GMT
+
+4. Arduino と Qualcomm が Hackster の 2026 年最初の開発者コンテストを開始 世界的なコンテストが 300 台の Arduino UNO Q ボードとエッジ AI イノベーションを紹介する機会で開幕 - PR Newswire
+   原題: Arduino and Qualcomm Launch Hackster's First Developer Contest of 2026 Global Competition Kicks Off With 300 Arduino UNO Q Boards and Opportunities to Showcase Edge AI Innovation - PR Newswire
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 04 Mar 2026 08:00:00 GMT
+
+5. KernelUNO – Linux のようなシェルを備えた Arduino UNO 用の軽量 OS - CNX ソフトウェア
+   原題: KernelUNO – A lightweight OS for Arduino UNO with a Linux-like shell - CNX Software
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 27 Apr 2026 07:00:00 GMT
