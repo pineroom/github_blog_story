@@ -1,0 +1,111 @@
+Searcher Daily Report
+Generated at: 2026-05-13 08:01:08
+Removed duplicates (today): 2
+Removed duplicates (7 days): 19
+
+[AI]
+1. マウス ポインタを再考することで AI インタラクションの未来を形作る - Google DeepMind
+   原題: Shaping the future of AI interaction by reimagining the mouse pointer - Google DeepMind
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 12 May 2026 17:02:51 GMT
+
+2. AI はいかにして 133 年にわたるプリンストンの伝統を破壊したか - The Atlantic
+   原題: How AI Killed a 133-Year-Old Princeton Tradition - The Atlantic
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 12 May 2026 16:32:00 GMT
+
+3. 中国はAIを求めている独立、トランプ大統領の影響力低下 - ニューヨーク・タイムズ
+   原題: China Seeks A.I. Independence, Weakening Trump’s Leverage - The New York Times
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 12 May 2026 04:00:14 GMT
+
+4. トランプ大統領、AIチップ販売と農産物の最重要議題として習氏との北京会談に準備 - Fox Business
+   原題: Trump readies for Beijing summit with Xi as AI chip sales, farm goods top agenda - Fox Business
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 12 May 2026 10:00:00 GMT
+
+5. トランプ大統領と習氏の会談にAIの緊張が迫る - Yahoo!ニュース
+   原題: AI tensions loom over Trump-Xi meeting - Yahoo
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 12 May 2026 22:16:44 GMT
+
+
+[CarPlay]
+1. リークによると、CarPlay で最も人気のあるアプリの 1 つが大規模なアップグレードを予定している - 9to5Mac
+   原題: One of CarPlay’s most popular apps is about to get a big upgrade, per leak - 9to5Mac
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 12 May 2026 13:33:00 GMT
+
+2. CarPlay 用 Google マップが Gemini AI を取得 - MacRumors
+   原題: Google Maps for CarPlay Getting Gemini AI - MacRumors
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 11 May 2026 23:25:31 GMT
+
+3. CarPlay の Google マップの大規模アップデート: Google Gemini が登場 - autoevolution
+   原題: Big Google Maps Update on CarPlay: Google Gemini Is Coming - autoevolution
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 12 May 2026 05:48:05 GMT
+
+4. ZenoRadio アプリが Apple CarPlay と Android Auto のサポートを追加 - radioworld.com
+   原題: ZenoRadio App Adds Apple CarPlay and Android Auto Support - radioworld.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 12 May 2026 20:33:30 GMT
+
+5. Zeno Media が大学ラジオ契約に署名し、Apple CarPlay、Android Auto を追加- インサイドラジオ.com
+   原題: Zeno Media Adds Apple CarPlay, Android Auto As It Signs College Radio Deal. - Insideradio.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 12 May 2026 20:48:19 GMT
+
+
+[Android Auto]
+1. Android Auto にビデオ アプリ、音楽アップデートなどが追加される Gemini のスマートな機能 - 9to5Google
+   原題: Android Auto is getting video apps, music updates, and more Gemini smarts - 9to5Google
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 12 May 2026 17:30:00 GMT
+
+2. Android Show I/O Edition ハイライト: Googlebooks、Android Auto など - ビデオ - CNET
+   原題: The Android Show I/O Edition Highlights: Googlebooks, Android Auto and More - Video - CNET
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 12 May 2026 21:29:14 GMT
+
+3. Android Auto が再設計され、ディスプレイ全体が占有され、ウィジェットのサポートなどが追加される - 9to5Google
+   原題: Android Auto is getting a redesign that takes up your whole display, adds widget support, more - 9to5Google
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 12 May 2026 17:02:00 GMT
+
+4. Android Auto がウィジェット、YouTube、マテリアル 3 などで完全に更新される - Droid Life
+   原題: Android Auto Getting a Full Refresh With Widgets, YouTube, Material 3, More - Droid Life
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 12 May 2026 17:02:19 GMT
+
+5. Android Show 2026: Google の見通しでは Android Auto は新鮮でクリーンに見える - Yahoo Autos
+   原題: Android Show 2026: Android Auto looks fresh and clean in Google's outlook - Yahoo Autos
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 12 May 2026 17:00:00 GMT
+
+
+[Arduino]
+1. クアルコムの買収後、Arduino は次に何が起こるのでしょうか? - EEタイムズ
+   原題: What Comes Next for Arduino after Qualcomm’s Acquisition? - EE Times
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 22 Dec 2025 08:00:00 GMT
+
+2. Arduino Uno Q レビュー: 2 つの頭脳を持つボード - Tom's Hardware
+   原題: Arduino Uno Q Review: The board with two brains - Tom's Hardware
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 09 Dec 2025 08:00:00 GMT
+
+3. Adafruit：Arduinoのルールは「オープンソースと互換性がない」 - 新しいスタック
+   原題: Adafruit: Arduino’s Rules Are ‘Incompatible With Open Source’ - The New Stack
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 14 Dec 2025 08:00:00 GMT
+
+4. Arduino と Qualcomm が Hackster の 2026 年最初の開発者コンテストを開始 300 台の Arduino UNO Q ボードとエッジ AI イノベーションを紹介する機会で世界大会が開幕 - Yahoo Finance
+   原題: Arduino and Qualcomm Launch Hackster's First Developer Contest of 2026 Global Competition Kicks Off With 300 Arduino UNO Q Boards and Opportunities to Showcase Edge AI Innovation - Yahoo Finance
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 03 Mar 2026 08:00:00 GMT
+
+5. SENSTREE G1/2 インチ フロー ホール センサー BSP スレッド、食品グレード PO 1-30L/インチ フロー エーテル、食品グレード - portalcantagalo.com.br
+   原題: SENSTREE G1/2 ’’ Flow Hall Sensor BSP Thread, Food Grade PO 1-30L/in Flow Eter, Food Grade - portalcantagalo.com.br
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 12 May 2026 05:57:17 GMT
