@@ -1,0 +1,91 @@
+Searcher Daily Report
+Generated at: 2026-05-14 08:01:02
+Removed duplicates (today): 0
+Removed duplicates (7 days): 29
+
+[AI]
+1. AIの悲しい妻たちを紹介 - WIRED.jp
+   原題: Meet the Sad Wives of AI - WIRED
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 13 May 2026 10:00:00 GMT
+
+2. AIの反発は非常に醜いものになる可能性がある - The Atlantic
+   原題: The AI Backlash Could Get Very Ugly - The Atlantic
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 13 May 2026 13:25:00 GMT
+
+3. スクープ：議員らがホワイトハウスにAIサイバー脅威への対応を迫る - Axios
+   原題: Scoop: Lawmakers press White House to act on AI cyber threats - Axios
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 13 May 2026 22:02:44 GMT
+
+4. AI コンパニオンが増加しています。仕組みは次のとおりです。 - NBCニュース
+   原題: AI companions are on the rise. Here's how they work. - NBC News
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 13 May 2026 22:35:52 GMT
+
+5. 米国選挙でAIの役割が大きくなる - Yahoo!ニュース
+   原題: AI assumes larger role in US elections - Yahoo
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 13 May 2026 22:34:22 GMT
+
+
+[CarPlay]
+1. Man が、Apple CarPlay を完全に整理して、必要なものだけが表示されるように設定する方法を共有しています - supercarblondie.com
+   原題: Man shares how you can completely de-clutter your Apple CarPlay and set it up so you only see the things you want - supercarblondie.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 13 May 2026 11:44:00 GMT
+
+2. 自動車メーカー、Apple CarPlayとAndroid Autoへの宣戦布告でブランド陳腐化のリスク - Torque News
+   原題: Automakers Risk Brand Obsolescence by Declaring War on Apple CarPlay and Android Auto - Torque News
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 13 May 2026 18:36:53 GMT
+
+3. Google マップは Apple CarPlay で AI を大幅にアップグレードする可能性 - Autoblog
+   原題: Google Maps Could Get A Major AI Upgrade On Apple CarPlay - Autoblog
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 13 May 2026 11:33:00 GMT
+
+4. Apple CarPlay Ultra には 3 つの優れた機能がありますが、大きな欠点が 1 つあります - t3.com
+   原題: Apple CarPlay Ultra has 3 great features – but one major downfall - t3.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 13 May 2026 06:00:00 GMT
+
+
+[Android Auto]
+1. Android Auto アップデートにより、車のタッチスクリーンに全画面ビューと（ついに）ビデオが表示されるようになります - 車とドライバー
+   原題: Android Auto Updates Will Bring Full-Screen Views and (Finally) Video to Your Car's Touchscreen - Car and Driver
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 13 May 2026 15:31:12 GMT
+
+2. Android Auto の遅延を完全に解消する 3 つの簡単な修正 - XDA
+   原題: 3 easy fixes that completely eliminated my Android Auto lag - XDA
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 12 May 2026 15:31:22 GMT
+
+3. Android Auto が奇妙な形の画面に適合し、駐車中にビデオをストリーミングできるようになりました - CNET
+   原題: Android Auto Now Fits Weirdly Shaped Screens and Streams Video While Parked - CNET
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 12 May 2026 17:01:00 GMT
+
+4. Android Auto がメジャーアップデートされるが、それまでは辛抱強く待つ必要がある - CarBuzz
+   原題: Android Auto Getting A Major Update, But You'll Have To Be Patient For It - CarBuzz
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 13 May 2026 18:15:11 GMT
+
+5. Android Auto の新しいアップデートでダッシュボードの使い方が変わります - bgr.com
+   原題: Android Auto's New Update Will Change How You Use Your Dashboard - bgr.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 13 May 2026 20:17:00 GMT
+
+
+[Arduino]
+1. OpenClaw プログラム Arduino UNO Q with Claude - Let's Data Science
+   原題: OpenClaw Programs Arduino UNO Q with Claude - Let's Data Science
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 13 May 2026 09:47:52 GMT
+
+2. ESP32 によって制御される WeAct 4.2 インチ電子ペーパー モジュール (Arduino でプログラム) (6phS2KUAwq) - fathomjournal.org
+   原題: WeAct 4.2'' Epaper Module Controlled By ESP32 (programmed With Arduino) (6phS2KUAwq) - fathomjournal.org
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 10 May 2026 01:25:42 GMT
