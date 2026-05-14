@@ -1,0 +1,101 @@
+Searcher Daily Report
+Generated at: 2026-05-15 08:01:09
+Removed duplicates (today): 0
+Removed duplicates (7 days): 29
+
+[AI]
+1. A.I.テクノロジー関連I.P.O.の増加に伴い、チップメーカーが市場デビューで68%急上昇 - ニューヨーク・タイムズ
+   原題: A.I. Chip Maker Soars 68% in Market Debut, as Tech I.P.O.s Ramp Up - The New York Times
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 14 May 2026 17:16:10 GMT
+
+2. ウォール街がAI津波に備える中、セレブラスのIPO価格が予想範囲を上回った - CNBC
+   原題: Cerebras prices IPO above expected range, as Wall Street braces for AI tsunami - CNBC
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 13 May 2026 21:51:28 GMT
+
+3. Cerebras は注目の新しい AI チップメーカーです。株式に関するジム・クレイマーのアドバイスは次のとおりです - CNBC
+   原題: Cerebras is the hot new AI chipmaker. Here's Jim Cramer's advice on the stock - CNBC
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 14 May 2026 22:36:36 GMT
+
+4. AI 雇用の黙示録に備えよう - エコノミスト
+   原題: Prepare for an AI jobs apocalypse - The Economist
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 14 May 2026 09:03:11 GMT
+
+5. クレイマー氏、AIの熱狂の中でより選択的になるよう投資家に促す - CNBC
+   原題: Cramer urges investors to be more selective in the AI frenzy - CNBC
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 14 May 2026 22:22:42 GMT
+
+
+[CarPlay]
+1. 6 つの人気の iPhone アプリが CarPlay で利用可能に - MacRumors
+   原題: Six Popular iPhone Apps Now Available on CarPlay - MacRumors
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 14 May 2026 16:10:00 GMT
+
+2. CarPlay に、次の旅行で楽しめる 2 つの新しいオーディオ アプリが追加されました - 9to5Mac
+   原題: CarPlay just gained two new audio apps to keep you entertained on your next trip - 9to5Mac
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 14 May 2026 14:31:00 GMT
+
+3. Apple CarPlay の Google マップに新しいハンズフリー機能が間もなく追加 - bgr.com
+   原題: Google Maps For Apple CarPlay Is About To Get A New Hands-Free Feature - bgr.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 14 May 2026 16:47:00 GMT
+
+4. 新しい CarPlay オーディオ アプリに AI 音楽とグローバル ラジオが追加 - ガジェットハック
+   原題: New CarPlay Audio Apps Add AI Music and Global Radio - Gadget Hacks
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 14 May 2026 15:23:16 GMT
+
+
+[Android Auto]
+1. The Android Show の最大の発表: I/O エディション — Android 17 ニュース、Google AI ラップトップ - Mashable
+   原題: The biggest announcements from The Android Show: I/O Edition — Android 17 news, Google AI laptops - Mashable
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 12 May 2026 17:07:36 GMT
+
+2. Google、新しいデザイン、AI 機能、HD ビデオで Android Auto を刷新 - Kelley Blue Book
+   原題: Google Revamps Android Auto With New Design, AI Features, and HD Video - Kelley Blue Book
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 14 May 2026 18:24:42 GMT
+
+3. Google、Android Auto で YouTube のロックを解除、ユーザーがビデオを視聴できるように - autoevolution
+   原題: Google Unlocks YouTube on Android Auto, Allows Users To Watch Videos - autoevolution
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 14 May 2026 03:59:18 GMT
+
+4. Android Auto のメジャー アップデートで車の画面に YouTube が表示される - The Drive
+   原題: Major Android Auto Update Will Bring YouTube to Your Car’s Screen - The Drive
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 12 May 2026 17:00:00 GMT
+
+5. ソーシャルヘッド: Android Auto の最大の欠陥が修正されたばかりで、車の画面は決して同じには見えません - InsideEVs
+   原題: Social hed: Android Auto Just Fixed Its Biggest Flaw—And Your Car Screen Will Never Look The Same - InsideEVs
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 13 May 2026 07:12:00 GMT
+
+
+[Arduino]
+1. エリオット・マドセンのペンプロッターが古い 3D プリンターを新しいものにアップサイクル - Arduino UNO Q を使用 - Hackster.io
+   原題: Elliot Madsen's Pen Plotter Upcycles an Old 3D Printer Into Something New — with an Arduino UNO Q - Hackster.io
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 14 May 2026 13:09:39 GMT
+
+2. 自己文書化ワークショップの作成 - Adafruit
+   原題: Making a self-documenting workshop - Adafruit
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 14 May 2026 15:08:10 GMT
+
+3. この DIY Arduino システムは、出版用のプロジェクトを自動的に文書化します - Hackster.io
+   原題: This DIY Arduino System Automatically Documents Projects for Publishing - Hackster.io
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 13 May 2026 21:24:28 GMT
+
+4. Arduino、電子ペーパーディスプレイ、Google反重力を使用してE-Inkフォトフレームを構築しました - How-To Geek
+   原題: I built an E-Ink photo frame using an Arduino, E-Paper display and Google Antigravity - How-To Geek
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 30 Nov 2025 08:00:00 GMT
