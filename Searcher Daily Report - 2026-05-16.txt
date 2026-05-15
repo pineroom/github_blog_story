@@ -1,0 +1,91 @@
+Searcher Daily Report
+Generated at: 2026-05-16 08:00:53
+Removed duplicates (today): 0
+Removed duplicates (7 days): 34
+
+[AI]
+1. 意見 |なぜ私たちは自分自身を騙して考え続けるのか A.I.意識はある - ニューヨーク・タイムズ
+   原題: Opinion | Why We Keep Tricking Ourselves Into Thinking A.I. Is Conscious - The New York Times
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 15 May 2026 15:00:06 GMT
+
+2. AI 求職者を暴露する新たな手口: 「カエルについての詩を書く」: - サンフランシスコ・クロニクル
+   原題: The new trick exposing AI job applicants: ‘Write a poem about a frog’: - San Francisco Chronicle
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 15 May 2026 22:03:11 GMT
+
+3. アボット、AI を活用したウェブサイトを立ち上げ、テキサス州の規制削減に向けた取り組みを強調 - KXAN オースティン
+   原題: Abbott launches AI-powered website, highlights effort to cut Texas regulations - KXAN Austin
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 15 May 2026 21:49:02 GMT
+
+4. AI による労働力の再編に伴い、地元のプログラムが熟練した職業や技術職のキャリアを促進 - WLWT
+   原題: Local programs push skilled trades, technical careers as AI reshapes workforce - WLWT
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 15 May 2026 21:59:00 GMT
+
+5. 彼はAIが統治する新しい国家を宣言した。彼はそれがうまく終わるかどうか確信が持てない - CNN
+   原題: He declared a new country governed by AI. He’s not sure it will end well - CNN
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 15 May 2026 11:00:50 GMT
+
+
+[CarPlay]
+1. iOS 26 の CarPlay には、セットアップをカスタマイズするための 5 つの新しい方法が追加されました - 9to5Mac
+   原題: CarPlay in iOS 26 adds five new ways to customize your setup - 9to5Mac
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 15 May 2026 14:10:00 GMT
+
+2. iOS 26のCarPlayはビデオ再生機能を約束、最新情報はこちら - 9to5Mac
+   原題: CarPlay in iOS 26 promises video playback feature, here’s the latest - 9to5Mac
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 06 May 2026 07:00:00 GMT
+
+
+[Android Auto]
+1. 私のお気に入りの 4 つの Android Auto 設定は非常に便利ですが、デフォルトでは非表示になっています - ZDNET
+   原題: My 4 favorite Android Auto settings are seriously useful - but hidden by default - ZDNET
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 15 May 2026 11:30:00 GMT
+
+2. 次世代の Android を車内で使って、もっと楽しく、もっと楽しく - blog.google
+   原題: Do more and have more fun with the next generation of Android in the car - blog.google
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 12 May 2026 17:05:44 GMT
+
+3. Android Auto の Gemini は好きではありませんでしたが、これらのトリックのおかげで考えが変わりました - Android Police
+   原題: I didn't like Gemini on Android Auto, but these tricks have changed my mind - Android Police
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 15 May 2026 10:00:23 GMT
+
+4. Android Auto はすべてに適合する 1 つの (画面) サイズになりました - The Verge
+   原題: Android Auto is now one (screen) size fits all - The Verge
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 12 May 2026 17:00:00 GMT
+
+5. Android Auto が 2026 年に向けて大幅に変身 - Engadget
+   原題: Android Auto Is Getting A Big Makeover For 2026 - Engadget
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 12 May 2026 17:00:00 GMT
+
+
+[Arduino]
+1. Arduino Uno Rev3 ボードを使用する 6 つのホーム オフィス プロジェクト - SlashGear
+   原題: 6 Home Office Projects That Use An Arduino Uno Rev3 Board - SlashGear
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 13 May 2026 04:12:00 GMT
+
+2. クアルコムによるArduinoのサプライズ買収がオープンソースを揺るがす - IEEE Spectrum
+   原題: Qualcomm's Surprise Acquisition of Arduino Shakes Up Open Source - IEEE Spectrum
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 18 Oct 2025 07:00:00 GMT
+
+3. nRF54L15 (Zephyr ベース) 用の Arduino コア - Adafruit
+   原題: An Arduino core for nRF54L15 (Zephyr-based) - Adafruit
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 17 Feb 2026 08:00:00 GMT
+
+4. Arduino、ロボット工学などのための高性能 SBC VENTUNO Q で 21 周年を祝う - Hackster.io
+   原題: Arduino Celebrates Turning 21 with the VENTUNO Q, a High-Performance SBC for Robotics and More - Hackster.io
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 09 Mar 2026 11:55:19 GMT
