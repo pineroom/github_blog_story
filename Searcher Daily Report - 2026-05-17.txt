@@ -1,0 +1,101 @@
+Searcher Daily Report
+Generated at: 2026-05-17 08:00:47
+Removed duplicates (today): 0
+Removed duplicates (7 days): 29
+
+[AI]
+1. マイクロソフトの AI 責任者、すべてのホワイトカラー業務が AI によって自動化されるまでに 18 か月の猶予期間を与える - フォーチュン
+   原題: Microsoft AI chief gives it 18 months—for all white-collar work to be automated by AI - Fortune
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 16 May 2026 12:29:00 GMT
+
+2. OpenAI とマルタが提携して ChatGPT Plus を全国民に提供 - OpenAI
+   原題: OpenAI and Malta partner to bring ChatGPT Plus to all citizens - OpenAI
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 16 May 2026 10:51:53 GMT
+
+3. CEO は AI を活用して病院、工場、半導体製造を変革しています - CNBC
+   原題: CEOs are using AI to transform hospitals, factories and chipmaking - CNBC
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 16 May 2026 21:59:47 GMT
+
+4. 米国の高齢者はAIを利用して夏の旅行を節約、AARP調査で判明 - KTVU
+   原題: Older Americans using AI to save on summer travel, AARP study finds - KTVU
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 16 May 2026 21:53:19 GMT
+
+5. 決勝戦が近づいています。実際の準備に AI がどのように役立つか - CNET
+   原題: Finals Are Coming. Here's How AI Can Help You Actually Prepare for Them - CNET
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 16 May 2026 22:00:00 GMT
+
+
+[CarPlay]
+1. 35 ドルのアダプターを使用すると、有線 CarPlay にワイヤレスで接続できる - Macworld
+   原題: A $35 adapter lets you wirelessly connect to wired CarPlay - Macworld
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 16 May 2026 08:00:00 GMT
+
+2. CarPlay は進化し続けています。私が気に入っている 2 つの新機能をご紹介します - 9to5Mac
+   原題: CarPlay keeps getting better, here are two new features I’ve been loving - 9to5Mac
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 08 May 2026 19:01:00 GMT
+
+3. Apple、CarPlay Ultraがこれらの自動車ブランドに導入されると発表 - MacRumors
+   原題: Apple Says CarPlay Ultra is Coming to These Vehicle Brands - MacRumors
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 18 Apr 2026 07:00:00 GMT
+
+4. これらの Android Auto および CarPlay 機能は組み込まれていますが、ほとんどのドライバーはそれらを見つけることができません - MakeUseOf
+   原題: These Android Auto and CarPlay features are built in, but most drivers never find them - MakeUseOf
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 16 May 2026 19:30:18 GMT
+
+5. Grok の音声モードが Apple CarPlay に登場 - Mashable
+   原題: Grok's voice mode comes to Apple CarPlay - Mashable
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 08 May 2026 13:23:31 GMT
+
+
+[Android Auto]
+1. Android Auto が YouTube、Gemini、そしてここ数年で最大の地図アップグレードを取得 - Autoblog
+   原題: Android Auto Gets YouTube, Gemini, And Its Biggest Maps Upgrade In Years - Autoblog
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 14 May 2026 15:30:00 GMT
+
+2. Android Auto の新しいアップデートでダッシュボードの使い方が変わる - Yahoo Autos
+   原題: Android Auto's New Update Will Change How You Use Your Dashboard - Yahoo Autos
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 13 May 2026 20:17:00 GMT
+
+3. ドルビーアトモスが Android Auto に登場 - Forbes
+   原題: Dolby Atmos Is Coming To Android Auto - Forbes
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 13 May 2026 00:37:31 GMT
+
+
+[Arduino]
+1. この「Tortoise Bot」には巨大な Arduino UNO が搭載されています - Hackster.io
+   原題: This “Tortoise Bot” Features a Gigantic Arduino UNO - Hackster.io
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 16 May 2026 14:06:07 GMT
+
+2. KernelUNO、Arduino Uno 用 OS - ハッカデイ
+   原題: KernelUNO, An OS For The Arduino Uno - Hackaday
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 23 Apr 2026 07:00:00 GMT
+
+3. 8歳の息子のためにArduinoテニススコアカウンターを作りました - HackerNoon
+   原題: I Built an Arduino Tennis Score Counter for My 8-Year-Old - HackerNoon
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 08 May 2026 01:03:28 GMT
+
+4. Trinket / Gemma IR コントロール #AdafruitLearnSystem - Adafruit
+   原題: Trinket / Gemma IR Control #AdafruitLearnSystem - Adafruit
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 15 May 2026 16:00:08 GMT
+
+5. Arduino UNO用のLinux風のOS - Hackster.io
+   原題: A Linux-Like OS for the Arduino UNO - Hackster.io
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 24 Apr 2026 12:52:40 GMT
