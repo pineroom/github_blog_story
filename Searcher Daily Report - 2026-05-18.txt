@@ -1,0 +1,101 @@
+Searcher Daily Report
+Generated at: 2026-05-18 08:01:00
+Removed duplicates (today): 0
+Removed duplicates (7 days): 32
+
+[AI]
+1. AI関連の人員削減が株価を押し上げる？必ずしもそうとは限らない - CNBC
+   原題: AI-related layoffs a boost for stocks? Not necessarily - CNBC
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 17 May 2026 13:09:10 GMT
+
+2. アリババ株は今 AI ブームに乗る最も安全な方法の 1 つかもしれない - The Motley Fool
+   原題: Alibaba Stock May Be One of the Safest Ways to Play the AI Boom Right Now - The Motley Fool
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 17 May 2026 16:45:00 GMT
+
+3. Nvidia vs. Cerebras: 今すぐ買うべきAI株 - Yahoo Finance
+   原題: Nvidia vs. Cerebras: Better AI Stock to Buy Now - Yahoo Finance
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 17 May 2026 22:25:00 GMT
+
+4. 意見 |なんというAI。私の大学のクラスでやった - ニューヨーク・タイムズ
+   原題: Opinion | What A.I. Did to My College Class - The New York Times
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 17 May 2026 05:00:05 GMT
+
+5. バーニー・サンダース氏、人員削減のさなかトランプ氏の中国訪問に「AI寡頭勢力」が参加していることを非難：「彼らが睡眠不足になっていると思うか」 - Yahoo!ショッピング
+   原題: Bernie Sanders Slams 'AI Oligarchs' Joining Trump On China Trip Amid Layoffs: 'Do You Think They're Losing Sleep' - Yahoo
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 17 May 2026 21:31:26 GMT
+
+
+[CarPlay]
+1. ChatGPT と Perplexity AI を CarPlay 音声アシスタントとしてテストしました - どちらも Siri の見た目を悪くしました - ZDNET
+   原題: I tested ChatGPT and Perplexity AI as my CarPlay voice assistants - both made Siri look bad - ZDNET
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 03 May 2026 07:00:00 GMT
+
+2. CarPlay がこれら 3 つのトップ AI チャットボット アプリと連携できるようになりました - 9to5Mac
+   原題: CarPlay now works with these three top AI chatbot apps - 9to5Mac
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 08 May 2026 07:00:00 GMT
+
+3. Apple CarPlay が ChatGPT およびその他の AI チャットボットのサポートを追加 - Mashable
+   原題: Apple CarPlay is adding support for ChatGPT and other AI chatbots - Mashable
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 17 May 2026 09:00:00 GMT
+
+4. CarPlay Android Auto ヘッドユニット 10.1 インチ Android 13 カーラジオ シボレー シルバラード / GMC シエラ 2014-2018 – 2GB + 32GB、GPS、CarPlay、Android Auto、Bluetooth、バックアップ カメラ、ステアリング ホイール制御車両エレクトロニクス - Klik Solo News
+   原題: CarPlay Android Auto Head Unit 10.1 Inch Android 13 Car Radio For Chevy Silverado / GMC Sierra 2014-2018 – 2GB+32GB, GPS, CarPlay, Android Auto, Bluetooth, Backup Camera, Steering Wheel Control Vehicle Electronics - Klik Solo News
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 17 May 2026 13:13:24 GMT
+
+5. Lucid が無線アップデートによる Apple CarPlay® と Android Auto™ の Lucid Gravity への展開を開始 - Lucid Motors
+   原題: Lucid Begins Rolling Out Apple CarPlay® and Android Auto™ to Lucid Gravity via Over-the-Air Update - Lucid Motors
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 11 Mar 2026 07:00:00 GMT
+
+
+[Android Auto]
+1. あなたがおそらく使っていない最高の Android Auto アプリ - SlashGear
+   原題: The Best Android Auto Apps You're Probably Not Using - SlashGear
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 17 May 2026 04:45:00 GMT
+
+2. インターネットを必要としない Android Auto 音楽プレーヤーをついに見つけました - MakeUseOf
+   原題: I finally found an Android Auto music player that doesn’t need the internet - MakeUseOf
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 17 May 2026 10:00:30 GMT
+
+3. Gemini Intelligence が Android Auto にデビュー: これが意味すること - autoevolution
+   原題: Gemini Intelligence To Debut on Android Auto: Here's What It Means - autoevolution
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 16 May 2026 12:50:26 GMT
+
+4. 史上最大の Android Auto アップデート: これらはすべて新機能です - autoevolution
+   原題: The Biggest Android Auto Update Ever: These Are All New Features - autoevolution
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 17 May 2026 06:40:50 GMT
+
+
+[Arduino]
+1. YouTuber が自律走行する 7 倍大きい Arduino カメ ボットを構築 - 興味深いエンジニアリング
+   原題: YouTuber builds 7 times larger Arduino tortoise bot that still navigates autonomously - Interesting Engineering
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 17 May 2026 21:22:00 GMT
+
+2. あるビルダーが Arduino Tortoise ボットを 7 倍大きくし、完全に動作可能な状態に維持した方法 - TechEBlog -
+   原題: How One Builder Made an Arduino Tortoise Bot Seven Times Bigger and Kept It Fully Operational - TechEBlog -
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 16 May 2026 23:03:10 GMT
+
+3. あなたも、3D プリントされたシェルを使ってこの Arduino Nano たまごっちを構築できます - XDA
+   原題: You, too, can build this Arduino Nano Tamagotchi with a 3D-printed shell - XDA
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 09 May 2026 04:10:33 GMT
+
+4. Arduino "Andy" Ceccacci の訃報 - Bagnasco & Calcaterra Funeral Homes
+   原題: Obituary information for Arduino "Andy" Ceccacci - Bagnasco & Calcaterra Funeral Homes
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 02 Feb 2026 08:00:00 GMT
