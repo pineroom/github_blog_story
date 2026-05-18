@@ -1,0 +1,86 @@
+Searcher Daily Report
+Generated at: 2026-05-19 08:01:01
+Removed duplicates (today): 2
+Removed duplicates (7 days): 33
+
+[AI]
+1. 大量解雇を前に、Meta は AI に注力するために 7,000 人の従業員を再配置- ニューヨーク・タイムズ紙
+   原題: Before Mass Layoffs, Meta Reassigns 7,000 Workers to Focus on A.I. - The New York Times
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 18 May 2026 21:47:54 GMT
+
+2. Google I/O 入門書: Alphabet の AI ショーケースはウォール街を驚かせるチャンス - CNBC
+   原題: Google I/O primer: Alphabet's AI showcase is its chance to wow Wall Street - CNBC
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 18 May 2026 22:21:54 GMT
+
+3. チップ業界がAIを追いかける中、米国国立研究所はスーパーコンピューターの新規参入者に期待 - ロイター
+   原題: As chip industry chases AI, U.S. national labs look to newcomers for supercomputers - Reuters
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 18 May 2026 22:23:11 GMT
+
+4. MatterChat モデルは、AI が原子スケールの物理学の言語を「認識」して材料予測を鮮明にするのに役立ちます - Phys.org
+   原題: MatterChat model helps AI to 'see' the language of atom-scale physics to sharpen materials predictions - Phys.org
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 18 May 2026 22:40:01 GMT
+
+5. イーロン・マスクの法廷敗訴の後、長く熱いAIが登場する。夏 - ニューヨーク・タイムズ
+   原題: After Elon Musk’s Court Loss Comes the Long Hot A.I. Summer - The New York Times
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 18 May 2026 21:53:29 GMT
+
+
+[CarPlay]
+1. Android Auto と Apple CarPlay を最大限に活用する方法 - Carwow
+   原題: How to Get the Most From Android Auto and Apple CarPlay - Carwow
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 16 May 2026 12:00:00 GMT
+
+2. 私の車は CarPlay と戦っていましたが、安価な USB ドングルを使用して解決しました - 人気の仕組み
+   原題: My Car Was Fighting CarPlay, But I Fixed It Using an Inexpensive USB Dongle - Popular Mechanics
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 24 Mar 2026 07:00:00 GMT
+
+
+[Android Auto]
+1. Android Auto アップデートにより、運転がより簡単かつ安全になります。何が変わるのか - USA Today
+   原題: Android Auto update makes driving easier, safer. What changes - USA Today
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 18 May 2026 15:35:00 GMT
+
+2. Google マップに、Android Auto では決して起動できない非常識なナビゲーション機能が追加される - autoevolution
+   原題: Google Maps Is Getting an Insane Navigation Feature That'll Never Launch on Android Auto - autoevolution
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 18 May 2026 04:19:39 GMT
+
+3. Android Auto で Gemini を愛したかったが、これら 5 つの失敗によりそれは不可能になった - How-To Geek
+   原題: I wanted to love Gemini in Android Auto, but these 5 failures make it impossible - How-To Geek
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 18 May 2026 15:30:17 GMT
+
+
+[Arduino]
+1. Arduino が Zephyr で進歩 - i-programmer.info
+   原題: Arduino Makes Progress On Zephyr - i-programmer.info
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 18 May 2026 17:12:24 GMT
+
+2. Zephyr Work の Arduino コアが新たなマイルストーンに到達、6 月にベータ版を終了する準備を整える - Hackster.io
+   原題: Arduino Core on Zephyr Work Hits a New Milestone, Prepares to Exit Beta in June - Hackster.io
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 18 May 2026 11:12:42 GMT
+
+3. 24ドルのArduinoボードで実現できる3つのスマートホームアップグレード - How-To Geek
+   原題: 3 smart home upgrades you can make with a $24 Arduino board - How-To Geek
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 18 May 2026 14:15:16 GMT
+
+4. 新しい本 - MIT App Inventor: Raspberry Pi と ESP32 で AI および IoT アプリを構築 - Elektor Magazine
+   原題: New Book - MIT App Inventor: Build AI and IoT Apps with Raspberry Pi and ESP32 - Elektor Magazine
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 18 May 2026 12:33:00 GMT
+
+5. BEAPER Nano - Hackster.io
+   原題: BEAPER Nano - Hackster.io
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 18 May 2026 02:32:42 GMT
