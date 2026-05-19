@@ -1,0 +1,111 @@
+Searcher Daily Report
+Generated at: 2026-05-20 08:01:10
+Removed duplicates (today): 1
+Removed duplicates (7 days): 26
+
+[AI]
+1. AIを活用し、Googleが25年ぶりに検索ボックスを変更 - ニューヨーク・タイムズ
+   原題: Powered by A.I., Google Changes Its Search Box for the First Time in 25 Years - The New York Times
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 19 May 2026 17:45:12 GMT
+
+2. Google、OpenAIやAnthropicと歩調を合わせるべく、新しいAIモデルとパーソナルAIエージェントを発表 - CNBC
+   原題: Google debuts new AI models, personal AI agents in effort to keep pace with OpenAI and Anthropic - CNBC
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 19 May 2026 17:47:26 GMT
+
+3. GoogleはIO 2026でAI設計の候補者になると宣言したばかり - TechCrunch
+   原題: Google just declared itself a contender in AI design at IO 2026 - TechCrunch
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 19 May 2026 21:33:30 GMT
+
+4. 「真実の未来」には、A.I. が作成した引用が含まれています。 - ニューヨーク・タイムズ紙
+   原題: ‘The Future of Truth’ Contains Quotes Made Up by A.I. - The New York Times
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 19 May 2026 14:12:01 GMT
+
+5. 下院外交委員長、中国へのAI販売は米国を「敗者」にする可能性があると警告 - サウスチャイナ・モーニング・ポスト
+   原題: House foreign affairs chair warns AI sales to China could make America a ‘loser’ - South China Morning Post
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 19 May 2026 22:25:01 GMT
+
+
+[CarPlay]
+1. Spotify、間違った曲情報を表示させる CarPlay のバグを確認 - 9to5Mac
+   原題: Spotify confirms CarPlay bug causing wrong song info to appear - 9to5Mac
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 19 May 2026 18:04:00 GMT
+
+2. Appleが2026年4月に追加した3つの新しいCarPlay機能 - SlashGear
+   原題: 3 New CarPlay Features Apple Added In April 2026 - SlashGear
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 19 May 2026 22:15:00 GMT
+
+3. 運転方法を変える秘密の Apple CarPlay 設定 - Geeky Gadgets
+   原題: The Secret Apple CarPlay Settings That Change How You Drive - Geeky Gadgets
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 17 May 2026 09:01:09 GMT
+
+4. CarPlay 用 Google マップが Gemini AI を取得 - MacRumors
+   原題: Google Maps for CarPlay Getting Gemini AI - MacRumors
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 11 May 2026 23:25:31 GMT
+
+5. すべての Apple CarPlay ユーザーが知っておくべき 10 のハック - ライフハッカー
+   原題: 10 Hacks Every Apple CarPlay User Should Know - Lifehacker
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 21 Apr 2026 07:00:00 GMT
+
+
+[Android Auto]
+1. Android Auto は音楽アプリの大規模な再設計を行っており、これらのアプリを皮切りに [ギャラリー] - 9to5Google
+   原題: Android Auto is getting massive music app redesigns, starting with these apps [Gallery] - 9to5Google
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 19 May 2026 20:30:00 GMT
+
+2. もっと早く見つければよかった 6 つの Android Auto アプリ - あらゆるドライブが楽になる - ZDNET
+   原題: 6 Android Auto apps I wish I found sooner, because they make every drive easier - ZDNET
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 19 May 2026 14:46:00 GMT
+
+3. すべてのユーザーが 2026 年の大きな機能を待ち望んでいる中、Google が Android Auto 17.0 をリリース - autoevolution
+   原題: Google Releases Android Auto 17.0 As All Users Are Waiting for the Big 2026 Features - autoevolution
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 19 May 2026 04:22:13 GMT
+
+4. Android Auto に Netflix と YouTube が追加 - Motor1.com
+   原題: Android Auto Is Adding Netflix And YouTube - Motor1.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 19 May 2026 15:00:31 GMT
+
+5. これら 4 つのオープンソース アプリの Android Auto のデフォルトを捨てました - How-To Geek
+   原題: I ditched Android Auto's defaults for these 4 open-source apps - How-To Geek
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 19 May 2026 12:00:18 GMT
+
+
+[Arduino]
+1. Arduino が Zephyr で進歩 - i-programmer.info
+   原題: Arduino Makes Progress On Zephyr - i-programmer.info
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 18 May 2026 17:12:24 GMT
+
+2. Arduino UNO Qを搭載したスマートミラーにこんにちは - Hackster.io
+   原題: Say Hello to the Smart Mirror Powered by Arduino UNO Q - Hackster.io
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 18 May 2026 18:22:18 GMT
+
+3. KernelUNO – Linux のようなシェルを備えた Arduino UNO 用の軽量 OS - CNX ソフトウェア
+   原題: KernelUNO – A lightweight OS for Arduino UNO with a Linux-like shell - CNX Software
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 27 Apr 2026 07:00:00 GMT
+
+4. Arduino と Qualcomm が Hackster の 2026 年最初の開発者コンテストを開始 世界的なコンテストが 300 台の Arduino UNO Q ボードとエッジ AI イノベーションを紹介する機会で開幕 - PR Newswire
+   原題: Arduino and Qualcomm Launch Hackster's First Developer Contest of 2026 Global Competition Kicks Off With 300 Arduino UNO Q Boards and Opportunities to Showcase Edge AI Innovation - PR Newswire
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 04 Mar 2026 08:00:00 GMT
+
+5. 蛍光デジタル顕微鏡 - Hackster.io
+   原題: Fluorescence Digital Microscope - Hackster.io
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 19 May 2026 01:28:38 GMT
