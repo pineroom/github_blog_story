@@ -1,0 +1,106 @@
+Searcher Daily Report
+Generated at: 2026-05-21 08:01:05
+Removed duplicates (today): 1
+Removed duplicates (7 days): 27
+
+[AI]
+1. Meta、AIへの転換で8,000人の雇用を削減 - NPR
+   原題: Meta slashes 8,000 jobs as it pivots towards AI - NPR
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 20 May 2026 18:22:56 GMT
+
+2. Meta、A.I.として従業員8,000人を解雇犠牲者の数 - ニューヨーク・タイムズ
+   原題: Meta Lays Off 8,000 Employees, as A.I. Casualties Mount - The New York Times
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 20 May 2026 22:01:59 GMT
+
+3. アクリジャー、AIの進歩を理由に従業員2,250人を解雇へ - MLive.com
+   原題: Acrisure to lay off 2,250 workers, citing AI advances - MLive.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 20 May 2026 21:52:00 GMT
+
+4. SpaceXのIPO申請でマスク氏がAIと宇宙インフラの巨人を構築していることが判明 - Yahoo Finance
+   原題: SpaceX IPO Filing Shows Musk Building an AI and Space Infrastructure Giant - Yahoo Finance
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 20 May 2026 22:19:18 GMT
+
+5. 新卒の皆さん、おめでとうございます！雇用市場の地獄へようこそ。 - ワシントン・ポスト紙
+   原題: Congrats, new grads! Welcome to job market hell. - The Washington Post
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 20 May 2026 16:00:00 GMT
+
+
+[CarPlay]
+1. Spotify のイライラする CarPlay バグは近日中に修正予定 - PhoneArena
+   原題: Fix coming soon for Spotify’s frustrating CarPlay bug - PhoneArena
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 20 May 2026 13:59:34 GMT
+
+2. Apple Sports が CarPlay で動作するようになりました。セットアップ方法は次のとおりです - 9to5Mac
+   原題: Apple Sports now works with CarPlay, here’s how to set up - 9to5Mac
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 20 Apr 2026 07:00:00 GMT
+
+3. Apple CarPlayユーザーが音楽ストリーミング中に奇妙な現象に遭遇 – 現在「調査中」 - Yahoo Autos
+   原題: Apple CarPlay users experience weird goings-on when streaming music – now "under investigation" - Yahoo Autos
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 20 May 2026 11:00:00 GMT
+
+4. Wireless CarPlay と Android Auto: 究極のカー テクノロジー #shorts - BlackPressUSA
+   原題: Wireless CarPlay & Android Auto: The Ultimate Car Tech #shorts - BlackPressUSA
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 20 May 2026 03:25:26 GMT
+
+5. Spotify、間違った曲情報を表示する迷惑な CarPlay バグを認識 - Android ヘッドライン
+   原題: Spotify is Aware of the Annoying CarPlay Bug Displaying Wrong Song Info - Android Headlines
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 20 May 2026 11:16:27 GMT
+
+
+[Android Auto]
+1. これらの設定で Android Auto の問題の 90% が解決します - How-To Geek
+   原題: These settings fix 90% of Android Auto's problems - How-To Geek
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 20 May 2026 12:00:21 GMT
+
+2. Android Auto に大きな変更が予定されています – これらは大幅な再設計が予定されている音楽アプリです - TechRadar
+   原題: Big changes are coming to Android Auto — these are the music apps in line for a major redesign - TechRadar
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 20 May 2026 19:46:18 GMT
+
+3. 安全な乗車のために私が常にオンにしている 4 つの Android Auto 設定 - ZDNET
+   原題: 4 Android Auto settings I always turn on for a safer ride - ZDNET
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 20 May 2026 08:00:00 GMT
+
+4. YouTube が Android Auto で利用できるようになりましたが、落とし穴があります - Android Police
+   原題: YouTube is now available on Android Auto, but there is a catch - Android Police
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 30 Mar 2026 07:00:00 GMT
+
+5. Google Gemini Android Auto の機能の説明 - Mashable
+   原題: Google Gemini Android Auto Features Explained - Mashable
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 20 May 2026 20:14:22 GMT
+
+
+[Arduino]
+1. QClaw: Arduino Uno Q 上の完全にローカルなエージェント アシスタント - Hackster.io
+   原題: QClaw: A Fully Local Agentic Assistant on the Arduino Uno Q - Hackster.io
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 20 May 2026 09:56:40 GMT
+
+2. スマート、エッジ、IoT アプリケーション用の新しい開発キット - Electropages
+   原題: New development kit for smart, edge and IoT applications - Electropages
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 20 May 2026 11:21:36 GMT
+
+3. EByte E22-T シリーズ LoRa モジュール用の Arduino ライブラリ - Adafruit
+   原題: An Arduino library for the EByte E22-T series LoRa modules - Adafruit
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 06 May 2026 18:58:26 GMT
+
+4. CrowView Note 14: Arduino、Raspberry Pi 5、その他多くのデバイス用のラップトップケース付きポータブルディスプレイ - Notebookcheck
+   原題: CrowView Note 14: Portable display with laptop case for Arduino, Raspberry Pi 5 and many other devices - Notebookcheck
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 09 May 2026 07:00:00 GMT
