@@ -1,0 +1,111 @@
+Searcher Daily Report
+Generated at: 2026-05-22 08:01:23
+Removed duplicates (today): 2
+Removed duplicates (7 days): 25
+
+[AI]
+1. トランプ大統領、A.I.の署名をキャンセル大統領令 - ニューヨーク・タイムズ
+   原題: Trump Cancels Signing of A.I. Executive Order - The New York Times
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 21 May 2026 14:53:31 GMT
+
+2. トランプ大統領、AI大統領令署名延期「特定の側面が気に入らなかった」 - CNBC
+   原題: Trump postpones AI executive order signing: 'I didn't like certain aspects' - CNBC
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 21 May 2026 16:29:51 GMT
+
+3. トランプ大統領とRFKジュニア、AIヘルスケアツールのセーフガード緩和を模索 - アンカレッジ・デイリー・ニュース
+   原題: Trump and RFK Jr. seek to relax safeguards for AI healthcare tools - Anchorage Daily News
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 21 May 2026 22:46:32 GMT
+
+4. AnthropicとMicrosoft、50億ドル投資後AIチップ取引に向け交渉中 - CNBC
+   原題: Anthropic, Microsoft in talks for AI chip deal after $5 billion investment - CNBC
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 21 May 2026 18:02:33 GMT
+
+5. ニューヨーク州議員、下院AI協議に狙いを定める - Politico
+   原題: New York state lawmakers take aim at House AI talks - Politico
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 21 May 2026 22:21:54 GMT
+
+
+[CarPlay]
+1. Apple、CarPlay Ultraがこれらの自動車ブランドに導入されると発表 - MacRumors
+   原題: Apple Says CarPlay Ultra is Coming to These Vehicle Brands - MacRumors
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 21 May 2026 18:53:14 GMT
+
+2. 次世代の Android Auto をテストしたところ、Apple CarPlay を当惑させるほどの大きな進歩です - Tom's Guide
+   原題: I just tested the next-generation of Android Auto, and it’s a huge leap forward that embarrasses Apple CarPlay - Tom's Guide
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 21 May 2026 12:00:00 GMT
+
+3. 6 つの人気の iPhone アプリが CarPlay で利用可能に - MacRumors
+   原題: Six Popular iPhone Apps Now Available on CarPlay - MacRumors
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 14 May 2026 16:10:00 GMT
+
+4. LAMTTO RC32 11 インチ ワイヤレス Android Auto/CarPlay ディスプレイ (ネイティブ Netflix レビュー付き) - Pocketables
+   原題: LAMTTO RC32 11'' wireless Android Auto/CarPlay display with native Netflix review - Pocketables
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 21 May 2026 16:16:25 GMT
+
+5. 2027 シボレー ボルト RS オーナーは、CarPlay の問題はスピーカーの問題よりも小さいことに気づいた - Torque News
+   原題: A 2027 Chevy Bolt RS Owner Found the CarPlay Problem Was Smaller Than the Speaker Problem - Torque News
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 21 May 2026 12:21:44 GMT
+
+
+[Android Auto]
+1. Android Auto の 2026 年の大改造は Gemini が最も実用的 - Engadget
+   原題: Android Auto's Big 2026 Makeover Is Gemini At Its Most Practical - Engadget
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 20 May 2026 15:59:50 GMT
+
+2. Google の車載 Gemini がサンルーフを暗くし、ディナーを注文し、私のツアーガイドになった - CNET
+   原題: Google's In-Car Gemini Dimmed the Sunroof, Ordered Dinner and Became My Tour Guide - CNET
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 20 May 2026 22:25:00 GMT
+
+3. Google Gemini Android Auto の機能の説明 - mashable.com
+   原題: Google Gemini Android Auto Features Explained - mashable.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 20 May 2026 20:14:22 GMT
+
+4. Google は Android Auto の未来を私に見せてくれました - しかし今では自分の車が怖くなっています - ZDNET
+   原題: Google showed me the future of Android Auto - and now I dread my own car - ZDNET
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 21 May 2026 19:58:00 GMT
+
+5. 実際に車内で使える驚くべき Android Auto アプリ 4 選 - Yahoo Autos
+   原題: 4 Surprising Android Auto Apps You Can Actually Use In The Car - Yahoo Autos
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 21 May 2026 19:17:00 GMT
+
+
+[Arduino]
+1. メカニカル 3×3 マクロパッド – Arduino Pro Micro + QMK #3DPrinting #3DMonday - Adafruit
+   原題: Mechanical 3×3 Macropad – Arduino Pro Micro + QMK #3DPrinting #3DThursday - Adafruit
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 21 May 2026 18:00:44 GMT
+
+2. Dupont ジャンパー ワイヤー オーガナイザー – Gridfinity & Arduino 互換 #3DPrinting #3DMonday - Adafruit
+   原題: Dupont Jumper Wire Organizer – Gridfinity & Arduino Compatible #3DPrinting #3DThursday - Adafruit
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 21 May 2026 06:00:52 GMT
+
+3. RCT IRL: 実生活におけるジェット コースター タイクーンの評価 - Hackster.io
+   原題: RCT IRL: Roller Coaster Tycoon Ratings in Real Life - Hackster.io
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 21 May 2026 04:38:24 GMT
+
+4. NPI の目 – Qualcomm & Arduino UNO Q マイクロコントローラー ボード @digikey @arduino @adafruit - Adafruit
+   原題: EYE on NPI – Qualcomm & Arduino UNO Q Microcontroller Board @digikey @arduino @adafruit - Adafruit
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 17 Oct 2025 07:00:00 GMT
+
+5. これはあなたがずっと望んでいた現実のウォーリー ロボットです - Hackster.io
+   原題: This Is the Real-Life WALL-E Robot You’ve Always Wanted - Hackster.io
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 21 May 2026 16:31:44 GMT
