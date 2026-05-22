@@ -1,0 +1,81 @@
+Searcher Daily Report
+Generated at: 2026-05-23 08:00:56
+Removed duplicates (today): 2
+Removed duplicates (7 days): 34
+
+[AI]
+1. 意見 |私はCEOです。ゴールドマン・サックスの。 A.I.ジョブ黙示録は大げさです。 - ニューヨーク・タイムズ紙
+   原題: Opinion | I’m the C.E.O. of Goldman Sachs. The A.I. Job Apocalypse Is Overblown. - The New York Times
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 22 May 2026 15:00:07 GMT
+
+2. AI に尋ねますか、それとも Google だけで調べますか? Google、小さな検索ボックスに大きな変更を加える - NPR
+   原題: Ask AI or just Google it? Google makes a big change to a little search box - NPR
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 22 May 2026 19:05:25 GMT
+
+3. AIが嫌いでもGoogle AI検索を使うだろう - WIRED
+   原題: Even If You Hate AI, You Will Use Google AI Search - WIRED
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 22 May 2026 15:00:00 GMT
+
+4. サンダー・ピチャイ氏は、人々が AI について不安を抱く理由を理解しています。 - ニューヨーク・タイムズ紙
+   原題: Sundar Pichai Understands Why People Are Anxious About A.I. - The New York Times
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 22 May 2026 14:49:56 GMT
+
+5. プラット：AI広告に対する低音の懸念「これまで聞いた中で最も面白いこと」 - The Hill
+   原題: Pratt: Bass concern over AI ads ‘funniest thing I’ve ever heard’ - The Hill
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 22 May 2026 21:48:00 GMT
+
+
+[CarPlay]
+1. CarPlay には音楽アプリの問題があり、それは Spotify だけではありません - autoevolution
+   原題: CarPlay Has a Music App Issue, and It's Not Just Spotify - autoevolution
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 22 May 2026 04:06:31 GMT
+
+2. iOS 26のCarPlayはビデオ再生機能を約束、最新情報はこちら - 9to5Mac
+   原題: CarPlay in iOS 26 promises video playback feature, here’s the latest - 9to5Mac
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 06 May 2026 07:00:00 GMT
+
+
+[Android Auto]
+1. 次世代の Android を車内で使って、もっと楽しく、もっと楽しく - blog.google
+   原題: Do more and have more fun with the next generation of Android in the car - blog.google
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 12 May 2026 07:00:00 GMT
+
+2. Android Auto 17.0 がユーザーに公開 – 早期に入手する方法は次のとおりです - SlashGear
+   原題: Android Auto 17.0 Is Rolling Out To Users – Here's How You Can Get It Early - SlashGear
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 22 May 2026 15:45:00 GMT
+
+
+[Arduino]
+1. 10種類のクラシックゲームを備えたポケットサイズのArduinoゲームコンソール - Hackster.io
+   原題: Pocket-Sized Arduino Game Console with 10 Classic Games - Hackster.io
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 22 May 2026 12:54:16 GMT
+
+2. クアルコムによるArduinoのサプライズ買収がオープンソースを揺るがす - IEEE Spectrum
+   原題: Qualcomm's Surprise Acquisition of Arduino Shakes Up Open Source - IEEE Spectrum
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 18 Oct 2025 07:00:00 GMT
+
+3. Arduino "Andy" Ceccacci の訃報 - Bagnasco & Calcaterra Funeral Home
+   原題: Obituary information for Arduino "Andy" Ceccacci - Bagnasco & Calcaterra Funeral Home
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 02 Feb 2026 08:00:00 GMT
+
+4. クアルコムの買収後、Arduino は次に何が起こるのでしょうか? - EEタイムズ
+   原題: What Comes Next for Arduino after Qualcomm’s Acquisition? - EE Times
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 22 Dec 2025 08:00:00 GMT
+
+5. Arduino Uno Rev3 ボードを使用する 6 つのホーム オフィス プロジェクト - SlashGear
+   原題: 6 Home Office Projects That Use An Arduino Uno Rev3 Board - SlashGear
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 12 May 2026 07:00:00 GMT
