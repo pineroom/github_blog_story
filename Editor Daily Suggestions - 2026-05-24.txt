@@ -1,0 +1,95 @@
+Editor Daily Suggestion Report
+Generated at: 2026-05-24 08:30:12
+Reference searcher report date: 2026-05-24
+
+[GA4 Top Posts (last 28 days)]
+1. CodexとGitHubの連携環境の作成要領 - シニアオタク (357 PV) /codex-github-integration-1/
+
+2. Android Autoでナビ中にGeminiが使える - シニアオタク (245 PV) /gemini-coming-to-android-auto-1/
+
+3. 最近のAndroid Autoのトラブル（2026年3月） - シニアオタク (221 PV) /recent-android-auto-issues-1/
+
+4. Arduino UNO Qと開発環境 Arduino App Lab - シニアオタク (198 PV) /uno-q-with-arduino-app-lab-1/
+
+5. コントローラのややこしい話 - シニアオタク (128 PV) /controller-gyro-1/
+
+
+[Next Blog Themes]
+1. 記事タイトル案
+OpenAI named a Leader in enterprise coding agents by Gartnerは何に使えるか――AIツールの実用例と失敗しない始め方
+
+テーマ: AI
+想定読者: AIに関心のある読者
+
+記事の狙い:
+既存の高PV記事「Macローカル処理ができるＡＩアプリ比較 - シニアオタク」（59 PV）の読者が次に抱きやすい「どのAI機能を日常作業に取り入れるべきか判断したい」という疑問に答える。単なるニュース紹介ではなく、設定・制限・失敗例まで整理して次に試す行動へつなげる。
+
+記事の概要:
+OpenAI named a Leader in enterprise coding agents by Gartner と How Virgin Atlantic ships faster with Codex の話題を起点に、既存記事「Macローカル処理ができるＡＩアプリ比較 - シニアオタク」からの続編として、日本語環境で実際に困りやすい設定手順、使えないこと、代替策をまとめる。読者が記事を読んだあとに、自分の環境で検証できる状態を目標にする。
+
+主な見出し案:
+- OpenAI named a Leader in enterprise coding agents by Gartnerで何が変わるのか
+- How Virgin Atlantic ships faster with Codexと比較して分かる実用上の違い
+- AIツールを試す前に確認するバージョン・対応条件
+- 設定手順と検証チェックリスト
+- うまく動かない時の原因と代替策
+
+差別化ポイント:
+海外記事は機能紹介で終わることが多いため、既存の人気記事「Macローカル処理ができるＡＩアプリ比較 - シニアオタク」と内部リンクでつなぎ、日本語環境での設定画面、制限、失敗例、代替手段まで踏み込む。読者がそのまま検証できる実用記事にする点で差別化する。
+
+推奨キーワード:
+AI 使い方, AI 実用例, AI 設定 手順, OpenAI named a Leader in enterprise coding agents by Gartner 日本語
+
+
+2. 記事タイトル案
+CarPlayでChatGPT・Gemini・Claudeは使えるか――AIボイス機能の比較と設定ガイド
+
+テーマ: CarPlay
+想定読者: CarPlayに関心のある読者
+
+記事の狙い:
+既存の高PV記事「CodexとGitHubの連携環境の作成要領 - シニアオタク」（357 PV）の読者が次に抱きやすい「車内で使える新機能の設定方法と制限を知りたい」という疑問に答える。単なるニュース紹介ではなく、設定・制限・失敗例まで整理して次に試す行動へつなげる。
+
+記事の概要:
+CarPlay in iOS 26 adds five new ways to customize your setup と CarPlay just gained two new audio apps to keep you entertained on your next trip の話題を起点に、既存記事「CodexとGitHubの連携環境の作成要領 - シニアオタク」からの続編として、日本語環境で実際に困りやすい設定手順、使えないこと、代替策をまとめる。読者が記事を読んだあとに、自分の環境で検証できる状態を目標にする。
+
+主な見出し案:
+- CarPlay in iOS 26 adds five new ways to customize your setupで何が変わるのか
+- CarPlay just gained two new audio apps to keep you entertained on your next tripと比較して分かる実用上の違い
+- CarPlay機能を試す前に確認するバージョン・対応条件
+- 設定手順と検証チェックリスト
+- うまく動かない時の原因と代替策
+
+差別化ポイント:
+海外記事は機能紹介で終わることが多いため、既存の人気記事「CodexとGitHubの連携環境の作成要領 - シニアオタク」と内部リンクでつなぎ、日本語環境での設定画面、制限、失敗例、代替手段まで踏み込む。読者がそのまま検証できる実用記事にする点で差別化する。
+
+推奨キーワード:
+CarPlay AI 設定, CarPlay ChatGPT 使い方, CarPlay Gemini Claude 比較, iOS 26.4 CarPlay 新機能
+
+
+3. 記事タイトル案
+Android Autoの新機能を実用検証――Android Auto is getting massive music app redesigns, starting with these apps [Gallery]で何が便利になるか
+
+テーマ: Android Auto
+想定読者: Android Autoに関心のある読者
+
+記事の狙い:
+既存の高PV記事「Android Autoでナビ中にGeminiが使える - シニアオタク」（245 PV）の読者が次に抱きやすい「新機能を実際の運転環境で便利に使えるか見極めたい」という疑問に答える。単なるニュース紹介ではなく、設定・制限・失敗例まで整理して次に試す行動へつなげる。
+
+記事の概要:
+Android Auto is getting massive music app redesigns, starting with these apps [Gallery] と Android Auto is getting video apps, music updates, and more Gemini smarts の話題を起点に、既存記事「Android Autoでナビ中にGeminiが使える - シニアオタク」からの続編として、日本語環境で実際に困りやすい設定手順、使えないこと、代替策をまとめる。読者が記事を読んだあとに、自分の環境で検証できる状態を目標にする。
+
+主な見出し案:
+- Android Auto is getting massive music app redesigns, starting with these apps [Gallery]で何が変わるのか
+- Android Auto is getting video apps, music updates, and more Gemini smartsと比較して分かる実用上の違い
+- Android Auto機能を試す前に確認するバージョン・対応条件
+- 設定手順と検証チェックリスト
+- うまく動かない時の原因と代替策
+
+差別化ポイント:
+海外記事は機能紹介で終わることが多いため、既存の人気記事「Android Autoでナビ中にGeminiが使える - シニアオタク」と内部リンクでつなぎ、日本語環境での設定画面、制限、失敗例、代替手段まで踏み込む。読者がそのまま検証できる実用記事にする点で差別化する。
+
+推奨キーワード:
+Android Auto Gemini 使い方, Android Auto 音声操作 不安定, Android Auto ショートカット 設定, Android Auto 新機能 2026
+
+
