@@ -1,0 +1,91 @@
+Searcher Daily Report
+Generated at: 2026-05-24 08:01:02
+Removed duplicates (today): 2
+Removed duplicates (7 days): 29
+
+[AI]
+1. ベンチャーキャピタリストのジョン・ドーア氏、AIは史上最大のテクノロジー「津波」だと語る - WSJ
+   原題: Venture Capitalist John Doerr Says AI Is the Biggest Tech ‘Tsunami’ Ever - WSJ
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 23 May 2026 15:00:00 GMT
+
+2. ハリウッドがクロワゼットを幽霊にし、クィア映画がそれを所有し、AIがパーティーを崩壊させる: 2026年のカンヌから得た5つのポイント - The Hollywood Reporter
+   原題: Hollywood Ghosts the Croisette, Queer Cinema Owns It and AI Crashes the Party: Five Takeaways From Cannes 2026 - The Hollywood Reporter
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 23 May 2026 22:24:11 GMT
+
+3. Apple共同創設者、GVSU卒業生は「AI、実際の知能」を持っていると発言して称賛 - デトロイト・ニュース
+   原題: Apple co-founder applauded for saying GVSU graduates have 'AI, Actual Intelligence' - The Detroit News
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 23 May 2026 22:31:14 GMT
+
+4. AI オートメーションにより、より専門的な仕事が生み出される - フォーブス
+   原題: AI Automation Creates More Expert Work Not Less - Forbes
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 23 May 2026 21:53:06 GMT
+
+5. 今年大学卒業式の講演者に人々がブーイングする理由はここにある - USA Today
+   原題: Here's why people are booing college commencement speakers this year - USA Today
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 23 May 2026 18:25:00 GMT
+
+
+[CarPlay]
+1. iOS 26 の CarPlay には、セットアップをカスタマイズするための 5 つの新しい方法が追加されました - 9to5Mac
+   原題: CarPlay in iOS 26 adds five new ways to customize your setup - 9to5Mac
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 15 May 2026 07:00:00 GMT
+
+2. Apple CarPlay ユーザー、音楽ストリーミング時に奇妙な現象が発生 – 現在「調査中」 - t3.com
+   原題: Apple CarPlay users experience weird goings-on when streaming music – now "under investigation" - t3.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 20 May 2026 11:00:00 GMT
+
+
+[Android Auto]
+1. 携帯電話よりも Android Auto で実際にうまく機能する 3 つの Waze 機能 - How-To Geek
+   原題: 3 Waze features that actually work better in Android Auto than on your phone - How-To Geek
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 23 May 2026 14:00:17 GMT
+
+2. トップアプリが再び Android Auto から消え、Google は困惑の表情 - autoevolution
+   原題: Top App Disappears From Android Auto AGAIN, and Google Looks Confused - autoevolution
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 23 May 2026 06:26:49 GMT
+
+3. 3 つの小さな変更で Android Auto の遅延を修正しました - MakeUseOf
+   原題: I fixed Android Auto lag with 3 tiny changes - MakeUseOf
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 22 May 2026 22:00:19 GMT
+
+4. 実際に車内で使用できる 4 つの驚くべき Android Auto アプリ - bgr.com
+   原題: 4 Surprising Android Auto Apps You Can Actually Use In The Car - bgr.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 21 May 2026 19:17:00 GMT
+
+
+[Arduino]
+1. nRF54L15 (Zephyr ベース) 用の Arduino コア - Adafruit
+   原題: An Arduino core for nRF54L15 (Zephyr-based) - Adafruit
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 17 Feb 2026 08:00:00 GMT
+
+2. Arduino Uno Q レビュー: 2 つの頭脳を持つボード - Tom's Hardware
+   原題: Arduino Uno Q Review: The board with two brains - Tom's Hardware
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 09 Dec 2025 08:00:00 GMT
+
+3. Arduino Uno Q 上にクリップボード サーバーを構築したところ、自分が嫌いだと気づいていなかったワークフローが置き換えられました - XDA
+   原題: I built a clipboard server on the Arduino Uno Q, and it replaced a workflow I didn't realize I hated - XDA
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 01 Apr 2026 07:00:00 GMT
+
+4. Arduino が UNO Q、VENTUNO Q アプリ ラボをアップデートし、モジュール作成に「カスタム ブリック」サポートを導入 - Hackster.io
+   原題: Arduino Updates Its UNO Q, VENTUNO Q App Lab to Bring "Custom Bricks" Support for Modular Making - Hackster.io
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 01 May 2026 10:31:15 GMT
+
+5. Qualcomm は Arduino を永久に抹殺したのでしょうか? - アダフルーツ
+   原題: Did Qualcomm kill Arduino for good? - Adafruit
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 21 Nov 2025 08:00:00 GMT
