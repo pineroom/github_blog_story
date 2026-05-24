@@ -1,0 +1,68 @@
+Searcher Daily Report
+Generated at: 2026-05-25 08:01:00
+Removed duplicates (today): 1
+Removed duplicates (7 days): 39
+
+[AI]
+1. 英国の研究所の内部 A.I.に潜む危険を探る- ニューヨーク・タイムズ紙
+   原題: Inside the British Lab Hunting for Dangers Lurking in A.I. - The New York Times
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 24 May 2026 09:01:43 GMT
+
+2. レオ教皇、Anthropic共同創設者とともにAIに立ち向かう - NBCニュース
+   原題: Pope Leo will take on AI alongside an Anthropic co-founder - NBC News
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 24 May 2026 12:00:41 GMT
+
+3. AI の課題に直面しているレオ 14 世は、「人間であるとはどういう意味ですか?」と問いかけています。 - Crux |カトリックの鼓動を受け入れる
+   原題: Facing the AI challenge, Leo XIV is asking, ‘What does it mean to be human?’ - Crux | Taking the Catholic Pulse
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 24 May 2026 19:39:50 GMT
+
+4. レオ教皇、第一回勅でAIに焦点を当てる - Bloomberg.com
+   原題: Watch Pope Leo Focusing on AI in First Encyclical - Bloomberg.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 24 May 2026 00:00:00 GMT
+
+5. 誰もが AI セキュリティをリアルタイムでナビゲートしています - Google も - TechCrunch
+   原題: Everyone is navigating AI security in real time — even Google - TechCrunch
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 24 May 2026 21:39:21 GMT
+
+
+[CarPlay]
+1. Apple CarPlay が ChatGPT およびその他の AI チャットボットのサポートを追加 - mashable.com
+   原題: Apple CarPlay is adding support for ChatGPT and other AI chatbots - mashable.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 24 May 2026 09:00:00 GMT
+
+2. Apple CarPlay で Siri を使用する 7 つの賢い方法 - bgr.com
+   原題: 7 Clever Ways To Use Siri In Apple CarPlay - bgr.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 24 May 2026 18:47:00 GMT
+
+
+[Android Auto]
+1. Android Auto を長距離ドライブ用に最適化したら、もう元には戻れません - Android Police
+   原題: I optimized Android Auto for long drives, and now I can’t go back - Android Police
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 24 May 2026 12:04:24 GMT
+
+2. 私は何ヶ月も Android Auto に苦労していましたが、その修正は誰も話題にしませんでした - How-To Geek
+   原題: I struggled with Android Auto for months, and the fix was something nobody ever talks about - How-To Geek
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 24 May 2026 17:45:18 GMT
+
+3. Android Auto はすべてに適合する 1 つの (画面) サイズになりました - theverge.com
+   原題: Android Auto is now one (screen) size fits all - theverge.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 12 May 2026 07:00:00 GMT
+
+4. Android Auto、大幅なデザイン変更、ウィジェット、より優れた音楽アプリを追加 - SamMobile
+   原題: Android Auto to get a major design change, widgets, better music apps - SamMobile
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 20 May 2026 17:10:00 GMT
+
+
+[Arduino]
+- No new items after dedupe
