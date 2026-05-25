@@ -1,0 +1,101 @@
+Searcher Daily Report
+Generated at: 2026-05-26 08:00:50
+Removed duplicates (today): 1
+Removed duplicates (7 days): 30
+
+[AI]
+1. ローマ法王レオ、AIによるリスクを警告42,300語の回勅 - ニューヨーク・タイムズ
+   原題: Pope Leo Warns of Risks From A.I. in 42,300-Word Encyclical - The New York Times
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 25 May 2026 09:30:42 GMT
+
+2. ポートランド教育委員会の一部が学区の新たなAI課題に対する嫌悪感を表明 - ウィラメットウィーク
+   原題: Some on Portland School Board Express Distaste for District’s Emerging AI Agenda - Willamette Week
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 25 May 2026 22:28:05 GMT
+
+3. レオ教皇、AIの武装解除を求める「マニフィカ・ヒューマニタス」を発表 - バチカン・ニュース
+   原題: Pope Leo presents 'Magnifica humanitas’ calling for disarmament of AI - Vatican News
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 25 May 2026 11:30:24 GMT
+
+4. この大きな大学システムは AI を採用しています。学生も教員も全員が参加しているわけではない - NPR
+   原題: This big university system is embracing AI. Students and faculty aren't all on board - NPR
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 25 May 2026 09:00:00 GMT
+
+5. 教皇、支配、排除、死を防ぐためにAIの「武装解除」が必要と発言 - アルジャジーラ
+   原題: Pope says AI must be ‘disarmed’ to prevent domination, exclusion, and death - Al Jazeera
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 25 May 2026 16:30:24 GMT
+
+
+[CarPlay]
+1. YouTube Music の登場で、CarPlay が再び 2005 年のように感じられました。嫌いな理由はここにあります - PhoneArena
+   原題: YouTube Music just made CarPlay feel like 2005 again: here's why you'd hate it - PhoneArena
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 25 May 2026 06:49:53 GMT
+
+2. CarPlay が Android Auto からできるだけ早くコピーしなければならない 1 つの大きな機能 - autoevolution
+   原題: The One Big Feature CarPlay Must Copy From Android Auto ASAP - autoevolution
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 25 May 2026 10:29:33 GMT
+
+3. ChatGPT と Perplexity AI を CarPlay 音声アシスタントとしてテストしました - どちらも Siri の見た目を悪くしました - ZDNET
+   原題: I tested ChatGPT and Perplexity AI as my CarPlay voice assistants - both made Siri look bad - ZDNET
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 03 May 2026 07:00:00 GMT
+
+4. Apple CarPlay は最新の iOS 26.4 アップデートで 2 つの新機能を追加しましたが、最大の新機能はまだ開発中です - supercarblondie.com
+   原題: Apple CarPlay just got two new features in the latest iOS 26.4 update but the biggest new addition is still on its way - supercarblondie.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 25 May 2026 07:58:00 GMT
+
+5. Apple CarPlayでSiriを使う7つの賢い方法 - Yahoo Autos
+   原題: 7 Clever Ways To Use Siri In Apple CarPlay - Yahoo Autos
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 24 May 2026 18:47:00 GMT
+
+
+[Android Auto]
+1. Android Auto で Gemini を最大限に活用するために、これらのヒントとテクニックを使用します - Android Police
+   原題: I use these tips and tricks to get the best out of Gemini in Android Auto - Android Police
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 25 May 2026 12:30:11 GMT
+
+2. Android Auto はすべてに適合する 1 つの (画面) サイズになりました - The Verge
+   原題: Android Auto is now one (screen) size fits all - The Verge
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 12 May 2026 07:00:00 GMT
+
+3. Android Auto にビデオ アプリ、音楽アップデートなどが追加される Gemini のスマートな機能 - 9to5Google
+   原題: Android Auto is getting video apps, music updates, and more Gemini smarts - 9to5Google
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 12 May 2026 07:00:00 GMT
+
+4. Android Auto の未来を見たが、今では Google のせいで自分の車が怖くなった - ZDNET
+   原題: I saw the future of Android Auto, and now Google has me dreading my own car - ZDNET
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 25 May 2026 09:00:00 GMT
+
+5. Android Auto の未来を見たが、今では Google のせいで自分の車が怖くなった - The Tech Buzz
+   原題: I saw the future of Android Auto, and now Google has me dreading my own car - The Tech Buzz
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 25 May 2026 09:37:00 GMT
+
+
+[Arduino]
+1. YouTuber が自律走行する 7 倍大きい Arduino カメ ボットを構築 - 興味深いエンジニアリング
+   原題: YouTuber builds 7 times larger Arduino tortoise bot that still navigates autonomously - Interesting Engineering
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 17 May 2026 21:22:00 GMT
+
+2. Arduino "Andy" Ceccacci の訃報 - Bagnasco & Calcaterra Funeral Homes
+   原題: Obituary information for Arduino "Andy" Ceccacci - Bagnasco & Calcaterra Funeral Homes
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 02 Feb 2026 08:00:00 GMT
+
+3. Arduino、ロボット工学などのための高性能 SBC VENTUNO Q で 21 周年を祝う - Hackster.io
+   原題: Arduino Celebrates Turning 21 with the VENTUNO Q, a High-Performance SBC for Robotics and More - Hackster.io
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 09 Mar 2026 11:55:19 GMT
