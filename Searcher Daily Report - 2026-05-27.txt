@@ -1,0 +1,91 @@
+Searcher Daily Report
+Generated at: 2026-05-27 08:01:06
+Removed duplicates (today): 0
+Removed duplicates (7 days): 32
+
+[AI]
+1. レオ教皇のAIへの取り組みを理解するには、握手をする男性を見てみよう - ニューヨーク・タイムズ
+   原題: To Understand Pope Leo’s Efforts on A.I., Look at the Man Shaking His Hand - The New York Times
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 26 May 2026 09:02:29 GMT
+
+2. ガンダルフ、ピカソ、MLK：文化的言及によりレオ法王のAI警告は根拠となる - NBCニュース
+   原題: Gandalf, Picasso and MLK: Cultural references ground Pope Leo’s AI warning - NBC News
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 26 May 2026 16:49:32 GMT
+
+3. AIに1990年代を憧れる人は多い - Bloomberg.com
+   原題: AI Has a Lot of People Yearning for the 1990s - Bloomberg.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 26 May 2026 21:25:46 GMT
+
+4. AI の時代に自分本来のアイデンティティを維持する 4 つの方法 - Forbes
+   原題: 4 Ways To Maintain Your Authentic Identity In The Age Of AI - Forbes
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 26 May 2026 22:18:56 GMT
+
+5. AI推論プロバイダーBaseten、評価額110億ドルで10億ドル調達交渉中 - 情報
+   原題: AI Inference Provider Baseten in Talks to Raise $1 Billion at $11 Billion Valuation - The Information
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 26 May 2026 22:09:00 GMT
+
+
+[CarPlay]
+1. Grok の音声モードが Apple CarPlay に登場 - Mashable
+   原題: Grok's voice mode comes to Apple CarPlay - Mashable
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 08 May 2026 07:00:00 GMT
+
+2. 「何年も Siri を使ってきたが、おしゃべりな自動車 AI アシスタントには少し当惑させられる」 - CarPlay で ChatGPT を試してみた - TechRadar
+   原題: 'After years of Siri, a talkative car AI assistant feels a little disconcerting' – I tried ChatGPT on CarPlay - TechRadar
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 07 Apr 2026 07:00:00 GMT
+
+
+[Android Auto]
+1. 私がほぼ毎日使っている 3 つの便利なサイドロード Android Auto アプリ - XDA
+   原題: 3 useful sideloaded Android Auto apps I use almost every day - XDA
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 26 May 2026 15:30:21 GMT
+
+2. Android Auto は 1 月に Google マップのトップ機能を失い、ユーザーは助けを求める - autoevolution
+   原題: Android Auto Lost a Top Google Maps Feature in January, Users Begging for Help - autoevolution
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 25 May 2026 03:57:45 GMT
+
+3. Googleの新しいAndroid Autoトリックは最後尾の2車線パニックからあなたを救う可能性がある - Android Police
+   原題: Google's new Android Auto trick could save you from last-second lane panic - Android Police
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 26 May 2026 15:15:11 GMT
+
+4. 新しい Android Auto アップデートがすべてのユーザーに利用可能になり、新しい大きな機能が間もなく登場します - autoevolution
+   原題: New Android Auto Update Now Available for All Users, a New Big Feature Is Almost Here - autoevolution
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 07 May 2026 07:00:00 GMT
+
+5. Android Auto アップデートにより、運転がより簡単かつ安全になります。何が変わるのか - USA Today
+   原題: Android Auto update makes driving easier, safer. What changes - USA Today
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 18 May 2026 07:00:00 GMT
+
+
+[Arduino]
+1. Zephyr Work の Arduino コアが新たなマイルストーンに到達、6 月にベータ版を終了する準備を整える - Hackster.io
+   原題: Arduino Core on Zephyr Work Hits a New Milestone, Prepares to Exit Beta in June - Hackster.io
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 18 May 2026 11:22:30 GMT
+
+2. クアルコムはArduinoを永久に抹殺したのでしょうか？ - アダフルーツ・インダストリーズ
+   原題: Did Qualcomm kill Arduino for good? - Adafruit Industries
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 21 Nov 2025 08:00:00 GMT
+
+3. Arduino、電子ペーパーディスプレイ、Google反重力を使用してE-Inkフォトフレームを構築しました - How-To Geek
+   原題: I built an E-Ink photo frame using an Arduino, E-Paper display and Google Antigravity - How-To Geek
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 30 Nov 2025 08:00:00 GMT
+
+4. nRF54L15 用 Arduino コア (Zephyr ベース) - Adafruit Industries
+   原題: An Arduino core for nRF54L15 (Zephyr-based) - Adafruit Industries
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 17 Feb 2026 08:00:00 GMT
