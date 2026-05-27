@@ -1,0 +1,111 @@
+Searcher Daily Report
+Generated at: 2026-05-28 08:01:12
+Removed duplicates (today): 0
+Removed duplicates (7 days): 29
+
+[AI]
+1. 視聴者とクリエイターのための AI ラベルの改善 - YouTube 公式ブログ
+   原題: Improving AI labels for viewers and creators - YouTube Official Blog
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 27 May 2026 13:21:16 GMT
+
+2. YouTube、AI 生成動画に自動的にラベルを付け、ラベルを強化 - Variety
+   原題: YouTube to Automatically Label AI-Generated Videos & Enhance Labels - Variety
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 27 May 2026 13:00:00 GMT
+
+3. YouTube、リアルな動画が AI によって作成されたものであることを明らかにする措置を講じる - CBS ニュース
+   原題: YouTube taking steps to make clear when realistic videos are made by AI - CBS News
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 27 May 2026 21:10:00 GMT
+
+4. 意見 | 370,000 の大学エッセイが創造性に対する A.I. の影響について語る - ニューヨーク・タイムズ
+   原題: Opinion | What 370,000 College Essays Tell Us About A.I.’s Effects on Creativity - The New York Times
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 27 May 2026 09:02:01 GMT
+
+5. メタ、月額7.99ドルの最安プランでAIサブスクリプションサービスのテストを開始 - CNBC
+   原題: Meta to start testing AI subscription services, with cheapest plan at $7.99 a month - CNBC
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 27 May 2026 19:54:47 GMT
+
+
+[CarPlay]
+1. すべての Apple CarPlay ユーザーが知っておくべき 10 のハック - ライフハッカー
+   原題: 10 Hacks Every Apple CarPlay User Should Know - Lifehacker
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 21 Apr 2026 07:00:00 GMT
+
+2. Spotify、間違った曲情報を表示させる CarPlay のバグを確認 - 9to5Mac
+   原題: Spotify confirms CarPlay bug causing wrong song info to appear - 9to5Mac
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 19 May 2026 07:00:00 GMT
+
+3. CarPlay がこれら 3 つのトップ AI チャットボット アプリと連携できるようになりました - 9to5Mac
+   原題: CarPlay now works with these three top AI chatbot apps - 9to5Mac
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 08 May 2026 07:00:00 GMT
+
+4. Apple によると、CarPlay Ultra がこれらの車に搭載されると発表 - 9to5Mac
+   原題: CarPlay Ultra coming to these cars, according to Apple - 9to5Mac
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 04 May 2026 07:00:00 GMT
+
+5. 迷惑な Spotify CarPlay のバグにより、間違った曲のタイトルが表示される - XDA
+   原題: An annoying Spotify CarPlay bug is causing the wrong song titles to be displayed - XDA
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 24 May 2026 14:57:23 GMT
+
+
+[Android Auto]
+1. Android Auto により携帯電話が過熱しますか?クールダウンする 8 つの方法を試してください - ZDNET
+   原題: Does Android Auto make your phone overheat? Try these 8 ways to cool it down - ZDNET
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 27 May 2026 08:00:00 GMT
+
+2. Android Auto 次世代 2026 アップデート-5 - Paul Tan
+   原題: Android Auto next generation 2026 update-5 - Paul Tan
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 25 May 2026 10:03:18 GMT
+
+3. これら 3 つの Android Auto アプリは魅力的ではありませんが、どの音楽アプリよりも時間を節約できました - MakeUseOf
+   原題: These 3 Android Auto apps aren't glamorous — but they've saved me more time than any music app - MakeUseOf
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 27 May 2026 19:00:19 GMT
+
+4. エドマンズ氏によると、2026 年に購入できる最も安価な新車トップ 5 は次のとおりです - WHEC.com
+   原題: These are the five least expensive new cars you can buy in 2026, according to Edmunds - WHEC.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 27 May 2026 15:19:25 GMT
+
+5. 私の Galaxy スマートフォンを完全に変えた Samsung ルーティンの 5 つの方法 - Android Authority
+   原題: 5 ways I'm using Samsung Routines that have completely changed my Galaxy phone - Android Authority
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 27 May 2026 10:33:30 GMT
+
+
+[Arduino]
+1. 3 台の Arduino がチームを組んで 80 年代スタイルのコンピューターを作成 - ハッカデイ
+   原題: Three Arduinos Team Up To Make 80s-Style Computer - Hackaday
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 27 May 2026 15:30:00 GMT
+
+2. Arduino UNO QとEdge Impulseを使用した顔追従ロボット - Hackster.io
+   原題: Face-following robot with Arduino UNO Q and Edge Impulse - Hackster.io
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 27 May 2026 21:11:15 GMT
+
+3. Arduino では何人の従業員が働いていますか? - レベリオ研究所
+   原題: How many employees work at Arduino? - Revelio Labs
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 15 Apr 2026 07:13:26 GMT
+
+4. Arduino と Qualcomm が Hackster の 2026 年最初の開発者コンテストを開始 世界的なコンテストが 300 台の Arduino UNO Q ボードとエッジ AI イノベーションを紹介する機会で開幕 - PR Newswire
+   原題: Arduino and Qualcomm Launch Hackster's First Developer Contest of 2026 Global Competition Kicks Off With 300 Arduino UNO Q Boards and Opportunities to Showcase Edge AI Innovation - PR Newswire
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 04 Mar 2026 08:00:00 GMT
+
+5. 24ドルのArduinoボードで実現できる3つのスマートホームアップグレード - How-To Geek
+   原題: 3 smart home upgrades you can make with a $24 Arduino board - How-To Geek
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 18 May 2026 07:00:00 GMT
