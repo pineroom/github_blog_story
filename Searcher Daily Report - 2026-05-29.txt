@@ -1,0 +1,111 @@
+Searcher Daily Report
+Generated at: 2026-05-29 08:00:53
+Removed duplicates (today): 2
+Removed duplicates (7 days): 25
+
+[AI]
+1. A.I.で家を売ってみた- ニューヨーク・タイムズ紙
+   原題: I Tried to Sell My House With A.I. - The New York Times
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 28 May 2026 20:22:27 GMT
+
+2. Apple、iOS 27 Siri、AI機能を全面的に刷新へ：最初の概要はこちら - Bloomberg.com
+   原題: Apple to Overhaul iOS 27 Siri, AI Features: Here's a First Peek - Bloomberg.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 28 May 2026 12:10:02 GMT
+
+3. AI ステッカーの衝撃がアメリカ企業を襲う - Axios
+   原題: AI sticker shock hits corporate America - Axios
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 28 May 2026 09:19:21 GMT
+
+4. ジム・クレイマー氏、これら3つの間違いが投資家をAI勝者から遠ざけていると語る - CNBC
+   原題: Jim Cramer says these 3 mistakes are keeping investors out of AI winners - CNBC
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 28 May 2026 22:28:55 GMT
+
+5. ポール・シュレイダー氏、AI映画スターが間もなく登場すると確信 - The Hollywood Reporter
+   原題: Paul Schrader Is Convinced AI Movie Stars Are Coming Soon - The Hollywood Reporter
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 28 May 2026 22:02:54 GMT
+
+
+[CarPlay]
+1. Rivian のソフトウェア責任者は、CarPlay もボタンも必要ないと考えている - The Verge
+   原題: Rivian’s software chief thinks you don’t need CarPlay or buttons - The Verge
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 28 May 2026 14:00:00 GMT
+
+2. リビアン氏、AI によって CarPlay に関する議論は「完全に時代遅れ」になったと語る - 9to5Mac
+   原題: Rivian says AI makes debate over CarPlay ‘completely obsolete’ - 9to5Mac
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 28 May 2026 15:02:00 GMT
+
+3. Rivian ソフトウェア責任者、AI の世界では Apple CarPlay と Android Auto は不要だと語る - The Drive
+   原題: Rivian Software Chief Says Apple CarPlay and Android Auto Are Redundant in the World of AI - The Drive
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 28 May 2026 19:52:05 GMT
+
+4. Rivian氏、CarPlay議論が「完全に時代遅れ」になる理由を説明 - MacRumors
+   原題: Rivian Explains Why CarPlay Debate Will Become 'Completely Obsolete' - MacRumors
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 28 May 2026 16:48:23 GMT
+
+5. CarPlay に、次の旅行で楽しめる 2 つの新しいオーディオ アプリが追加されました - 9to5Mac
+   原題: CarPlay just gained two new audio apps to keep you entertained on your next trip - 9to5Mac
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 14 May 2026 07:00:00 GMT
+
+
+[Android Auto]
+1. Android Auto の再設計を試してみました。Gemini はここが優れています [ビデオ] - 9to5Google
+   原題: I tried the Android Auto redesign and more Gemini is good here [Video] - 9to5Google
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 28 May 2026 16:15:00 GMT
+
+2. Android Auto の新しいスワイプ コントロールにより、音楽アプリの切り替えがより安全かつ迅速になります - Android Police
+   原題: Android Auto's new swipe control makes switching music apps safer and faster - Android Police
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 28 May 2026 09:54:33 GMT
+
+3. 私は iPhone ユーザーですが、Android Auto を搭載した Gemini は車の中でいつでも Siri に勝ります - これが理由です - ZDNET
+   原題: I'm an iPhone user, but Gemini with Android Auto beats Siri in the car any day - here's why - ZDNET
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 28 May 2026 12:31:00 GMT
+
+4. 次回のドライブ旅行に強くお勧めする 4 つの Android Auto アプリ - マップや Spotify を超えて - ZDNET
+   原題: 4 Android Auto apps I highly recommend for your next road trip - beyond Maps and Spotify - ZDNET
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 28 May 2026 11:55:00 GMT
+
+5. Google、2026 年の大型アップデートに先立って未発表の Android Auto 機能の展開を開始 - autoevolution
+   原題: Google Starts Rolling Out an Unannounced Android Auto Feature Ahead of Its Big 2026 Update - autoevolution
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 28 May 2026 08:45:05 GMT
+
+
+[Arduino]
+1. Arduino Nano で DS18B20 温度センサーを使用する - Hackster.io
+   原題: Using the DS18B20 temperature sensor with Arduino Nano - Hackster.io
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 28 May 2026 01:44:14 GMT
+
+2. Arduino が Zephyr で進歩 - i-programmer.info
+   原題: Arduino Makes Progress On Zephyr - i-programmer.info
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 18 May 2026 07:00:00 GMT
+
+3. クアルコムの最新 AI プレイ: メーカーの夢を株主価値に変える - Adafruit
+   原題: Qualcomm’s Latest AI Play: Turning Maker Dreams into Shareholder Value - Adafruit
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 07 Oct 2025 07:00:00 GMT
+
+4. PowerPD — ESP32 USB-C PD/PPS プログラマブル電源 - Hackster.io
+   原題: PowerPD — ESP32 USB-C PD/PPS Programmable Power Supply - Hackster.io
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 28 May 2026 01:44:14 GMT
+
+5. プロジェクト #15: 環境 - 一酸化炭素センサー MQ7 - Mk39 - Hackster.io
+   原題: Project #15: Environment - Carbon Monoxide Sensor MQ7 - Mk39 - Hackster.io
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 27 May 2026 22:08:10 GMT
