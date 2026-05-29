@@ -1,0 +1,96 @@
+Searcher Daily Report
+Generated at: 2026-05-30 08:01:02
+Removed duplicates (today): 3
+Removed duplicates (7 days): 25
+
+[AI]
+1. Nvidiaの200億ドルの不買収の後、AIチップスタートアップGroqが6億5000万ドルを調達したと報じられている - TechCrunch
+   原題: After Nvidia’s $20B not-acqui-hire, AI chip startup Groq reportedly raising $650M - TechCrunch
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 29 May 2026 17:27:13 GMT
+
+2. Nvidia は、AI 業界を変える可能性のあるこの新興テクノロジーに数十億ドルを投資しています - CNBC
+   原題: Nvidia is investing billions into this emerging technology that could change the AI industry - CNBC
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 29 May 2026 05:00:02 GMT
+
+3. Nvidia は今後も AI の中核エンジンであり続ける、とアナリストは語る。さらに、ウォルマートとその他 4 銘柄。 - バロンズ
+   原題: Nvidia Continues to Be the Core Engine of AI, Says Analyst. Plus, Walmart and 4 More Stocks. - Barron's
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 29 May 2026 22:25:00 GMT
+
+4. A.I.レイオフを意味する必要はない - ニューヨーク・タイムズ
+   原題: A.I. Doesn’t Have to Mean Layoffs - The New York Times
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 29 May 2026 09:11:19 GMT
+
+5. AI データセンターが一時的なブルーカラーの雇用を創出 - CBS ニュース
+   原題: AI data centers creating temporary blue-collar jobs surge - CBS News
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 29 May 2026 22:26:00 GMT
+
+
+[CarPlay]
+1. リビアン氏、Apple CarPlayを巡る争いはAIのおかげで「完全に時代遅れ」だと語る - InsideEVs
+   原題: Rivian Says Fight Over Apple CarPlay Is 'Completely Obsolete' Thanks To AI - InsideEVs
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 29 May 2026 17:45:00 GMT
+
+2. Rivian のソフトウェア責任者は、CarPlay と Android Auto が対話型 AI エージェントに置き換えられると考えていますが、それは愚かなことだと思います - The Autopian
+   原題: Rivian's Head Of Software Thinks CarPlay And Android Auto Will Be Replaced With AI Agents You Talk To And I Think That's Stupid - The Autopian
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 29 May 2026 18:20:58 GMT
+
+3. リビアン氏、AI が Apple CarPlay 論争を「時代遅れ」にするだろうと語る - Motor1.com
+   原題: Rivian Says AI Will Make The Apple CarPlay Debate 'Obsolete' - Motor1.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 29 May 2026 17:00:37 GMT
+
+4. 大手自動車メーカー、Apple CarPlayについて「完全に時代遅れ」と語る – すべては共通の傾向のおかげ - t3.com
+   原題: "Completely obsolete" says major car manufacturer about Apple CarPlay – all thanks to a common trend - t3.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 29 May 2026 11:00:00 GMT
+
+5. Rivian 氏は、顧客が Android Auto ではなく AI を望んでいることを確信しています - Android Authority
+   原題: Rivian is pretty sure customers want AI, not Android Auto - Android Authority
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 29 May 2026 15:00:40 GMT
+
+
+[Android Auto]
+1. これらの変更を加えて、Android Auto の最大の煩わしさを解決しました - Android Police
+   原題: I fixed my biggest Android Auto annoyances by making these changes - Android Police
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 29 May 2026 12:00:10 GMT
+
+2. Android Auto にメディア切り替えをより簡単にする新機能が追加されました - bgr.com
+   原題: Android Auto Just Got A New Feature That Will Make Media Switching Way Easier - bgr.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 29 May 2026 15:32:40 GMT
+
+3. Android Auto で Gemini を 2 か月間使用してきましたが、毎日のドライブが 4 つの方法で変わりました - ZDNET
+   原題: I've used Gemini in Android Auto for 2 months now, and it's transformed my daily drive in 4 ways - ZDNET
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 29 May 2026 15:26:00 GMT
+
+4. リビアン: Apple CarPlay と Android Auto は侵略的すぎる、AI が (今後の) 解決策となる - autoevolution
+   原題: Rivian: Apple CarPlay and Android Auto Are Too Invasive, AI Is the (Upcoming) Solution - autoevolution
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 29 May 2026 10:52:14 GMT
+
+5. さまざまな Android Auto 天気アプリを試しました - この 3 つは私のような嵐オタクに最適です - ZDNET
+   原題: I tried different Android Auto weather apps - these 3 are best for storm nerds like me - ZDNET
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 29 May 2026 12:01:00 GMT
+
+
+[Arduino]
+1. クアルコムによるArduinoのサプライズ買収がオープンソースを揺るがす - IEEE Spectrum
+   原題: Qualcomm's Surprise Acquisition of Arduino Shakes Up Open Source - IEEE Spectrum
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 18 Oct 2025 07:00:00 GMT
+
+2. クアルコムの買収後、Arduino は次に何が起こるのでしょうか? - EEタイムズ
+   原題: What Comes Next for Arduino after Qualcomm’s Acquisition? - EE Times
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 22 Dec 2025 08:00:00 GMT
