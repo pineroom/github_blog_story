@@ -1,0 +1,86 @@
+Searcher Daily Report
+Generated at: 2026-05-31 08:00:55
+Removed duplicates (today): 3
+Removed duplicates (7 days): 34
+
+[AI]
+1. 意見 |アメリカ初のA.I.高校は素晴らしいです。しかし、AI のせいではありません。 - ニューヨーク・タイムズ紙
+   原題: Opinion | America’s First A.I. High School Is Great. But Not Because of A.I. - The New York Times
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 30 May 2026 11:00:09 GMT
+
+2. 「熊手はここにある」: 億万長者は AI のポピュリストの反乱を封じ込めるために取り組んでいます - Axios
+   原題: "The pitchforks are here": Billionaires work to contain AI's populist revolt - Axios
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 30 May 2026 08:06:01 GMT
+
+3. NTSB はコックピットの音声録音を秘密にしようとしています。 AI がそれを難し​​くしている - NPR
+   原題: The NTSB tries to keep cockpit audio recordings private. AI is making that harder - NPR
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 30 May 2026 10:00:00 GMT
+
+4. ウクライナ、AIドローンを活用しロシア軍に物資を供給する重要な輸送船団を攻撃 - BBC
+   原題: Ukraine using AI drones to strike vital convoys supplying Russian troops - BBC
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 30 May 2026 01:34:38 GMT
+
+5. コスト高騰でアメリカ企業がAIの導入を本格化 - WSJ
+   原題: Corporate America Is Starting to Ration AI as Cost Skyrockets - WSJ
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 29 May 2026 01:00:00 GMT
+
+
+[CarPlay]
+1. こんなことも許されるべきなのでしょうか？運転中でもライブ歌詞が CarPlay に表示されるようになりました - autoevolution
+   原題: Should This Even Be Allowed? Live Lyrics Now Shown on CarPlay, Even While Driving - autoevolution
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 30 May 2026 03:42:55 GMT
+
+2. 6 つの人気の iPhone アプリが CarPlay で利用可能に - MacRumors
+   原題: Six Popular iPhone Apps Now Available on CarPlay - MacRumors
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 14 May 2026 07:00:00 GMT
+
+
+[Android Auto]
+1. Android Auto でメディア アプリの切り替えの煩わしさが大幅に軽減されました - Android Authority
+   原題: Android Auto just made switching media apps way less annoying - Android Authority
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 28 May 2026 03:16:35 GMT
+
+2. ほとんどの Android Auto アプリは役に立ちませんが、これら 4 つは必須です - How-To Geek
+   原題: Most Android Auto apps are useless, but these 4 are essential - How-To Geek
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 30 May 2026 14:15:18 GMT
+
+3. Android Auto の 2026 年の大改造は Gemini が最も実用的 - Engadget
+   原題: Android Auto's Big 2026 Makeover Is Gemini At Its Most Practical - Engadget
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 20 May 2026 07:00:00 GMT
+
+4. Android Auto による携帯電話の過熱を止めた方法 - 試してみたい 8 つのトリック - ZDNET
+   原題: How I stopped Android Auto from overheating my phone - 8 tricks to try - ZDNET
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 30 May 2026 08:00:00 GMT
+
+
+[Arduino]
+1. 非協力的なミラーは役に立たない - ハッカデイ
+   原題: The Uncooperative Mirror Will Not Help You - Hackaday
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 30 May 2026 17:00:00 GMT
+
+2. Arduboy FX-C は、持ち歩いていることを忘れてしまうほど優れた時間つぶしツールです - The Verge
+   原題: The Arduboy FX-C is an excellent time killer you might forget you’re carrying - The Verge
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 30 May 2026 14:00:00 GMT
+
+3. Arduino "Andy" Ceccacci の訃報 - Bagnasco & Calcaterra Funeral Home
+   原題: Obituary information for Arduino "Andy" Ceccacci - Bagnasco & Calcaterra Funeral Home
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 02 Feb 2026 08:00:00 GMT
+
+4. Arduino Days 2026 に参加するチャンス - Hackster.io
+   原題: Your Chance to Become Part of Arduino Days 2026 - Hackster.io
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 27 Mar 2026 07:00:00 GMT
