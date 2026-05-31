@@ -1,0 +1,101 @@
+Searcher Daily Report
+Generated at: 2026-06-01 08:00:59
+Removed duplicates (today): 3
+Removed duplicates (7 days): 28
+
+[AI]
+1. 私はセレブのプロファイリングを生業としています。ティリー・ノーウッドへの準備は何もできませんでした。 - ニューヨーク・タイムズ紙
+   原題: I Profile Celebrities for a Living. Nothing Prepared Me for Tilly Norwood. - The New York Times
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 31 May 2026 09:00:57 GMT
+
+2. 私たちのテクノロジーの覇者たちは、意識を持ったAIが宇宙を征服することを計画しています。何が問題になる可能性がありますか? |エドゥアルド・ポーター - ガーディアン紙
+   原題: Our tech overlords are planning for conscious AI to conquer the cosmos. What could go wrong? | Eduardo Porter - The Guardian
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 31 May 2026 13:01:00 GMT
+
+3. ファクトチェック：ケネディセンターからトランプ氏の名前が削除されたAIビデオは本物ではない - Yahoo!ショッピング
+   原題: Fact Check: AI Video Of Trump's Name Being Removed From Kennedy Center Is NOT Real - Yahoo
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 31 May 2026 21:38:34 GMT
+
+4. ドライブレコーダーを超えて: Motive Edge AI が車両の新たな未来を切り開く - Forbes
+   原題: Beyond Dashcams: Motive Edge AI Unlocks New Future For Fleet Vehicles - Forbes
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 31 May 2026 21:46:44 GMT
+
+5. あらゆる企業が避けようと急いでいる AI による 5 億ドルの間違い - inc.com
+   原題: The $500 Million AI Mistake Every Company Is Rushing to Avoid - inc.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 31 May 2026 22:33:52 GMT
+
+
+[CarPlay]
+1. Google、CarPlay ユーザーを Spotify に誘導しそうになった YouTube Music のバグを修正 - autoevolution
+   原題: Google Fixes the YouTube Music Bug That Almost Pushed CarPlay Users to Spotify - autoevolution
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 30 May 2026 04:09:58 GMT
+
+2. リビアン氏は、Apple CarPlay はすでに時代遅れであり、その理由は AI であると考えています - Digital Trends
+   原題: Rivian thinks Apple CarPlay is already obsolete and AI is the reason why - Digital Trends
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 31 May 2026 01:53:44 GMT
+
+3. iOS 26 で CarPlay をカスタマイズする方法: すべての iPhone ユーザーが知っておくべき 18 の設定 - The Mac Observer
+   原題: How to Customize CarPlay on iOS 26: 18 Settings Every iPhone User Should Know - The Mac Observer
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 31 May 2026 14:23:51 GMT
+
+
+[Android Auto]
+1. Android Auto 17.0 がすべての Android ユーザーに利用可能に - autoevolution
+   原題: Android Auto 17.0 Now Available for All Android Users - autoevolution
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 31 May 2026 13:45:06 GMT
+
+2. Gemini で Android Auto を 2 か月間使用してきました - 私のドライブは 4 つの方法で変わりました - ZDNET
+   原題: I've used Android Auto with Gemini for 2 months now - it's transformed my drives in 4 ways - ZDNET
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 31 May 2026 14:00:00 GMT
+
+3. これら 3 つの Android Auto アプリは、インターネットが不安定な場合でも動作します - MakeUseOf
+   原題: These 3 Android Auto apps still work even when the internet gets spotty - MakeUseOf
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 31 May 2026 14:00:18 GMT
+
+4. 次世代の Android を車内で使って、もっと楽しく、もっと楽しく - blog.google
+   原題: Do more and have more fun with the next generation of Android in the car - blog.google
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 12 May 2026 07:00:00 GMT
+
+5. Android Auto がついに音楽アプリ間の切り替えをより簡単に - The Indian Express
+   原題: Android Auto finally makes switching between music apps much easier - The Indian Express
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 31 May 2026 04:16:00 GMT
+
+
+[Arduino]
+1. Arduino Uno Q レビュー: 2 つの頭脳を持つボード - Tom's Hardware
+   原題: Arduino Uno Q Review: The board with two brains - Tom's Hardware
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 09 Dec 2025 08:00:00 GMT
+
+2. nRF54L15 (Zephyr ベース) 用の Arduino コア - Adafruit
+   原題: An Arduino core for nRF54L15 (Zephyr-based) - Adafruit
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 17 Feb 2026 08:00:00 GMT
+
+3. Adafruit：Arduinoのルールは「オープンソースと互換性がない」 - 新しいスタック
+   原題: Adafruit: Arduino’s Rules Are ‘Incompatible With Open Source’ - The New Stack
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 14 Dec 2025 08:00:00 GMT
+
+4. Arduino が UNO Q、VENTUNO Q アプリ ラボをアップデートし、モジュール作成に「カスタム ブリック」サポートを導入 - Hackster.io
+   原題: Arduino Updates Its UNO Q, VENTUNO Q App Lab to Bring "Custom Bricks" Support for Modular Making - Hackster.io
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 01 May 2026 12:01:41 GMT
+
+5. Arduino UNO用のLinux風のOS - Hackster.io
+   原題: A Linux-Like OS for the Arduino UNO - Hackster.io
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 23 Apr 2026 15:26:03 GMT
