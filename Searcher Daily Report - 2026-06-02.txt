@@ -1,0 +1,86 @@
+Searcher Daily Report
+Generated at: 2026-06-02 08:01:00
+Removed duplicates (today): 2
+Removed duplicates (7 days): 31
+
+[AI]
+1. アルファベット、AI開発資金として株式売却で800億ドルを調達予定 - CNBC
+   原題: Alphabet plans to raise $80 billion from stock sales to fund AI buildout - CNBC
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 01 Jun 2026 21:01:05 GMT
+
+2. アルファベット、AI構築資金として800億ドルを求める - Axios
+   原題: Alphabet seeks $80 billion to fund AI buildout - Axios
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 01 Jun 2026 21:26:09 GMT
+
+3. アルファベット、AI構築費用として800億ドルを調達予定 - TechCrunch
+   原題: Alphabet plans to raise $80 billion to pay for AI buildout - TechCrunch
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 01 Jun 2026 22:55:09 GMT
+
+4. 大学システムが AI に全力を尽くした今、それは自らを引き裂きつつあります。 - ニューヨーク・タイムズ紙
+   原題: A University System Went All In on A.I. Now It’s Tearing Itself Apart. - The New York Times
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 01 Jun 2026 09:01:43 GMT
+
+5. ハッカーはメタ AI に、知名度の高い Instagram アカウントへのアクセスを許可するよう要求しただけです。うまくいきました - 404 メディア
+   原題: Hackers Simply Asked Meta AI to Give Them Access to High-Profile Instagram Accounts. It Worked - 404 Media
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 01 Jun 2026 17:33:08 GMT
+
+
+[CarPlay]
+1. ChatGPT と Perplexity AI を CarPlay 音声アシスタントとしてテストしました - どちらも Siri の見た目を悪くしました - ZDNET
+   原題: I tested ChatGPT and Perplexity AI as my CarPlay voice assistants - both made Siri look bad - ZDNET
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 03 May 2026 07:00:00 GMT
+
+2. Rivian は AI が CarPlay を不要に感じさせることができると賭けている - Startup Fortune
+   原題: Rivian is betting AI can make CarPlay feel unnecessary - Startup Fortune
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 30 May 2026 23:34:05 GMT
+
+
+[Android Auto]
+1. この洗練された Android Auto 画面は、わずか 40 ドルで無視するのは難しい - Android Police
+   原題: This sleek Android Auto screen is hard to ignore at just $40 - Android Police
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 01 Jun 2026 11:33:12 GMT
+
+2. これら 6 つのバッテリーキラーを無効にするまで、長距離ドライブではワイヤレス Android Auto の使用をやめてください - How-To Geek
+   原題: Stop using wireless Android Auto on long drives until you disable these 6 battery killers - How-To Geek
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 01 Jun 2026 17:45:17 GMT
+
+3. Android Auto で Angry Birds に加えて、さらに 4 つの人気ゲームをプレイできます - その方法は次のとおりです - ZDNET
+   原題: You can play Angry Birds on Android Auto, plus 4 more popular games - here's how - ZDNET
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 01 Jun 2026 17:55:00 GMT
+
+4. メインの Android Auto 天気予報アプリとして MyRadar に切り替えましたが、後悔していません - ZDNET
+   原題: I switched to MyRadar as my main Android Auto weather app and don't regret it - ZDNET
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 01 Jun 2026 01:27:00 GMT
+
+5. Android Auto ユーザーはついに待ち望んでいたアップデートを入手できますが、必ずしもすべての機能が使えるわけではありません...まだ - t3.com
+   原題: Android Auto users finally get the update they've been waiting for – but not necessarily all the features... yet - t3.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 01 Jun 2026 11:00:00 GMT
+
+
+[Arduino]
+1. この Arduino DJ コントローラーで 30 ドルでパーティーを盛り上げましょう - Hackster.io
+   原題: Rock the Party for $30 with This Arduino DJ Controller - Hackster.io
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 01 Jun 2026 15:10:12 GMT
+
+2. Arduino、ロボット工学などのための高性能 SBC VENTUNO Q で 21 周年を祝う - Hackster.io
+   原題: Arduino Celebrates Turning 21 with the VENTUNO Q, a High-Performance SBC for Robotics and More - Hackster.io
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 09 Mar 2026 11:55:19 GMT
+
+3. ピークインジケーター付き DIY ヴィンテージ TV VU メーター - Hackster.io
+   原題: DIY Vintage TV VU Meter with peak indicators - Hackster.io
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 30 May 2026 07:00:00 GMT
