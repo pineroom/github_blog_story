@@ -1,0 +1,111 @@
+Searcher Daily Report
+Generated at: 2026-06-03 08:01:05
+Removed duplicates (today): 3
+Removed duplicates (7 days): 23
+
+[AI]
+1. トランプ大統領、AIの監視を求める大統領令に署名モデル - ニューヨーク・タイムズ
+   原題: Trump Signs Executive Order Seeking Oversight of A.I. Models - The New York Times
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 02 Jun 2026 19:19:28 GMT
+
+2. トランプ大統領、企業に対し政府にモデルへの早期アクセスを与えるよう求めるAI大統領令に署名 - CNBC
+   原題: Trump signs AI executive order asking companies to give government early access to models - CNBC
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 02 Jun 2026 15:48:58 GMT
+
+3. トランプ大統領の新たなAI命令 - ザ・ヒル
+   原題: Trump’s new AI order - The Hill
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 02 Jun 2026 22:11:00 GMT
+
+4. アメリカ人はAIと戦う方法を知りません。つまり彼らはデータセンターと戦っているのです。 - vox.com
+   原題: Americans don’t know how to fight AI. So they’re fighting data centers. - vox.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 02 Jun 2026 10:00:00 GMT
+
+5. 独占: 超党派のメンバーが AI スタイルの盗難からクリエイターを保護するための新しい法案を提出 - Axios
+   原題: Exclusive: Bipartisan members introduce new bill to protect creators from AI style theft - Axios
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 02 Jun 2026 22:37:38 GMT
+
+
+[CarPlay]
+1. Nintendo Music が iPad と CarPlay で利用可能に - MacRumors
+   原題: Nintendo Music Now Available on iPad and CarPlay - MacRumors
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 02 Jun 2026 17:45:29 GMT
+
+2. 最新のアプリアップデートで Nintendo Music が CarPlay に登場 - 9to5Mac
+   原題: Nintendo Music comes to CarPlay with latest app update - 9to5Mac
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 02 Jun 2026 14:34:00 GMT
+
+3. Nintendo Music が Apple CarPlay と Android Auto をサポートする大幅アップデートを実施 - Engadget
+   原題: Nintendo Music Just Got A Big Update With Support For Apple CarPlay And Android Auto - Engadget
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 02 Jun 2026 15:51:22 GMT
+
+4. Rivian は Apple CarPlay を拒否し、将来の電気自動車の AI に大きく賭ける - ArenaEV - ArenaEV
+   原題: Rivian rejects Apple CarPlay and bets heavy on AI for future electric cars - ArenaEV - ArenaEV
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 02 Jun 2026 06:35:01 GMT
+
+5. 任天堂、車の中でマリオの曲を聴けるCarPlayとAndroid Autoアプリを発売 - autoevolution
+   原題: Nintendo Launches CarPlay and Android Auto App To Let You Listen to Mario Songs in Your Car - autoevolution
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 02 Jun 2026 03:45:35 GMT
+
+
+[Android Auto]
+1. Nintendo Music が Android Auto サポートを追加し、マリオカートの夢を実現 - 9to5Google
+   原題: Nintendo Music adds Android Auto support to bring your Mario Kart dreams to life - 9to5Google
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 02 Jun 2026 13:55:00 GMT
+
+2. Android Auto でゲームを試してみたところ、車のダウンタイムを退屈しないようにする 4 つのアプリが見つかりました - ZDNET
+   原題: I tried gaming on Android Auto and found 4 apps that made car downtime less boring - ZDNET
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 02 Jun 2026 00:17:00 GMT
+
+3. Nintendo Music はブラウザ、タブレット、車から利用できるようになりました。 - ザ・ヴァージ
+   原題: Nintendo Music is now available through browsers, tablets, and your car. - The Verge
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 02 Jun 2026 12:20:00 GMT
+
+4. 新しい Android Auto バージョンはランダムな切断のせいでユーザーは緊急修正を求める - autoevolution
+   原題: New Android Auto Version Blamed for Random Disconnects, Users Call for Emergency Fix - autoevolution
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 02 Jun 2026 04:19:32 GMT
+
+5. この任天堂アプリはついに CarPlay と Android Auto で動作するようになりました - Pocket-lint
+   原題: This Nintendo app now finally works with CarPlay and Android Auto - Pocket-lint
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 02 Jun 2026 20:33:12 GMT
+
+
+[Arduino]
+1. TFTGraph、TFT ディスプレイ用のデータ視覚化 Arduino ライブラリ - Adafruit
+   原題: TFTGraph, a data visualizing Arduino library for TFT displays - Adafruit
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 21 Apr 2026 07:00:00 GMT
+
+2. Arduino "Andy" Ceccacci の訃報 - Bagnasco & Calcaterra Funeral Homes
+   原題: Obituary information for Arduino "Andy" Ceccacci - Bagnasco & Calcaterra Funeral Homes
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 02 Feb 2026 08:00:00 GMT
+
+3. ESP32-P4 LP (低電力) コア用のオープンソース Arduino ライブラリ - Adafruit
+   原題: An open source Arduino library for the ESP32-P4 LP (Low Power) core - Adafruit
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 20 Apr 2026 07:00:00 GMT
+
+4. Qualcomm は Arduino を永久に抹殺したのでしょうか? - アダフルーツ
+   原題: Did Qualcomm kill Arduino for good? - Adafruit
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 21 Nov 2025 08:00:00 GMT
+
+5. NPI の目 – Qualcomm & Arduino UNO Q マイクロコントローラー ボード @digikey @arduino @adafruit - Adafruit
+   原題: EYE on NPI – Qualcomm & Arduino UNO Q Microcontroller Board @digikey @arduino @adafruit - Adafruit
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 17 Oct 2025 07:00:00 GMT
