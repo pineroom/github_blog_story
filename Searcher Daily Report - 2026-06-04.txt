@@ -1,0 +1,91 @@
+Searcher Daily Report
+Generated at: 2026-06-04 08:00:54
+Removed duplicates (today): 3
+Removed duplicates (7 days): 29
+
+[AI]
+1. 交渉担当者、週末までに超党派の下院AI法案の草案発表を目指す - ライブアップデート - ポリティコ
+   原題: Negotiators aiming to unveil draft of bipartisan House AI bill by week's end - Live Updates - Politico
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 03 Jun 2026 17:43:31 GMT
+
+2. いいえ、人工知能は意識を持っていません - The Atlantic
+   原題: No, Artificial Intelligence Is Not Conscious - The Atlantic
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 03 Jun 2026 16:03:00 GMT
+
+3. 「ジャックサンドレイ・ブレーネコフ」：AI使用をめぐってノースカロライナ州ファンに串刺しにされる米上院議員候補によるハリケーンズ擁護の投稿 - WRAL
+   原題: ‘Jacksandrei Blakenekov’: Pro-Hurricanes post by US Senate candidate skewered by NC fans over AI use - WRAL
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 03 Jun 2026 22:21:20 GMT
+
+4. Broadcom の AI 収益は 143% 急上昇しました。では、なぜ株価は下落するのでしょうか？ - Yahooファイナンス
+   原題: Broadcom's AI Revenue Just Soared 143%. So Why Is the Stock Falling? - Yahoo Finance
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 03 Jun 2026 22:07:30 GMT
+
+5. ブロードコムの見通し、AIによる爆発を求める投資家らの失望 - Bloomberg.com
+   原題: Broadcom Outlook Disappoints Investors Seeking AI-Fueled Blowout - Bloomberg.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 03 Jun 2026 20:20:31 GMT
+
+
+[CarPlay]
+1. iOS 26 の CarPlay に、常に存在するはずだった新しい設定が追加されました - 9to5Mac
+   原題: CarPlay in iOS 26 added new setting that should have always existed - 9to5Mac
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 03 Jun 2026 15:43:00 GMT
+
+2. リビアン氏は、Apple CarPlay と Android Auto はすでに廃止されており、これがそれに代わるものであると述べています - supercarblondie.com
+   原題: Rivian says Apple CarPlay and Android Auto are already obsolete and this is what's replacing it - supercarblondie.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 03 Jun 2026 00:06:00 GMT
+
+3. Rivian のソフトウェア責任者が、Apple CarPlay、Android Auto、さらにはアナログ ボタンが運命付けられた理由を説明 T - ベンジンガ
+   原題: Rivian's Software Chief Explains Why Apple CarPlay, Android Auto And Even Analogue Buttons Are Destined T - Benzinga
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 03 Jun 2026 07:06:26 GMT
+
+4. Nintendo Music の新しい CarPlay と Android Auto サポートにより、あらゆるドライブがマリオカートのように感じられる - XDA
+   原題: Nintendo Music's new CarPlay and Android Auto support makes every drive feel like Mario Kart - XDA
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 03 Jun 2026 16:26:55 GMT
+
+5. Appleが2026年4月に追加した3つの新しいCarPlay機能 - SlashGear
+   原題: 3 New CarPlay Features Apple Added In April 2026 - SlashGear
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 19 May 2026 07:00:00 GMT
+
+
+[Android Auto]
+1. Android Auto がスマートフォンを異常に熱くするのを防ぐために私が使っている 4 つのトリック - XDA
+   原題: 4 tricks I use to stop Android Auto from heating up my phone like crazy - XDA
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 03 Jun 2026 15:33:22 GMT
+
+
+[Arduino]
+1. Boundless 3D の 4 キー マクロパッドはその場でプリント可能 — 導電性フィラメントと AMS のおかげで - Hackster.io
+   原題: Boundless 3D's Four-Key Macropad Is Print-in-Place — Thanks to Conductive Filament and an AMS - Hackster.io
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 03 Jun 2026 13:17:44 GMT
+
+2. 物体認識のための視覚入力システム (V.I.S.O.R.) - Hackster.io
+   原題: Visual Input System for Object Recognition (V.I.S.O.R.) - Hackster.io
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 03 Jun 2026 03:24:59 GMT
+
+3. Zephyr Work の Arduino コアが新たなマイルストーンに到達、6 月にベータ版を終了する準備を整える - Hackster.io
+   原題: Arduino Core on Zephyr Work Hits a New Milestone, Prepares to Exit Beta in June - Hackster.io
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 18 May 2026 11:22:30 GMT
+
+4. Arduino Uno Q ボードのサポートを MicroPython に追加 - Adafruit
+   原題: Adding Arduino Uno Q board support to MicroPython - Adafruit
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 18 Mar 2026 07:00:00 GMT
+
+5. 壊れた古いスマートウォッチからゲームコンソールを作る方法 - Hackster.io
+   原題: How to make a Game Console from Old Broken Smartwatch - Hackster.io
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 03 Jun 2026 03:24:59 GMT
