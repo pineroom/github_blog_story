@@ -1,0 +1,106 @@
+Searcher Daily Report
+Generated at: 2026-06-05 08:01:15
+Removed duplicates (today): 4
+Removed duplicates (7 days): 21
+
+[AI]
+1. AIには「ブレーキペダル」が必要、Anthropic共同創設者が警告 - BBC
+   原題: AI needs a 'brake pedal', warns Anthropic co-founder - BBC
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 04 Jun 2026 21:53:25 GMT
+
+2. Anthropic、AIが間もなく独自の後継者の構築に役立つ可能性があると警告 - Axios
+   原題: Anthropic warns AI could soon help build its own successors - Axios
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 04 Jun 2026 16:00:53 GMT
+
+3. IPOを前に、Anthropicのダニエラ・アモデイ氏、AIの利益に対する疑念を一蹴 - TechCrunch
+   原題: Ahead of its IPO, Anthropic’s Daniela Amodei shrugs off doubts about AI’s returns - TechCrunch
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 04 Jun 2026 22:43:26 GMT
+
+4. AI にお金を払うと実際に何が得られるのでしょうか? - NPR
+   原題: What do you actually get when you pay for AI? - NPR
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 04 Jun 2026 09:00:00 GMT
+
+5. ブルームバーグ テック カンファレンス 2026: AI、チップ、テクノロジーに関するライブ ニュース - ブルームバーグ - Bloomberg.com
+   原題: Bloomberg Tech Conference 2026: Live News on AI, Chips, Technology - Bloomberg - Bloomberg.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 04 Jun 2026 22:38:26 GMT
+
+
+[CarPlay]
+1. これは、あなたのシボレー、キャデラック、または GMC EV に Apple CarPlay と Android Auto を導入する方法です - 車とドライバー
+   原題: This Is How You Can Get Apple CarPlay and Android Auto in Your Chevy, Cadillac, or GMC EV - Car and Driver
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 04 Jun 2026 20:31:48 GMT
+
+2. ついに Apple CarPlay を GM EV に追加できるようになりました - Motor1.com
+   原題: You Can Finally Add Apple CarPlay To Your GM EV - Motor1.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 04 Jun 2026 18:00:00 GMT
+
+3. この簡単なアップグレードで Apple CarPlay カーをマリオカートに変えましょう - t3.com
+   原題: Turn your Apple CarPlay car into a Mario Kart with this simple upgrade - t3.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 03 Jun 2026 14:00:00 GMT
+
+4. EVPlay LT、GMのEVにApple CarPlayとAndroid Autoを追加 - GM Authority
+   原題: EVPlay LT Adds Apple CarPlay And Android Auto In GM EVs - GM Authority
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 04 Jun 2026 04:16:02 GMT
+
+5. アップデートの時期: フォード、iPhone をアップデートすると CarPlay 接続の問題が解決すると発表 - autoevolution
+   原題: Time To Update: Ford Says Updating Your iPhone Fixes CarPlay Connectivity Issues - autoevolution
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 04 Jun 2026 04:10:11 GMT
+
+
+[Android Auto]
+1. Android Auto 向け Google Meet が広く展開開始 - 9to5Google
+   原題: Google Meet for Android Auto now rolling out widely - 9to5Google
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 04 Jun 2026 13:43:00 GMT
+
+2. Android Auto の Spotify バグには根本的な解決策がなく、ユーザーはうんざりしている - Android Police
+   原題: Android Auto's Spotify bug has no real solution, and users are fed up - Android Police
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 04 Jun 2026 11:12:42 GMT
+
+3. Android Auto がスマートフォンの過熱を防ぐ 4 つの簡単な方法 - XDA
+   原題: 4 simple ways I keep Android Auto from overheating my phone - XDA
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 03 Jun 2026 15:33:22 GMT
+
+4. Android Auto セットアップを 4 つの無料アプリを備えたゲーム ハブに変えました - そして後悔していません - ZDNET
+   原題: I turned my Android Auto setup into a gaming hub with 4 free apps - and don't regret it - ZDNET
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 04 Jun 2026 01:00:00 GMT
+
+5. Google Meet on Android Auto is finally available to everyone - Android Police
+   原題: Google Meet on Android Auto is finally available to everyone - Android Police
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 04 Jun 2026 15:38:40 GMT
+
+
+[Arduino]
+1. Arduino が Zephyr で進歩 - i-programmer.info
+   原題: Arduino Makes Progress On Zephyr - i-programmer.info
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 18 May 2026 07:00:00 GMT
+
+2. Arduino と Qualcomm が Hackster の 2026 年最初の開発者コンテストを開始 世界的なコンテストが 300 台の Arduino UNO Q ボードとエッジ AI イノベーションを紹介する機会で開幕 - PR Newswire
+   原題: Arduino and Qualcomm Launch Hackster's First Developer Contest of 2026 Global Competition Kicks Off With 300 Arduino UNO Q Boards and Opportunities to Showcase Edge AI Innovation - PR Newswire
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 04 Mar 2026 08:00:00 GMT
+
+3. クアルコムの最新 AI プレイ: メーカーの夢を株主価値に変える - Adafruit
+   原題: Qualcomm’s Latest AI Play: Turning Maker Dreams into Shareholder Value - Adafruit
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 07 Oct 2025 07:00:00 GMT
+
+4. Taras Woronjanski 氏、Arduino UNO Q を少し錆びさせるために Zephyr RTOS を使用 - Hackster.io
+   原題: Taras Woronjanski Turns to the Zephyr RTOS to Make the Arduino UNO Q a Little Rusty - Hackster.io
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 16 Mar 2026 13:11:27 GMT
