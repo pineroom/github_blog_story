@@ -1,0 +1,86 @@
+Searcher Daily Report
+Generated at: 2026-06-06 08:00:53
+Removed duplicates (today): 6
+Removed duplicates (7 days): 30
+
+[AI]
+1. 牛搾りロボットから雑草除去レーザーまで、農家は AI を採用しています。 - ニューヨーク・タイムズ紙
+   原題: From Cow-Milking Robots to Weed-Zapping Lasers, Farmers Are Embracing A.I. - The New York Times
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 05 Jun 2026 09:00:35 GMT
+
+2. 人間の介入なしでAIが間もなく自己改善できるようになる、とアンスロピック氏が警告 - CNN
+   原題: Anthropic warns that AI will soon be able to improve itself without human intervention - CNN
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 05 Jun 2026 11:53:57 GMT
+
+3. Anthropic が世界的な AI の一時停止を示唆していることについて賢明な人々が語っていること Business Insider Japan
+   原題: What smart people are saying about Anthropic suggesting a global AI pause - Business Insider
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 05 Jun 2026 21:54:37 GMT
+
+4. アストラゼネカのCEO、AIは医薬品開発を再構築しており、成功の可能性を高めるのに役立っていると語る - CNBC
+   原題: AstraZeneca CEO says AI is reshaping drug development — and helping boost the odds of success - CNBC
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 05 Jun 2026 22:26:16 GMT
+
+5. データによると、Z世代の学生の5人に4人がAIによって学習が困難になると回答 - KSNV
+   原題: Four in five Gen Z students say AI will make learning harder, data shows - KSNV
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 05 Jun 2026 22:57:42 GMT
+
+
+[CarPlay]
+1. この 199 ドルのガジェットは、GM EV に Apple CarPlay をもたらします。しかし、落とし穴がある - InsideEVs
+   原題: This $199 Gadget Brings Apple CarPlay To GM EVs. But There's A Catch - InsideEVs
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 05 Jun 2026 16:37:00 GMT
+
+2. このアダプターは、わずか 199 ドルでシボレー、GMC、キャデラックの EV で CarPlay と Android Auto を有効にします - autoevolution
+   原題: This Adapter Enables CarPlay and Android Auto in Chevy, GMC, Cadillac EVs for Just $199 - autoevolution
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 05 Jun 2026 04:14:26 GMT
+
+3. このアダプターを使用すると、Android Auto と Apple CarPlay がシボレーとキャデラックの EV で動作します - How-To Geek
+   原題: Android Auto and Apple CarPlay work on Chevy and Cadillac EVs with this adapter - How-To Geek
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 05 Jun 2026 18:26:30 GMT
+
+4. このアダプターはほとんどの GM EV に Android Auto を追加しますが、落とし穴があります - Android Authority
+   原題: This adapter adds Android Auto to most GM EVs, but there's a catch - Android Authority
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 05 Jun 2026 21:30:12 GMT
+
+5. このアダプターは Android Auto と CarPlay をシボレーや GM のその他の EV に追加します – 現時点では - 9to5Google
+   原題: This adapter adds Android Auto and CarPlay to Chevy, other EVs from GM – for now - 9to5Google
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 05 Jun 2026 14:35:00 GMT
+
+
+[Android Auto]
+1. Android Auto が車のインフォテインメント システムを上回る 5 つの方法 - 間違いなく - ZDNET
+   原題: 5 ways Android Auto beats your car's own infotainment system - hands down - ZDNET
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 05 Jun 2026 15:18:00 GMT
+
+2. Android Auto に通話アップグレードが適用されました - ここで知っておくべきこと - Android Central
+   原題: Your Android Auto just got a calling upgrade — here's what to know - Android Central
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 05 Jun 2026 07:48:36 GMT
+
+3. EVPlay LT、GMのEVにApple CarPlayとAndroid Autoを追加 - GM Authority
+   原題: EVPlay LT Adds Apple CarPlay And Android Auto In GM EVs - GM Authority
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 04 Jun 2026 04:16:02 GMT
+
+4. Google Meet がすべての Android Auto ユーザーに利用可能に - BetaNews
+   原題: Google Meet is now available for all Android Auto users - BetaNews
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 05 Jun 2026 16:50:16 GMT
+
+
+[Arduino]
+1. 新しい Arduino ラインナップをご紹介します: メディアキャリア、デバッガなど - Hackster.io
+   原題: Meet the New Arduino Lineup: Media Carriers, Debuggers, and More - Hackster.io
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 27 Mar 2026 20:08:55 GMT
