@@ -1,0 +1,101 @@
+Searcher Daily Report
+Generated at: 2026-06-07 08:01:00
+Removed duplicates (today): 2
+Removed duplicates (7 days): 26
+
+[AI]
+1. AI があなたの生活をより高価にする 4 つの驚くべき方法 - ワシントン・ポスト
+   原題: 4 surprising ways AI is making your life more expensive - The Washington Post
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 06 Jun 2026 16:00:00 GMT
+
+2. トランプ大統領：AI巨人に対する米国の出資は「美しいことかもしれない」 - Axios
+   原題: Trump: U.S. stake in AI giants "could be a beautiful thing" - Axios
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 06 Jun 2026 13:39:13 GMT
+
+3. A.I.企業はアレックス・ボアズをどうすればいいのか分からない - ニューヨーク・タイムズ
+   原題: A.I. Companies Don’t Know What to Do With Alex Bores - The New York Times
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 06 Jun 2026 07:00:07 GMT
+
+4. 父と私は駐車場の清掃業を始めました。 45 年が経ちましたが、私の家族経営の会社は依然として AI に耐性があります。 - ビジネスインサイダー
+   原題: My father and I started a parking lot clean-up business. It's been 45 years, and my family-run company is still AI-proof. - Business Insider
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 06 Jun 2026 13:47:25 GMT
+
+5. AI株下落とFRB利上げ確率上昇でナスダックとS&P500は年間最悪の日となる - CNN
+   原題: Nasdaq, S&P 500 suffer worst day of year as AI stocks tumble and Fed rate-hike odds rise - CNN
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 05 Jun 2026 17:08:55 GMT
+
+
+[CarPlay]
+1. GM は Apple CarPlay を削除したが、オーナーはそれを回避する方法を手に入れた - 2020 記事
+   原題: GM Removed Apple CarPlay, But Owners Now Have A Way Around It - Autoblog
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 05 Jun 2026 23:15:00 GMT
+
+2. Rivian氏、CarPlay議論が「完全に時代遅れ」になる理由を説明 - MacRumors
+   原題: Rivian Explains Why CarPlay Debate Will Become 'Completely Obsolete' - MacRumors
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 28 May 2026 07:00:00 GMT
+
+3. 新しいアプリのアップデートで CarPlay でライブ歌詞が利用可能に - 9to5Mac
+   原題: Live lyrics now available in CarPlay with new app update - 9to5Mac
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 29 May 2026 17:32:00 GMT
+
+4. オーディオブックに最適な 5 つの Apple CarPlay アプリ - bgr.com
+   原題: 5 Apple CarPlay Apps Perfect For Audiobooks - bgr.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 06 Jun 2026 18:17:00 GMT
+
+5. Rivian 氏、AI によって Apple CarPlay とボタンが時代遅れになると語る - Autoblog
+   原題: Rivian Says AI Will Make Apple CarPlay And Buttons Obsolete - Autoblog
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 06 Jun 2026 11:45:00 GMT
+
+
+[Android Auto]
+1. Android Auto は、Google マップのアラートを再設計して気が散りにくくなりました – これは大幅なアップグレードです [ギャラリー] - 9to5Google
+   原題: Android Auto redesigned Google Maps alerts to be less distracting – it's a huge upgrade [Gallery] - 9to5Google
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 06 Jun 2026 01:05:00 GMT
+
+2. Android Auto の Gemini で Google Keep を使い始めたら、運転中に携帯電話をいじらなくなりました - Android Police
+   原題: I started using Google Keep with Gemini in Android Auto and stopped fumbling with my phone during drives - Android Police
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 06 Jun 2026 15:15:10 GMT
+
+3. 気が散ることなく長時間ドライブできるように Android Auto を最適化する 4 つの簡単な方法 - XDA
+   原題: 4 simple ways I optimize Android Auto for long, distraction-free drives - XDA
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 06 Jun 2026 20:00:22 GMT
+
+4. このアダプターを使用すると、Android Auto と Apple CarPlay がシボレーとキャデラックの EV で動作します - Yahoo Autos
+   原題: Android Auto and Apple CarPlay work on Chevy and Cadillac EVs with this adapter - Yahoo Autos
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 05 Jun 2026 18:26:30 GMT
+
+5. Android Auto における Gemini の最大の問題はバグではなく、ジェミニが拒否していることです - How-To Geek
+   原題: Gemini's biggest problem in Android Auto isn't a bug—it's what it refuses to do - How-To Geek
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 04 Jun 2026 15:15:19 GMT
+
+
+[Arduino]
+1. Arduino Days 2026 に参加するチャンス - Hackster.io
+   原題: Your Chance to Become Part of Arduino Days 2026 - Hackster.io
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 27 Mar 2026 07:00:00 GMT
+
+2. クアルコムの買収後、Arduino は次に何が起こるのでしょうか? - EEタイムズ
+   原題: What Comes Next for Arduino after Qualcomm’s Acquisition? - EE Times
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 22 Dec 2025 08:00:00 GMT
+
+3. あるビルダーが Arduino Tortoise ボットを 7 倍大きくし、完全に動作可能な状態に維持した方法 - TechEBlog -
+   原題: How One Builder Made an Arduino Tortoise Bot Seven Times Bigger and Kept It Fully Operational - TechEBlog -
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 16 May 2026 23:03:10 GMT
