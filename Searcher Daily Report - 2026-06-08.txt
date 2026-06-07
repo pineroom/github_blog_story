@@ -1,0 +1,91 @@
+Searcher Daily Report
+Generated at: 2026-06-08 08:01:03
+Removed duplicates (today): 4
+Removed duplicates (7 days): 30
+
+[AI]
+1. 数十億ドルの支出と仮想収益：AI ブームを 6 つのグラフで説明 - ガーディアン
+   原題: Billions spent and hypothetical returns: the AI boom explained with six charts - The Guardian
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 07 Jun 2026 11:00:00 GMT
+
+2. AIがその可能性を発揮するまでにどれくらいの時間がかかるか - WSJ
+   原題: Here’s How Long It Will Take for AI to Reach Its Potential - WSJ
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 07 Jun 2026 16:00:00 GMT
+
+3. スターマー、AI労働の脅威に打ち勝つ英国ジョブセンターツールを展開 - Bloomberg.com
+   原題: Starmer to Roll Out UK Job Center Tools to Beat AI Work Threat - Bloomberg.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 07 Jun 2026 21:30:00 GMT
+
+4. 中国がデータセンターやAI開発に反対する資金を提供している可能性があると議員ら警告 - Fox Business
+   原題: Lawmakers warn China may be funding opposition to data centers, AI development - Fox Business
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 07 Jun 2026 22:24:24 GMT
+
+5. 「冷水のしぶき」：ウォール街の指標がAI取引を一時停止 - Yahoo Finance
+   原題: 'A splash of cold water': Wall Street gauges pause in AI trade - Yahoo Finance
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 07 Jun 2026 11:40:12 GMT
+
+
+[CarPlay]
+1. 昨年、私は Apple CarPlay で 25,000 マイル以上を運転しました - これらのアプリが最も重要でした - ZDNET
+   原題: I drove with Apple CarPlay for over 25,000 miles last year - these apps were the most essential - ZDNET
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 07 Jun 2026 19:49:00 GMT
+
+2. 2026 年の Apple CarPlay の最高の新機能を見逃していませんか? - マニアックなガジェット
+   原題: Are You Missing Out on Apple CarPlay’s Best New Features For 2026? - Geeky Gadgets
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 07 Jun 2026 05:35:54 GMT
+
+3. Apple、CarPlay Ultraがこれらの自動車ブランドに導入されると発表 - MacRumors
+   原題: Apple Says CarPlay Ultra is Coming to These Vehicle Brands - MacRumors
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 05 Jun 2026 23:14:19 GMT
+
+
+[Android Auto]
+1. Android Auto は思っている以上にカスタマイズ可能 - すぐに試したい 6 つのトリック - ZDNET
+   原題: Android Auto is way more customizable than you might realize - 6 tricks to try ASAP - ZDNET
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 07 Jun 2026 09:00:00 GMT
+
+2. Google、Android Auto 17.1の展開を開始: 待ち時間を省略して今すぐダウンロードする方法 - autoevolution
+   原題: Google Starts Rolling Out Android Auto 17.1: How To Skip the Wait and Download It Right Now - autoevolution
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 07 Jun 2026 07:48:11 GMT
+
+3. Android Auto には、近くの場所の検索から音楽の制御、リストの作成まで、運転方法を変える 4 つの「過小評価されている」Gemini コマンドがあり、その特徴は、ハンズフリー運転が正確な魔法のフレーズを言うことに依存しなくなったことです - OkDiario
+   原題: There are four “underrated” Gemini commands in Android Auto that change how you drive, from finding nearby places to controlling music and building lists, and the twist is that hands-free driving no longer depends on saying the exact magic phrase - OkDiario
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 06 Jun 2026 12:45:00 GMT
+
+4. Android Auto の分割画面は、私がすべてのドライブで使用する 1 つの機能です - XDA
+   原題: Android Auto's split screen is the one feature I use on every single drive - XDA
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 04 Jun 2026 15:33:23 GMT
+
+5. これらの変更を加えて、Android Auto の最大の煩わしさを解決しました - Android Police
+   原題: I fixed my biggest Android Auto annoyances by making these changes - Android Police
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 29 May 2026 07:00:00 GMT
+
+
+[Arduino]
+1. Arduino "Andy" Ceccacci の訃報 - Bagnasco & Calcaterra Funeral Home
+   原題: Obituary information for Arduino "Andy" Ceccacci - Bagnasco & Calcaterra Funeral Home
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 02 Feb 2026 08:00:00 GMT
+
+2. nRF54L15 (Zephyr ベース) 用の Arduino コア - Adafruit
+   原題: An Arduino core for nRF54L15 (Zephyr-based) - Adafruit
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 17 Feb 2026 08:00:00 GMT
+
+3. Arduino UNO用のLinux風のOS - Hackster.io
+   原題: A Linux-Like OS for the Arduino UNO - Hackster.io
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 23 Apr 2026 15:26:03 GMT
