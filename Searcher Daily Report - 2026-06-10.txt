@@ -1,0 +1,88 @@
+Searcher Daily Report
+Generated at: 2026-06-10 08:00:53
+Removed duplicates (today): 1
+Removed duplicates (7 days): 27
+
+[AI]
+1. テッド・リュー氏、超党派のAI提案を非難 - Politico
+   原題: Ted Lieu slams bipartisan AI proposal - Politico
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 09 Jun 2026 16:37:19 GMT
+
+2. Anthropic が Mythos A.I. の「安全」バージョンをリリーステクノロジー - ニューヨーク・タイムズ
+   原題: Anthropic Releases ‘Safe’ Version of Its Mythos A.I. Technology - The New York Times
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 09 Jun 2026 17:16:42 GMT
+
+3. Anthropic、非公開展開がウォール街を震撼させた2か月後、Mythos のような AI モデルを一般公開 - CNBC
+   原題: Anthropic releases Mythos-like AI model to the public two months after private rollout rocked Wall Street - CNBC
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 09 Jun 2026 17:00:01 GMT
+
+4. Anthropic、Claude Mythos AI モデルの「安全な」バージョンを公開 - ガーディアン
+   原題: Anthropic releases ‘safe’ version of Claude Mythos AI model to public - The Guardian
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 09 Jun 2026 22:28:00 GMT
+
+5. オラクル、AI貿易の混乱の中で第4四半期決算を発表へ - Yahoo Finance
+   原題: Oracle to report Q4 earnings amid AI trade jitters - Yahoo Finance
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 09 Jun 2026 22:17:49 GMT
+
+
+[CarPlay]
+1. iOS 27 の CarPlay の新機能のすべて - 9to5Mac
+   原題: Here’s everything new for CarPlay in iOS 27 - 9to5Mac
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 09 Jun 2026 13:45:00 GMT
+
+2. AIがCarPlayとAndroid Autoを時代遅れにする可能性があるとEVメーカーが発言、Rivianのモメンタムスコアが急上昇 - Yahoo Finance
+   原題: Rivian's Momentum Score Surges As EV Maker Says AI Could Make CarPlay, Android Auto Obsolete - Yahoo Finance
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 09 Jun 2026 11:01:06 GMT
+
+3. CarPlay がついにビデオ再生アプリのサポートを追加 - Pocket-lint
+   原題: CarPlay is finally adding support for video playback apps - here's when - Pocket-lint
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 09 Jun 2026 15:52:46 GMT
+
+4. ジープ、ラングラーとグラディエーターのオーナーに対し、火災の危険があるため屋内に駐車しないよう警告：TDS - The Drive
+   原題: Jeep Warns Wrangler, Gladiator Owners Not to Park Inside Due to Fire Risk: TDS - The Drive
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 09 Jun 2026 12:58:32 GMT
+
+5. Apple、iOS 27アップデートでビデオアプリと新しいCarPlay機能を追加 - Mac Observer
+   原題: Apple Adds Video Apps And New CarPlay Features In The iOS 27 Update - The Mac Observer
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 09 Jun 2026 18:51:36 GMT
+
+
+[Android Auto]
+1. Android Auto 接続の悪夢はついに終わるかもしれない - Android Police
+   原題: Android Auto's connection nightmare may finally be over - Android Police
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 09 Jun 2026 15:20:48 GMT
+
+2. Apple CarPlay でビデオ再生が可能に - InsideEVs
+   原題: Apple CarPlay Is Getting Video Playback - InsideEVs
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 09 Jun 2026 11:27:00 GMT
+
+3. Android Auto と Android Automotive: 両者を分ける 5 つの主な点 - Android Central
+   原題: Android Auto vs. Android Automotive: 5 major things that separate the two - Android Central
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 09 Jun 2026 14:51:00 GMT
+
+4. まだ Android Auto の問題に悩まされていますか? Google ではさらに多くの修正を提供しています。 - Android 権限
+   原題: Still suffering from Android Auto issues? Google has more fixes for you. - Android Authority
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 09 Jun 2026 11:50:52 GMT
+
+5. 私はこの Android Auto プレーヤーのために PlexAmp を捨てました - 速度が速く、オフライン音楽の処理がオフラインよりもはるかに優れています - How-To Geek
+   原題: I ditched PlexAmp for this Android Auto player—it's faster and handles offline music way betterter offline - How-To Geek
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 09 Jun 2026 15:15:18 GMT
+
+
+[Arduino]
+- No new items after dedupe
