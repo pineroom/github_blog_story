@@ -1,0 +1,106 @@
+Searcher Daily Report
+Generated at: 2026-06-11 08:01:01
+Removed duplicates (today): 1
+Removed duplicates (7 days): 30
+
+[AI]
+1. パランティアのカープ氏、企業はフロンティアAIラボに「不満」だと語る - CNBC
+   原題: Palantir's Karp says businesses are 'unhappy' with the frontier AI labs - CNBC
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 10 Jun 2026 14:50:26 GMT
+
+2. なぜ本物のAIなのか脅威はバックオフィスにある - ニューヨーク・タイムズ
+   原題: Why the Real A.I. Threat Is in the Back Office - The New York Times
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 10 Jun 2026 18:00:08 GMT
+
+3. Apple の新しい Siri AI は黙るべき時を知っている - The Verge
+   原題: Apple’s new Siri AI knows when to shut up - The Verge
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 10 Jun 2026 22:52:17 GMT
+
+4. iOS 27のSiri AIを実際に使ってみる - MacRumors
+   原題: Hands-On With iOS 27's Siri AI - MacRumors
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 10 Jun 2026 19:48:12 GMT
+
+5. 人間界のCEO、政府は危険なAIをブロックすべきだと発言 - Axios
+   原題: Anthropic CEO says government should block dangerous AI - Axios
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 10 Jun 2026 19:20:06 GMT
+
+
+[CarPlay]
+1. Apple、ついに CarPlay を Tesla に導入する可能性のあるマップ機能を発表 - Tesla アプリではない
+   原題: Apple Announces Maps Feature That Could Finally Bring CarPlay to Tesla - Not a Tesla App
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 10 Jun 2026 15:38:00 GMT
+
+2. iOS 27 では、Apple CarPlay がビデオ アプリをネイティブにサポートします - PCMag UK
+   原題: With iOS 27, Apple CarPlay Will Support Video Apps Natively - PCMag UK
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 10 Jun 2026 13:03:05 GMT
+
+3. iOS 27 が数か月後に登場するときに Apple が CarPlay 向けに発表したすべての新機能 - supercarblondie.com
+   原題: All the new features Apple has announced for CarPlay when iOS 27 arrives in a few months - supercarblondie.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 10 Jun 2026 12:35:00 GMT
+
+4. Apple、次期iPhoneの大型アップデートとCarPlayの新機能を発表 - autoevolution
+   原題: Apple Announces the Next Big iPhone Update, New CarPlay Features - autoevolution
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 09 Jun 2026 04:29:59 GMT
+
+5. iOS 27 CarPlayビデオアプリの解説：Appleが実現、自動車メーカーが決定 - ガジェットハック
+   原題: iOS 27 CarPlay Video Apps Explained: Apple Enables, Automakers Decide - Gadget Hacks
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 10 Jun 2026 11:36:33 GMT
+
+
+[Android Auto]
+1. この便利なサイドロード Android Auto アプリを使用すると、YouTube を見たり、ウェブを閲覧したりできるようになります - XDA
+   原題: This useful sideloaded Android Auto app lets me watch YouTube, browse the web, and more - XDA
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 10 Jun 2026 15:30:23 GMT
+
+2. Android Auto の Google マップは、最近のアップデート後に自動夜間モードを失う - autoevolution
+   原題: Google Maps on Android Auto Loses the Automatic Night Mode After a Recent Update - autoevolution
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 08 Jun 2026 04:35:50 GMT
+
+3. Google、Android Auto 接続の問題に対するさらなる修正を公開 - Android ヘッドライン
+   原題: Google Rolls Out More Fixes for Android Auto Connection Issues - Android Headlines
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 10 Jun 2026 11:36:27 GMT
+
+4. Google の Android Auto アップデートで、遠征中に悩まされていた接続の弱体化問題がついに解決されたかもしれない - Tom's Guide
+   原題: Google's Android Auto update may have finally fixed the debilitating connection issue that's been plaguing me on road trips - Tom's Guide
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 10 Jun 2026 10:29:16 GMT
+
+
+[Arduino]
+1. Zephyr Work の Arduino コアが新たなマイルストーンに到達、6 月にベータ版を終了する準備を整える - Hackster.io
+   原題: Arduino Core on Zephyr Work Hits a New Milestone, Prepares to Exit Beta in June - Hackster.io
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 18 May 2026 22:53:10 GMT
+
+2. Arduino "Andy" Ceccacci の訃報 - Bagnasco & Calcaterra Funeral Homes
+   原題: Obituary information for Arduino "Andy" Ceccacci - Bagnasco & Calcaterra Funeral Homes
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 02 Feb 2026 08:00:00 GMT
+
+3. TFTGraph、TFT ディスプレイ用のデータ視覚化 Arduino ライブラリ - Adafruit
+   原題: TFTGraph, a data visualizing Arduino library for TFT displays - Adafruit
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 21 Apr 2026 07:00:00 GMT
+
+4. Arduino Uno Q レビュー: 2 つの頭脳を持つボード - Tom's Hardware
+   原題: Arduino Uno Q Review: The board with two brains - Tom's Hardware
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 09 Dec 2025 08:00:00 GMT
+
+5. ESP32-P4 LP (低電力) コア用のオープンソース Arduino ライブラリ - Adafruit
+   原題: An open source Arduino library for the ESP32-P4 LP (Low Power) core - Adafruit
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 20 Apr 2026 07:00:00 GMT
