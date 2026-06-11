@@ -1,0 +1,96 @@
+Searcher Daily Report
+Generated at: 2026-06-12 08:01:05
+Removed duplicates (today): 2
+Removed duplicates (7 days): 31
+
+[AI]
+1. 独占 | OpenAI、大幅な値下げを検討、アントロピックユーザー争奪戦の予感 - WSJ
+   原題: Exclusive | OpenAI Considers Drastic Price Cuts, Anticipating War for Users With Anthropic - WSJ
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 11 Jun 2026 01:36:00 GMT
+
+2. OpenAI、AIコーディングアシスタントCodexをサポートするためにOnaを買収へ - CNBC
+   原題: OpenAI to acquire Ona to support its AI coding assistant, Codex - CNBC
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 11 Jun 2026 16:26:10 GMT
+
+3. Anthropic対OpenAI：AIの将来を巡る激しい戦いの裏側 - ロイター
+   原題: Anthropic v. OpenAI: Behind the bitter battle for the future of AI - Reuters
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 11 Jun 2026 17:18:17 GMT
+
+4. 職場の専門家によると、人々のスキルは依然として AI より優れている - KSL ニュース
+   原題: The skills people still perform better than AI, according to workplace experts - KSL News
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 11 Jun 2026 22:07:23 GMT
+
+5. 彼らはニューヨーク市の地下鉄の駅に偽のAI広告を掲載した。そのうちの 1 つは、実際の会社の名前であることが判明しました。 - ビジネスインサイダー
+   原題: They posted fake AI ads in NYC subway stations. One turned out to be the name of a real company. - Business Insider
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 11 Jun 2026 22:12:26 GMT
+
+
+[CarPlay]
+1. Apple、CarPlay の最高のニュースを iOS 27 開発者向けノートに埋めた - CNET
+   原題: Apple Buried the Best CarPlay News in the iOS 27 Developer Notes - CNET
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 09 Jun 2026 17:56:00 GMT
+
+2. Vectron X: アプリ、スマートスクリーン、CarPlay のような操作を備えたシーメンスのデジタル機関車 - Notebookcheck
+   原題: Vectron X: Siemens’ digital locomotive with apps, Smartscreen, and CarPlay-like operation - Notebookcheck
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 10 Jun 2026 16:56:00 GMT
+
+3. Apple CarPlay は iOS 27 でビデオストリーミングとよりスマートな Siri を搭載しますが、落とし穴があります - Root-Nation.com
+   原題: Apple CarPlay will get video streaming and smarter Siri in iOS 27, but there’s a catch - Root-Nation.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 09 Jun 2026 11:02:47 GMT
+
+4. ChatGPT と Perplexity AI を CarPlay 音声アシスタントとしてテストしました - どちらも Siri の見た目を悪くしました - ZDNET
+   原題: I tested ChatGPT and Perplexity AI as my CarPlay voice assistants - both made Siri look bad - ZDNET
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 03 May 2026 07:00:00 GMT
+
+5. Google Maps、OnX、PlugShare を更新: これら 3 つのアプリは私の Apple CarPlay の必需品です - Yahoo Autos
+   原題: Updated Google Maps, OnX and PlugShare: These 3 Apps Are My Apple CarPlay Staples - Yahoo Autos
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 11 Jun 2026 10:00:00 GMT
+
+
+[Android Auto]
+1. あるアプリで通勤が変わるまでは、Google マップが最も便利な Android Auto アプリだと思っていました - Android Police
+   原題: I thought Google Maps was the most useful Android Auto app until one app transformed my commute - Android Police
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 11 Jun 2026 20:00:12 GMT
+
+2. Android Auto 以降、iOS 27 のおかげで CarPlay が YouTube 動画に対応 - autoevolution
+   原題: After Android Auto, CarPlay Is Ready for YouTube Videos Thanks to iOS 27 - autoevolution
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 11 Jun 2026 04:02:54 GMT
+
+3. すぐに変更すべき 4 つの Android Auto デフォルト設定 - その理由 - ZDNET
+   原題: 4 Android Auto default settings you should change right away - here's why - ZDNET
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 11 Jun 2026 16:54:00 GMT
+
+4. Android Auto が 2026 年 6 月に新しくサポートされる便利なアプリを追加 - bgr.com
+   原題: Android Auto Got A Useful New Supported App For June 2026 - bgr.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 11 Jun 2026 18:47:00 GMT
+
+5. Android Auto接続の問題が最終的に修正されたため、Googleがユーザーにアップデートするよう指示 - autoevolution
+   原題: Google Tells Users To Update As Android Auto Connection Issues Are Finally Fixed - autoevolution
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 10 Jun 2026 04:10:26 GMT
+
+
+[Arduino]
+1. WTIC - WCCT-TV イベント - 春 - Arduino (10 ～ 13 歳) - fox61.com
+   原題: WTIC - WCCT-TV Events - SPRING - Arduino (ages 10-13) - fox61.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 11 Jun 2026 20:12:20 GMT
+
+2. Victoria Arduino の記録: プロフェッショナル コーヒーの未来のアイコン - Comunicaffe International
+   原題: RECORD by Victoria Arduino: the future icon of professional coffee - Comunicaffe International
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 11 Jun 2026 10:12:20 GMT
