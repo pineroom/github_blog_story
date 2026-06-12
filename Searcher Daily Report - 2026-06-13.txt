@@ -1,0 +1,106 @@
+Searcher Daily Report
+Generated at: 2026-06-13 08:01:05
+Removed duplicates (today): 3
+Removed duplicates (7 days): 27
+
+[AI]
+1. 国会議事堂: シューマー氏が AI について語ったもの - ライブアップデート - Politico
+   原題: Capitol agenda: What Schumer told us about AI - Live Updates - Politico
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 12 Jun 2026 12:01:00 GMT
+
+2. SpaceXの大規模なIPO後、アメリカ人の経済的未来はAIに縛られることになる - ガーディアン紙
+   原題: After SpaceX’s huge IPO, Americans’ financial future will be bound to AI - The Guardian
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 12 Jun 2026 18:13:00 GMT
+
+3. SpaceX は現在、AI の可能性が高く評価されている上場企業ですが、次に何が起こるのでしょうか? - アルステクニカ
+   原題: SpaceX is now a public company valued for its AI potential, so what comes next? - Ars Technica
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 12 Jun 2026 22:20:06 GMT
+
+4. 意見 |なぜビッグテックのIPOは時限爆弾となり得るのか - MS NOW
+   原題: Opinion | Why Big Tech IPOs could be a ticking time bomb - MS NOW
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 12 Jun 2026 16:30:00 GMT
+
+5. メタ社のザッカーバーグ氏、AI変革で犯した「間違い」を認める - ロイター
+   原題: Meta's Zuckerberg admits 'mistakes' made on AI transformation - Reuters
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 12 Jun 2026 21:33:35 GMT
+
+
+[CarPlay]
+1. Android Auto および CarPlay 用 AAWireless TWO が期間限定セールで 48 ドルに値下げ - 9to5Google
+   原題: AAWireless TWO for Android Auto and CarPlay drops to $48 for a limited-time sale - 9to5Google
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 12 Jun 2026 12:00:00 GMT
+
+2. Apple CarPlay Ultra 互換性リスト: Apple の次世代 UI を搭載している、および今後搭載されるすべての車 - スタッフ.tv
+   原題: Apple CarPlay Ultra compatibility list: every car that has, and is getting, Apple’s next-gen UI - stuff.tv
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 12 Jun 2026 05:22:27 GMT
+
+3. iOS 27 CarPlay アップデートがあなたの運転方法を変える理由 - Geeky Gadgets
+   原題: Why the iOS 27 CarPlay Update Will Change How You Drive - Geeky Gadgets
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 10 Jun 2026 08:01:06 GMT
+
+4. iOS 27 の CarPlay に含まれる Apple の壁紙 18 枚をすべてダウンロード - 9to5Mac
+   原題: Download all 18 wallpapers Apple included in CarPlay with iOS 27 - 9to5Mac
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 12 Jun 2026 22:41:00 GMT
+
+5. CarPlay の現状は Apple にとって恥ずかしいことだろう - Pocket-lint
+   原題: CarPlay's current state should be embarrassing for Apple - Pocket-lint
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 12 Jun 2026 15:00:26 GMT
+
+
+[Android Auto]
+1. オフロード走行時に欠かせない 6 つの Android Auto アプリ - しかもほとんどが無料 - ZDNET
+   原題: 6 Android Auto apps that are essential when I'm off-roading - and most are free - ZDNET
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 12 Jun 2026 11:00:00 GMT
+
+2. 運転中に Android Auto をさらに便利にする 7 つの方法で Android Auto をカスタマイズした方法 - ZDNET
+   原題: How I customized my Android Auto in 7 ways to make it more useful when I'm driving - ZDNET
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 12 Jun 2026 15:10:00 GMT
+
+3. 変更する必要があるとは知らなかった 6 つの Android Auto 設定 - Pocket-lint
+   原題: 6 Android Auto settings you didn't know you needed to change - Pocket-lint
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 12 Jun 2026 14:32:25 GMT
+
+4. 新しい Ypsilon_Car Play Android Auto Range - Stellantis Media
+   原題: Nuova Gamma Ypsilon_Car Play Android Auto - Stellantis Media
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 12 Jun 2026 16:09:06 GMT
+
+
+[Arduino]
+1. ビデオ: Arduino Ventuno Q がローカル処理 AI のスマート ミラー デモを強化 - Electronics Weekly
+   原題: Video: Arduino Ventuno Q powers smart mirror demo for locally-processed AI - Electronics Weekly
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 12 Jun 2026 11:17:12 GMT
+
+2. 極秘: 2025 Arduino オープンソース レポート - Adafruit
+   原題: STRICTLY CONFIDENTIAL: The 2025 Arduino Open Source Report - Adafruit
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 29 Mar 2026 07:00:00 GMT
+
+3. Arduino と Qualcomm が Hackster の 2026 年最初の開発者コンテストを開始 世界的なコンテストが 300 台の Arduino UNO Q ボードとエッジ AI イノベーションを紹介する機会で開幕 - PR Newswire
+   原題: Arduino and Qualcomm Launch Hackster's First Developer Contest of 2026 Global Competition Kicks Off With 300 Arduino UNO Q Boards and Opportunities to Showcase Edge AI Innovation - PR Newswire
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 04 Mar 2026 08:00:00 GMT
+
+4. Linux の Arduino Uno Q でゲーム - ハッカデイ
+   原題: Gaming On An Arduino Uno Q In Linux - Hackaday
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 10 Feb 2026 08:00:00 GMT
+
+5. Taras Woronjanski 氏、Arduino UNO Q を少し錆びさせるために Zephyr RTOS を使用 - Hackster.io
+   原題: Taras Woronjanski Turns to the Zephyr RTOS to Make the Arduino UNO Q a Little Rusty - Hackster.io
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 16 Mar 2026 13:11:27 GMT
