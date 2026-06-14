@@ -1,0 +1,106 @@
+Searcher Daily Report
+Generated at: 2026-06-15 08:01:08
+Removed duplicates (today): 1
+Removed duplicates (7 days): 30
+
+[AI]
+1. メタがアレクサンドル・ワンを利用して新しいAIモデルを構築してから1年後、ザッカーバーグはそれを売らなければならなくなった - CNBC
+   原題: A year after Meta tapped Alexandr Wang to build a new AI model, Zuckerberg has to sell it - CNBC
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 14 Jun 2026 12:00:02 GMT
+
+2. AI の時代、世界有数のディープフェイク専門家はもはや自分の目を信じていない - ニューヨーク・タイムズ
+   原題: In Age of AI, World’s Leading Deepfake Expert No Longer Trusts His Own Eyes - The New York Times
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 14 Jun 2026 09:00:34 GMT
+
+3. 労働組合は 2028 年の選挙で AI を巡る戦いに備える - Axios
+   原題: Unions prepare for battle over AI in 2028 elections - Axios
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 14 Jun 2026 21:56:15 GMT
+
+4. Google CEO サンダー・ピチャイ氏、スタンフォード大学卒業生のスピーチで AI について語る - SFGATE
+   原題: Google CEO Sundar Pichai passes on AI in Stanford grad speech - SFGATE
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 14 Jun 2026 22:05:00 GMT
+
+5. Z世代がAIについて懸念するのが正しい理由 - Forbes
+   原題: Why Gen Z Is Right To Be Concerned About AI - Forbes
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 14 Jun 2026 21:41:21 GMT
+
+
+[CarPlay]
+1. iOS 27 で CarPlay に追加されるすべての新機能 - デジタル トレンド
+   原題: Everything new coming to CarPlay in iOS 27 - Digital Trends
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 14 Jun 2026 15:45:33 GMT
+
+2. Rivian氏、CarPlay議論が「完全に時代遅れ」になる理由を説明 - MacRumors
+   原題: Rivian Explains Why CarPlay Debate Will Become 'Completely Obsolete' - MacRumors
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 28 May 2026 07:00:00 GMT
+
+3. この 199 ドルのガジェットは、GM EV に Apple CarPlay をもたらします。しかし、落とし穴がある - InsideEVs
+   原題: This $199 Gadget Brings Apple CarPlay To GM EVs. But There's A Catch - InsideEVs
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 05 Jun 2026 07:00:00 GMT
+
+4. 新しいアプリのアップデートで CarPlay でライブ歌詞が利用可能に - 9to5Mac
+   原題: Live lyrics now available in CarPlay with new app update - 9to5Mac
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 29 May 2026 07:00:00 GMT
+
+5. Apple、iOS 27で新しいCarPlay機能を導入、ビデオアプリも許可へ - ArenaEV
+   原題: Apple introduces new CarPlay features with iOS 27, video apps to be allowed - ArenaEV
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 09 Jun 2026 13:07:01 GMT
+
+
+[Android Auto]
+1. ほとんどの Android Auto アプリを削除しましたが、ダッシュボードに永続的に表示されるのは 6 つだけです - Android Police
+   原題: I deleted most Android Auto apps, but only 6 earned a permanent spot on my dashboard - Android Police
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 14 Jun 2026 12:00:10 GMT
+
+2. ほとんどのドライバーはこれら 6 つの Android Auto アプリを見落としていますが、オフローダーは絶対に見逃してはいけません - ZDNET
+   原題: Most drivers overlook these 6 Android Auto apps - but off-roaders definitely shouldn't - ZDNET
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 14 Jun 2026 12:00:00 GMT
+
+3. すべての Android ユーザーが Android Auto をバージョン 17.1 にアップデートできるようになりました - autoevolution
+   原題: All Android Users Can Now Update Android Auto to Version 17.1 - autoevolution
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 14 Jun 2026 10:04:52 GMT
+
+4. SamsungとPixelユーザーを悩ませていたAndroid Autoの切断問題が修正された - XDA
+   原題: The Android Auto disconnection problem plaguing Samsung and Pixel users just got a fix - XDA
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 14 Jun 2026 14:27:26 GMT
+
+
+[Arduino]
+1. Arduino "Andy" Ceccacci の訃報 - Bagnasco & Calcaterra Funeral Home
+   原題: Obituary information for Arduino "Andy" Ceccacci - Bagnasco & Calcaterra Funeral Home
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 02 Feb 2026 08:00:00 GMT
+
+2. Arduino UNO用のLinux風のOS - Hackster.io
+   原題: A Linux-Like OS for the Arduino UNO - Hackster.io
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 23 Apr 2026 15:26:03 GMT
+
+3. Arduino Days 2026 に参加するチャンス - Hackster.io
+   原題: Your Chance to Become Part of Arduino Days 2026 - Hackster.io
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 27 Mar 2026 07:00:00 GMT
+
+4. nRF54L15 (Zephyr ベース) 用の Arduino コア - Adafruit
+   原題: An Arduino core for nRF54L15 (Zephyr-based) - Adafruit
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 17 Feb 2026 08:00:00 GMT
+
+5. クアルコムの最新 AI プレイ: メーカーの夢を株主価値に変える - Adafruit
+   原題: Qualcomm’s Latest AI Play: Turning Maker Dreams into Shareholder Value - Adafruit
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 07 Oct 2025 07:00:00 GMT
