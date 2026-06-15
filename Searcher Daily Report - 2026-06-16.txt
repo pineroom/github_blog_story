@@ -1,0 +1,88 @@
+Searcher Daily Report
+Generated at: 2026-06-16 08:00:59
+Removed duplicates (today): 0
+Removed duplicates (7 days): 33
+
+[AI]
+1. OpenAI パートナー ネットワークのご紹介 - OpenAI
+   原題: Introducing the OpenAI Partner Network - OpenAI
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 15 Jun 2026 00:15:49 GMT
+
+2. 世界中の人々がAIの勝者と見ている - そしてそれは米国ではない - ポリティコ
+   原題: People around the world see a winner on AI — and it’s not the US - Politico
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 15 Jun 2026 09:00:00 GMT
+
+3. 次の看護師はロボットになる可能性がありますか?病院が物品の輸送を手伝うために AI を活用した新しい看護師を雇用 - CBS ニュース
+   原題: Could your next nurse be a robot? Hospital hires new AI-powered nurses to help transport items - CBS News
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 15 Jun 2026 21:53:00 GMT
+
+4. AWE 2026 ライブ: スマート グラスが AI を私たちの顔にもたらしている - CNET
+   原題: AWE 2026 Live: Smart Glasses Are Bringing AI to Our Faces - CNET
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 15 Jun 2026 22:02:00 GMT
+
+5. Anthropic、ワシントンD.C.にスタッフ派遣、AI輸出規制解消に急ぐ - WSJ
+   原題: Anthropic Dispatches Staff to D.C., Racing to Resolve AI Export Restrictions - WSJ
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 15 Jun 2026 01:12:00 GMT
+
+
+[CarPlay]
+1. この CarPlay の変更は Tesla サポートの欠落部分である可能性があります - 9to5Mac
+   原題: This CarPlay change may be the missing link for Tesla support - 9to5Mac
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 15 Jun 2026 14:47:00 GMT
+
+2. iOS 26 の CarPlay に、常に存在するはずだった新しい設定が追加されました - 9to5Mac
+   原題: CarPlay in iOS 26 added new setting that should have always existed - 9to5Mac
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 03 Jun 2026 07:00:00 GMT
+
+3. 25,000マイル後も、私のお気に入りのApple CarPlayアプリは機能し、信頼性が高く、ほとんど無料のままです - ZDNET
+   原題: 25,000 miles later, my favorite Apple CarPlay apps remain functional, reliable, and mostly free - ZDNET
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 15 Jun 2026 19:10:00 GMT
+
+4. ホンダの新しいオフロード Apple CarPlay アプリが TrailSport オーナーにライブデータを提供 - Yahoo Autos
+   原題: Honda's New Off-Road Apple CarPlay App Provides Live Data for TrailSport Owners - Yahoo Autos
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 15 Jun 2026 16:48:00 GMT
+
+5. iOS 27 では、Apple CarPlay がビデオ アプリをネイティブにサポートします - PCMag
+   原題: With iOS 27, Apple CarPlay Will Support Video Apps Natively - PCMag
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 10 Jun 2026 13:03:30 GMT
+
+
+[Android Auto]
+1. Gemini が突然、一部の Android および Android Auto で通話できなくなる - 9to5Google
+   原題: Gemini suddenly can’t make calls on Android and Android Auto for some - 9to5Google
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 15 Jun 2026 20:55:00 GMT
+
+2. Android Auto での Gemini 通話のバグによりドライバーはエラー メッセージを見つめる - Android Authority
+   原題: Gemini call bug on Android Auto leaves drivers staring at error messages - Android Authority
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 15 Jun 2026 18:56:07 GMT
+
+3. Android Auto の実行中に携帯電話を涼しく保つ方法 - シンプルかつ効果的な 8 つのヒント - ZDNET
+   原題: How I keep my phone cool while running Android Auto - 8 simple yet effective tips - ZDNET
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 03 Jun 2026 07:00:00 GMT
+
+4. 次世代の Android を車内で使って、もっと楽しく、もっと楽しく - blog.google
+   原題: Do more and have more fun with the next generation of Android in the car - blog.google
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 12 May 2026 07:00:00 GMT
+
+5. Android Auto の 2026 年の大改造は Gemini が最も実用的 - Engadget
+   原題: Android Auto's Big 2026 Makeover Is Gemini At Its Most Practical - Engadget
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 20 May 2026 07:00:00 GMT
+
+
+[Arduino]
+- No new items after dedupe
