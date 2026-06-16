@@ -1,0 +1,111 @@
+Searcher Daily Report
+Generated at: 2026-06-17 08:00:51
+Removed duplicates (today): 0
+Removed duplicates (7 days): 23
+
+[AI]
+1. SpaceX、600億ドルのCursor契約を確定、AIコーディング競争でライバルとの差を縮める - ロイター
+   原題: SpaceX locks in $60 billion Cursor deal to close gap with rivals in AI coding race - Reuters
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 16 Jun 2026 14:52:06 GMT
+
+2. SpaceX、AIコーディングスタートアップCursorを600億ドルで買収 - CNBC
+   原題: SpaceX to acquire the AI coding startup Cursor for $60 billion - CNBC
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 16 Jun 2026 13:06:23 GMT
+
+3. SpaceX が AI コーディング会社の買収に 600 億ドルを支払った理由 - inc.com
+   原題: Why SpaceX Just Paid $60 Billion to Acquire an AI Coding Company - inc.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 16 Jun 2026 21:22:30 GMT
+
+4. ハッキングされると想定してください - The Atlantic
+   原題: Assume You Will Be Hacked - The Atlantic
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 16 Jun 2026 17:50:00 GMT
+
+5. Databricks の売上成長率は 80% を超えるも、AI エージェントの群れにより利益率は縮小 - CNBC
+   原題: Databricks sales growth tops 80%, but margin are shrinking from swarm of AI agents - CNBC
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 16 Jun 2026 22:25:28 GMT
+
+
+[CarPlay]
+1. GYGの動きはファーストフードを永遠に変える - News.com.au
+   原題: GYG move changes fast food forever - News.com.au
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 16 Jun 2026 01:45:11 GMT
+
+2. Ottocast Mini Pico ワイヤレス CarPlay アダプター - Team-BHP を購入した 3 つの理由
+   原題: 3 reasons why I bought Ottocast Mini Pico Wireless CarPlay Adapter - Team-BHP
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 16 Jun 2026 08:52:00 GMT
+
+3. Apple は Tesla が CarPlay を利用できるようにミッシングリンクを開発中: レポート - Teslarati
+   原題: Apple is developing the missing link for Tesla to get CarPlay: report - Teslarati
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 16 Jun 2026 16:26:08 GMT
+
+4. リビアン氏、Apple CarPlayを巡る争いはAIのおかげで「完全に時代遅れ」だと語る - InsideEVs
+   原題: Rivian Says Fight Over Apple CarPlay Is 'Completely Obsolete' Thanks To AI - InsideEVs
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 29 May 2026 07:00:00 GMT
+
+5. iOS 27 に登場する 5 つの新しい Apple CarPlay 機能 - bgr.com
+   原題: 5 New Apple CarPlay Features Coming In iOS 27 - bgr.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 16 Jun 2026 20:47:16 GMT
+
+
+[Android Auto]
+1. Google、Android と Android Auto で通話できなくなった Gemini の修正を公開 [U] - 9to5Google
+   原題: Google rolling out fix for Gemini after it couldn’t make calls on Android and Android Auto [U] - 9to5Google
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 16 Jun 2026 16:29:00 GMT
+
+2. Google の AI スーパースターのせいで Android Auto がエラー メッセージに悩まされる - autoevolution
+   原題: Android Auto Plagued by Error Messages Due to Google's AI Superstar - autoevolution
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 16 Jun 2026 04:08:56 GMT
+
+3. 「全くのゴミ」: Android Auto の Gemini が別のバグに遭遇、ユーザーは感心しない - TechRadar
+   原題: 'Absolute rubbish': Gemini on Android Auto hits another bug, and users aren't impressed - TechRadar
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 16 Jun 2026 12:07:55 GMT
+
+4. 車の画面をより便利にするためにインストールした 3 つの非公式 Android Auto アプリ - そしてその方法 - ZDNET
+   原題: 3 unofficial Android Auto apps I installed to make my car screen more useful - and how - ZDNET
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 16 Jun 2026 13:59:00 GMT
+
+5. Android Auto の Gemini で YouTube Music を使い始めましたが、ドライブがこれまでになく快適になりました - Android Police
+   原題: I started using YouTube Music with Gemini in Android Auto, and my drives have never been better - Android Police
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 16 Jun 2026 11:00:50 GMT
+
+
+[Arduino]
+1. App Lab を使用して Arduino UNO Q でローカル VLM を実行する - Hackster.io
+   原題: Running local VLMs on Arduino UNO Q with the App Lab - Hackster.io
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 15 Jun 2026 07:00:00 GMT
+
+2. Arduino が Qualcomm Dragonwing IQ8 シリーズを搭載した Arduino VENTUNO Q を発表 - クアルコム
+   原題: Arduino Announces Arduino VENTUNO Q, Powered by Qualcomm Dragonwing IQ8 Series - Qualcomm
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 09 Mar 2026 07:00:00 GMT
+
+3. Arduino アンドレアッタの訃報 - オンタリオ州トロント - 尊厳記念碑
+   原題: Arduino Andreatta Obituary - Toronto, ON - Dignity Memorial
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 08 Jun 2026 04:54:45 GMT
+
+4. Arduino UNO Q でアプリ開発を始めましょう - Qualcomm
+   原題: Get Started with App development on Arduino UNO Q - Qualcomm
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 15 Jan 2026 08:00:00 GMT
+
+5. Arduino UNO Q ボード: 次世代エッジ AI のデュアルブレイン パワーを解き明かす - クアルコム
+   原題: The Arduino UNO Q Board: Unpack the Dual-Brain Power for Next-Gen Edge AI - Qualcomm
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 10 May 2026 07:00:00 GMT
