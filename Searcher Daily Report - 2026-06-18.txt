@@ -1,0 +1,101 @@
+Searcher Daily Report
+Generated at: 2026-06-18 08:01:04
+Removed duplicates (today): 0
+Removed duplicates (7 days): 30
+
+[AI]
+1. State Farm の販売代理店向け AI 計画が騒動を巻き起こす。 「まさに顔面平手打ち」 - WSJ
+   原題: State Farm’s AI Plan for Sales Agents Sparks Uproar. ‘A Real Slap in the Face.’ - WSJ
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 17 Jun 2026 09:30:00 GMT
+
+2. ジェフ・ベゾス氏、AIがVivaTech Parisでより多くの雇用を生み出すと語る - BBC
+   原題: Jeff Bezos says AI will create more jobs at VivaTech Paris - BBC
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 17 Jun 2026 16:37:41 GMT
+
+3. ベゾス氏、AIは労働力不足につながると楽観的に語る - ロイター
+   原題: AI will lead to labour shortages, Bezos says in optimistic talk - Reuters
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 17 Jun 2026 16:07:00 GMT
+
+4. ベゾス氏「AIは人間に取って代わるのではなく、労働力不足を引き起こすだろう」 - Yahoo!ニュース
+   原題: Bezos: AI will result in labor shortages instead of replacing humans - Yahoo
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 17 Jun 2026 19:05:12 GMT
+
+5. Microsoft、OpenAIモデルの販売で中国でAIに大規模進出 - Bloomberg.com
+   原題: Microsoft Makes Big AI Inroads in China by Selling OpenAI Models - Bloomberg.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 17 Jun 2026 22:30:00 GMT
+
+
+[CarPlay]
+1. iOS 27 での Apple の新しい CarPlay 壁紙: 入手方法 - Memeburn
+   原題: Apple's New CarPlay Wallpapers in iOS 27: How to Get Them - Memeburn
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 16 Jun 2026 23:51:49 GMT
+
+2. iOS 27でCarPlayに主要な新機能が追加 - MacRumors
+   原題: iOS 27 Adds Major New Feature to CarPlay - MacRumors
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 17 Jun 2026 16:10:28 GMT
+
+3. この一般的な Android Auto/CarPlay の問題の解決策は、恥ずかしいほど簡単です - How-To Geek
+   原題: The solution to this common Android Auto/CarPlay problem is embarrassingly simple - How-To Geek
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 17 Jun 2026 12:16:06 GMT
+
+4. GM は Apple CarPlay を削除したが、オーナーはそれを回避する方法を手に入れた - 2020 記事
+   原題: GM Removed Apple CarPlay, But Owners Now Have A Way Around It - Autoblog
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 05 Jun 2026 07:00:00 GMT
+
+
+[Android Auto]
+1. Android Auto で Spotify、YouTube Music、Amazon Music を試してみたところ、明らかに勝者が見つかりました - Android Police
+   原題: I tried Spotify, YouTube Music, and Amazon Music in Android Auto, and I have a clear winner for you - Android Police
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 17 Jun 2026 12:15:41 GMT
+
+2. この安価なデバイスのおかげで、ヘッドユニットを交換せずに車に Android Auto を追加できました - How-To Geek
+   原題: This cheap device helped me add Android Auto to my car without replacing the head unit - How-To Geek
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 17 Jun 2026 19:00:12 GMT
+
+3. Android Auto から Facebook メッセンジャー アプリが突然失われる - 9to5Google
+   原題: Android Auto has suddenly lost its Facebook Messenger app - 9to5Google
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 17 Jun 2026 19:20:00 GMT
+
+4. Facebook メッセンジャーは Android Auto で利用できなくなりました - autoevolution
+   原題: Facebook Messenger No Longer Available on Android Auto - autoevolution
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 17 Jun 2026 08:28:33 GMT
+
+5. GoogleはついにAndroid Autoの最悪の接続問題を修正したかもしれない - bgr.com
+   原題: Google Might Have Finally Fixed Android Auto's Worst Connection Issue - bgr.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 17 Jun 2026 14:47:00 GMT
+
+
+[Arduino]
+1. DIY Arduino nano Sim ホイールを使ってユーロ トラック シミュレーター (ETS 2) をプレイする - YouTube
+   原題: Playing Euro Truck Simulator (ETS 2) with my DIY Arduino nano Sim Wheel - YouTube
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 17 Jun 2026 05:59:08 GMT
+
+2. 熱電対アンプボード Arduino MAX6675 用 K タイプ熱電対温度センサー 熱電対 K タイプ用 MAX6675 モジュール - サーキットエレクトロニクス Arduino センサー熱電対センサーモジュール - aviglianonews.it
+   原題: Thermocouple Amplifier Board K Type Thermocouple Temperature Sensor For Arduino MAX6675 MAX6675 Module For Thermocouple K Type - Circuit Electronics Arduino Sensor Thermocouple Sensor Module - aviglianonews.it
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 17 Jun 2026 18:55:50 GMT
+
+3. Arduino "Andy" Ceccacci の訃報 - Bagnasco & Calcaterra Funeral Homes
+   原題: Obituary information for Arduino "Andy" Ceccacci - Bagnasco & Calcaterra Funeral Homes
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 02 Feb 2026 08:00:00 GMT
+
+4. TFTGraph、TFT ディスプレイ用のデータ視覚化 Arduino ライブラリ - Adafruit
+   原題: TFTGraph, a data visualizing Arduino library for TFT displays - Adafruit
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 21 Apr 2026 07:00:00 GMT
