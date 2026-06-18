@@ -1,0 +1,86 @@
+Searcher Daily Report
+Generated at: 2026-06-19 08:00:49
+Removed duplicates (today): 1
+Removed duplicates (7 days): 33
+
+[AI]
+1. アマゾン、AIデータセンター拡張を批判したエンジニアを調査 - CNBC
+   原題: Amazon investigating engineers who criticized AI data center expansion - CNBC
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 18 Jun 2026 19:45:42 GMT
+
+2. 独占：保守派はAIデータセンターに対する全国的な抗議活動を計画 - Axios
+   原題: Exclusive: Conservatives plan nationwide protest against AI data centers - Axios
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 18 Jun 2026 16:24:43 GMT
+
+3. 規制当局、AI データセンターの迅速なグリッド接続にゴーサイン計画 - The Hill
+   原題: Regulators greenlight plan for quick AI data center grid connections - The Hill
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 18 Jun 2026 22:11:00 GMT
+
+4. 学生の不正行為はAIでは検出できなくなりつつある時代 - ニューヨーク・タイムズ
+   原題: Student Cheating Is Becoming Impossible to Detect in an A.I. Era - The New York Times
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 18 Jun 2026 12:33:05 GMT
+
+5. ジェンセン・ファン氏、AIの将来について楽観的な主張 - FOXニュース
+   原題: Jensen Huang makes an optimistic case for the future of AI - Fox News
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 18 Jun 2026 22:32:42 GMT
+
+
+[CarPlay]
+1. Apple CarPlay でビデオ再生が可能に - InsideEVs
+   原題: Apple CarPlay Is Getting Video Playback - InsideEVs
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 09 Jun 2026 07:00:00 GMT
+
+
+[Android Auto]
+1. Google Meet が Android Auto で動作するようになりました。 - ザ・ヴァージ
+   原題: Now Google Meet works in Android Auto. - The Verge
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 18 Jun 2026 18:25:20 GMT
+
+2. 私道で時間を無駄にしないようにしてくれた 3 つのシンプルな Android Auto Automation - XDA
+   原題: 3 simple Android Auto Automations that helped me stop wasting time in my driveway - XDA
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 18 Jun 2026 18:30:22 GMT
+
+3. [更新: 詳細] Android Auto 向け Google Meet が広く展開開始 - 9to5Google
+   原題: [Update: Details] Google Meet for Android Auto now rolling out widely - 9to5Google
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 18 Jun 2026 16:39:00 GMT
+
+4. これら 4 つのデフォルト設定を微調整することで、理想的な Android Auto セットアップを発見しました - ZDNET
+   原題: I discovered my ideal Android Auto setup by tweaking these 4 default settings - ZDNET
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 18 Jun 2026 13:00:00 GMT
+
+
+[Arduino]
+1. Anthony Mark Arduino Obituary December 23, 2020 - suessfuneralhome.net
+   原題: Anthony Mark Arduino Obituary December 23, 2020 - suessfuneralhome.net
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 14 Jun 2026 06:12:05 GMT
+
+2. Qualcomm Arduino ボード、Rubik Pi 3、および Snapdragon 搭載 PC に OpenClaw と Hermes Agent をインストールする方法 - Qualcomm
+   原題: How to Install OpenClaw and Hermes Agent on Qualcomm Arduino Boards, Rubik Pi 3 and PCs with Snapdragon - Qualcomm
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 24 Apr 2026 07:00:00 GMT
+
+3. 試してみたい最高のArduinoプロジェクト10選 - SlashGear
+   原題: 10 Of The Best Arduino Projects You Need To Try - SlashGear
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 09 Jun 2026 07:00:00 GMT
+
+4. Zephyr Work の Arduino コアが新たなマイルストーンに到達、6 月にベータ版を終了する準備を整える - Hackster.io
+   原題: Arduino Core on Zephyr Work Hits a New Milestone, Prepares to Exit Beta in June - Hackster.io
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 18 May 2026 22:53:10 GMT
+
+5. ロボット工学を始める方法 - 初心者のための Arduino プロジェクト チュートリアル - MSN
+   原題: How to start with robotics - Arduino projects for beginners tutorial - MSN
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 05 Jun 2026 07:00:00 GMT
