@@ -1,0 +1,91 @@
+Searcher Daily Report
+Generated at: 2026-06-20 08:01:13
+Removed duplicates (today): 1
+Removed duplicates (7 days): 35
+
+[AI]
+1. ノルウェー、小学校でのAI使用をほぼ禁止 - ロイター
+   原題: Norway imposes near ban on AI in elementary school - Reuters
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 19 Jun 2026 15:41:56 GMT
+
+2. 「我々は怪物を生み出した」：コストが予算を圧迫する中、企業はAIの使用を抑制 - フィナンシャル・タイムズ
+   原題: ‘We created a monster’: companies rein in AI usage as costs strain budgets - Financial Times
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 19 Jun 2026 04:00:11 GMT
+
+3. ボーイ・ジョージ、「エシカル」AIを組み込んだアーティスト版「カルマ・カメレオン」をリメイク - Forbes
+   原題: Boy George Reworks 'Karma Chameleon' With Artist Included 'Ethical' AI - Forbes
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 19 Jun 2026 22:30:10 GMT
+
+4. 株式市場の次の上昇は AI によるものではない可能性: 今日のチャート - Yahoo Finance
+   原題: The stock market's next leg higher may not come from AI: Chart of the Day - Yahoo Finance
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 19 Jun 2026 10:00:00 GMT
+
+5. 意見 |バージニア州の2つの郡、AIデータセンターで意見が分かれる - WSJ
+   原題: Opinion | Two Virginia Counties Diverge on AI Data Centers - WSJ
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 19 Jun 2026 21:12:00 GMT
+
+
+[CarPlay]
+1. Apple、CarPlay の最も迷惑な欠点を iOS 27 で修正へ - Cult of Mac
+   原題: Apple will fix CarPlay’s most annoying shortcomings in iOS 27 - Cult of Mac
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 19 Jun 2026 00:58:01 GMT
+
+2. Apple、CarPlay の最高のニュースを iOS 27 開発者向けノートに埋めた - CNET
+   原題: Apple Buried the Best CarPlay News in the iOS 27 Developer Notes - CNET
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 09 Jun 2026 07:00:00 GMT
+
+3. ChatGPT と Perplexity AI を CarPlay 音声アシスタントとしてテストしました - どちらも Siri の見た目を悪くしました - ZDNET
+   原題: I tested ChatGPT and Perplexity AI as my CarPlay voice assistants - both made Siri look bad - ZDNET
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 03 May 2026 07:00:00 GMT
+
+4. iOS 27 の CarPlay での Siri AI、Apple TV などの機能 - AppleInsider
+   原題: What Siri AI, Apple TV, & more are like with CarPlay in iOS 27 - AppleInsider
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 19 Jun 2026 17:27:00 GMT
+
+
+[Android Auto]
+1. 私が車のインフォテインメント システムの代わりに Android Auto を使用している 5 つの理由 – もう後戻りできない – ZDNET
+   原題: 5 reasons I'm using Android Auto instead of my car's own infotainment system - and can't go back - ZDNET
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 19 Jun 2026 11:00:00 GMT
+
+2. Google、Android Auto への Google Meet サポートを世界的に展開 - Mezha
+   原題: Google rolls out Google Meet support to Android Auto globally - Mezha
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 19 Jun 2026 11:19:00 GMT
+
+3. 25,000ドル以下でまだ買える最後の新車 - Motor1.com
+   原題: The Last New Cars You Can Still Buy For Under $25,000 - Motor1.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 19 Jun 2026 16:00:00 GMT
+
+
+[Arduino]
+1. Arduino UNO Q 上の EdgeAI で LiDAR が部屋を検出 - Let's Data Science
+   原題: LiDAR Detects Rooms with EdgeAI on Arduino UNO Q - Let's Data Science
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 19 Jun 2026 15:30:13 GMT
+
+2. 極秘: 2025 Arduino オープンソース レポート - Adafruit
+   原題: STRICTLY CONFIDENTIAL: The 2025 Arduino Open Source Report - Adafruit
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 29 Mar 2026 07:00:00 GMT
+
+3. Arduino と Qualcomm が Hackster の 2026 年最初の開発者コンテストを開始 世界的なコンテストが 300 台の Arduino UNO Q ボードとエッジ AI イノベーションを紹介する機会で開幕 - PR Newswire
+   原題: Arduino and Qualcomm Launch Hackster's First Developer Contest of 2026 Global Competition Kicks Off With 300 Arduino UNO Q Boards and Opportunities to Showcase Edge AI Innovation - PR Newswire
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 04 Mar 2026 08:00:00 GMT
+
+4. WTIC - WCCT-TV イベント - 春 - Arduino (10 ～ 13 歳) - fox61.com
+   原題: WTIC - WCCT-TV Events - SPRING - Arduino (ages 10-13) - fox61.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 11 Jun 2026 20:12:20 GMT
