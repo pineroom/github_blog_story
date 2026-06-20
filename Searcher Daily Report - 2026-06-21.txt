@@ -1,0 +1,83 @@
+Searcher Daily Report
+Generated at: 2026-06-21 08:00:45
+Removed duplicates (today): 2
+Removed duplicates (7 days): 35
+
+[AI]
+1. ウイルスによる終末シナリオは、ヨーロッパをAIの自己満足から揺るがすことを目的としている - ガーディアン
+   原題: A viral doomsday scenario aims to shake Europe out of its AI complacency - The Guardian
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 20 Jun 2026 11:17:00 GMT
+
+2. 新しい世界秩序: AI CEOがG7で国家元首に - Axios
+   原題: New global order: AI CEOs as heads of nation-states at G7 - Axios
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 20 Jun 2026 13:44:41 GMT
+
+3. あなたの学位は AI に耐えられますか? Meta と Microsoft の人員削減の中ですべき 4 つの転職 - AOL.com
+   原題: Is Your Degree AI-Proof? 4 Career Moves To Make Amid Meta and Microsoft Layoffs - AOL.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 20 Jun 2026 22:04:19 GMT
+
+4. 料理人がAIと戦う巨大テストキッチンスロップ - ニューヨーク・タイムズ
+   原題: The Giant Test Kitchen Where Cooks Battle A.I. Slop - The New York Times
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 20 Jun 2026 09:00:44 GMT
+
+5. AIの発展により、ハイテク投資家は債券市場に注目する新たな理由が得られる - CNBC
+   原題: AI buildout gives tech investors new reasons to watch bond market - CNBC
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 20 Jun 2026 12:00:01 GMT
+
+
+[CarPlay]
+1. iOS 27 に導入される 4 つの新しい CarPlay 機能と機能強化 - SlashGear
+   原題: 4 New CarPlay Features & Enhancements Coming With iOS 27 - SlashGear
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 20 Jun 2026 10:45:00 GMT
+
+2. Rivian のソフトウェア責任者は、CarPlay もボタンも必要ないと考えている - The Verge
+   原題: Rivian’s software chief thinks you don’t need CarPlay or buttons - The Verge
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 28 May 2026 07:00:00 GMT
+
+3. この一般的な Android Auto/CarPlay の問題の解決策は、恥ずかしいほど簡単です - Yahoo Autos
+   原題: The solution to this common Android Auto/CarPlay problem is embarrassingly simple - Yahoo Autos
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 17 Jun 2026 12:16:06 GMT
+
+4. Apple、iOS 27で新しいCarPlay機能を導入、ビデオアプリも許可へ - ArenaEV - ArenaEV
+   原題: Apple introduces new CarPlay features with iOS 27, video apps to be allowed - ArenaEV - ArenaEV
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 09 Jun 2026 07:00:00 GMT
+
+
+[Android Auto]
+1. 自動車メーカーは2026年にAndroid Autoを廃止：その理由は次のとおりです - Engadget
+   原題: Car Manufacturers Are Ditching Android Auto In 2026: Here's Why - Engadget
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 20 Jun 2026 13:30:00 GMT
+
+2. 長距離旅行のために 10 個の Android Auto アプリをインストールしましたが、実際に役に立ったのは 4 個だけでした - Android Police
+   原題: I installed 10 Android Auto apps for a long road trip, but only 4 were genuinely useful - Android Police
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 20 Jun 2026 13:30:10 GMT
+
+3. これら 3 つの機能を無効にしてから Android Auto が改善されました - How-To Geek
+   原題: Android Auto got better after I disabled these 3 features - How-To Geek
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 20 Jun 2026 13:00:18 GMT
+
+4. 運転中の機能を向上させるために、Android Auto の設定に 7 つの変更を加えました - ZDNET
+   原題: I made 7 changes to my Android Auto setup for better functionality when I'm driving - ZDNET
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 20 Jun 2026 11:00:00 GMT
+
+5. Google、Android Autoの切断問題の修正を密かに発表 - SlashGear
+   原題: Google Quietly Pushed Out A Fix For Android Auto's Disconnect Issues - SlashGear
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 20 Jun 2026 14:45:00 GMT
+
+
+[Arduino]
+- No new items after dedupe
