@@ -1,0 +1,52 @@
+Searcher Daily Report
+Generated at: 2026-06-22 08:00:47
+Removed duplicates (today): 1
+Removed duplicates (7 days): 42
+
+[AI]
+1. AIへの資金流入は巨大な警告サイン - WSJ
+   原題: All the Money Flooding Into AI Is a Giant Warning Sign - WSJ
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 21 Jun 2026 09:30:00 GMT
+
+2. 中国はAIの新たな瞬間を迎えている - エコノミスト
+   原題: China is having another AI moment - The Economist
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 21 Jun 2026 16:50:29 GMT
+
+3. AI と雇用の安全について、ほとんどのテクノロジー労働者がまだ気づいていないこと - inc.com
+   原題: What Most Tech Workers Still Don’t Realize About AI and Job Security - inc.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 21 Jun 2026 22:52:30 GMT
+
+4. 地球上に AI データセンターを望む人はいません。宇宙では意味があるのでしょうか？ - CNBC
+   原題: No one wants AI data centers on Earth. Do they make sense in space? - CNBC
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 21 Jun 2026 13:33:34 GMT
+
+5. AI の次のボトルネックは電力: 今日のチャート - Yahoo Finance
+   原題: AI's next bottleneck is power: Chart of the Day - Yahoo Finance
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 21 Jun 2026 11:41:39 GMT
+
+
+[CarPlay]
+- No new items after dedupe
+
+[Android Auto]
+1. 旅行前に変更する必要がある 4 つの Android Auto 設定 - How-To Geek
+   原題: The 4 Android Auto settings you need to change before your road trip - How-To Geek
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 21 Jun 2026 17:45:18 GMT
+
+2. Android Auto でメディア アプリの切り替えの煩わしさが大幅に軽減されました - Android Authority
+   原題: Android Auto just made switching media apps way less annoying - Android Authority
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 27 May 2026 07:00:00 GMT
+
+
+[Arduino]
+1. AI ニュースキャスター: Arduino Uno Q によるゼロ依存ニュース - Hackster.io
+   原題: The AI Newscaster: Zero-Dependency News with Arduino Uno Q - Hackster.io
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 21 Jun 2026 00:09:19 GMT
