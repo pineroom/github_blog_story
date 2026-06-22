@@ -1,0 +1,91 @@
+Searcher Daily Report
+Generated at: 2026-06-23 08:00:56
+Removed duplicates (today): 2
+Removed duplicates (7 days): 32
+
+[AI]
+1. アルファベット、注目の撤退後、AIへの懸念でここ1年で最悪の日を迎える - CNBC
+   原題: Alphabet has its worst day in over a year on AI concerns after high-profile exits - CNBC
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 22 Jun 2026 16:16:11 GMT
+
+2. AI第二のスターがライバルに去った後、アルファベットの株価が下落 - Bloomberg.com
+   原題: Alphabet Shares Drop After Second AI Star Departs for a Rival - Bloomberg.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 22 Jun 2026 19:35:42 GMT
+
+3. グーグルのディープマインドがノーベル賞受賞者をアンスロピックに敗れ、アルファベット株急落 - 本誌
+   原題: Alphabet Stock Tumbles as Google’s DeepMind Loses Nobel Prize Winner to Anthropic - Barron's
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 22 Jun 2026 19:22:00 GMT
+
+4. AIモデルは数カ月以内に政府や企業を崩壊させる可能性がある、ファイブ・アイズの珍しい声明が警告 - ガーディアン
+   原題: AI models that can take down governments and business months away, rare Five Eyes statement warns - The Guardian
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 22 Jun 2026 21:19:00 GMT
+
+5. AI音楽会社が曲が完成したと判断した理由はまだ半分にすぎない - ローリングストーン誌
+   原題: Why An AI Music Company Decided a Finished Song Is Only Half the Story - Rolling Stone
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 22 Jun 2026 22:11:24 GMT
+
+
+[CarPlay]
+1. iOS 27 の Apple CarPlay の 5 つの新しい機能が車にとって何を意味するか - Tom's Guide
+   原題: What these 5 new iOS 27 Apple CarPlay features mean for your car - Tom's Guide
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 22 Jun 2026 08:30:00 GMT
+
+2. 新しいアプリのアップデートで CarPlay でライブ歌詞が利用可能に - 9to5Mac
+   原題: Live lyrics now available in CarPlay with new app update - 9to5Mac
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 29 May 2026 07:00:00 GMT
+
+3. Rivian氏、CarPlay議論が「完全に時代遅れ」になる理由を説明 - MacRumors
+   原題: Rivian Explains Why CarPlay Debate Will Become 'Completely Obsolete' - MacRumors
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 28 May 2026 07:00:00 GMT
+
+4. 自動車メーカーが Android Auto と Apple CarPlay を廃止、それは彼らが言う理由ではない - Android ヘッドライン
+   原題: Carmakers Are Ditching Android Auto and Apple CarPlay, and It's Not for the Reason They're Telling You - Android Headlines
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 22 Jun 2026 14:14:19 GMT
+
+
+[Android Auto]
+1. Android Auto で何千マイルも運転しました - 携帯電話を涼しく保つ 8 つのヒント - ZDNET
+   原題: I've driven thousands of miles with Android Auto - these 8 tips keep my phone cool - ZDNET
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 22 Jun 2026 15:00:00 GMT
+
+2. Android Auto でライブ TV を視聴する人気の方法が日没に向かって進んでいます - Android Authority
+   原題: A beloved way to watch live TV on Android Auto is riding off into the sunset - Android Authority
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 22 Jun 2026 08:15:39 GMT
+
+3. Android Auto で運転中に Google マップと Waze を一緒に実行する 5 つの理由 - How-To Geek
+   原題: 5 reasons I run Google Maps and Waze together while driving with Android Auto - How-To Geek
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 22 Jun 2026 15:31:17 GMT
+
+
+[Arduino]
+1. 蓄音機を復活させる: 手作りのアンティークスピーカー - Hackster.io
+   原題: Reviving the Gramophone: A Hand-Built Antique Speaker - Hackster.io
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 22 Jun 2026 17:34:43 GMT
+
+2. アーティスト向けのエレクトロニクスと Arduino マイクロコントローラー | 2026 年 2 月 5 日から 4 月 9 日まで |午後6時30分～午後9時30分 |継続教育 |ビジュアルアーツスクール | SVA NYC - スクール オブ ビジュアル アーツ | SVA
+   原題: Electronics and Arduino Microcontroller for Artists | Feb 5 - Apr 9, 2026 | 6:30-9:30 PM | Continuing Education | School of Visual Arts | SVA NYC - School of Visual Arts | SVA
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 24 Apr 2026 08:33:59 GMT
+
+3. Arduino "Andy" Ceccacci の訃報 - Bagnasco & Calcaterra Funeral Home
+   原題: Obituary information for Arduino "Andy" Ceccacci - Bagnasco & Calcaterra Funeral Home
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 02 Feb 2026 08:00:00 GMT
+
+4. Arduino UNO用のLinux風のOS - Hackster.io
+   原題: A Linux-Like OS for the Arduino UNO - Hackster.io
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 23 Apr 2026 15:26:03 GMT
