@@ -1,0 +1,106 @@
+Searcher Daily Report
+Generated at: 2026-06-24 08:00:54
+Removed duplicates (today): 3
+Removed duplicates (7 days): 28
+
+[AI]
+1. 安全保障上の懸念が高まる中、米国がメタにAI審査への同意を迫るとNYTが報じ - Yahoo!ニュース
+   原題: US presses Meta to agree to AI reviews as security concerns rise, NYT reports - Yahoo
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 23 Jun 2026 21:38:59 GMT
+
+2. NSA強力な AI にアクセスできなくなりました。人類紛争の最中のモデル - ニューヨーク・タイムズ
+   原題: N.S.A. Lost Access to Powerful A.I. Model Amid Anthropic Dispute - The New York Times
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 23 Jun 2026 21:15:16 GMT
+
+3. 米国、メタにA.I.への同意を迫るセキュリティ上の懸念が高まる中レビュー - ニューヨーク・タイムズ
+   原題: U.S. Presses Meta to Agree to A.I. Reviews as Security Concerns Rise - The New York Times
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 23 Jun 2026 21:28:27 GMT
+
+4. ウォール街はAIの売りによって踏みにじられつつある。韓国市場、10％下落 - CNN
+   原題: Wall Street is getting trampled by an AI sell-off. South Korean market plunges 10% - CNN
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 23 Jun 2026 12:10:31 GMT
+
+5. 新しい「オデッセイ」オーディオブックに「マイケル・ケイン」に「A.I.」が登場 - ニューヨーク・タイムズ
+   原題: A New ‘Odyssey’ Audiobook Puts the ‘A.I.’ in ‘Michael Caine’ - The New York Times
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 23 Jun 2026 17:55:25 GMT
+
+
+[CarPlay]
+1. AAWireless TWO シリーズ Android Auto および CarPlay アダプターがプライム デーの割引を受ける - 9to5Google
+   原題: AAWireless TWO series Android Auto & CarPlay adapters get a Prime Day discount - 9to5Google
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 23 Jun 2026 14:05:00 GMT
+
+2. リビアン氏、Apple CarPlayをめぐる争いはAIのおかげで「完全に時代遅れ」だと語る - InsideEVs
+   原題: Rivian Says Fight Over Apple CarPlay Is 'Completely Obsolete' Thanks To AI - InsideEVs
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 29 May 2026 07:00:00 GMT
+
+3. この CarPlay の変更は Tesla サポートの欠落部分である可能性があります - 9to5Mac
+   原題: This CarPlay change may be the missing link for Tesla support - 9to5Mac
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 15 Jun 2026 07:00:00 GMT
+
+4. ついに！ Apple CarPlay でビデオを視聴する - IOS 27 アルバロ コルテス (2bUCGP8KWk) - Mshale
+   原題: Finally! Watching Video On Apple CarPlay - IOS 27 álvaro Cortés (2bUCGP8KWk) - Mshale
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 23 Jun 2026 11:23:15 GMT
+
+5. この 2-in-1 ワイヤレス Android Auto および CarPlay アダプターがプライムデーで 30% オフ - XDA
+   原題: This 2-in-1 Wireless Android Auto and CarPlay adapter is 30% off for Prime Day - XDA
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 23 Jun 2026 16:44:28 GMT
+
+
+[Android Auto]
+1. 次世代の Android を車内で使って、もっと楽しく、もっと楽しく - blog.google
+   原題: Do more and have more fun with the next generation of Android in the car - blog.google
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 12 May 2026 07:00:00 GMT
+
+2. ソーシャルヘッド: Android Auto の最大の欠陥が修正されたばかりで、車の画面は決して同じには見えません - InsideEVs
+   原題: Social hed: Android Auto Just Fixed Its Biggest Flaw—And Your Car Screen Will Never Look The Same - InsideEVs
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 13 May 2026 07:00:00 GMT
+
+3. 車の画面をすぐに便利にするためにサイドロードした 3 つの Android Auto アプリとその方法 - ZDNET
+   原題: 3 Android Auto apps I sideloaded to make my car screen more useful instantly - and how - ZDNET
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 23 Jun 2026 15:00:00 GMT
+
+4. Google Meet がついに Android Auto に登場、会議を欠席する口実が 1 つ減りました - Digital Trends
+   原題: Google Meet finally lands on Android Auto, giving you one less excuse to skip a meeting - Digital Trends
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 23 Jun 2026 06:16:33 GMT
+
+
+[Arduino]
+1. Arduino が Qualcomm Dragonwing IQ8 シリーズを搭載した Arduino VENTUNO Q を発表 - クアルコム
+   原題: Arduino Announces Arduino VENTUNO Q, Powered by Qualcomm Dragonwing IQ8 Series - Qualcomm
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 09 Mar 2026 07:00:00 GMT
+
+2. Arduino アンドレアッタの訃報 - オンタリオ州トロント - 尊厳記念碑
+   原題: Arduino Andreatta Obituary - Toronto, ON - Dignity Memorial
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 08 Jun 2026 04:54:45 GMT
+
+3. Arduino UNO Q でアプリ開発を始めましょう - Qualcomm
+   原題: Get Started with App development on Arduino UNO Q - Qualcomm
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 15 Jan 2026 08:00:00 GMT
+
+4. Arduino Days 2026 に参加するチャンス - Hackster.io
+   原題: Your Chance to Become Part of Arduino Days 2026 - Hackster.io
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 27 Mar 2026 07:00:00 GMT
+
+5. nRF54L15 (Zephyr ベース) 用の Arduino コア - Adafruit
+   原題: An Arduino core for nRF54L15 (Zephyr-based) - Adafruit
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 17 Feb 2026 08:00:00 GMT
