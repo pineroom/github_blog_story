@@ -1,0 +1,96 @@
+Searcher Daily Report
+Generated at: 2026-06-25 08:00:45
+Removed duplicates (today): 2
+Removed duplicates (7 days): 30
+
+[AI]
+1. なぜ大手AI研究所はこれほど多くの哲学者を雇用しているのか - エコノミスト
+   原題: Why big AI labs are hiring so many philosophers - The Economist
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 24 Jun 2026 09:44:38 GMT
+
+2. クアルコム、AIソフトウェア推進でスタートアップModularを40億ドルで買収へ - ロイター
+   原題: Qualcomm to buy startup Modular for $4 billion in AI software push - Reuters
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 24 Jun 2026 15:53:09 GMT
+
+3. チップメーカーが2029年の携帯端末以外の収益予測をほぼ2倍にした後、クアルコム株は15％急騰 - CNBC
+   原題: Qualcomm stock pops 15% after chipmaker almost doubles projection for 2029 non-handset revenue - CNBC
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 24 Jun 2026 19:00:09 GMT
+
+4. クアルコム、AIデータセンターチップとシステムの製品ラインをデビュー、Nvidiaとの競争激化 - Yahoo Finance
+   原題: Qualcomm debuts line of AI data center chips and systems, increasing competition with Nvidia - Yahoo Finance
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 24 Jun 2026 19:30:00 GMT
+
+5. Axios House: ブランドは AI へのアプローチで多様化し始めています - Axios
+   原題: Axios House: Brands are beginning to diverge in their approach to AI - Axios
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 24 Jun 2026 22:19:47 GMT
+
+
+[CarPlay]
+1. iOS 27 の CarPlay に含まれる Apple の壁紙 18 枚をすべてダウンロード - 9to5Mac
+   原題: Download all 18 wallpapers Apple included in CarPlay with iOS 27 - 9to5Mac
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 12 Jun 2026 07:00:00 GMT
+
+2. Spotify、間違った曲情報を表示させる CarPlay のバグを確認 - 9to5Mac
+   原題: Spotify confirms CarPlay bug causing wrong song info to appear - 9to5Mac
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 19 May 2026 07:00:00 GMT
+
+3. 有線の CarPlay または Android Auto で困っていませんか?この小さなアダプターは、このプライムデーにわずか 36 ドルでそれを変えることができます - 9to5Toys
+   原題: Stuck with wired CarPlay or Android Auto? This tiny adapter can change that for just $36 this Prime Day - 9to5Toys
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 24 Jun 2026 15:23:00 GMT
+
+
+[Android Auto]
+1. Android Auto はあなたが思っているよりもはるかに多くのアプリをサポートしています - ここに 4 つの驚きがあります - How-To Geek
+   原題: Android Auto supports way more apps than you think—here are 4 surprises - How-To Geek
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 24 Jun 2026 21:12:58 GMT
+
+2. Android Auto 設定を 1 つ変更したところ、Google マップのナイトモードがようやく正常に動作しました - MakeUseOf
+   原題: I changed one Android Auto setting and Google Maps night mode finally worked like it should - MakeUseOf
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 24 Jun 2026 22:00:18 GMT
+
+3. 長距離通勤に頼りにしているワイヤレス Android Auto アダプターが現在 15% オフ - ZDNET
+   原題: The wireless Android Auto adapter that I rely on for long commutes is 15% off right now - ZDNET
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 24 Jun 2026 20:44:00 GMT
+
+4. Android Auto ナビゲーション、最もイライラするアラートの問題がついに解決 - Talk Android
+   原題: Android Auto navigation finally fixes its most frustrating alert issue - Talk Android
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 24 Jun 2026 15:30:00 GMT
+
+5. GM、Google 搭載車両向けに YouTube を含む 200 以上の Android Automotive アプリを「ロック解除」した - 9to5Google
+   原題: GM just 'unlocked' over 200 Android Automotive apps, including YouTube, for its Google built-in vehicles - 9to5Google
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 24 Jun 2026 15:00:00 GMT
+
+
+[Arduino]
+1. Arduino IDE を使用したマイクロコントローラー用の TrueType フォント レンダリング サポート ライブラリ - Adafruit
+   原題: A TrueType font render support library for microcontrollers using the Arduino IDE - Adafruit
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 24 Jun 2026 19:47:30 GMT
+
+2. Victoria Arduino が World of Coffee Brussels 2026 にイノベーション、起源、コーヒー文化をもたらす - Comunicaffe International
+   原題: Victoria Arduino brings innovation, origins and coffee culture to World of Coffee Brussels 2026 - Comunicaffe International
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 23 Jun 2026 22:40:53 GMT
+
+3. IoToS - 生徒のために OS をゼロからコーディングした教師 - Korben
+   原題: IoToS - The teacher who coded an OS from scratch for his students - Korben
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 24 Jun 2026 11:28:13 GMT
+
+4. Arduino、ロボット工学などのための高性能 SBC VENTUNO Q で 21 周年を祝う - Hackster.io
+   原題: Arduino Celebrates Turning 21 with the VENTUNO Q, a High-Performance SBC for Robotics and More - Hackster.io
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 09 Mar 2026 11:55:19 GMT
