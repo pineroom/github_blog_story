@@ -1,0 +1,96 @@
+Searcher Daily Report
+Generated at: 2026-06-26 08:01:01
+Removed duplicates (today): 4
+Removed duplicates (7 days): 29
+
+[AI]
+1. 大企業はAIの緩和を目指すアメリカ労働者の移行 - ニューヨーク・タイムズ
+   原題: Big Companies Aim to Ease A.I. Transition for American Workers - The New York Times
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 25 Jun 2026 12:57:34 GMT
+
+2. AIキャリア激変に数百万人が備える新たな後押し - WSJ
+   原題: The New Push to Ready Millions for AI Career Upheaval - WSJ
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 25 Jun 2026 14:43:00 GMT
+
+3. 民主党の最も輝かしいスターの一人が、来たるべきAI雇用の危機を支援するグループを共同設立している - フォーチュン
+   原題: One of the Democratic Party's brightest stars is co-founding a group to help with the coming AI jobs earthquake - Fortune
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 25 Jun 2026 22:02:00 GMT
+
+4. AIデータセンターブームがインフレ第3波を引き起こす - WSJ
+   原題: The AI Data-Center Boom Is Sparking a Third Wave of Inflation - WSJ
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 25 Jun 2026 01:00:00 GMT
+
+5. カリフォルニア州は、労働力に対する人工知能の影響を監視および追跡するツールを立ち上げた最初の州となる - カリフォルニア州ポータル | CA.gov
+   原題: California becomes the first state to launch a tool to monitor and track artificial intelligence’s impacts on the workforce - California State Portal | CA.gov
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 25 Jun 2026 14:21:25 GMT
+
+
+[CarPlay]
+1. Deal Days の間、有線の CarPlay または Android Auto セットアップを 29.97 ドルでワイヤレスに変える - Popular Science
+   原題: Turn your wired CarPlay or Android Auto setup wireless for $29.97 during Deal Days - Popular Science
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 25 Jun 2026 10:00:00 GMT
+
+2. 25,000マイル後も、私のお気に入りのApple CarPlayアプリは機能し、信頼性が高く、ほとんど無料のままです - ZDNET
+   原題: 25,000 miles later, my favorite Apple CarPlay apps remain functional, reliable, and mostly free - ZDNET
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 15 Jun 2026 07:00:00 GMT
+
+3. iPhone の iOS 27 ベータ版を搭載した Mahindra XUV700 で Apple CarPlay を試してみる - Team-BHP
+   原題: Trying Apple CarPlay on Mahindra XUV700 with iOS 27 Beta on my iPhone - Team-BHP
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 25 Jun 2026 10:15:00 GMT
+
+
+[Android Auto]
+1. Motorola MA2 ワイヤレス Android Auto アダプター、「Google が開発した唯一のもの」、発売日と詳細が判明 - 9to5Google
+   原題: Motorola MA2 wireless Android Auto adapter, 'the only one engineered by Google,' gets a release date and full details - 9to5Google
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 25 Jun 2026 12:55:00 GMT
+
+2. Motorola の小さな新しい Android Auto ボックスは発売に間に合わなかったが、良いニュースがある - Android Authority
+   原題: Motorola's tiny new Android Auto box missed its launch, but there's good news - Android Authority
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 25 Jun 2026 04:32:05 GMT
+
+3. 長距離通勤に頼りにしているワイヤレス Android Auto アダプターが現在 15% オフ - ZDNET
+   原題: The wireless Android Auto adapter that I rely on for long commutes is 15% off right now - ZDNET
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 24 Jun 2026 20:44:00 GMT
+
+4. Android Auto の Waze バグによりユーザーが携帯電話を手に取らなくなる、3 か月経ってもまだ修正されていない - autoevolution
+   原題: Waze Bug on Android Auto Makes Users Pick Up Their Phones, 3 Months and Still No Fix - autoevolution
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 25 Jun 2026 04:05:53 GMT
+
+5. 車の中で Gemini が何を聞くかを確認し、これらの設定をオフにしました - MakeUseOf
+   原題: I checked what Gemini hears in my car and switched off these settings - MakeUseOf
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 23 Jun 2026 22:00:18 GMT
+
+
+[Arduino]
+1. Qualcomm Investor Day 2026 Arduino Ventuno Q、Qualcomm Dragonwing Large - ServeTheHome
+   原題: Qualcomm Investor Day 2026 Arduino Ventuno Q With Qualcomm Dragonwing Large - ServeTheHome
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 24 Jun 2026 20:17:49 GMT
+
+2. Zephyr Work の Arduino コアが新たなマイルストーンに到達、6 月にベータ版を終了する準備を整える - Hackster.io
+   原題: Arduino Core on Zephyr Work Hits a New Milestone, Prepares to Exit Beta in June - Hackster.io
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 18 May 2026 11:12:42 GMT
+
+3. Arduino 対 Raspberry Pi 2026: 50x ギャップ [テスト済み] - tech-insider.org
+   原題: Arduino vs Raspberry Pi 2026: 50x Gap [Tested] - tech-insider.org
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 24 Apr 2026 07:00:00 GMT
+
+4. Qualcomm Arduino ボード、Rubik Pi 3、および Snapdragon 搭載 PC に OpenClaw と Hermes Agent をインストールする方法 - Qualcomm
+   原題: How to Install OpenClaw and Hermes Agent on Qualcomm Arduino Boards, Rubik Pi 3 and PCs with Snapdragon - Qualcomm
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 24 Apr 2026 07:00:00 GMT
