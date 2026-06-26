@@ -1,0 +1,96 @@
+Searcher Daily Report
+Generated at: 2026-06-27 08:00:57
+Removed duplicates (today): 2
+Removed duplicates (7 days): 32
+
+[AI]
+1. ChatGPTの最新アップグレードを誰が使用できるか米国政府が決定 - ワシントン・ポスト
+   原題: U.S. government will decide who gets to use latest upgrade to ChatGPT - The Washington Post
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 26 Jun 2026 22:20:01 GMT
+
+2. OpenAI、トランプ政権の要請を受けてAIモデルのリリースを延期 - ガーディアン
+   原題: OpenAI staggers AI model release after Trump administration request - The Guardian
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 26 Jun 2026 21:26:00 GMT
+
+3. 意見 | ChatGPTアクセスを管理する連邦政府、AIの脅威を誤解 - ワシントン・ポスト
+   原題: Opinion | Feds controlling ChatGPT access misreads AI threats - The Washington Post
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 26 Jun 2026 21:50:02 GMT
+
+4. OpenAI、I.P.O.を維持する方向に傾く来年まで - ニューヨーク・タイムズ
+   原題: OpenAI Leans Toward Holding Up I.P.O. Until Next Year - The New York Times
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 25 Jun 2026 20:58:38 GMT
+
+5. OpenAIがIPOを2027年まで延期するとの報道でAI貿易が壁に突き当たる - Yahoo Finance
+   原題: AI trade hits a wall amid report that OpenAI will delay IPO until 2027 - Yahoo Finance
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 26 Jun 2026 15:06:42 GMT
+
+
+[CarPlay]
+1. これら 10 個の Apple CarPlay アプリがあなたの通勤を完全に変える - Geeky Gadgets
+   原題: These 10 Apple CarPlay Apps Will Completely Change Your Commute - Geeky Gadgets
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 26 Jun 2026 10:01:29 GMT
+
+2. CarPlay 用 Google マップが Gemini AI を取得 - MacRumors
+   原題: Google Maps for CarPlay Getting Gemini AI - MacRumors
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 11 May 2026 07:00:00 GMT
+
+3. 6 つの人気の iPhone アプリが CarPlay で利用可能に - MacRumors
+   原題: Six Popular iPhone Apps Now Available on CarPlay - MacRumors
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 14 May 2026 07:00:00 GMT
+
+4. iOS 26 の CarPlay には、セットアップをカスタマイズするための 5 つの新しい方法が追加されました - 9to5Mac
+   原題: CarPlay in iOS 26 adds five new ways to customize your setup - 9to5Mac
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 15 May 2026 07:00:00 GMT
+
+
+[Android Auto]
+1. このワイヤレス Android Auto アダプターは、私にとって最も貴重なカー アクセサリーです - しかも現在 15% オフです - ZDNET
+   原題: This wireless Android Auto adapter is my most valuable car accessory - and it's 15% off right now - ZDNET
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 26 Jun 2026 14:40:00 GMT
+
+2. Android Auto で Waze に切り替えた理由は 1 つあります。危険警告が実際に届くのです。 - How-To Geek
+   原題: I switched to Waze in Android Auto for one reason—its hazard alerts actually reach me - How-To Geek
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 26 Jun 2026 14:45:18 GMT
+
+3. ホーム画面を消去した後に活躍した 4 つの便利な Android Auto アプリ - XDA
+   原題: 4 useful Android Auto apps that made the cut after I purged my home screen - XDA
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 26 Jun 2026 15:30:23 GMT
+
+4. Android Auto を何年も使い続けてきた私が誓った、携帯電話の冷却に関する 8 つのヒント - ZDNET
+   原題: After years of using Android Auto, these are the 8 phone cooling tips I swear by - ZDNET
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 26 Jun 2026 10:00:00 GMT
+
+5. Gemini が既存の Android Automotive 車両向けに展開を開始 - 9to5Google
+   原題: Gemini begins rolling out for existing Android Automotive vehicles - 9to5Google
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 26 Jun 2026 10:27:00 GMT
+
+
+[Arduino]
+1. 今度はArduino Uno Qが値上げされる番です - The Verge
+   原題: It’s now the Arduino Uno Q’s turn to get a price hike - The Verge
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 26 Jun 2026 15:35:31 GMT
+
+2. 大学最終学年のプロジェクトとして Arduino ベースのクルーズ コントロールを構築しました - Team-BHP
+   原題: Built an Arduino-based Cruise Control as my final year college project - Team-BHP
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 26 Jun 2026 11:21:55 GMT
+
+3. TFTGraph、TFT ディスプレイ用のデータ視覚化 Arduino ライブラリ - Adafruit
+   原題: TFTGraph, a data visualizing Arduino library for TFT displays - Adafruit
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 21 Apr 2026 07:00:00 GMT
