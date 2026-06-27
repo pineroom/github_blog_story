@@ -1,0 +1,96 @@
+Searcher Daily Report
+Generated at: 2026-06-28 08:00:46
+Removed duplicates (today): 1
+Removed duplicates (7 days): 33
+
+[AI]
+1. 米国政府、サイバーセキュリティ上の懸念を引き起こしたAIモデルのAnthropicの限定公開を許可 - CNN
+   原題: US government allows Anthropic limited release of AI model that sparked cybersecurity concerns - CNN
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 27 Jun 2026 00:22:00 GMT
+
+2. AnthropicのMythos 5 AIモデル、米国で広範な使用を許可 - Bloomberg.com
+   原題: Anthropic’s Mythos 5 AI Model Cleared by US for Wider Use - Bloomberg.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 27 Jun 2026 00:39:00 GMT
+
+3. トランプ政権、AnthropicがMythos AIモデルを一部の企業や政府機関にリリースすることを許可 - CNBC
+   原題: Trump admin allows Anthropic to release Mythos AI model to some companies, government agencies - CNBC
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 26 Jun 2026 22:59:12 GMT
+
+4. 広告主は人間の注意を引くのが得意です。 AIに負けないでしょうか? - ニューヨーク・タイムズ紙
+   原題: Advertisers Are Good at Getting Human Attention. Can They Stand Out to A.I.? - The New York Times
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 27 Jun 2026 12:00:02 GMT
+
+5. 巨大なAIが、何が良くないのかを伝える必要があると主張したのは一理あった - ギズモード
+   原題: Big AI Had a Point When It Said It Needed to Be Told What Is Not Okay - Gizmodo
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 27 Jun 2026 21:25:37 GMT
+
+
+[CarPlay]
+1. iOS 27 CarPlay ベータ版で Siri AI を試してみたところ、このアシスタントが以前よりもはるかに便利になりました - Tom's Guide
+   原題: I just tried Siri AI in the iOS 27 CarPlay beta — and this assistant is way more helpful than before - Tom's Guide
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 27 Jun 2026 06:30:00 GMT
+
+2. Rivian のソフトウェア責任者は、CarPlay もボタンも必要ないと考えている - The Verge
+   原題: Rivian’s software chief thinks you don’t need CarPlay or buttons - The Verge
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 28 May 2026 07:00:00 GMT
+
+3. 毎回のドライブの時間を節約してくれる 2 つの隠れた CarPlay 機能を見つけました - Pocket-lint
+   原題: I found two hidden CarPlay features that save me time every drive - Pocket-lint
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 27 Jun 2026 17:00:20 GMT
+
+4. iOS 27 で CarPlay に追加されるすべての新機能 - デジタル トレンド
+   原題: Everything new coming to CarPlay in iOS 27 - Digital Trends
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 14 Jun 2026 07:00:00 GMT
+
+5. Apple CarPlay でビデオ再生が可能に - InsideEVs
+   原題: Apple CarPlay Is Getting Video Playback - InsideEVs
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 09 Jun 2026 07:00:00 GMT
+
+
+[Android Auto]
+1. 本当の問題が見つかるまで、携帯電話のバッテリー消耗の原因をワイヤレス Android Auto のせいにしていた - Android Police
+   原題: I blamed wireless Android Auto for my phone's battery drain until I found the real problem - Android Police
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 27 Jun 2026 11:00:30 GMT
+
+2. Googleは携帯電話用のAndroid Autoを廃止したが、アプリで復活させることができる - How-To Geek
+   原題: Google killed Android Auto for phones, but you can bring it back with an app - How-To Geek
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 27 Jun 2026 19:30:18 GMT
+
+3. 長距離ドライブの前に迷惑なルートバグを修正する、過小評価されている 3 つの Android Auto オプション - Android Police
+   原題: 3 underrated Android Auto options that fix annoying route bugs before long drives - Android Police
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 27 Jun 2026 16:15:11 GMT
+
+4. 自動車メーカーは2026年にAndroid Autoを廃止：その理由は次のとおりです - Engadget
+   原題: Car Manufacturers Are Ditching Android Auto In 2026: Here's Why - Engadget
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 20 Jun 2026 13:30:00 GMT
+
+5. 2026年になってもAndroid Autoが不満を感じている7つの理由 米軍（VJyO1rhbyL） - Fathom Journal
+   原題: 7 Reasons Android Auto Is Still Frustrating In 2026 United States Armed Forces (VJyO1rhbyL) - Fathom Journal
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 27 Jun 2026 16:57:44 GMT
+
+
+[Arduino]
+1. 大学最終学年のプロジェクトとして Arduino ベースのクルーズ コントロールを構築しました - Team-BHP
+   原題: Built an Arduino-based Cruise Control as my final year college project - Team-BHP
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 26 Jun 2026 11:15:00 GMT
+
+2. 極秘: 2025 Arduino オープンソース レポート - Adafruit
+   原題: STRICTLY CONFIDENTIAL: The 2025 Arduino Open Source Report - Adafruit
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 29 Mar 2026 07:00:00 GMT
