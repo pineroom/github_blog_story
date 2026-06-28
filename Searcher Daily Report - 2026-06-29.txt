@@ -1,0 +1,81 @@
+Searcher Daily Report
+Generated at: 2026-06-29 08:01:03
+Removed duplicates (today): 1
+Removed duplicates (7 days): 35
+
+[AI]
+1. 中国、サイバーセキュリティで人類に匹敵、AI競争をリセット - WSJ
+   原題: China Has Matched Anthropic in Cybersecurity, Resetting AI Race - WSJ
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 28 Jun 2026 01:00:00 GMT
+
+2. 中国のZ.aiはサイバーセキュリティの神話に匹敵すると主張 - The Verge
+   原題: China’s Z.ai claims it can match Mythos on cybersecurity - The Verge
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 28 Jun 2026 21:42:51 GMT
+
+3. 意見 |アメリカはジャック・マーの瞬間を回避できるか? - ニューヨーク・タイムズ紙
+   原題: Opinion | Can America Avoid a Jack Ma Moment? - The New York Times
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 28 Jun 2026 05:00:06 GMT
+
+4. AI 時代に生き残る人々 - The Atlantic
+   原題: The People Who Will Thrive in the AI Age - The Atlantic
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 28 Jun 2026 10:00:00 GMT
+
+5. ブルーベイ、日本のAI株に短期リスクを認識、その後の上昇 - Bloomberg
+   原題: BlueBay Sees Near-Term Risk in Japan AI Stocks Followed by Rally - Bloomberg
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 28 Jun 2026 22:00:07 GMT
+
+
+[CarPlay]
+1. 妻の 2006 トヨタ 4 ランナーに Apple CarPlay を入れたら、もう過去を振り返ることはありません - Jalopnik
+   原題: I Put Apple CarPlay In My Wife's 2006 Toyota 4Runner And I'm Never Looking Back - Jalopnik
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 28 Jun 2026 19:25:00 GMT
+
+2. 2026 年でも iPhone 5 で CarPlay を使用できる - autoevolution
+   原題: You Can Still Use CarPlay With an iPhone 5 in 2026 - autoevolution
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 28 Jun 2026 03:22:01 GMT
+
+3. ロードトリップ中に順調に進むための隠れた CarPlay 機能を見つけました - Pocket-lint
+   原題: I found a hidden CarPlay feature that keeps me on track during road trips - Pocket-lint
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 28 Jun 2026 19:00:19 GMT
+
+
+[Android Auto]
+1. Android Auto を使用しますか? Gemini があなたについて知る情報を制限する方法 - ZDNET
+   原題: Use Android Auto? How to limit what information Gemini learns about you - ZDNET
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 28 Jun 2026 10:00:00 GMT
+
+2. 自動車メーカーが Android Auto を廃止する理由: 車載データと AI をめぐる本当の戦い - Talk Android
+   原題: Why Car Makers Are Ditching Android Auto: The Real Battle Over In-Car Data and AI - Talk Android
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 28 Jun 2026 06:00:00 GMT
+
+3. Android Auto 16.0 は密かにこれまでで最大の AI アップグレードをもたらします - なぜすぐにダッシュボードに Gemini が表示されるのか - Talk Android
+   原題: Android Auto 16.0 secretly brings the biggest AI upgrade yet—why you’ll soon see Gemini on your dashboard - Talk Android
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 28 Jun 2026 15:00:00 GMT
+
+4. 変更する必要があるとは知らなかった 6 つの Android Auto 設定 - Pocket-lint
+   原題: 6 Android Auto settings you didn't know you needed to change - Pocket-lint
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 12 Jun 2026 07:00:00 GMT
+
+
+[Arduino]
+1. Arduino でレーダーを作る方法 | Arduinoプロジェクト |インドのライフハッカー、ナンシー・ガスリー (a9IR4IbmTk) - Mshale
+   原題: How To Make A Radar With Arduino | Arduino Project | Indian LifeHacker Nancy Guthrie (a9IR4IbmTk) - Mshale
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 28 Jun 2026 18:57:29 GMT
+
+2. Arduino が、30 メートルの範囲で最大 64 個の I2C デバイスをサポートする Modulino ハブおよびエクステンダ モジュールを発売 - CNX ソフトウェア
+   原題: Arduino launches Modulino Hub and Extender modules to support up to 64 I2C devices, 30-meter range - CNX Software
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 28 Jun 2026 04:46:00 GMT
