@@ -1,0 +1,96 @@
+Searcher Daily Report
+Generated at: 2026-06-30 08:00:59
+Removed duplicates (today): 0
+Removed duplicates (7 days): 33
+
+[AI]
+1. サンフランシスコの A.I.時代、18万ドルの技術者給与でももはや十分ではない - ニューヨーク・タイムズ
+   原題: In San Francisco’s A.I. Era, Even $180,000 Tech Salaries Are No Longer Enough - The New York Times
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 29 Jun 2026 16:00:08 GMT
+
+2. フォード、AIによる品質チェック不合格を受けて人間のエンジニアを再雇用 - BBC
+   原題: Ford rehires human engineers after AI fails to match quality checks - BBC
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 29 Jun 2026 11:58:01 GMT
+
+3. AIが的外れだったため、フォードは経験豊富なエンジニアを再雇用 - Fox Business
+   原題: Ford rehires experienced engineers after AI misses the mark - Fox Business
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 29 Jun 2026 16:44:00 GMT
+
+4. フォード、A.I.の後にエンジニアを再雇用バックファイア - KTLA
+   原題: Ford rehires engineers after A.I. backfires - KTLA
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 29 Jun 2026 21:40:38 GMT
+
+5. A.I.アスペン・アイデア・フェスティバルで議論される健康トピックの中心に - NBCニュース
+   原題: A.I. takes center stage in health topics discussed at the Aspen Ideas festival - NBC News
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 29 Jun 2026 22:22:17 GMT
+
+
+[CarPlay]
+1. 新しいアプリのアップデートで CarPlay でライブ歌詞が利用可能に - 9to5Mac
+   原題: Live lyrics now available in CarPlay with new app update - 9to5Mac
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 29 May 2026 07:00:00 GMT
+
+2. Rivian氏、CarPlay議論が「完全に時代遅れ」になる理由を説明 - MacRumors
+   原題: Rivian Explains Why CarPlay Debate Will Become 'Completely Obsolete' - MacRumors
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 28 May 2026 07:00:00 GMT
+
+3. Siri AI CarPlay 運転テスト: コンテキスト メモリは成功するが、ライブ トラフィックは成功しない - Tech Times
+   原題: Siri AI CarPlay Driving Test: Context Memory Lands, Live Traffic Doesn’t - Tech Times
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 29 Jun 2026 03:23:14 GMT
+
+4. Android Auto と CarPlay の接続問題は 2026 年に過去最高を記録 - MSN
+   原題: Android Auto and CarPlay connectivity issues hit record high in 2026 - MSN
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 27 Jun 2026 19:26:15 GMT
+
+
+[Android Auto]
+1. Gemini が私について学習する内容を制限するために、これらの Android Auto 設定を変更しました - その理由は次のとおりです - ZDNET
+   原題: I changed these Android Auto settings to limit what Gemini learns about me - here's why - ZDNET
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 29 Jun 2026 16:38:00 GMT
+
+2. Android Auto のせいで Gemini を使うことになった — 電話をかけようとすると状況がおかしくなった - How-To Geek
+   原題: Android Auto forced me to use Gemini—things got weird when I tried to make a phone call - How-To Geek
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 29 Jun 2026 15:00:17 GMT
+
+3. Android Auto 通話が機能しない場合公式修正版が登場—一部のユーザーが依然としてスタックしている理由 - Talk Android
+   原題: Android Auto calls not working? The official fix is here—why some users are still stuck - Talk Android
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 29 Jun 2026 15:00:00 GMT
+
+4. Android Auto でメディア アプリの切り替えの煩わしさが大幅に軽減されました - Android Authority
+   原題: Android Auto just made switching media apps way less annoying - Android Authority
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 27 May 2026 07:00:00 GMT
+
+5. Gemini AI が Android Automotive に正式に展開 - Ubergizmo
+   原題: Gemini AI Officially Rolls Out To Android Automotive - Ubergizmo
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 29 Jun 2026 15:00:10 GMT
+
+
+[Arduino]
+1. バッテリーテスト: Arduino Nano を使用したバッテリーの測定 - Elektor Magazine
+   原題: Battery Testing: Measuring Batteries with the Arduino Nano - Elektor Magazine
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 28 Jun 2026 22:15:00 GMT
+
+2. ATmega328P & CH340 を搭載した Arduino 互換ボード – ケーブル、R3 プロトタイプ、Yun Studio ブランドが付属 - Santo André BIZ
+   原題: Arduino Compatible Board With ATmega328P & CH340 – Includes Cable, R3 Prototype, Yun Studio Brand - Santo André BIZ
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 29 Jun 2026 17:05:08 GMT
+
+3. アーティスト向けのエレクトロニクスと Arduino マイクロコントローラー | 2026 年 2 月 5 日から 4 月 9 日まで |午後6時30分～午後9時30分 |継続教育 |ビジュアルアーツスクール | SVA NYC - スクール オブ ビジュアル アーツ | SVA
+   原題: Electronics and Arduino Microcontroller for Artists | Feb 5 - Apr 9, 2026 | 6:30-9:30 PM | Continuing Education | School of Visual Arts | SVA NYC - School of Visual Arts | SVA
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 24 Apr 2026 08:33:59 GMT
