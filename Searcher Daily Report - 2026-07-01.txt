@@ -1,0 +1,106 @@
+Searcher Daily Report
+Generated at: 2026-07-01 08:01:35
+Removed duplicates (today): 0
+Removed duplicates (7 days): 32
+
+[AI]
+1. Grindr の CEO はどのようにしてAIの採用：「押し付けただけだ」 - ニューヨーク・タイムズ
+   原題: How Grindr’s C.E.O. Adopted A.I.: ‘I Just Imposed It’ - The New York Times
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 30 Jun 2026 09:00:19 GMT
+
+2. AI失敗後、フォードが350人のエンジニアを雇用、AI時代における人間の価値を示す - Forbes
+   原題: Ford Hiring 350 Engineers After AI Failed Shows Human Value In AI Era - Forbes
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 30 Jun 2026 22:03:22 GMT
+
+3. Return of the ‘greybeards’: AI backfired – so Ford had to rehire humans - The Guardian
+   原題: Return of the ‘greybeards’: AI backfired – so Ford had to rehire humans - The Guardian
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 30 Jun 2026 16:17:00 GMT
+
+4. ジム・クレイマー氏、AI取引は変化していると語る - そして現在これらの銘柄が主導権を握っている - CNBC
+   原題: Jim Cramer says the AI trade has shifted — and these stocks are leading now - CNBC
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 30 Jun 2026 22:24:43 GMT
+
+5. ホワイトハウスがAIモデルリリースをひっくり返す - The Hill
+   原題: White House upends AI model release - The Hill
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 30 Jun 2026 22:55:00 GMT
+
+
+[CarPlay]
+1. リビアン氏、Apple CarPlayを巡る争いはAIのおかげで「完全に時代遅れ」だと語る - InsideEVs
+   原題: Rivian Says Fight Over Apple CarPlay Is 'Completely Obsolete' Thanks To AI - InsideEVs
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 29 May 2026 07:00:00 GMT
+
+2. この CarPlay の変更は Tesla サポートの欠落部分である可能性があります - 9to5Mac
+   原題: This CarPlay change may be the missing link for Tesla support - 9to5Mac
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 15 Jun 2026 07:00:00 GMT
+
+3. iOS 27 に登場する 5 つの新しい Apple CarPlay 機能 - bgr.com
+   原題: 5 New Apple CarPlay Features Coming In iOS 27 - bgr.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 16 Jun 2026 07:00:00 GMT
+
+4. 待って…Apple CarPlay でそんなことができるの?!🤯 ロイヤル カリビアン (VZ4gNA5HbA) - Mshale
+   原題: Wait… Apple CarPlay Can Do THAT?!🤯 Royal Caribbean (VZ4gNA5HbA) - Mshale
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 30 Jun 2026 05:07:54 GMT
+
+5. Apple CarPlay でビデオ再生が可能に - Yahoo Autos
+   原題: Apple CarPlay Is Getting Video Playback - Yahoo Autos
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 09 Jun 2026 07:00:00 GMT
+
+
+[Android Auto]
+1. Android Auto の最も迷惑な Google マップの欠陥がついに修正 - ドライバーは合理化されたナビゲーションを称賛 - Talk Android
+   原題: Android Auto’s most annoying Google Maps flaw is finally fixed—drivers celebrate streamlined navigation - Talk Android
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 30 Jun 2026 06:30:00 GMT
+
+2. 1 つのバックグラウンド電源設定を変更することで Android Auto 切断ループを停止しました - Android Police
+   原題: I stopped an Android Auto disconnect loop by modifying one background power setting - Android Police
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 30 Jun 2026 13:30:11 GMT
+
+3. 次世代の Android を車内で使って、もっと楽しく、もっと楽しく - blog.google
+   原題: Do more and have more fun with the next generation of Android in the car - blog.google
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 12 May 2026 07:00:00 GMT
+
+4. 運転中に Android Auto で Google Meet がどのように動作するか - bgr.com
+   原題: Here's How Google Meet Works On Android Auto While You're Driving - bgr.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 29 Jun 2026 23:47:00 GMT
+
+
+[Arduino]
+1. Arduino が 3 つの新しい Modulino モジュールをリリース - Hackster.io
+   原題: Arduino Drops Three New Modulino Modules - Hackster.io
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 30 Jun 2026 16:53:34 GMT
+
+2. Arduino が Qualcomm Dragonwing IQ8 シリーズを搭載した Arduino VENTUNO Q を発表 - クアルコム
+   原題: Arduino Announces Arduino VENTUNO Q, Powered by Qualcomm Dragonwing IQ8 Series - Qualcomm
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 09 Mar 2026 07:00:00 GMT
+
+3. 1604 キャラクター LCD ディスプレイ モジュール (16x4) - 青色のバックライト、白色の文字、Arduino およびマイクロコントローラー用 5V DC - Santo André BIZ
+   原題: 1604 Character LCD Display Module (16x4) - Blue Backlight, White Characters, 5V DC For Arduino & Microcontrollers - Santo André BIZ
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 30 Jun 2026 22:45:52 GMT
+
+4. マウザーの新しい電子書籍では、人気の Arduino UNO Q ボードを使用した AI 対応の組み込み設計について解説しています - TimesTech
+   原題: New Mouser eBook Explores AI-Enabled Embedded Design Using the Popular Arduino UNO Q Board - TimesTech
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 30 Jun 2026 09:50:25 GMT
+
+5. ESP32-P4 LP (低電力) コア用のオープンソース Arduino ライブラリ - Adafruit
+   原題: An open source Arduino library for the ESP32-P4 LP (Low Power) core - Adafruit
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 20 Apr 2026 07:00:00 GMT
