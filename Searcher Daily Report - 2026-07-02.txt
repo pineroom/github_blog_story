@@ -1,0 +1,86 @@
+Searcher Daily Report
+Generated at: 2026-07-02 08:00:46
+Removed duplicates (today): 0
+Removed duplicates (7 days): 35
+
+[AI]
+1. AIを理由に従業員を解雇した雇用主はすでに後悔し始めている - CNBC
+   原題: Employers who laid off workers citing AI are already starting to regret it - CNBC
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 01 Jul 2026 04:37:25 GMT
+
+2. 世界のトップ経済学者がAIに警鐘を鳴らす - WSJ
+   原題: The World’s Top Economists Are Sounding the Alarm on AI - WSJ
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 01 Jul 2026 17:21:00 GMT
+
+3. 大統領図書館訪問中にトランプ大統領がAIテディ・ルーズベルトと会話 - The Hill
+   原題: Trump talks to AI Teddy Roosevelt during presidential library visit - The Hill
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 01 Jul 2026 22:02:00 GMT
+
+4. AI を活用した新しいライブラリにより、人々はまったく新しい方法でセオドア ルーズベルトに会えるようになります - Microsoft ソース
+   原題: New AI-powered library lets people meet Theodore Roosevelt in a whole new way - Microsoft Source
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 01 Jul 2026 14:56:35 GMT
+
+5. トランプ大統領、テディ・ルーズベルト大統領の「異常な野生生物」を称賛、ノースダコタ訪問でAIを活用した元プレズと交流 - ニューヨーク・ポスト
+   原題: Trump honors 'freakin' wild life' of Teddy Roosevelt, interacts with AI-powered ex-prez in North Dakota visit - New York Post
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 01 Jul 2026 21:36:00 GMT
+
+
+[CarPlay]
+1. Apple、ついに CarPlay を Tesla に導入する可能性のあるマップ機能を発表 - Tesla アプリではない
+   原題: Apple Announces Maps Feature That Could Finally Bring CarPlay to Tesla - Not a Tesla App
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 10 Jun 2026 07:00:00 GMT
+
+2. Apple、CarPlay の最も迷惑な欠点を iOS 27 で修正へ - Cult of Mac
+   原題: Apple will fix CarPlay’s most annoying shortcomings in iOS 27 - Cult of Mac
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 18 Jun 2026 07:00:00 GMT
+
+
+[Android Auto]
+1. Android Auto の遅延問題を 5 つの簡単な変更で修正しました - Android Police
+   原題: I fixed Android Auto's lag problems with 5 simple changes - Android Police
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 01 Jul 2026 12:30:10 GMT
+
+2. この 11 インチの Android Auto 画面はやりすぎかもしれませんが、価格を考えると素晴らしいです - Android Police
+   原題: This 11-inch Android Auto screen might be overkill, but it's fantastic for the price - Android Police
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 01 Jul 2026 19:50:29 GMT
+
+3. ソーシャルヘッド: Android Auto の最大の欠陥が修正されたばかりで、車の画面は決して同じには見えません - InsideEVs
+   原題: Social hed: Android Auto Just Fixed Its Biggest Flaw—And Your Car Screen Will Never Look The Same - InsideEVs
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 13 May 2026 07:00:00 GMT
+
+4. Android Auto にビデオ アプリ、音楽アップデートなどが追加される Gemini のスマートな機能 - 9to5Google
+   原題: Android Auto is getting video apps, music updates, and more Gemini smarts - 9to5Google
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 12 May 2026 07:00:00 GMT
+
+
+[Arduino]
+1. PiZZa: Raspberry Pi Zero 2 W 上の Arduino - Adafruit
+   原題: PiZZa: Arduino on the Raspberry Pi Zero 2 W - Adafruit
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 01 Jul 2026 20:10:23 GMT
+
+2. Arduino "Andy" Ceccacci の訃報 - Bagnasco & Calcaterra Funeral Home
+   原題: Obituary information for Arduino "Andy" Ceccacci - Bagnasco & Calcaterra Funeral Home
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 02 Feb 2026 08:00:00 GMT
+
+3. Arduino UNO Q でアプリ開発を始めましょう - Qualcomm
+   原題: Get Started with App development on Arduino UNO Q - Qualcomm
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 15 Jan 2026 08:00:00 GMT
+
+4. Arduino、ロボット工学などのための高性能 SBC VENTUNO Q で 21 周年を祝う - Hackster.io
+   原題: Arduino Celebrates Turning 21 with the VENTUNO Q, a High-Performance SBC for Robotics and More - Hackster.io
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 09 Mar 2026 11:55:19 GMT
