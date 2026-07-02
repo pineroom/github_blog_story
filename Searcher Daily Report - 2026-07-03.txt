@@ -1,0 +1,86 @@
+Searcher Daily Report
+Generated at: 2026-07-03 08:00:50
+Removed duplicates (today): 0
+Removed duplicates (7 days): 38
+
+[AI]
+1. マイクロソフト、新たな AI 実装部門に 25 億ドルと 6,000 人の従業員を投入 - CNBC
+   原題: Microsoft commits $2.5 billion and 6,000 employees to new AI implementation unit - CNBC
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 02 Jul 2026 13:00:02 GMT
+
+2. Microsoft、25億ドルのコミットメントで独自のAI導入会社を立ち上げる - TechCrunch
+   原題: Microsoft launches its own AI deployment company with $2.5 billion commitment - TechCrunch
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 02 Jul 2026 13:53:00 GMT
+
+3. Microsoft Frontier Company: インテリジェンスを増幅して保護する AI エンジニアリング - Microsoft 公式ブログ
+   原題: Microsoft Frontier Company: AI engineering that amplifies and protects your intelligence - The Official Microsoft Blog
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 02 Jul 2026 13:33:05 GMT
+
+4. イーロン・マスク氏、AIが生産性を高めて債務危機を解決できる可能性があると語る―しかし研究では財務省が支払いを行うことが示唆されている - フォーチュン
+   原題: Elon Musk says AI may solve the debt crisis with productivity—but study suggests Treasury will pay - Fortune
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 02 Jul 2026 11:09:00 GMT
+
+5. SpaceXにはAIデバイスのプロトタイプがあるが、確かに電話っぽい音だ - TechCrunch
+   原題: SpaceX has an AI device prototype, and it sure sounds phone-ish - TechCrunch
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 01 Jul 2026 18:54:18 GMT
+
+
+[CarPlay]
+1. iOS 26 の CarPlay に、常に存在するはずだった新しい設定が追加されました - 9to5Mac
+   原題: CarPlay in iOS 26 added new setting that should have always existed - 9to5Mac
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 02 Jul 2026 19:51:00 GMT
+
+2. Spotify、間違った曲情報を表示させる CarPlay のバグを確認 - 9to5Mac
+   原題: Spotify confirms CarPlay bug causing wrong song info to appear - 9to5Mac
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 19 May 2026 07:00:00 GMT
+
+3. リビアン氏、AI によって CarPlay に関する議論は「完全に時代遅れ」になったと語る - 9to5Mac
+   原題: Rivian says AI makes debate over CarPlay ‘completely obsolete’ - 9to5Mac
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 28 May 2026 07:00:00 GMT
+
+4. CarPlay を使用した EV ルートで Apple マップを使用する方法! (簡単ガイド) [2025] ジェイド メルボルン (GhwbQF0Xo9) - ムシェール
+   原題: How To Use Apple Maps With EV Routing Using CarPlay! (EASY GUIDE) [2025] Jade Melbourne (GhwbQF0Xo9) - Mshale
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 02 Jul 2026 07:32:50 GMT
+
+
+[Android Auto]
+1. Android Auto、Spotify および YouTube Music アプリのアップデートをより広範に展開 - 9to5Google
+   原題: Android Auto more widely rolling out updates for Spotify and YouTube Music apps - 9to5Google
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 02 Jul 2026 17:35:00 GMT
+
+2. Android Auto の Gemini Live は素晴らしいですが、非常に壊れています - Android Authority
+   原題: Gemini Live on Android Auto is brilliant — and very broken - Android Authority
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 02 Jul 2026 09:27:32 GMT
+
+3. 古い Android タブレットに Android Auto ディスプレイとして第二の人生を与えた方法 - How-To Geek
+   原題: How I gave my old Android tablet a second life as an Android Auto display - How-To Geek
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 02 Jul 2026 12:15:18 GMT
+
+4. 新しいアップデートは Android Auto Wireless にとって悪いニュース、一部のユーザーは今ではほとんど動作しないと主張 - autoevolution
+   原題: New Update Is Bad News for Android Auto Wireless, Some Users Claim It Barely Runs Now - autoevolution
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 02 Jul 2026 04:13:27 GMT
+
+5. Android Auto では YouTube Music ライブラリはどこに消えてしまったのでしょうか? - Android 権限
+   原題: Where'd the YouTube Music Library disappear to on Android Auto? - Android Authority
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 02 Jul 2026 17:19:26 GMT
+
+
+[Arduino]
+1. Arduino Days 2026 に参加するチャンス - Hackster.io
+   原題: Your Chance to Become Part of Arduino Days 2026 - Hackster.io
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 27 Mar 2026 07:00:00 GMT
