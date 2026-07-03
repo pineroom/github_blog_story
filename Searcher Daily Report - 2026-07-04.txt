@@ -1,0 +1,106 @@
+Searcher Daily Report
+Generated at: 2026-07-04 08:01:19
+Removed duplicates (today): 0
+Removed duplicates (7 days): 29
+
+[AI]
+1. AI貿易は重要なシグナルの1つを失いつつある - Bloomberg.com
+   原題: The AI Trade Is Losing One of Its Key Signals - Bloomberg.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 03 Jul 2026 13:08:20 GMT
+
+2. AI貿易は重要なシグナルの1つを失いつつある - Yahoo Finance
+   原題: The AI Trade Is Losing One of Its Key Signals - Yahoo Finance
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 03 Jul 2026 06:13:43 GMT
+
+3. 企業はAIトークン支出をどう管理しているか - WSJ
+   原題: How Companies Are Managing AI Token Spend - WSJ
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 30 Jun 2026 11:43:00 GMT
+
+4. 今年の最も奇妙な文学 AI スキャンダルのひねり - The Atlantic
+   原題: A Twist in This Year’s Strangest Literary AI Scandal - The Atlantic
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 03 Jul 2026 13:19:00 GMT
+
+5. リバティービル中学校教師マシュー・シェファー氏、生徒の露骨な画像作成にAIを使用した疑い、児童ポルノ容疑 - ABC7シカゴ
+   原題: Libertyville middle school teacher Matthew Sheffer accused of using AI to create explicit images of students, child porn charges - ABC7 Chicago
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 03 Jul 2026 20:28:10 GMT
+
+
+[CarPlay]
+1. iOS 27 の Apple CarPlay: ネイティブ ビデオ ストリーミングと Siri AI のアップグレードの詳細 - Geeky Gadgets
+   原題: Apple CarPlay in iOS 27: Native Video Streaming and Siri AI Upgrades Detailed - Geeky Gadgets
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 03 Jul 2026 09:05:51 GMT
+
+2. iOS 27 の CarPlay の新機能のすべて - 9to5Mac
+   原題: Here’s everything new for CarPlay in iOS 27 - 9to5Mac
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 09 Jun 2026 07:00:00 GMT
+
+3. 6 つの人気の iPhone アプリが CarPlay で利用可能に - MacRumors
+   原題: Six Popular iPhone Apps Now Available on CarPlay - MacRumors
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 14 May 2026 07:00:00 GMT
+
+4. CarPlay 用 Google マップが Gemini AI を取得 - MacRumors
+   原題: Google Maps for CarPlay Getting Gemini AI - MacRumors
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 11 May 2026 07:00:00 GMT
+
+5. 25,000マイル後も、私のお気に入りのApple CarPlayアプリは機能し、信頼性が高く、ほとんど無料のままです - ZDNET
+   原題: 25,000 miles later, my favorite Apple CarPlay apps remain functional, reliable, and mostly free - ZDNET
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 15 Jun 2026 07:00:00 GMT
+
+
+[Android Auto]
+1. Android Auto の Gemini のおかげで、通勤時間が 1 日の中で最も生産的な時間に変わりました - Android Police
+   原題: Gemini in Android Auto turned my commute into the most productive part of my day - Android Police
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 03 Jul 2026 12:15:10 GMT
+
+2. Googleはついに、混乱を招くAndroid Auto接続の障害を修正した - Android Authority
+   原題: Google is finally fixing a confusing Android Auto connection roadblock - Android Authority
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 03 Jul 2026 14:19:14 GMT
+
+3. Android Auto のフルパワーを活用する: ストリーミング、ブラウジングなどのための非公式アプリをインストールする方法 - Talk Android
+   原題: Unlock the Full Power of Android Auto: How I Install Unofficial Apps for Streaming, Browsing, and More - Talk Android
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 03 Jul 2026 06:00:00 GMT
+
+4. Google は Android Auto の Gemini に関する最大の問題をまだ解決していない [ビデオ] - 9to5Google
+   原題: Google still hasn’t fixed my biggest problem with Gemini on Android Auto [Video] - 9to5Google
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 03 Jul 2026 14:00:00 GMT
+
+5. Android Auto の Gemini では運転の安全性が低下する - How-To Geek
+   原題: Gemini in Android Auto makes driving feel less safe - How-To Geek
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 03 Jul 2026 13:46:17 GMT
+
+
+[Arduino]
+1. Qualcomm Arduino ボード、Rubik Pi 3、および Snapdragon 搭載 PC に OpenClaw と Hermes Agent をインストールする方法 - Qualcomm
+   原題: How to Install OpenClaw and Hermes Agent on Qualcomm Arduino Boards, Rubik Pi 3 and PCs with Snapdragon - Qualcomm
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 24 Apr 2026 07:00:00 GMT
+
+2. Zephyr Work の Arduino コアが新たなマイルストーンに到達、6 月にベータ版を終了する準備を整える - Hackster.io
+   原題: Arduino Core on Zephyr Work Hits a New Milestone, Prepares to Exit Beta in June - Hackster.io
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 18 May 2026 11:12:42 GMT
+
+3. 今度はArduino Uno Qが値上げされる番です - The Verge
+   原題: It’s now the Arduino Uno Q’s turn to get a price hike - The Verge
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 26 Jun 2026 15:35:31 GMT
+
+4. Arduino UNO R3用プラスチック保護ケース – UNO R3ボードと互換性のあるブラックエンクロージャシェル（スナップフィットデザイン） - santoandre.biz
+   原題: Plastic Protective Case For Arduino UNO R3 – Black Enclosure Shell Compatible With UNO R3 Boards (Snap-Fit Design) - santoandre.biz
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 03 Jul 2026 06:22:39 GMT
