@@ -1,0 +1,101 @@
+Searcher Daily Report
+Generated at: 2026-07-05 08:00:54
+Removed duplicates (today): 1
+Removed duplicates (7 days): 31
+
+[AI]
+1. AI が言語をどのように変えるか - ガーディアン紙
+   原題: How AI is changing language - The Guardian
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 04 Jul 2026 21:00:00 GMT
+
+2. 「誰に投票すべきでしょうか?」有権者は A.I. に注目します。投票する前に - ニューヨーク・タイムズ
+   原題: ‘Who Should I Vote for?’ Voters Turn to A.I. Before Casting Their Ballots - The New York Times
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 04 Jul 2026 09:00:29 GMT
+
+3. NHS アプリ、AI を活用して患者にとって最適なサービスを決定 - BBC
+   原題: NHS app to use AI to determine which service best for patients - BBC
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 04 Jul 2026 21:32:08 GMT
+
+4. NHS、患者を適切なサービスに誘導するためにアプリで AI を使用 - ガーディアン
+   原題: NHS to use AI on its app to direct patients to appropriate services - The Guardian
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 04 Jul 2026 21:31:00 GMT
+
+5. AIはNHS患者に一般医の予約が必要かどうかを伝える - Yahoo!
+   原題: AI will tell NHS patients if they need a GP appointment - Yahoo
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 04 Jul 2026 21:30:00 GMT
+
+
+[CarPlay]
+1. Rivians が Android Auto や Apple CarPlay を持っていないことに腹を立てているなら、これを修正する方法があります - Jalopnik
+   原題: If You're Mad Rivians Don't Have Android Auto Or Apple CarPlay, Here's How To Fix That - Jalopnik
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 04 Jul 2026 09:25:00 GMT
+
+2. Rivian のソフトウェア責任者は、CarPlay もボタンも必要ないと考えている - The Verge
+   原題: Rivian’s software chief thinks you don’t need CarPlay or buttons - The Verge
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 28 May 2026 07:00:00 GMT
+
+3. Grok の音声モードが Apple CarPlay に登場 - Mashable
+   原題: Grok's voice mode comes to Apple CarPlay - Mashable
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 04 Jul 2026 09:00:00 GMT
+
+4. iOS 27でCarPlayに主要な新機能が追加 - MacRumors
+   原題: iOS 27 Adds Major New Feature to CarPlay - MacRumors
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 01 Jul 2026 15:34:35 GMT
+
+5. iOS 27 CarPlay ベータ版で Siri AI を試してみたところ、このアシスタントが以前よりもはるかに便利になりました - Tom's Guide
+   原題: I just tried Siri AI in the iOS 27 CarPlay beta — and this assistant is way more helpful than before - Tom's Guide
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 26 Jun 2026 07:00:00 GMT
+
+
+[Android Auto]
+1. Android Auto で Google マップの隠れたトリックを試してみました。すべてのドライブがよりスマートに感じられるようになりました - Android Police
+   原題: I tried this hidden Google Maps trick in Android Auto; now every drive feels smarter - Android Police
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 04 Jul 2026 12:15:11 GMT
+
+2. Android Auto の隠れた開発者モードは、誰も語らないこれら 4 つの機能のロックを解除します - How-To Geek
+   原題: Android Auto's hidden developer mode unlocks these 4 features nobody talks about - How-To Geek
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 04 Jul 2026 17:30:17 GMT
+
+3. Android Auto の新しい Adob​​e Acrobat PDF アプリを試してみました - 驚くほど便利です - ZDNET
+   原題: I tried Android Auto's new Adobe Acrobat PDF app - and it's surprisingly useful - ZDNET
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 04 Jul 2026 10:00:00 GMT
+
+4. Google、ケーブルで使用するユーザー向けに大きな変更を加えた Android Auto 17.2 をリリース - autoevolution
+   原題: Google Releases Android Auto 17.2 With a Big Change for Users Running It With a Cable - autoevolution
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 04 Jul 2026 08:41:05 GMT
+
+5. 自動車メーカーは2026年にAndroid Autoを廃止：その理由は次のとおりです - Engadget
+   原題: Car Manufacturers Are Ditching Android Auto In 2026: Here's Why - Engadget
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 20 Jun 2026 07:00:00 GMT
+
+
+[Arduino]
+1. Raspberry Pi Arduino 自律ロボット コード 完全自律スタック、チュートリアル ROS Raspberry Pi Arduino - Consumerthai
+   原題: Raspberry Pi Arduino Autonomous Robot Code A Full Autonomous Stack, A Tutorial ROS Raspberry Pi Arduino - consumerthai
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 03 Jul 2026 15:18:12 GMT
+
+2. 極秘: 2025 Arduino オープンソース レポート - Adafruit
+   原題: STRICTLY CONFIDENTIAL: The 2025 Arduino Open Source Report - Adafruit
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 29 Mar 2026 07:00:00 GMT
+
+3. nRF54L15 (Zephyr ベース) 用の Arduino コア - Adafruit
+   原題: An Arduino core for nRF54L15 (Zephyr-based) - Adafruit
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 17 Feb 2026 08:00:00 GMT
