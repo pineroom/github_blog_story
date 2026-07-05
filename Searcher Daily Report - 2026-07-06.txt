@@ -1,0 +1,53 @@
+Searcher Daily Report
+Generated at: 2026-07-06 08:00:46
+Removed duplicates (today): 1
+Removed duplicates (7 days): 41
+
+[AI]
+1. 哲学専攻者の復讐 - ニューヨーク・タイムズ
+   原題: The Revenge of the Philosophy Majors - The New York Times
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 05 Jul 2026 09:01:46 GMT
+
+2. Shark Tank の Kevin O'Leary 氏は、もし今 25 歳だったら、AI の世界でこれら 2 つの急成長するチャンスを追いかけるだろうと語る - Fortune
+   原題: Shark Tank's Kevin O'Leary says if he were 25 today, he’d chase these two booming opportunities in the world of AI - Fortune
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 05 Jul 2026 13:26:00 GMT
+
+3. 国の富裕層の一部は子供たちにAIを教えさせている - The Verge
+   原題: Some of the nation’s rich are letting AI teach their kids - The Verge
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 05 Jul 2026 22:30:54 GMT
+
+4. 英国のクーパー氏：世界は「AIヒロシマ」が安全に行動するのを待ちきれない - Yahoo!知恵袋
+   原題: UK's Cooper: World cannot wait for 'AI Hiroshima' to act on safety - Yahoo
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 05 Jul 2026 22:19:24 GMT
+
+5. ホワイトハウス顧問、トランプ大統領は「AIのためのFDA」を創設しないと発言 - PYMNTS.com
+   原題: White House Adviser Says Trump Won’t Create ‘FDA for AI’ - PYMNTS.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 05 Jul 2026 21:54:45 GMT
+
+
+[CarPlay]
+1. すべてのドライバーがオンにするべき隠された Apple CarPlay 設定 - Geeky Gadgets
+   原題: Hidden Apple CarPlay Settings Every Driver Should Turn On - Geeky Gadgets
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 04 Jul 2026 11:04:01 GMT
+
+
+[Android Auto]
+1. Googleが知られたくないAndroid Autoの隠れ機能を試してみた - Android Authority
+   原題: I tried a hidden Android Auto feature Google doesn't want you to know about - Android Authority
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 05 Jul 2026 10:35:41 GMT
+
+2. 車がなくても Android Auto を使用できます。Android Auto をデスク用の便利なダッシュボードに変えた方法をご紹介します - How-To Geek
+   原題: You can use Android Auto without a car—here's how I turned it into a handy dashboard for my desk - How-To Geek
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 05 Jul 2026 12:45:17 GMT
+
+
+[Arduino]
+- No new items after dedupe
