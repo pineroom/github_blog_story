@@ -1,0 +1,101 @@
+Searcher Daily Report
+Generated at: 2026-07-07 08:01:13
+Removed duplicates (today): 1
+Removed duplicates (7 days): 29
+
+[AI]
+1. アメリカのA.I.企業は中国の模倣品が急速に追いついていると言っている - ニューヨーク・タイムズ
+   原題: American A.I. Companies Say Chinese Copycats Are Quickly Catching Up - The New York Times
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 06 Jul 2026 16:04:08 GMT
+
+2. サムスンのAI収益がチップ株の次の一手を決める可能性 - Yahoo Finance
+   原題: Samsung's AI Earnings Could Decide Chip Stocks' Next Move - Yahoo Finance
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 06 Jul 2026 16:55:35 GMT
+
+3. AI株の回復でS&P500指数は過去最高値の1%以内に - ロサンゼルス・タイムズ
+   原題: Rebounding AI stocks send the S&P 500 within 1% of its record - Los Angeles Times
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 06 Jul 2026 20:58:44 GMT
+
+4. 今日の株式市場: AI 取引に焦点が当てられ、ダウ、S&P 500、ナスダック先物が上昇 - Yahoo Finance
+   原題: Stock market today: Dow, S&P 500, Nasdaq futures rise with AI trade in focus - Yahoo Finance
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 06 Jul 2026 22:30:15 GMT
+
+5. Nvidia GPU 負債バックストップが AI プロジェクトの三位一体を解き放つ: 資本、オフテイク、データセンター - SemiAnaracy
+   原題: Nvidia GPU Debt Backstop Unleashes the AI Project Trinity: Capital, Offtake and Datacenters - SemiAnalysis
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 06 Jul 2026 21:54:51 GMT
+
+
+[CarPlay]
+1. Ottocast 製品で CarPlay エクスペリエンスをアップグレードする方法 [15% オフ] - 9to5Mac
+   原題: How to upgrade your CarPlay experience with Ottocast products [15% off] - 9to5Mac
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 06 Jul 2026 19:46:00 GMT
+
+2. 新しいアプリのアップデートで CarPlay でライブ歌詞が利用可能に - 9to5Mac
+   原題: Live lyrics now available in CarPlay with new app update - 9to5Mac
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 29 May 2026 07:00:00 GMT
+
+3. I Put Apple CarPlay In My Wife's 2006 Toyota 4Runner And I'm Never Looking Back - Jalopnik
+   原題: I Put Apple CarPlay In My Wife's 2006 Toyota 4Runner And I'm Never Looking Back - Jalopnik
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 28 Jun 2026 07:00:00 GMT
+
+
+[Android Auto]
+1. 最新の Android Auto アップデートが一部のユーザーでクラッシュする - 9to5Google
+   原題: Latest Android Auto updates are crashing for some users - 9to5Google
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 06 Jul 2026 13:50:00 GMT
+
+2. Android Auto のクラッシュが最新アップデートで猛威を奮って復活 - Android Police
+   原題: Android Auto crashes are back with a vengeance in the latest update - Android Police
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 06 Jul 2026 11:11:25 GMT
+
+3. このあまり知られていない Waze の回避策は、Android Auto ナビゲーションの最大の問題を解決しました - Android Police
+   原題: This little-known Waze workaround solved my biggest Android Auto navigation issues - Android Police
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 06 Jul 2026 12:00:10 GMT
+
+4. ほとんどのドライバーが見逃している 5 つの Android Auto 設定 - 安全性を永久に変える可能性がある - Talk Android
+   原題: 5 Android Auto settings most drivers miss—one could change your safety forever - Talk Android
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 06 Jul 2026 15:30:00 GMT
+
+5. 私が楽しめると期待していた最後の Android Auto アプリは Adob​​e Acrobat でした - しかし、これは実際に便利です - ZDNET
+   原題: The last Android Auto app I expected to enjoy was Adobe Acrobat - but it's actually useful - ZDNET
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 06 Jul 2026 13:36:00 GMT
+
+
+[Arduino]
+1. ミニフィギュアのカタログ作成とリスト追跡、Hermes Agent 付き - Hackster.io
+   原題: Mini-figurine Cataloger and Listing Tracker w/ Hermes Agent - Hackster.io
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 06 Jul 2026 21:11:15 GMT
+
+2. Arduino が、30 メートルの範囲で最大 64 個の I2C デバイスをサポートする Modulino ハブおよびエクステンダ モジュールを発売 - CNX ソフトウェア
+   原題: Arduino launches Modulino Hub and Extender modules to support up to 64 I2C devices, 30-meter range - CNX Software
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 28 Jun 2026 04:46:00 GMT
+
+3. アーティスト向けのエレクトロニクスと Arduino マイクロコントローラー | 2026 年 2 月 5 日から 4 月 9 日まで |午後6時30分～午後9時30分 |継続教育 |ビジュアルアーツスクール | SVA NYC - スクール オブ ビジュアル アーツ | SVA
+   原題: Electronics and Arduino Microcontroller for Artists | Feb 5 - Apr 9, 2026 | 6:30-9:30 PM | Continuing Education | School of Visual Arts | SVA NYC - School of Visual Arts | SVA
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 24 Apr 2026 08:33:59 GMT
+
+4. Arduino でレーダーを作る方法 | Arduinoプロジェクト |インドのライフハッカー、ナンシー・ガスリー (a9IR4IbmTk) - Mshale
+   原題: How To Make A Radar With Arduino | Arduino Project | Indian LifeHacker Nancy Guthrie (a9IR4IbmTk) - Mshale
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 28 Jun 2026 18:57:29 GMT
+
+5. Arduino UNO Qを使用したスマート自動廃棄物分別システム - Hackster.io
+   原題: Smart Automatic Waste Segregation System Using Arduino UNO Q - Hackster.io
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 04 Jul 2026 07:00:00 GMT
