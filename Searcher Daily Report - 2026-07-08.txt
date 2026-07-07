@@ -1,0 +1,86 @@
+Searcher Daily Report
+Generated at: 2026-07-08 08:01:09
+Removed duplicates (today): 3
+Removed duplicates (7 days): 32
+
+[AI]
+1. 独占：中国政府は中国のトップAIモデルへの海外からのアクセスを制限することを検討していると関係者が語る - ロイター
+   原題: EXCLUSIVE: Beijing is looking at curbing overseas access to China's top AI models, sources say - Reuters
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 07 Jul 2026 15:37:45 GMT
+
+2. OpenAI、人的コストが急増する中、中国のAIモデルが米国企業で台頭中 - CNBC
+   原題: Chinese AI models are gaining ground with U.S. companies as OpenAI, Anthropic costs surge - CNBC
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 07 Jul 2026 05:00:01 GMT
+
+3. AIステッカーショックに対する中国の答え - The Atlantic
+   原題: China’s Answer to AI Sticker Shock - The Atlantic
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 07 Jul 2026 17:58:00 GMT
+
+4. Microsoft、一部のアプリでOpenAI、Anthropicを独自のAIに置き換え - Bloomberg.com
+   原題: Microsoft Replaces OpenAI, Anthropic With Own AI in Some Apps - Bloomberg.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 07 Jul 2026 16:19:46 GMT
+
+5. Microsoft、一部のアプリでOpenAI、Anthropicを独自のAIに置き換え - Yahoo Finance
+   原題: Microsoft Replaces OpenAI, Anthropic With Own AI in Some Apps - Yahoo Finance
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 07 Jul 2026 16:19:46 GMT
+
+
+[CarPlay]
+1. Pocket Casts アップデートにより、CarPlay チャプターアートワークを含む 3 つの新機能が追加 - 9to5Mac
+   原題: Pocket Casts update brings three new features, including CarPlay chapter artwork - 9to5Mac
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 07 Jul 2026 15:42:00 GMT
+
+2. フォード、Apple Maps のバッテリー事前調整機能を拡張、CarPlay 経由でより多くの車両に EV ルートを設定 - autoevolution
+   原題: Ford Expands Battery Preconditioning Features in Apple Maps EV Routing via CarPlay to More Vehicles - autoevolution
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 07 Jul 2026 18:13:19 GMT
+
+3. Android Auto のナビゲーションがオートバイ向けに最適化され、CarPlay も - 9to5Google
+   原題: Android Auto gets navigation optimized for motorcycles, CarPlay too - 9to5Google
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 07 Jul 2026 15:25:00 GMT
+
+4. iOS 27 の Apple CarPlay: すべての新機能の説明 - マニアックなガジェット
+   原題: Apple CarPlay in iOS 27: Every New Feature Explained - Geeky Gadgets
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 06 Jul 2026 11:02:01 GMT
+
+5. Sygic Motorbike Mode により Apple CarPlay、Android Auto がオートバイのディスプレイに追加 - オートバイ＆パワースポーツニュース
+   原題: Sygic Motorbike Mode Adds Apple CarPlay, Android Auto to Motorcycle Displays - Motorcycle & Powersports News
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 07 Jul 2026 15:22:57 GMT
+
+
+[Android Auto]
+1. Android Auto の最新アップデートにより、煩わしい有線接続の切断がついに阻止される可能性がある - XDA
+   原題: Android Auto's latest update could finally stop those annoying wired disconnects - XDA
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 06 Jul 2026 18:03:25 GMT
+
+2. このアプリのアップデートにより、Android Auto がオートバイのライダーにとってさらに便利になりました - Android Authority
+   原題: Android Auto just became much more useful for motorcycle riders with this app update - Android Authority
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 07 Jul 2026 18:48:13 GMT
+
+3. Android Auto を何年も使い続けてきた私が誓った、携帯電話の冷却に関する 8 つのヒント - ZDNET
+   原題: After years of using Android Auto, these are the 8 phone cooling tips I swear by - ZDNET
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 26 Jun 2026 07:00:00 GMT
+
+
+[Arduino]
+1. この超大型の Arduino Uno には細かい点は何もありません - MSN
+   原題: There's nothing micro about this super-sized Arduino Uno - MSN
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 06 Jul 2026 00:33:19 GMT
+
+2. Arduino と Qualcomm が Hackster の 2026 年最初の開発者コンテストを開始 世界的なコンテストが 300 台の Arduino UNO Q ボードとエッジ AI イノベーションを紹介する機会で開幕 - PR Newswire
+   原題: Arduino and Qualcomm Launch Hackster's First Developer Contest of 2026 Global Competition Kicks Off With 300 Arduino UNO Q Boards and Opportunities to Showcase Edge AI Innovation - PR Newswire
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 04 Mar 2026 08:00:00 GMT
