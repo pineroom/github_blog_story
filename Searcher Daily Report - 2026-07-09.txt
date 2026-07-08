@@ -1,0 +1,111 @@
+Searcher Daily Report
+Generated at: 2026-07-09 08:00:56
+Removed duplicates (today): 1
+Removed duplicates (7 days): 27
+
+[AI]
+1. AI でメタが Instagram 画像を使用できないようにする方法- ニューヨーク・タイムズ紙
+   原題: How to Prevent Meta From Using Your Instagram Images in A.I. - The New York Times
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 08 Jul 2026 19:21:30 GMT
+
+2. ブラウン教授、クラスのほとんどが不正行為にAIを使用した疑い - 高等教育内部
+   原題: Brown Professor Suspects Most of His Class Used AI to Cheat - Inside Higher Ed
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 08 Jul 2026 07:02:07 GMT
+
+3. Nvidia (NVDA)、低コストのエンタープライズ AI エージェント向けに LangChain を搭載した NemoClaw を発売 - Yahoo Finance
+   原題: Nvidia (NVDA) Launches NemoClaw With LangChain For Lower Cost Enterprise AI Agents - Yahoo Finance
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 08 Jul 2026 22:17:28 GMT
+
+4. ドライバーら、テクノロジーツールのせいで給料が減った、と主張 - FOX 5 アトランタ
+   原題: Drivers claim tech tools slashed their pay - FOX 5 Atlanta
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 08 Jul 2026 22:25:29 GMT
+
+5. ファラ・エイブラハムが A.I. をリリースセックステープ - TMZ
+   原題: Farrah Abraham Releases A.I. Sex Tape - TMZ
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 08 Jul 2026 22:15:17 GMT
+
+
+[CarPlay]
+1. CarPlay の乱雑なレイアウトが嫌いですか?車に乗らずに修理するための 5 つの簡単な手順 - Tom's Guide
+   原題: Hate CarPlay's messy layout? 5 simple steps to fix it without stepping in your car - Tom's Guide
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 08 Jul 2026 09:30:00 GMT
+
+2. iOS 27 Beta 3 は CarPlay の見た目と操作感を変える: すべての新機能 - Geeky Gadgets
+   原題: iOS 27 Beta 3 Changes the Way CarPlay Looks and Feels: Every New Feature - Geeky Gadgets
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 08 Jul 2026 09:03:50 GMT
+
+3. OpenAI は、CarPlay を含む ChatGPT 音声モードを大幅にアップグレードしました - 9to5Mac
+   原題: OpenAI just upgraded ChatGPT voice mode in a major way, including CarPlay - 9to5Mac
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 08 Jul 2026 16:55:00 GMT
+
+4. iOS 27は、新しい自動車メーカー2社がApple Wallet車のキーをサポートすることを示唆 - 9to5Mac
+   原題: iOS 27 hints at Apple Wallet car key support for two new automakers - 9to5Mac
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 08 Jul 2026 15:45:00 GMT
+
+5. リビアン氏、Apple CarPlayをめぐる争いはAIのおかげで「完全に時代遅れ」だと語る - InsideEVs
+   原題: Rivian Says Fight Over Apple CarPlay Is 'Completely Obsolete' Thanks To AI - InsideEVs
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 29 May 2026 07:00:00 GMT
+
+
+[Android Auto]
+1. ドライブをはるかに簡単にする 3 つの Android Auto オートメーション - とその設定方法 - ZDNET
+   原題: 3 Android Auto automations that make my drives much easier - and how I set them up - ZDNET
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 08 Jul 2026 11:00:00 GMT
+
+2. 最高の Android Auto エクスペリエンスのために Waze で変更する 4 つの設定 - How-To Geek
+   原題: The 4 settings I change in Waze for the best Android Auto experience - How-To Geek
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 08 Jul 2026 14:15:17 GMT
+
+3. 次世代の Android を車内で使って、もっと楽しく、もっと楽しく - blog.google
+   原題: Do more and have more fun with the next generation of Android in the car - blog.google
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 12 May 2026 07:00:00 GMT
+
+4. Android Auto の 2026 年の大改造は Gemini が最も実用的 - Engadget
+   原題: Android Auto's Big 2026 Makeover Is Gemini At Its Most Practical - Engadget
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 20 May 2026 07:00:00 GMT
+
+5. Android Auto が (再び) クラッシュします、そして (再び) 理由は誰もわかりません - Android Authority
+   原題: Android Auto is crashing (again), and nobody knows why (again) - Android Authority
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 06 Jul 2026 08:04:38 GMT
+
+
+[Arduino]
+1. PiZZa が Raspberry Pi SBC を強力な Arduino に変える - Hackster.io
+   原題: PiZZa Turns Your Raspberry Pi SBC Into a Powerful Arduino - Hackster.io
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 08 Jul 2026 01:46:39 GMT
+
+2. PiZZa は予備の Raspberry Pi Zero W および 2 W を Arduino に変えます - XDA
+   原題: PiZZa turns your spare Raspberry Pi Zero W and 2 W into an Arduino - XDA
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 08 Jul 2026 05:52:11 GMT
+
+3. PiZZa: Raspberry Pi Zero 2 W 上の Arduino - Adafruit
+   原題: PiZZa: Arduino on the Raspberry Pi Zero 2 W - Adafruit
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 01 Jul 2026 20:10:23 GMT
+
+4. Arduino が Qualcomm Dragonwing IQ8 シリーズを搭載した Arduino VENTUNO Q を発表 - クアルコム
+   原題: Arduino Announces Arduino VENTUNO Q, Powered by Qualcomm Dragonwing IQ8 Series - Qualcomm
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 09 Mar 2026 07:00:00 GMT
+
+5. オープンボックス RAKwireless Meshtastic スターター キット (RAK19007) - LoRa メッシュ ネットワーキング、Arduino コア - santoandre.biz
+   原題: Open Box RAKwireless Meshtastic Starter Kit (RAK19007) - LoRa Mesh Networking, Arduino Core - santoandre.biz
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 08 Jul 2026 14:07:31 GMT
