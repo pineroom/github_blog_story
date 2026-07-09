@@ -1,0 +1,86 @@
+Searcher Daily Report
+Generated at: 2026-07-10 08:01:02
+Removed duplicates (today): 3
+Removed duplicates (7 days): 33
+
+[AI]
+1. 中国、ロシアなどがAIを巡る議論を煽ろうとしているデータセンター - ニューヨーク・タイムズ
+   原題: China, Russia and Others Seek to Inflame Debate Over A.I. Data Centers - The New York Times
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 09 Jul 2026 16:41:51 GMT
+
+2. Muse Spark 1.1 の紹介 - メタの AI
+   原題: Introducing Muse Spark 1.1 - AI at Meta
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 09 Jul 2026 14:36:32 GMT
+
+3. Meta、Anthropic と OpenAI を追って AI コーディング市場に参入 - CNBC
+   原題: Meta jumps into AI coding market in effort to chase Anthropic and OpenAI - CNBC
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 09 Jul 2026 14:00:01 GMT
+
+4. Metaのザッカーバーグ氏、AIクラウドビジネスの検討は理にかなっていると語る - Bloomberg.com
+   原題: Meta’s Zuckerberg Says Exploring AI Cloud Business Makes Sense - Bloomberg.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 09 Jul 2026 18:04:52 GMT
+
+5. InstagramのAI画像ジェネレーターがプライバシー専門家に警鐘 - ガーディアン
+   原題: Instagram’s AI image generator alarms privacy experts - The Guardian
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 09 Jul 2026 22:16:00 GMT
+
+
+[CarPlay]
+1. Android Auto に朗報、新しい大型ナビゲーション アプリが利用可能になりました (車用ではありません) - autoevolution
+   原題: Good News for Android Auto as a New Big Navigation App Is Now Available (Not for Cars, Though) - autoevolution
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 09 Jul 2026 04:00:11 GMT
+
+2. CarPlay の不具合でドライブが台無しになっていませんか? 6 つの一般的な問題とその解決方法 - PCMag
+   原題: CarPlay Glitches Ruining Your Drive? 6 Common Problems and How to Fix Them - PCMag
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 09 Jul 2026 18:29:47 GMT
+
+3. Apple、実用的なアップグレードを備えた iOS 27 Beta 3 をリリース - Geeky Gadgets
+   原題: Apple Releases iOS 27 Beta 3 with Practical Upgrades - Geeky Gadgets
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 09 Jul 2026 05:03:50 GMT
+
+4. Rivian氏、CarPlay議論が「完全に時代遅れ」になる理由を説明 - MacRumors
+   原題: Rivian Explains Why CarPlay Debate Will Become 'Completely Obsolete' - MacRumors
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 28 May 2026 07:00:00 GMT
+
+5. iOS 26 の CarPlay に、常に存在するはずだった新しい設定が追加されました - 9to5Mac
+   原題: CarPlay in iOS 26 added new setting that should have always existed - 9to5Mac
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 02 Jul 2026 19:51:00 GMT
+
+
+[Android Auto]
+1. 私は今、リビングルームで Android Auto を使用しています - これにより、生産性に関する最大の問題の 1 つが解決されました - ZDNET
+   原題: I use Android Auto in my living room now - and it solves ones of my biggest productivity problems - ZDNET
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 09 Jul 2026 08:01:00 GMT
+
+2. 最高の Android Auto エクスペリエンスを実現するために、Waze でこれら 4 つの設定を変更します - How-To Geek
+   原題: I change these 4 settings in Waze for the best Android Auto experience - How-To Geek
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 08 Jul 2026 14:15:17 GMT
+
+3. 存在すら知らなかった 3 つの Android Auto アプリ - 今ではアプリなしでは運転できません - MakeUseOf
+   原題: 3 Android Auto apps I never knew existed — and now I can't drive without them - MakeUseOf
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 09 Jul 2026 19:30:19 GMT
+
+4. このシンプルなアクセサリを使用して、ワイヤレス Android Auto を車に追加しました - XDA
+   原題: I added wireless Android Auto to my car with this simple accessory - XDA
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 09 Jul 2026 15:30:22 GMT
+
+
+[Arduino]
+1. 2026 年夏のプロジェクトとプロトタイピング用の 5 つの Arduino シールド - 電子設計
+   原題: 5 Arduino Shields for Summer 2026 Projects and Prototyping - Electronic Design
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 09 Jul 2026 17:15:24 GMT
