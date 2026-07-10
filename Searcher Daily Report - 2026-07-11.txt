@@ -1,0 +1,101 @@
+Searcher Daily Report
+Generated at: 2026-07-11 08:01:01
+Removed duplicates (today): 3
+Removed duplicates (7 days): 30
+
+[AI]
+1. AIを助ける仕事仕事を破壊する - ニューヨーク・タイムズ
+   原題: The Work of Helping A.I. Destroy Work - The New York Times
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 10 Jul 2026 14:00:10 GMT
+
+2. JPモルガン、バックテストで60/40ポートフォリオを上回るAIエージェントを構築 - Bloomberg.com
+   原題: JPMorgan Builds AI Agents That Beat 60/40 Portfolio in Backtests - Bloomberg.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 09 Jul 2026 23:00:59 GMT
+
+3. Meta の新しい AI モデルによる Instagram の写真の使用を阻止する方法 - WYFF News 4
+   原題: Here's how to stop Meta's new AI model from using your Instagram pics - WYFF News 4
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 10 Jul 2026 21:45:00 GMT
+
+4. シカゴ大学、法学部1年生の教室でのテクノロジー使用を禁止しAIの使用を削減 - CBSニュース
+   原題: University of Chicago cutting use of AI by banning technology in classrooms for first-year law students - CBS News
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 10 Jul 2026 22:55:04 GMT
+
+5. AI ランサムウェアが登場、より安価なエージェント モデルを利用 - Forbes
+   原題: AI Ransomware Is Here, Now Powered By Cheaper, Agentic Models - Forbes
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 10 Jul 2026 22:01:34 GMT
+
+
+[CarPlay]
+1. iOS 27: 8 つ以上の新しい CarPlay 機能 - MacRumors
+   原題: iOS 27: 8+ New CarPlay Features - MacRumors
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 09 Jul 2026 23:23:31 GMT
+
+2. CarPlay の最高のヒントとコツ - 9to5Mac
+   原題: The best CarPlay tips and tricks - 9to5Mac
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 10 Jul 2026 00:03:00 GMT
+
+3. この Apple CarPlay スクリーンは、クラシックなカムリを現代的なテクノロジーで変身させました - ロード＆トラック
+   原題: This Apple CarPlay Screen Gave a Classic Camry a Modern Tech Makeover - Road & Track
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 10 Jul 2026 18:33:39 GMT
+
+4. ウォルマート、200 ドルのワイヤレス CarPlay アダプターを 88% オフで販売、「小さくておしゃれで機能的」 - Autoblog
+   原題: Walmart Is Selling a $200 Wireless CarPlay Adapter for 88% Off, and It’s 'Small, Sleek, and Functional' - Autoblog
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 10 Jul 2026 20:30:00 GMT
+
+5. Apple CarPlayの問題を解決する方法: 6つの一般的な問題を解決 - ガジェットハック
+   原題: How to Fix Apple CarPlay Problems: 6 Common Issues Solved - Gadget Hacks
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 10 Jul 2026 13:21:03 GMT
+
+
+[Android Auto]
+1. Android Auto でビデオを視聴する方法をついに見つけました。それは私の待っていたゲームを変えました - Android Police
+   原題: I finally found a way to watch videos on Android Auto; it changed my waiting game - Android Police
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 10 Jul 2026 11:00:31 GMT
+
+2. Gemini をついに黙らせた Android Auto 設定を見つけた - Android Police
+   原題: I found the Android Auto setting that finally made Gemini shut up - Android Police
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 10 Jul 2026 12:15:11 GMT
+
+3. これら 4 つの簡単な変更で Android Auto の遅れが解決しました - How-To Geek
+   原題: These 4 quick changes solved my Android Auto lag - How-To Geek
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 10 Jul 2026 13:30:17 GMT
+
+4. 4 新しいスマートフォンでは常にすぐに変更する Android Auto 設定 - XDA
+   原題: 4 Android Auto settings I always change right away on a new phone - XDA
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 10 Jul 2026 15:30:22 GMT
+
+
+[Arduino]
+1. Arduino UNO R4 ケース キット – 壁掛けマウント付きスナップフィット #3DPrinting #3DMonday - Adafruit
+   原題: Arduino UNO R4 Case Kit – Snap-Fit with Wall Mount #3DPrinting #3DThursday - Adafruit
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 09 Jul 2026 22:00:19 GMT
+
+2. Arduino、デリー工科大学に Arduino Invention Lab を設立。 「Physical AI for All」イニシアチブを拡大 - CXOToday.com
+   原題: Arduino Sets Up the Arduino Invention Lab at IIT Delhi; Expands Its "Physical AI for All" Initiative - CXOToday.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 10 Jul 2026 15:53:50 GMT
+
+3. エレクトロニクス大手の Arduino が、実践的な AI 学習のために IIT デリーにエッジ AI 発明ラボを開設 - Analytics India Magazine
+   原題: Electronics Major Arduino Opens Edge AI Invention Lab at IIT Delhi for Hands-On AI Learning - Analytics India Magazine
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 10 Jul 2026 09:53:37 GMT
+
+4. 8歳の息子のためにArduinoテニススコアカウンターを作りました - HackerNoon
+   原題: I Built an Arduino Tennis Score Counter for My 8-Year-Old - HackerNoon
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 07 May 2026 07:00:00 GMT
