@@ -1,0 +1,96 @@
+Searcher Daily Report
+Generated at: 2026-07-12 08:00:50
+Removed duplicates (today): 1
+Removed duplicates (7 days): 34
+
+[AI]
+1. アレックス・カープ氏、怒っているCEOがAIについて考えていることを語る - WSJ
+   原題: Alex Karp Is Saying What Every Angry CEO Is Thinking About AI - WSJ
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 11 Jul 2026 09:30:00 GMT
+
+2. AI から安全: 将来の成長に役立つ仕事はどれですか? - ガーディアン紙
+   原題: Safe from AI: which jobs will help you thrive in the future? - The Guardian
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 11 Jul 2026 11:00:00 GMT
+
+3. メタ社、数日間の反発を受けて新たなAI画像機能を廃止 - BBC
+   原題: Meta pulls new AI image feature after days of backlash - BBC
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 11 Jul 2026 01:45:59 GMT
+
+4. メタ、数日間の反発を受けてAI画像機能を一時停止 - バラエティ
+   原題: Meta Suspends AI Image Feature After Days of Backlash - Variety
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 10 Jul 2026 23:09:00 GMT
+
+5. メタはAIを削除します。数日間の反発を受けてインスタグラムで特集 - ニューヨーク・タイムズ
+   原題: Meta Removes A.I. Feature on Instagram After Days of Backlash - The New York Times
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 11 Jul 2026 01:00:11 GMT
+
+
+[CarPlay]
+1. 路上テスト済み - CarPlay MotorCycle の X6 2K ダッシュカム - バイク EXIF
+   原題: Road Tested—CarPlay MotorCycle’s X6 2K Dashcam - Bike EXIF
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 11 Jul 2026 05:00:00 GMT
+
+2. 約束されていたが提供されなかった 4 つの Apple CarPlay 機能 - Pocket-lint
+   原題: 4 Apple CarPlay features that were promised but never delivered - Pocket-lint
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 11 Jul 2026 15:00:19 GMT
+
+3. Cardo のプレミアム ライディング アプリが Apple CarPlay ダッシュボード テクノロジーを採用 - Visordown
+   原題: Cardo’s premium riding app gains Apple CarPlay dashboard technology - Visordown
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 11 Jul 2026 11:30:00 GMT
+
+
+[Android Auto]
+1. これらの見落とされている Android Auto 機能により、どのナビゲーション ショートカットよりも時間を節約できます - Android Police
+   原題: These overlooked Android Auto features save me more time than any navigation shortcut - Android Police
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 11 Jul 2026 10:00:11 GMT
+
+2. Android Auto 17.2 をスキップする新たな理由: ユーザーはさらなる問題を発見し、新しいアップデートを要求 - autoevolution
+   原題: A New Reason To Skip Android Auto 17.2: Users Find More Issues, Call for New Update - autoevolution
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 11 Jul 2026 04:12:32 GMT
+
+3. Android Auto 用の Google の新しい Gemini アップデートをテストしたところ、古い Google アシスタントを運転中に使用するのに非常にイライラさせていたすべてがついに修正されました - Tom's Guide
+   原題: I tested Google's new Gemini update for Android Auto and it finally fixes everything that made the old Google Assistant so frustrating to use while driving - Tom's Guide
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 11 Jul 2026 21:25:06 GMT
+
+4. 新しい車を買う前に誰かが次の 5 つの Android Auto 設定について教えてくれたらよかったのに - Android Authority
+   原題: I wish someone told me about these 5 Android Auto settings before I bought my new car - Android Authority
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 11 Jul 2026 10:30:00 GMT
+
+5. Android Auto の遅れをスマートフォンのせいにするのはやめましょう。ヘッドユニットは Google が認めている以上に重要です - How-To Geek
+   原題: Stop blaming your phone for Android Auto lag—your head unit matters more than Google admits - How-To Geek
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 11 Jul 2026 19:45:17 GMT
+
+
+[Arduino]
+1. Qualcomm Arduino ボード、Rubik Pi 3、および Snapdragon 搭載 PC に OpenClaw と Hermes Agent をインストールする方法 - Qualcomm
+   原題: How to Install OpenClaw and Hermes Agent on Qualcomm Arduino Boards, Rubik Pi 3 and PCs with Snapdragon - Qualcomm
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 24 Apr 2026 07:00:00 GMT
+
+2. Arduino が実践的な AI 学習を促進するためにデリー工科大学でエッジ AI Invention Lab を立ち上げ - Elets Technomedia
+   原題: Arduino launches edge AI Invention Lab at IIT Delhi to promote hands-on AI learning - Elets Technomedia
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 11 Jul 2026 05:53:42 GMT
+
+3. アンソニー・マーク・アルドゥイーノの訃報 2020年12月23日 - suessfuneralhome.net
+   原題: Anthony Mark Arduino Obituary December 23, 2020 - suessfuneralhome.net
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 14 Jun 2026 06:12:05 GMT
+
+4. Zephyr Work の Arduino コアが新たなマイルストーンに到達、6 月にベータ版を終了する準備を整える - Hackster.io
+   原題: Arduino Core on Zephyr Work Hits a New Milestone, Prepares to Exit Beta in June - Hackster.io
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 18 May 2026 11:12:42 GMT
