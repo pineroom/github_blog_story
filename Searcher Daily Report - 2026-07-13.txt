@@ -1,0 +1,73 @@
+Searcher Daily Report
+Generated at: 2026-07-13 08:00:47
+Removed duplicates (today): 0
+Removed duplicates (7 days): 38
+
+[AI]
+1. キャンペーンのテキストメッセージは間もなくより効果的になる可能性がある - そして迷惑になる - NPR
+   原題: Campaign text messages could soon get more effective — and annoying - NPR
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 12 Jul 2026 09:00:00 GMT
+
+2. 技術者の一時解雇が急増する中、米国の労働者の大多数がAIウェルスファンドを支持していることが調査で判明 - CNBC
+   原題: Majority of U.S. workers support an AI wealth fund as tech layoffs surge, survey finds - CNBC
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 12 Jul 2026 12:27:55 GMT
+
+3. 私が今後10年間購入し保有したいAI銘柄の1つ - モトリーフール社
+   原題: The 1 AI Stock I'd Buy and Hold for the Next Decade - The Motley Fool
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 12 Jul 2026 18:03:00 GMT
+
+4. 最優秀人工知能 (AI) 銘柄: AMD、Nvidia、または Broadcom - Yahoo Finance
+   原題: Best Artificial Intelligence (AI) Stock: AMD, Nvidia, or Broadcom - Yahoo Finance
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 12 Jul 2026 22:25:00 GMT
+
+5. 2027年までに倍増する可能性のあるAIインフラストラクチャー株3銘柄 - Yahoo Finance
+   原題: 3 AI Infrastructure Stocks That Could Double by 2027 - Yahoo Finance
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 12 Jul 2026 17:00:00 GMT
+
+
+[CarPlay]
+1. Rivian のソフトウェア責任者は、CarPlay もボタンも必要ないと考えている - The Verge
+   原題: Rivian’s software chief thinks you don’t need CarPlay or buttons - The Verge
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 28 May 2026 07:00:00 GMT
+
+2. 25,000マイル後も、私のお気に入りのApple CarPlayアプリは機能し、信頼性が高く、ほとんど無料のままです - ZDNET
+   原題: 25,000 miles later, my favorite Apple CarPlay apps remain functional, reliable, and mostly free - ZDNET
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 15 Jun 2026 07:00:00 GMT
+
+
+[Android Auto]
+1. 新しいヘッドユニットに切り替えずに Android Auto を追加できますか? - ジャロプニク
+   原題: Can You Add Android Auto Without Having To Switch To A New Head Unit? - Jalopnik
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 12 Jul 2026 10:05:00 GMT
+
+2. 新しい Android Auto Update が利用可能になりました。すぐにインストールしたくなるでしょう - autoevolution
+   原題: New Android Auto Update Now Available, and You'll Probably Want To Install It Right Away - autoevolution
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 12 Jul 2026 06:02:59 GMT
+
+3. もっと早く知りたかった Android Auto の裏技 — 何百万人ものユーザーがついに Android Auto を携帯電話に導入できるようになった - Talk Android
+   原題: The Android Auto trick I wish I’d known sooner—how millions are finally getting it on their phones - Talk Android
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 12 Jul 2026 06:00:00 GMT
+
+4. Google は Android Auto の Gemini に関する最大の問題をまだ解決していない [ビデオ] - 9to5Google
+   原題: Google still hasn’t fixed my biggest problem with Gemini on Android Auto [Video] - 9to5Google
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 03 Jul 2026 14:00:00 GMT
+
+5. Googleは携帯電話用のAndroid Autoを廃止したが、アプリで復活させることができる - How-To Geek
+   原題: Google killed Android Auto for phones, but you can bring it back with an app - How-To Geek
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 27 Jun 2026 07:00:00 GMT
+
+
+[Arduino]
+- No new items after dedupe
