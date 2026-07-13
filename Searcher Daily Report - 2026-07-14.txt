@@ -1,0 +1,81 @@
+Searcher Daily Report
+Generated at: 2026-07-14 08:00:55
+Removed duplicates (today): 0
+Removed duplicates (7 days): 36
+
+[AI]
+1. トランプ政権は民間企業の株式を買い占めている。 A.I.次は？ - ニューヨーク・タイムズ紙
+   原題: Trump Administration Is Snapping Up Stakes in Private Companies. Could A.I. Be Next? - The New York Times
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 13 Jul 2026 17:26:22 GMT
+
+2. ジョージア州の家族、AIデータセンターの電力供給のために家を売らざるを得なくなったと語る：「それは窃盗だ」 - CBSニュース
+   原題: Georgia family says they're forced to sell home to help power AI data centers: "It's theft" - CBS News
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 13 Jul 2026 16:48:00 GMT
+
+3. メタのルイジアナ州データセンターへの投資は寛大な税制優遇で500億ドルに達する - CNBC
+   原題: Meta's Louisiana data center investment to reach $50 billion, aided by generous tax incentives - CNBC
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 13 Jul 2026 09:30:01 GMT
+
+4. メタはAIブームが過剰に構築されていることを示したのか?ウォール街はとにかく応援した - フォーブス
+   原題: Did Meta Signal The AI Boom Is Overbuilt? Wall Street Cheered Anyway - Forbes
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 13 Jul 2026 22:45:52 GMT
+
+5. Fortune 500 企業がオープンソース AI に群がる理由 - Yahoo Finance
+   原題: Why Fortune 500 companies are flocking to open source AI - Yahoo Finance
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 13 Jul 2026 22:39:52 GMT
+
+
+[CarPlay]
+1. ウォルマート、200ドルのワイヤレスCarPlayアダプターを88%オフで販売、「小さくておしゃれで機能的」 - Yahoo Autos
+   原題: Walmart Is Selling a $200 Wireless CarPlay Adapter for 88% Off, and It’s 'Small, Sleek, and Functional' - Yahoo Autos
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 10 Jul 2026 20:30:00 GMT
+
+2. ロードトリップ中に順調に進むための隠れた CarPlay 機能を見つけました - Pocket-lint
+   原題: I found a hidden CarPlay feature that keeps me on track during road trips - Pocket-lint
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 28 Jun 2026 07:00:00 GMT
+
+
+[Android Auto]
+1. Google Maps Immersive Navigation が Android Auto 向けに展開されるようです - Android Authority
+   原題: Google Maps Immersive Navigation seems to be rolling out for Android Auto - Android Authority
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 13 Jul 2026 09:26:00 GMT
+
+2. Google マップの目を引く没入型ナビゲーション UI がついに Android Auto に展開される - XDA
+   原題: Google Maps eye-catching Immersive Navigation UI is finally rolling out to Android Auto - XDA
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 13 Jul 2026 19:04:02 GMT
+
+3. Google マップの大幅なビジュアル アップグレードが Android Auto で展開中 - Android Police
+   原題: A huge visual upgrade for Google Maps is rolling out on Android Auto - Android Police
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 13 Jul 2026 13:09:22 GMT
+
+4. ついに Android Auto でイコライザーを手に入れました - 無料のアプリだけで実現できました - How-To Geek
+   原題: I finally got an equalizer on Android Auto—and it only took a free app - How-To Geek
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 13 Jul 2026 17:30:15 GMT
+
+5. Android Auto 17.3 はバージョン 17.2 と同じ問題に見舞われます: まだ更新しないでください。 - 自動進化
+   原題: Android Auto 17.3 Hit by the Same Problems As Version 17.2: Don't Update Yet! - autoevolution
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 13 Jul 2026 04:29:14 GMT
+
+
+[Arduino]
+1. Arduino、デリー工科大学に Arduino Invention Lab を設立。 「Physical AI for All」構想を拡大 - インド教育日記
+   原題: Arduino Sets Up the Arduino Invention Lab at IIT Delhi; Expands Its "Physical AI for All" Initiative - India Education Diary
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 13 Jul 2026 19:26:06 GMT
+
+2. ITR9608 フォトセンサー - Arduino/Raspberry Pi と互換性があり、速度検出、カウント、プリンターなどに使用 - medrussia.org
+   原題: ITR9608 Photo Sensor - Compatible With Arduino/Raspberry Pi, For Speed Detection, Counting, Printers & More - medrussia.org
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 13 Jul 2026 21:08:21 GMT
