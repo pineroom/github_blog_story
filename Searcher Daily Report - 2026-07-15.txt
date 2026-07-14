@@ -1,0 +1,101 @@
+Searcher Daily Report
+Generated at: 2026-07-15 08:01:04
+Removed duplicates (today): 0
+Removed duplicates (7 days): 30
+
+[AI]
+1. OpenAIの最初のデバイスはAIコンパニオンとして構築された可動式のスクリーンレススピーカーとなる - Bloomberg.com
+   原題: OpenAI’s First Device Will Be Movable, Screenless Speaker Built as AI Companion - Bloomberg.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 14 Jul 2026 20:52:15 GMT
+
+2. 生成 AI はエンジニアリング上の災害である - The Atlantic
+   原題: Generative AI Is an Engineering Disaster - The Atlantic
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 14 Jul 2026 16:00:35 GMT
+
+3. ジム・クレイマー氏は、AI市場の泡に関する懸念は誇張されていると語る。その理由は次のとおりです - CNBC
+   原題: Jim Cramer says concerns about AI market froth are overblown. Here's why - CNBC
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 14 Jul 2026 22:20:46 GMT
+
+4. 現従業員と元従業員がメタ社を訴訟、レイオフにAIを利用した差別を主張 - CNBC
+   原題: Current and former employees sue Meta, alleging discrimination in using AI to conduct layoffs - CNBC
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 14 Jul 2026 20:19:05 GMT
+
+5. AIを活用した人員削減が医療休暇や育児休暇中の労働者に打撃を与えたと主張、メタ従業員26名が訴訟 - AP通信
+   原題: 26 Meta employees sue, alleging AI-driven layoff picks hit workers on medical and parental leave - AP News
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 14 Jul 2026 21:42:00 GMT
+
+
+[CarPlay]
+1. Cardo Ride Pro アップデートでオートバイのダッシュボードに Apple CarPlay サポートが追加 - オートバイ＆パワースポーツニュース
+   原題: Cardo Ride Pro Update Adds Apple CarPlay Support for Motorcycle Dashboards - Motorcycle & Powersports News
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 14 Jul 2026 15:02:00 GMT
+
+2. トヨタ カムリ 2007-2011 用 9 インチ Android 13 カーステレオ |ワイヤレス CarPlay & Android Auto、GPS、WiFi、バックアップ カメラ - santoandre.biz
+   原題: 9-inch Android 13 Car Stereo For Toyota Camry 2007-2011 | Wireless CarPlay & Android Auto, GPS, WiFi, Backup Camera - santoandre.biz
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 14 Jul 2026 02:00:03 GMT
+
+3. 新しいアプリのアップデートで CarPlay でライブ歌詞が利用可能に - 9to5Mac
+   原題: Live lyrics now available in CarPlay with new app update - 9to5Mac
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 29 May 2026 07:00:00 GMT
+
+
+[Android Auto]
+1. Google マップの Android Auto 用の新しい 3D イマーシブ ビューを試してみたところ、ナビゲーションに関する最大の問題が解決されました - ZDNET
+   原題: I tried Google Maps' new 3D Immersive View for Android Auto, and it fixed my biggest navigation problems - ZDNET
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 14 Jul 2026 06:40:00 GMT
+
+2. Android Auto は、より多くのボタンへの素早いアクセスを備えた再設計されたメディア プレーヤーを準備中 [ギャラリー] - 9to5Google
+   原題: Android Auto is preparing a redesigned media player with quicker access to more buttons [Gallery] - 9to5Google
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 14 Jul 2026 14:25:00 GMT
+
+3. Android Auto で Google マップの使用をやめ、プライバシーを尊重するオープンソース ナビゲーターに切り替えました - How-To Geek
+   原題: I stopped using Google Maps in Android Auto and switched to an open-source navigator that respects my privacy - How-To Geek
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 14 Jul 2026 19:45:15 GMT
+
+4. Android Auto がダッシュボード メディア カードのビジュアル アップグレードをテスト - Android Police
+   原題: Android Auto tests a visual upgrade for its dashboard media card - Android Police
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 14 Jul 2026 06:56:04 GMT
+
+5. Android Auto はダッシュボード用に、よりスマートなメディア プレーヤーを準備している可能性があります - Android Authority
+   原題: Android Auto may be preparing a smarter media player for your dashboard - Android Authority
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 13 Jul 2026 21:33:00 GMT
+
+
+[Arduino]
+1. Moddo Pinch のご紹介 – 世界最小の 32 ビット Arduino 互換ボード (2026 版) - CNX ソフトウェア
+   原題: Meet Moddo Pinch – The world’s smallest 32-bit Arduino-compatible board (2026 Edition) - CNX Software
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 14 Jul 2026 08:02:23 GMT
+
+2. Pinch は、実質的に微細な 32 ビット Arduino 互換開発ボードです - Hackster.io
+   原題: Pinch Is a 32-Bit Arduino-Compatible Dev Board That is Practically Microscopic - Hackster.io
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 14 Jul 2026 20:52:59 GMT
+
+3. ターミナルから Arduino、ESP-IDF、PlatformIO プロジェクトを管理する - Hackster.io
+   原題: Manage Arduino, ESP-IDF, and PlatformIO Projects From the Terminal - Hackster.io
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 14 Jul 2026 19:16:19 GMT
+
+4. DS18B20 1 メートル防水温度センサー プローブ - Arduino、Raspberry Pi、DIY プロジェクト用 - santoandre.biz
+   原題: DS18B20 1-Meter Waterproof Temperature Sensor Probe - For Arduino, Raspberry Pi, DIY Projects - santoandre.biz
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 14 Jul 2026 15:25:50 GMT
+
+5. Arduino が、30 メートルの範囲で最大 64 個の I2C デバイスをサポートする Modulino ハブおよびエクステンダ モジュールを発売 - CNX ソフトウェア
+   原題: Arduino launches Modulino Hub and Extender modules to support up to 64 I2C devices, 30-meter range - CNX Software
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 28 Jun 2026 07:00:00 GMT
