@@ -1,0 +1,106 @@
+Searcher Daily Report
+Generated at: 2026-07-16 08:01:08
+Removed duplicates (today): 1
+Removed duplicates (7 days): 25
+
+[AI]
+1. ミラ・ムラティ氏のAIスタートアップ、AI巨人の支配を緩めようと初モデルをリリース - WSJ
+   原題: Mira Murati’s AI Startup Releases First Model in Bid to Loosen AI Giants’ Grip - WSJ
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 15 Jul 2026 18:50:00 GMT
+
+2. ミラ・ムラティ氏の Thinking Machines は、デビュー AI モデルで中国のライバルを参考にしている - フィナンシャル・タイムズ
+   原題: Mira Murati’s Thinking Machines draws from Chinese rivals in debut AI model - Financial Times
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 15 Jul 2026 18:57:43 GMT
+
+3. Thinking Machines、初のオープンモデル Inkling で画一的な AI に対する賭けを強化 - TechCrunch
+   原題: Thinking Machines amps up its bet against one-size-fits-all AI with its first open model, Inkling - TechCrunch
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 15 Jul 2026 18:04:06 GMT
+
+4. アイビーリーグの教授がAIの不正行為を疑い、反撃を決意 - ワシントンポスト
+   原題: An Ivy League professor suspected AI cheating, so he decided to fight back - The Washington Post
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 15 Jul 2026 17:00:01 GMT
+
+5. Arm CEO、レネ・ハース氏、AIブームは旺盛な需要で供給が制約されていると語る - CNBC
+   原題: Arm CEO Rene Haas says the AI boom is supply-constrained with robust demand - CNBC
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 15 Jul 2026 22:30:49 GMT
+
+
+[CarPlay]
+1. Apple、iOS 27でCarPlayに起こる大きな変更をひっそりと隠していた - Engadget
+   原題: Apple Quietly Hid A Big Change Coming For CarPlay With iOS 27 - Engadget
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 15 Jul 2026 18:30:00 GMT
+
+2. この Android Auto 機能が非常に便利だったので、CarPlay から切り替えました - MakeUseOf
+   原題: I found this Android Auto feature so useful it made me switch from CarPlay - MakeUseOf
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 15 Jul 2026 22:00:17 GMT
+
+3. リビアン氏、Apple CarPlayを巡る争いはAIのおかげで「完全に時代遅れ」だと語る - InsideEVs
+   原題: Rivian Says Fight Over Apple CarPlay Is 'Completely Obsolete' Thanks To AI - InsideEVs
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 29 May 2026 07:00:00 GMT
+
+4. Pocket Casts アップデートにより、CarPlay チャプターアートワークを含む 3 つの新機能が追加 - 9to5Mac
+   原題: Pocket Casts update brings three new features, including CarPlay chapter artwork - 9to5Mac
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 07 Jul 2026 07:00:00 GMT
+
+
+[Android Auto]
+1. Google は、Android Auto メディア プレーヤーの待望の再設計を準備している可能性があります - Android Central
+   原題: Google might be preparing a much-needed redesign for the Android Auto media player - Android Central
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 15 Jul 2026 07:05:00 GMT
+
+2. クールな子供たちがワイヤレスに切り替えているときに、私が有線の Android Auto を使用している理由 - ZDNET
+   原題: Why I'm using wired Android Auto when all the cool kids are switching to wireless - ZDNET
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 15 Jul 2026 01:00:00 GMT
+
+3. Android Auto の最新アップデートにより、ついにイライラするクラッシュに終止符が打たれる可能性がある - XDA
+   原題: Android Auto's latest update could finally put an end to frustrating crashes - XDA
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 15 Jul 2026 15:39:36 GMT
+
+4. 次世代の Android を車内で使って、もっと楽しく、もっと楽しく - blog.google
+   原題: Do more and have more fun with the next generation of Android in the car - blog.google
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 12 May 2026 07:00:00 GMT
+
+5. 運転中の機能を向上させるために、Android Auto の設定に 7 つの変更を加えました - ZDNET
+   原題: I made 7 changes to my Android Auto setup for better functionality when I'm driving - ZDNET
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 20 Jun 2026 07:00:00 GMT
+
+
+[Arduino]
+1. 互換性のある Kenwood オーディオ機器を制御するための Arduino ライブラリ - Adafruit
+   原題: An Arduino library for controlling compatible Kenwood audio equipment - Adafruit
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 15 Jul 2026 19:59:52 GMT
+
+2. この人は指先に収まる世界最小の Arduino ボードを作りました - How-To Geek
+   原題: This person made the world's smallest Arduino board—it fits on your fingertip - How-To Geek
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 15 Jul 2026 20:39:29 GMT
+
+3. 耐候性、防塵性に優れた Arduino 搭載ソーラーパネル - Hackster.io
+   原題: The Weatherproof, Dust-Busting Arduino-Powered Solar Panel - Hackster.io
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 15 Jul 2026 16:43:39 GMT
+
+4. Moddo ピンチボードのサイズはわずか 10.9 × 10.5 mm - Elektor Magazine
+   原題: Moddo Pinch Board Measures Only 10.9 × 10.5 mm - Elektor Magazine
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 15 Jul 2026 06:30:00 GMT
+
+5. PiZZa は予備の Raspberry Pi Zero W および 2 W を Arduino に変えます - XDA
+   原題: PiZZa turns your spare Raspberry Pi Zero W and 2 W into an Arduino - XDA
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 08 Jul 2026 05:52:11 GMT
