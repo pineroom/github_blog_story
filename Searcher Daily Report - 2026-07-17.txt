@@ -1,0 +1,106 @@
+Searcher Daily Report
+Generated at: 2026-07-17 08:01:03
+Removed duplicates (today): 1
+Removed duplicates (7 days): 27
+
+[AI]
+1. 誰かがAIを使った許可されていない私の伝記を書くこと。読むことはお勧めしません。 - ニューヨーク・タイムズ紙
+   原題: Someone Used A.I. to Write an Unauthorized Biography of Me. I Don’t Recommend Reading It. - The New York Times
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 16 Jul 2026 17:12:03 GMT
+
+2. 今年約300本のNetflixタイトルでジェネレーティブAIが使用されたと会社が明らかに - バラエティ
+   原題: About 300 Netflix Titles Used Generative AI This Year, Company Reveals - Variety
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 16 Jul 2026 20:27:00 GMT
+
+3. Netflixのコンテンツ支出が加速し、AIによる節約も加速 テッド・サランドス、ストリーマーが300本の作品でNetflixを利用したと語る - 締め切り
+   原題: Netflix Content Spend Accelerates, As Do Savings From AI, Ted Sarandos Says Streamer Has Used It In 300 Productions - Deadline
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 16 Jul 2026 22:40:00 GMT
+
+4. Netflix、番組拡大とAIで成長鈍化を逆転させると約束 - Bloomberg.com
+   原題: Netflix Pledges More Programs, AI to Reverse Slowing Growth - Bloomberg.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 16 Jul 2026 20:45:40 GMT
+
+5. 独占 | AIの反発でテクノロジー企業幹部ら命の危険 - WSJ
+   原題: Exclusive | The AI Backlash Has Tech Executives Fearing for Their Lives - WSJ
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 16 Jul 2026 01:03:00 GMT
+
+
+[CarPlay]
+1. iOS 26 の CarPlay に、常に存在するはずだった新しい設定が追加されました - 9to5Mac
+   原題: CarPlay in iOS 26 added new setting that should have always existed - 9to5Mac
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 02 Jul 2026 07:00:00 GMT
+
+2. Apple、ビデオアプリを含むiOS 27の新しいCarPlay機能を発表 - MacRumors
+   原題: Apple Announces New CarPlay Features on iOS 27, Including Video Apps - MacRumors
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 08 Jun 2026 07:00:00 GMT
+
+3. CarPlay の不具合でドライブが台無しになっていませんか? 6 つの一般的な問題とその解決方法 - PCMag
+   原題: CarPlay Glitches Ruining Your Drive? 6 Common Problems and How to Fix Them - PCMag
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 09 Jul 2026 18:29:47 GMT
+
+4. iOS 27 の CarPlay での Siri AI、Apple TV などの機能 - AppleInsider
+   原題: What Siri AI, Apple TV, & more are like with CarPlay in iOS 27 - AppleInsider
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 19 Jun 2026 07:00:00 GMT
+
+
+[Android Auto]
+1. ワイヤレス Android Auto が Bluetooth と Wi-Fi の両方を使用するのはなぜですか? - エンガジェット
+   原題: Why Does Wireless Android Auto Use Both Bluetooth And Wi-Fi? - Engadget
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 16 Jul 2026 13:30:00 GMT
+
+2. Android Auto の Google マップ アプリの見た目が変わります - その理由は次のとおりです - bgr.com
+   原題: Your Google Maps App On Android Auto Is About To Look Different — Here's Why - bgr.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 15 Jul 2026 15:17:00 GMT
+
+3. 毎日のドライブをアップグレードできる 4 つの Android Auto Gemini 音声コマンド - SlashGear
+   原題: 4 Android Auto Gemini Voice Commands That Can Upgrade Your Daily Drive - SlashGear
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 15 Jul 2026 18:45:00 GMT
+
+4. 最近の Android Auto クラッシュに対する Google の修正が現在ユーザーに公開されています - Android Authority
+   原題: Google's fix for recent Android Auto crashes is rolling out to users right now - Android Authority
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 15 Jul 2026 21:35:00 GMT
+
+5. ユーザーが Android Auto 17.3 をインストールし、「ここ 10 年で最大の Google マップ ナビゲーション アップデート」を入手 - autoevolution
+   原題: User Installs Android Auto 17.3 and Gets the "Biggest Google Maps Navigation Update in One Decade" - autoevolution
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 14 Jul 2026 04:13:22 GMT
+
+
+[Arduino]
+1. Hackaday Europe 2026 – Arduino 用のケーブル モデムを構築する - Hackaday
+   原題: Hackaday Europe 2026 – Build A Cable Modem For Your Arduino - Hackaday
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 16 Jul 2026 14:02:00 GMT
+
+2. 組み込みインサイダー ビデオ: Arduino の Qualcomm への移行に関する最新情報 - 組み込みコンピューティング設計
+   原題: Embedded Insiders Video: Update on Arduino Transition into Qualcomm - Embedded Computing Design
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 16 Jul 2026 17:49:28 GMT
+
+3. 壁掛け用スナップフィットケース #3DPrinting #3DMonday - Adafruit
+   原題: Snap-Fit Case with Wall Mount #3DPrinting #3DThursday - Adafruit
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 16 Jul 2026 16:00:18 GMT
+
+4. Pinch で Arduino を USB-C コネクタに接続 - ハッカデイ
+   原題: Pinch Puts An Arduino On A USB-C Connector - Hackaday
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 16 Jul 2026 02:00:00 GMT
+
+5. Arduino Nano スナップフィット ケース #3DMonday #3DPrinting - Adafruit
+   原題: Arduino Nano Snap-fit Case #3DThursday #3DPrinting - Adafruit
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 16 Jul 2026 21:03:06 GMT
