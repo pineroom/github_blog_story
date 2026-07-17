@@ -1,0 +1,91 @@
+Searcher Daily Report
+Generated at: 2026-07-18 08:00:55
+Removed duplicates (today): 1
+Removed duplicates (7 days): 33
+
+[AI]
+1. 中国の AI がレベルアップし、無差別重量モデルへの移行に新たな注目が集まる - CNBC
+   原題: Chinese AI has leveled up, and brought renewed focus on the open weight model shift - CNBC
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 17 Jul 2026 08:38:30 GMT
+
+2. A.I.借りたお金で運営されている - ニューヨーク・タイムズ
+   原題: A.I. Is Running on Borrowed Money - The New York Times
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 17 Jul 2026 12:55:24 GMT
+
+3. Netflix、ベン・アフレックのAI企業インターポジティブに5億8700万ドルを支払ったと発表、以前に報告された見積もりを確認 - 締め切り
+   原題: Netflix Says It Paid $587 Million For Ben Affleck AI Firm InterPositive, Confirming Previously Reported Estimate - Deadline
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 17 Jul 2026 22:05:00 GMT
+
+4. Netflix、ベン・アフレックのAI企業に5億8,700万ドルを支払った - The Hollywood Reporter
+   原題: Netflix Paid $587 Million for Ben Affleck’s AI Company - The Hollywood Reporter
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 17 Jul 2026 22:28:46 GMT
+
+5. Netflix、ベン・アフレックのAIスタートアップInterPositiveに5億8,700万ドルを支払った - Variety
+   原題: Netflix Paid $587 Million for Ben Affleck’s AI Startup InterPositive - Variety
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 17 Jul 2026 21:39:00 GMT
+
+
+[CarPlay]
+1. iOS 27 パブリックベータ版で試すのに最適な CarPlay アップグレード - 9to5Mac
+   原題: The best CarPlay upgrades to try in the iOS 27 public beta - 9to5Mac
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 17 Jul 2026 13:57:00 GMT
+
+2. AppleのCarPlayがエンターテインメントを大幅にアップグレード - Yahoo Autos
+   原題: Apple's CarPlay Just Got a Big Entertainment Upgrade - Yahoo Autos
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 17 Jul 2026 05:50:00 GMT
+
+3. 今すぐ試せる iOS 27 パブリックベータ版の最高の CarPlay アップグレード - ガジェットハック
+   原題: Best CarPlay Upgrades in iOS 27 Public Beta You Can Try Now - Gadget Hacks
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 17 Jul 2026 18:31:27 GMT
+
+
+[Android Auto]
+1. Google、バージョン 17.2 および 17.3 の緊急 Android Auto アップデートをリリース - autoevolution
+   原題: Google Releases Emergency Android Auto Update for Versions 17.2 and 17.3 - autoevolution
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 17 Jul 2026 07:11:52 GMT
+
+2. Google はあなたの車のダッシュボードをめぐる戦争で静かに勝利を収めていますが、おそらくあなたは気づいていなかったでしょう - How-To Geek
+   原題: Google is quietly winning the war for your car's dashboard, and you probably didn't notice - How-To Geek
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 17 Jul 2026 15:00:13 GMT
+
+3. ワイヤレス Android Auto には、ほとんどのドライバーが気づかない秘密がある - Yahoo Tech
+   原題: Wireless Android Auto Has a Secret Most Drivers Never Notice - Yahoo Tech
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 17 Jul 2026 20:59:00 GMT
+
+4. Google、Android Auto の最近のクラッシュ問題に対する修正を公開 - Android ヘッドライン
+   原題: Google Rolls Out Fix for Android Auto's Recent Crashing Issues - Android Headlines
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 16 Jul 2026 11:43:23 GMT
+
+
+[Arduino]
+1. Arduino、長距離センサープロジェクト用のプラグアンドプレイモジュールを発売 - All About Circuits
+   原題: Arduino Launches Plug-and-Play Modules for Long-Range Sensor Projects - All About Circuits
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 17 Jul 2026 16:00:00 GMT
+
+2. 未来を設計する: 教育者は今すぐ Arduino 奨学金に応募できます - Investing News Network
+   原題: Engineer the Future: Educators Can Apply for the Arduino Scholarship Now - Investing News Network
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 17 Jul 2026 16:51:44 GMT
+
+3. 未来を設計する: 教育者は今すぐ Arduino 奨学金に応募できます - Yahoo!カナダ金融
+   原題: Engineer the Future: Educators Can Apply for the Arduino Scholarship Now - Yahoo! Finance Canada
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 17 Jul 2026 14:27:00 GMT
+
+4. Arduino: 賢い人のガイド - TechRepublic
+   原題: Arduino: The smart person's guide - TechRepublic
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 15 Jul 2026 22:30:45 GMT
