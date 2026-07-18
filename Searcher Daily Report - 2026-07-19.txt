@@ -1,0 +1,68 @@
+Searcher Daily Report
+Generated at: 2026-07-19 08:00:48
+Removed duplicates (today): 1
+Removed duplicates (7 days): 38
+
+[AI]
+1. グリーン監督、メッツはAI使用報告を受けて完全準拠と発言 - ESPN
+   原題: Green says Mets fully compliant on AI after report of usage - ESPN
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 18 Jul 2026 18:51:00 GMT
+
+2. IBM CEO、アルビンド・クリシュナ氏、AIから隠れる場所なし - WSJ
+   原題: IBM CEO Arvind Krishna Has Nowhere to Hide From AI - WSJ
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 18 Jul 2026 09:30:00 GMT
+
+3. 「博士。ドゥームのヌリエル・ルービニ氏は、AIが仕事に革命をもたらす中、私たちは普遍的なベーシックインカム、あるいは「ある種の社会主義」に向かっていると語る――彼はそれを楽観的だと呼んでいる - フォーチュン
+   原題: 'Dr. Doom' Nouriel Roubini says we're headed for universal basic income or 'some form of socialism' as AI revolutionizes work—He calls that optimistic - Fortune
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 18 Jul 2026 22:30:00 GMT
+
+4. シリコンバレーは最大の利点を失った - The Atlantic
+   原題: Silicon Valley Has Lost Its Biggest Advantage - The Atlantic
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 18 Jul 2026 11:30:00 GMT
+
+5. データセンターは両党のアメリカ人を憎しみの共有で団結させた - ワシントン・ポスト
+   原題: Data centers have united Americans of both parties in a shared hatred - The Washington Post
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 18 Jul 2026 16:00:00 GMT
+
+
+[CarPlay]
+1. iOS 27: 8 つ以上の新しい CarPlay 機能 - MacRumors
+   原題: iOS 27: 8+ New CarPlay Features - MacRumors
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 09 Jul 2026 07:00:00 GMT
+
+2. CarPlay の最高のヒントとコツ - 9to5Mac
+   原題: The best CarPlay tips and tricks - 9to5Mac
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 09 Jul 2026 07:00:00 GMT
+
+
+[Android Auto]
+1. 私の古い携帯電話は、ほとんどお金を払ったヘッドユニットよりも優れた Android Auto 画面を表示します - XDA
+   原題: My old phone makes a better Android Auto screen than the head unit I almost paid for - XDA
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 18 Jul 2026 15:30:10 GMT
+
+2. 開発者設定を 1 つ隠してワイヤレス Android Auto をさらにスムーズにしました - How-To Geek
+   原題: I made wireless Android Auto much smoother with one hidden developer setting - How-To Geek
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 18 Jul 2026 15:30:13 GMT
+
+3. Android Auto のダッシュボードが大幅に進化する可能性 - PhoneArena
+   原題: Android Auto's dashboard could be getting a serious glow-up - PhoneArena
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 15 Jul 2026 18:00:17 GMT
+
+4. Android Auto をワイヤレスに変換するには、アダプターを使用すると簡単です - Yahoo Autos
+   原題: Converting Your Android Auto To Wireless Is Easy With An Adapter - Yahoo Autos
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 18 Jul 2026 13:30:00 GMT
+
+
+[Arduino]
+- No new items after dedupe
