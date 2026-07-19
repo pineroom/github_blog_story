@@ -1,0 +1,91 @@
+Searcher Daily Report
+Generated at: 2026-07-20 08:01:03
+Removed duplicates (today): 1
+Removed duplicates (7 days): 34
+
+[AI]
+1. AIは意識を持つことができるでしょうか? - ガーディアン紙
+   原題: Could AI be conscious? - The Guardian
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 19 Jul 2026 16:44:00 GMT
+
+2. アラブ首長国連邦をスパイし、AI勝利に貢献したCIA工作員 - WSJ
+   原題: The CIA Operative Who Spied on the U.A.E.—and Played a Role in Its AI Win - WSJ
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 19 Jul 2026 01:04:00 GMT
+
+3. 国防総省の高官がOpenAIのディーン・ボールを銃撃 - Axios
+   原題: Top Pentagon official takes shot at OpenAI's Dean Ball - Axios
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 19 Jul 2026 22:03:47 GMT
+
+4. 全国のAIデータセンターに数十億投資 - FOXニュース
+   原題: Billions invested in AI data centers nationwide - Fox News
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 19 Jul 2026 22:19:00 GMT
+
+5. AI 時代のサイバー衛生—デジタル防御の第一線 - Forbes
+   原題: Cyber Hygiene In The AI Era—Our First Line Of Digital Defense - Forbes
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 19 Jul 2026 21:16:00 GMT
+
+
+[CarPlay]
+1. 25,000マイル後も、私のお気に入りのApple CarPlayアプリは機能し、信頼性が高く、ほとんど無料のままです - ZDNET
+   原題: 25,000 miles later, my favorite Apple CarPlay apps remain functional, reliable, and mostly free - ZDNET
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 15 Jun 2026 07:00:00 GMT
+
+2. Rivian のソフトウェア責任者は、CarPlay もボタンも必要ないと考えている - The Verge
+   原題: Rivian’s software chief thinks you don’t need CarPlay or buttons - The Verge
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 28 May 2026 07:00:00 GMT
+
+3. 路上テスト済み - CarPlay MotorCycle の X6 2K ダッシュカム - バイク EXIF
+   原題: Road Tested—CarPlay MotorCycle’s X6 2K Dashcam - Bike EXIF
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 11 Jul 2026 05:00:00 GMT
+
+4. 妻の 2006 トヨタ 4 ランナーに Apple CarPlay を入れたら、もう過去を振り返ることはありません - Jalopnik
+   原題: I Put Apple CarPlay In My Wife's 2006 Toyota 4Runner And I'm Never Looking Back - Jalopnik
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 28 Jun 2026 07:00:00 GMT
+
+
+[Android Auto]
+1. Android Auto がついに Google マップに速度計を搭載開始 - 9to5Google
+   原題: Android Auto finally starts rolling out a speedometer in Google Maps - 9to5Google
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 19 Jul 2026 20:30:00 GMT
+
+2. Google マップは視覚的に大幅にアップグレードされ、使い方が変わり、すでに Android Auto に導入されています - supercarblondie.com
+   原題: Google Maps is getting a major visual upgrade which will transform how you use it and it's already hitting Android Auto - supercarblondie.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 19 Jul 2026 19:50:00 GMT
+
+3. Android Auto が長旅の際にスマートフォンの調子を悪くする - それを止める 6 つの方法 - How-To Geek
+   原題: Android Auto is cooking your phone on long trips—here are 6 ways to stop it - How-To Geek
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 19 Jul 2026 17:30:13 GMT
+
+4. Android Auto 17.2 がすべてのユーザーに利用可能になりました: 待ち時間を省略して今すぐアップデートする方法 - autoevolution
+   原題: Android Auto 17.2 Now Available for All Users: How To Skip the Wait and Update Today - autoevolution
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 03 Jul 2026 07:00:00 GMT
+
+
+[Arduino]
+1. 未来を設計する: 教育者は今すぐ Arduino 奨学金に応募できます - Yahoo Finance
+   原題: Engineer the Future: Educators Can Apply for the Arduino Scholarship Now - Yahoo Finance
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 17 Jul 2026 14:27:00 GMT
+
+2. Qualcomm Arduino ボード、Rubik Pi 3、および Snapdragon 搭載 PC に OpenClaw と Hermes Agent をインストールする方法 - Qualcomm
+   原題: How to Install OpenClaw and Hermes Agent on Qualcomm Arduino Boards, Rubik Pi 3 and PCs with Snapdragon - Qualcomm
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 24 Apr 2026 07:00:00 GMT
+
+3. 2026 年夏のプロジェクトとプロトタイピング用の 5 つの Arduino シールド - 電子設計
+   原題: 5 Arduino Shields for Summer 2026 Projects and Prototyping - Electronic Design
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 09 Jul 2026 17:15:24 GMT
