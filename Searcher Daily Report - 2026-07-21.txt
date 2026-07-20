@@ -1,0 +1,91 @@
+Searcher Daily Report
+Generated at: 2026-07-21 08:00:56
+Removed duplicates (today): 1
+Removed duplicates (7 days): 29
+
+[AI]
+1. Google、AI モデルをより効率的に実行するための新しい「Frozen」チップを計画 - 情報
+   原題: Google Plans New ‘Frozen’ Chip to Run Its AI Models Much More Efficiently - The Information
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 20 Jul 2026 13:00:00 GMT
+
+2. より効率的なAIチップを開発中との報道でアルファベット株が急騰 - CNBC
+   原題: Alphabet stock pops on report it's developing a more efficient AI chip - CNBC
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 20 Jul 2026 14:00:10 GMT
+
+3. Google の Opal AI があなたの言葉からアプリを構築 - 機能するとき - CNET
+   原題: Google’s Opal AI Builds Apps From Your Words — When It Works - CNET
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 20 Jul 2026 22:29:05 GMT
+
+4. スクープ：トランプAIセキュリティ局長官が辞任 - Axios
+   原題: Scoop: Trump AI security agency head resigns - Axios
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 20 Jul 2026 15:57:03 GMT
+
+5. トランプ政権のAI安全庁長官、任期3カ月で辞任 - CNBC
+   原題: Trump administration's head of AI safety agency resigns after 3 months on job - CNBC
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 20 Jul 2026 19:18:46 GMT
+
+
+[CarPlay]
+1. Apple CarPlay アフターマーケット画面: アップグレードする前に知っておくべきことすべて - nerdbot
+   原題: Apple CarPlay Aftermarket Screen: Everything You Need to Know Before You Upgrade - nerdbot
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 20 Jul 2026 18:22:10 GMT
+
+2. アダプターにより CarPlay 接続がワイヤレスになります - EDN - Voice of the Engineer
+   原題: Adapter makes CarPlay connectivity wireless - EDN - Voice of the Engineer
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 20 Jul 2026 12:01:27 GMT
+
+3. Android Auto がこの基本的な Apple CarPlay 機能 - Pocket-lint を搭載するまでにこれほど時間がかかったとは信じられません
+   原題: I can't believe it took this long for Android Auto to get this basic Apple CarPlay feature - Pocket-lint
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 20 Jul 2026 20:21:09 GMT
+
+
+[Android Auto]
+1. Google マップ、ドライバーが長年望んでいた機能を Android Auto に提供 - Yahoo Autos
+   原題: Google Maps Gives Android Auto a Feature Drivers Have Wanted for Years - Yahoo Autos
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 20 Jul 2026 20:05:00 GMT
+
+2. このアプリを使用すると、どんな車でも Android Auto を使用できるようになります - ライフハッカー
+   原題: This App Lets You Use Android Auto in Any Car - Lifehacker
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 20 Jul 2026 14:30:00 GMT
+
+3. Android Auto で Google マップから Waze に切り替えました。ようやく理解できました - MakeUseOf
+   原題: I switched from Google Maps to Waze in Android Auto, and I finally get it - MakeUseOf
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 20 Jul 2026 14:00:13 GMT
+
+4. 古い車に Android Auto を追加したいですか?以下に 2 つの方法があります - 20 ドル未満の方法も​​含まれます - ZDNET
+   原題: Want to add Android Auto to your old car? Here are two ways - including one that's under $20 - ZDNET
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 20 Jul 2026 21:12:00 GMT
+
+5. 夏のロードトリップ？今年無視できない Android Auto の安全設定を有効化する必要がある - Talk Android
+   原題: Summer road trip? The must-activate Android Auto safety settings you can’t ignore this year - Talk Android
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 20 Jul 2026 15:00:00 GMT
+
+
+[Arduino]
+1. ANSITerm Arduino ライブラリ - Adafruit
+   原題: The ANSITerm Arduino library - Adafruit
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 20 Jul 2026 14:33:46 GMT
+
+2. イベント概要: OC バットバスターズ-スティス/Arduino が 12U アライアンス国内タイトルを主張 (2026 年 7 月 20 日) - Line Drive Media
+   原題: Event Recap: OC Batbusters-Stith/Arduino Claim 12U Alliance National Title (July 20, 2026) - Line Drive Media
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 20 Jul 2026 20:50:25 GMT
+
+3. Olimex の PICO-EVB は Raspberry Pi Pico を Arduino、MicroPython Mini-PLC に変える - Hackster.io
+   原題: Olimex's PICO-EVB Turns a Raspberry Pi Pico Into an Arduino, MicroPython Mini-PLC - Hackster.io
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 20 Jul 2026 12:38:12 GMT
