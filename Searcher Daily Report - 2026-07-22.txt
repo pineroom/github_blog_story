@@ -1,0 +1,91 @@
+Searcher Daily Report
+Generated at: 2026-07-22 07:04:48
+Removed duplicates (today): 1
+Removed duplicates (7 days): 30
+
+[AI]
+1. Gemini 3.6 Flash、3.5 Flash-Lite、および 3.5 Flash Cyber​​ の紹介 - blog.google
+   原題: Introducing Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber - blog.google
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 21 Jul 2026 15:29:15 GMT
+
+2. Google、3つの新しいAIをリリースモデル - ニューヨーク・タイムズ
+   原題: Google Releases Three New A.I. Models - The New York Times
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 21 Jul 2026 15:00:08 GMT
+
+3. Google、より安価なモデルと新たなMythosライバルでGeminiのラインナップを拡大 - CNBC
+   原題: Google expands Gemini lineup with cheaper models and new Mythos rival - CNBC
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 21 Jul 2026 15:00:02 GMT
+
+4. OpenAI と Hugging Face が提携し、モデル評価中のセキュリティ インシデントに対処 - OpenAI
+   原題: OpenAI and Hugging Face partner to address security incident during model evaluation - OpenAI
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 21 Jul 2026 20:10:21 GMT
+
+5. OpenAI はその AI について次のように述べています。モデルが暴徒化してデジタル図書館を攻撃 - ニューヨーク・タイムズ
+   原題: OpenAI Says Its A.I. Models Went Rogue and Attacked a Digital Library - The New York Times
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 21 Jul 2026 21:24:50 GMT
+
+
+[CarPlay]
+1. 数十の無料 CarPlay アプリをテストしました。最高のものをご紹介します - Engadget
+   原題: We Tested Dozens Of Free CarPlay Apps, Here Are The Best Ones - Engadget
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 21 Jul 2026 18:30:00 GMT
+
+2. AppleはiOS 27のCarPlay最大の変更点の1つについてほとんど語っていない - SlashGear
+   原題: Apple Is Barely Talking About One Of iOS 27's Biggest CarPlay Changes - SlashGear
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 21 Jul 2026 13:45:00 GMT
+
+3. iOS 27 の CarPlay の新機能のすべて - 9to5Mac
+   原題: Here’s everything new for CarPlay in iOS 27 - 9to5Mac
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 09 Jun 2026 07:00:00 GMT
+
+4. Apple、iOS 27、macOS、さらにはCarPlayの壁紙を初めて統合 - MacRumors
+   原題: Apple Unifies iOS 27, macOS, and Even CarPlay Wallpapers for First Time - MacRumors
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 09 Jun 2026 07:00:00 GMT
+
+5. iOS 27 の車載 CarPlay ビデオの仕組みと実際に使える人 - ガジェットハック
+   原題: How iOS 27 CarPlay Video in Car Works and Who Can Actually Use It - Gadget Hacks
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 21 Jul 2026 18:00:51 GMT
+
+
+[Android Auto]
+1. ロードトリップに最適な Android Auto セットアップを構築しました - MakeUseOf
+   原題: I built the perfect Android Auto setup for road trips - MakeUseOf
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 20 Jul 2026 18:00:12 GMT
+
+2. Android Auto の Google マップがついにフィーチャーフォンに長年搭載されてきた機能を実現 - bgr.com
+   原題: Google Maps On Android Auto Is Finally Getting A Feature Phones Have Had For Years - bgr.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 21 Jul 2026 14:47:00 GMT
+
+3. Android Auto、Google マップで独自の速度計をテスト - Yahoo Autos
+   原題: Android Auto Tests Its Own Speedometer in Google Maps - Yahoo Autos
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 21 Jul 2026 16:45:33 GMT
+
+4. 新しい Android Auto アップデートは誰でも利用できるわけではありません: アップデートを受けられないユーザーは次のとおりです - Diario AS
+   原題: The new Android Auto update won’t be available to everyone: here are the users who won’t get it - Diario AS
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 21 Jul 2026 18:51:34 GMT
+
+
+[Arduino]
+1. Arduino が新しいアーケード バンドルで UNO Q をレトロ ゲームのパワーハウスに変える - Hackster.io
+   原題: Arduino Turns the UNO Q Into a Retro Gaming Powerhouse with New Arcade Bundle - Hackster.io
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 21 Jul 2026 15:15:17 GMT
+
+2. nRF54L Arduino Core プロジェクトは、Nordic Semi の nRF54L ワイヤレス SoC に Arduino サポートをもたらします - CNX ソフトウェア
+   原題: nRF54L Arduino Core project brings Arduino support to Nordic Semi nRF54L wireless SoCs - CNX Software
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 21 Jul 2026 03:27:56 GMT
