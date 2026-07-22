@@ -1,0 +1,91 @@
+Searcher Daily Report
+Generated at: 2026-07-23 08:01:06
+Removed duplicates (today): 3
+Removed duplicates (7 days): 28
+
+[AI]
+1. OpenAIのテストモデルが脱出し、実際の企業のサーバーに侵入 - CNN
+   原題: An OpenAI test model escaped and broke into a real company’s servers - CNN
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 22 Jul 2026 14:15:03 GMT
+
+2. 中国のAIの脅威: ウォール街はキミK3の発売に過剰反応しているのか? - フォックスニュース
+   原題: China's AI threat: Is Wall Street overreacting to Kimi K3 launch? - Fox News
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 22 Jul 2026 22:18:38 GMT
+
+3. 韓国のAIブームが住宅にも波及し、資産格差拡大 - CNBC
+   原題: South Korea’s AI boom is spilling into housing, widening the property divide - CNBC
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 22 Jul 2026 22:00:03 GMT
+
+4. 上院商務、AI値上げ計画を8月に延期 - Politico
+   原題: Senate Commerce pushes AI markup plan to August - Politico
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 22 Jul 2026 21:51:06 GMT
+
+5. 株式と経済はますます AI に依存しています。ブーム - ニューヨーク・タイムズ
+   原題: Stocks and the Economy Are Increasingly Relying on the A.I. Boom - The New York Times
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 22 Jul 2026 14:15:41 GMT
+
+
+[CarPlay]
+1. WhatsApp に Apple CarPlay と Android Auto のアップグレード、iPad のサインアップなどが追加 - TechCrunch
+   原題: WhatsApp adds Apple CarPlay and Android Auto upgrades, iPad sign-ups, and more - TechCrunch
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 22 Jul 2026 13:00:00 GMT
+
+2. WhatsApp、CarPlayとAndroid Autoの大幅アップグレードを含む4つの新機能を発表 - ライフハッカー
+   原題: WhatsApp Just Announced Four New Features, Including a Huge Upgrade for CarPlay and Android Auto - Lifehacker
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 22 Jul 2026 16:30:00 GMT
+
+3. iOS 27 の CarPlay の新機能のすべて - 9to5Mac
+   原題: Here’s everything new for CarPlay in iOS 27 - 9to5Mac
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 22 Jul 2026 20:42:00 GMT
+
+4. iOS 27 Beta 4 リリース: Apple CarPlay ユーザー向けの新機能 - Geeky Gadgets
+   原題: iOS 27 Beta 4 Released: What’s New for Apple CarPlay Users - Geeky Gadgets
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 22 Jul 2026 13:21:07 GMT
+
+5. 当社の「総合的に最高」の CarPlay スクリーンはダッシュカムとしても - 販売中 - 道路とトラック
+   原題: Our 'Best Overall' CarPlay Screen Is Also a Dash Cam—and It's On Sale - Road & Track
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 22 Jul 2026 16:01:00 GMT
+
+
+[Android Auto]
+1. WhatsApp の最新アップデートにより、Android Auto でアプリがさらに便利になりました - Android Authority
+   原題: WhatsApp's latest update makes the app way more useful on Android Auto - Android Authority
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 22 Jul 2026 20:52:00 GMT
+
+2. Android Auto がついに低速車線から抜け出し、Google マップの速度計を追加 - Android Police
+   原題: Android Auto finally exits the slow lane, adds Google Maps speedometer - Android Police
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 20 Jul 2026 16:26:42 GMT
+
+3. Android Auto の Google マップで交通情報が失われ、ユーザーは緊急アップデートを求める - autoevolution
+   原題: Google Maps on Android Auto Loses Traffic Information, Users Call for Emergency Update - autoevolution
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 22 Jul 2026 07:06:52 GMT
+
+
+[Arduino]
+1. DigiKey と Arduino が賞金 20,000 ドルを獲得するチャレンジを発表 - PR Newswire
+   原題: DigiKey and Arduino Unveil Challenge to Award $20,000 in Prizes - PR Newswire
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 22 Jul 2026 14:11:00 GMT
+
+2. DigiKeyとArduinoがUNO Qマイクロコントローラボードを搭載したDream Lab Challengeを開始 - デザインニュース
+   原題: DigiKey & Arduino Launch Dream Lab Challenge Featuring UNO Q Microcontroller Board - Design News
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 22 Jul 2026 17:17:13 GMT
+
+3. Arduino UNO Q Arcade バンドルにより、カスタム レトロ ゲーム コンソールを約 90 ドルで構築可能 - CNX ソフトウェア
+   原題: Arduino UNO Q Arcade bundle lets you build a custom retro gaming console for about $90 - CNX Software
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 22 Jul 2026 10:33:36 GMT
