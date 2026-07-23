@@ -1,0 +1,111 @@
+Searcher Daily Report
+Generated at: 2026-07-24 08:00:59
+Removed duplicates (today): 4
+Removed duplicates (7 days): 25
+
+[AI]
+1. OpenAI不正を受けて米国議員らAI「キルスイッチ」推進 - BBC
+   原題: US lawmakers push for AI 'kill switch' after OpenAI goes rogue - BBC
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 23 Jul 2026 20:58:35 GMT
+
+2. OpenAIは、自社のAIモデルが不正になったのはハッキングイベントのせいだと主張した。知っておくべきことは次のとおりです - NPR
+   原題: OpenAI blamed a hacking event on its AI models gone rogue. Here is what to know - NPR
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 23 Jul 2026 05:23:42 GMT
+
+3. 彼らは何年もの間、AI が解放されるのではないかと心配していました。今、彼らはそれを止めなければなりません。 - ワシントン・ポスト紙
+   原題: For years, they worried AI might break free. Now they have to stop it. - The Washington Post
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 23 Jul 2026 16:00:00 GMT
+
+4. 中国の AI モデルがどのようにビッグテックに注目を集めたのか - NBC ニュース
+   原題: How a Chinese AI model put Big Tech on notice - NBC News
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 23 Jul 2026 17:12:18 GMT
+
+5. 中国、AI の「ソフトパワー」戦略を書き換える年齢 - ニューヨーク・タイムズ
+   原題: China Rewrites the ‘Soft Power’ Playbook for the A.I. Age - The New York Times
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 23 Jul 2026 14:31:20 GMT
+
+
+[CarPlay]
+1. 女性は CarPlay で別れのメッセージを受け取ります。すると、彼女の日産から「誰か日産を訴えるのを手伝ってくれませんか？」と気まずい内容のメールが返信されてきた - Motor1.com
+   原題: Woman Gets Breakup Text On Her CarPlay. Then Her Nissan Texts Back Something Unhinged: ‘Can Someone Help Me Sue Nissan?’ - Motor1.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 23 Jul 2026 21:38:23 GMT
+
+2. フォードの次期EVはApple Mapsをネイティブに搭載可能：CarPlay経由ではない - en.softonic.com
+   原題: Ford’s next EV could get native Apple Maps: not through CarPlay - en.softonic.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 23 Jul 2026 16:25:26 GMT
+
+3. WhatsApp が Android Auto および CarPlay 用の公式アプリを発表 - autoevolution
+   原題: WhatsApp Announces an Official App for Android Auto and CarPlay - autoevolution
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 23 Jul 2026 03:55:14 GMT
+
+4. WhatsApp に iPad サインアップが追加され、CarPlay と Android Auto エクスペリエンスが向上 - Thurrott.com
+   原題: WhatsApp Adds iPad Sign-ups, Improved CarPlay and Android Auto Experiences - Thurrott.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 23 Jul 2026 09:06:53 GMT
+
+5. WhatsApp が iPad と CarPlay アプリを大幅に強化 - Cult of Mac
+   原題: WhatsApp supercharges its iPad and CarPlay apps - Cult of Mac
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 23 Jul 2026 04:20:28 GMT
+
+
+[Android Auto]
+1. Android Auto がアップグレードされた WhatsApp サポートを展開 - 9to5Google
+   原題: Android Auto rolling out upgraded WhatsApp support - 9to5Google
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 23 Jul 2026 11:30:00 GMT
+
+2. 私は長いドライブの前には必ず Google マップと Android Auto の設定を変更します - Android Police
+   原題: I always change these Google Maps and Android Auto settings before every long road trip - Android Police
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 23 Jul 2026 12:30:15 GMT
+
+3. 初日から変更した 3 つの簡単なワイヤレス Android Auto 設定 - XDA
+   原題: 3 simple wireless Android Auto settings I changed on day one - XDA
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 23 Jul 2026 15:30:10 GMT
+
+4. フォードの次世代EVはApple Mapsを統合 - デトロイトニュース
+   原題: Ford's next-generation EV will integrate Apple Maps - The Detroit News
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 23 Jul 2026 18:07:00 GMT
+
+5. 豚が飛び始めた: Google マップが Android Auto に速度計を追加 - autoevolution
+   原題: Pigs Started Flying: Google Maps Gets a Speedometer on Android Auto - autoevolution
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 20 Jul 2026 04:17:39 GMT
+
+
+[Arduino]
+1. Arduino Nano スリム スナップフィット ケース – Mini USB または USB-C #3DMonday #3DPrinting - Adafruit
+   原題: Arduino Nano Slim Snap-Fit Case – Mini USB or USB-C #3DThursday #3DPrinting - Adafruit
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 23 Jul 2026 10:00:06 GMT
+
+2. Arduino® UNO™ Q を使用した実用的な資産追跡システムの構築 - クアルコム
+   原題: Building a Practical Asset Tracking System with Arduino® UNO™ Q - Qualcomm
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 19 Jul 2026 20:00:00 GMT
+
+3. DigiKeyとArduinoがDream Lab Challengeを世界的に開始 - Bisinfotech
+   原題: DigiKey, Arduino Launch Dream Lab Challenge Globally - Bisinfotech
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 23 Jul 2026 10:59:32 GMT
+
+4. Arduino のことは忘れましょう: ウクライナ人が純粋な ESP-IDF で 1.5 ドルでスタンドアロンの屋内植物監視ツールを作成しました - dev.ua
+   原題: Forget Arduino: Ukrainian created a standalone indoor plant monitoring tool for $1.5 on pure ESP-IDF - dev.ua
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 23 Jul 2026 09:56:00 GMT
+
+5. Moddo Pinch のご紹介 – 世界最小の 32 ビット Arduino 互換ボード (2026 版) - CNX ソフトウェア
+   原題: Meet Moddo Pinch – The world’s smallest 32-bit Arduino-compatible board (2026 Edition) - CNX Software
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 14 Jul 2026 08:02:23 GMT
