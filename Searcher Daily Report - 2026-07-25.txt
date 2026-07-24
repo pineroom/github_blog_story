@@ -1,0 +1,96 @@
+Searcher Daily Report
+Generated at: 2026-07-25 08:00:47
+Removed duplicates (today): 4
+Removed duplicates (7 days): 31
+
+[AI]
+1. Nvidia、Microsoft、Meta、オープンウェイトモデルの「時期尚早な制限」に警告 - CNBC
+   原題: Nvidia, Microsoft, Meta warn against 'premature restrictions' of open-weight models - CNBC
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 24 Jul 2026 14:15:47 GMT
+
+2. NvidiaとMicrosoftがキミに続く無差別AIモデルの募集を主導 - Bloomberg.com
+   原題: Nvidia, Microsoft Lead Call for Open-Weight AI Models After Kimi - Bloomberg.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 24 Jul 2026 14:59:51 GMT
+
+3. NvidiaとMicrosoft、オープンAIモデルに対する広範な制限を回避するよう米国に要請 - Fox Business
+   原題: Nvidia, Microsoft urge US to avoid broad restrictions on open AI models - Fox Business
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 24 Jul 2026 21:14:00 GMT
+
+4. 中国の AI モデルが OpenAI の「前例のない」サイバー攻撃をどのように阻止したか - CNBC
+   原題: How a Chinese AI model stopped OpenAI’s ‘unprecedented’ cyber attack - CNBC
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 24 Jul 2026 11:00:01 GMT
+
+5. 独占：同社のAIエージェントは企業のハッキングに数日を費やしたが、情報筋によるとOpenAIは1週間気づかなかったとのこと - ロイター
+   原題: EXCLUSIVE: Its AI agent spent days hacking a company, but sources say OpenAI did not notice for a week - Reuters
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 24 Jul 2026 22:38:12 GMT
+
+
+[CarPlay]
+1. WhatsApp、CarPlay、iPad、生産性アップグレードでメッセージングを超えて拡張 - TechRepublic
+   原題: WhatsApp Expands Beyond Messaging With CarPlay, iPad, and Productivity Upgrades - TechRepublic
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 24 Jul 2026 11:02:39 GMT
+
+2. フォードの安価な新型トラックは、CarPlay、Android Auto で GM の大きな間違いを犯さない - CarBuzz
+   原題: Ford's Cheap New Truck Won't Make GM's Big Mistake On CarPlay, Android Auto - CarBuzz
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 24 Jul 2026 14:00:53 GMT
+
+3. Apple、iOS 27パブリックベータ2でCarPlayを再び微調整 - Geeky Gadgets
+   原題: Apple Just Tweaked CarPlay Again in iOS 27 Public Beta 2 - Geeky Gadgets
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 24 Jul 2026 11:03:08 GMT
+
+4. Apple、CarPlay Ultraがこれらの自動車ブランドに導入されると発表 - MacRumors
+   原題: Apple Says CarPlay Ultra is Coming to These Vehicle Brands - MacRumors
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 23 Jul 2026 03:40:47 GMT
+
+5. 当社の「総合的に最高」の CarPlay スクリーンはドライブレコーダーとしても機能し、販売中 - Yahoo Autos
+   原題: Our 'Best Overall' CarPlay Screen Is Also a Dash Cam—and It's on Sale - Yahoo Autos
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 22 Jul 2026 16:01:00 GMT
+
+
+[Android Auto]
+1. Android Auto は欠点があるにもかかわらず、依然として最高の車内エンターテインメント体験です - 9to5Google
+   原題: Android Auto is still the best in-car entertainment experience despite its foibles - 9to5Google
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 24 Jul 2026 15:30:00 GMT
+
+2. 古い Android Auto アプリのサイドローディング方法をこれに置き換えました。とても簡単になりました - XDA
+   原題: I replaced my old Android Auto app sideloading method with this, and it's so much easier - XDA
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 24 Jul 2026 15:30:10 GMT
+
+3. 最高のワイヤレス Android Auto アダプターがわずかに値上げ - 9to5Google
+   原題: The best wireless Android Auto adapter just got a small price hike - 9to5Google
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 24 Jul 2026 20:05:00 GMT
+
+
+[Arduino]
+1. Pinch で Arduino を USB-C コネクタに接続 - ハッカデイ
+   原題: Pinch Puts An Arduino On A USB-C Connector - Hackaday
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 16 Jul 2026 02:00:00 GMT
+
+2. Pinch は、実質的に微細な 32 ビット Arduino 互換開発ボードです - Hackster.io
+   原題: Pinch Is a 32-Bit Arduino-Compatible Dev Board That is Practically Microscopic - Hackster.io
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 14 Jul 2026 21:00:57 GMT
+
+3. PiZZa: Raspberry Pi Zero 2 W 上の Arduino - Adafruit
+   原題: PiZZa: Arduino on the Raspberry Pi Zero 2 W - Adafruit
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 01 Jul 2026 07:00:00 GMT
+
+4. Arduino が Qualcomm Dragonwing IQ8 シリーズを搭載した Arduino VENTUNO Q を発表 - クアルコム
+   原題: Arduino Announces Arduino VENTUNO Q, Powered by Qualcomm Dragonwing IQ8 Series - Qualcomm
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 09 Mar 2026 07:00:00 GMT
