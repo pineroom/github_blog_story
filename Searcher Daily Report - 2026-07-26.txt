@@ -1,0 +1,66 @@
+Searcher Daily Report
+Generated at: 2026-07-26 08:01:05
+Removed duplicates (today): 3
+Removed duplicates (7 days): 37
+
+[AI]
+1. シリコンバレーからワシントンDCに至るまで、テクノロジー業界は突然、AIの1つの概念「蒸留」に夢中になっている - CNBC
+   原題: From Silicon Valley to DC, the tech world is suddenly obsessed with one concept in AI: Distillation - CNBC
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 25 Jul 2026 12:00:02 GMT
+
+2. AI 雇用の終末はおそらくすぐには到来しない - ガーディアン紙
+   原題: The AI jobs apocalypse probably isn’t coming anytime soon - The Guardian
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 25 Jul 2026 13:01:00 GMT
+
+3. オープン ウェイトとアメリカの AI リーダーシップ - Microsoft
+   原題: Open Weights and American AI Leadership - Microsoft
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 24 Jul 2026 11:18:54 GMT
+
+4. Hims の共同創設者は、AI のためにマーケティング チーム全体を解雇しました。現在、彼の 24 時間年中無休のオンライン獣医サービスは月あたり 20% 成長しています - Fortune
+   原題: A Hims cofounder fired his entire marketing team for AI. Now his 24/7 online vet service is growing 20% a month - Fortune
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 25 Jul 2026 13:32:00 GMT
+
+5. ノースカロライナ州の十代の少年がAIを性的搾取に使用した疑いで告発された。州法は十分強力ですか? - ワラル
+   原題: North Carolina teen accused of using AI for sexual exploitation. Are state laws strong enough? - WRAL
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 25 Jul 2026 19:29:51 GMT
+
+
+[CarPlay]
+1. アストンマーティン ヴァンテージで Apple CarPlay Ultra を試してみた - AutoNext.co
+   原題: We tried Apple CarPlay Ultra in the Aston Martin Vantage - AutoNext.co
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 25 Jul 2026 11:16:17 GMT
+
+
+[Android Auto]
+1. Google マップ、Android Auto のイマーシブ ナビゲーション、スピードメーターをより多くのユーザーに展開 - 9to5Google
+   原題: Google Maps rolling out Immersive Navigation, speedometer in Android Auto to more users - 9to5Google
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 25 Jul 2026 14:15:00 GMT
+
+2. Gemini は Android Auto で Waze をうまく使えず、ユーザーは Google マップへの切り替えを余儀なくされる - autoevolution
+   原題: Gemini Not Playing Nice With Waze on Android Auto, Users Forced To Switch to Google Maps - autoevolution
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 24 Jul 2026 04:39:51 GMT
+
+3. シンプルな USB ケーブルがワイヤレス Android Auto よりも優れている理由 - How-To Geek
+   原題: Why a simple USB cable is still better than wireless Android Auto - How-To Geek
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 25 Jul 2026 14:15:13 GMT
+
+4. Genius、12 インチ Uconnect 搭載の RAM で 2023 年にフルスクリーン Android Auto を実現 - autoevolution
+   原題: Genius Enables Full-Screen Android Auto in 2023 Ram With 12-Inch Uconnect - autoevolution
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 25 Jul 2026 06:54:47 GMT
+
+
+[Arduino]
+1. Arduino、長距離センサープロジェクト用のプラグアンドプレイモジュールを発売 - All About Circuits
+   原題: Arduino Launches Plug-and-Play Modules for Long-Range Sensor Projects - All About Circuits
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 17 Jul 2026 07:00:00 GMT
