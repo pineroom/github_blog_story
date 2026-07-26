@@ -1,0 +1,91 @@
+Searcher Daily Report
+Generated at: 2026-07-27 08:00:49
+Removed duplicates (today): 4
+Removed duplicates (7 days): 30
+
+[AI]
+1. AIの富はどのようにして全アメリカ人に分配されるのか - CNBC
+   原題: How AI wealth could be distributed to all Americans - CNBC
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 26 Jul 2026 14:06:53 GMT
+
+2. なぜ投資家はビッグテックの急成長するAI設備投資に興奮しているのでしょうか? - Yahooファイナンス
+   原題: Why are investors freaking out about Big Tech's booming AI capex? - Yahoo Finance
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 26 Jul 2026 12:30:00 GMT
+
+3. ドナルド・トランプ氏、社会的混乱の後、ゴルフとAIのスロップで自分を落ち着かせる - Yahoo!知恵袋
+   原題: Donald Trump Self-Soothes With Golf and AI Slop After Public Meltdown - Yahoo
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 26 Jul 2026 00:41:00 GMT
+
+4. 分析：AI懐疑論者の強力な新連合がトランプ大統領の死角で結集中 - CNBC
+   原題: Analysis: A powerful new coalition of AI skeptics is coalescing right in Trump's blind spot - CNBC
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 25 Jul 2026 12:00:02 GMT
+
+5. トランプ氏、AIによる狂気の投稿で自らを落ち着かせる - The Daily Beast
+   原題: Trump Self-Soothes With Bonkers AI Posting Spree - The Daily Beast
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 26 Jul 2026 22:24:00 GMT
+
+
+[CarPlay]
+1. 自動車メーカーの皆様: ワイヤレス Apple CarPlay、Android Auto、および充電サック - 自動ブログ
+   原題: Dear Automakers: Wireless Apple CarPlay, Android Auto, and Charging Suck - Autoblog
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 26 Jul 2026 15:15:00 GMT
+
+2. Google マップ「2026 アップデート」が展開中、Android Auto と CarPlay でも利用可能 - autoevolution
+   原題: Google Maps "2026 Update" Now Rolling Out, Also Available on Android Auto and CarPlay - autoevolution
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 26 Jul 2026 04:02:51 GMT
+
+3. 新型シボレー・トレイルブレイザーを運転する女性。それから彼女のiPhoneがアップデートされました。その後、Apple CarPlay が動作を停止します - Motor1.com
+   原題: Woman Drives New Chevrolet Trailblazer. Then Her iPhone Updates. Then Apple CarPlay Stops Working - Motor1.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 26 Jul 2026 12:00:00 GMT
+
+4. Apple は、CarPlay や​​ iPhone を必要としない車へのアクセス方法を発見しました - PhoneArena
+   原題: Apple found a way into your car that doesn't need CarPlay, or your iPhone - PhoneArena
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 26 Jul 2026 17:35:31 GMT
+
+5. 携帯電話を危険にさらさずにオートバイで CarPlay または Android Auto を使用する最良の方法は何ですか?みんなが話題にしている新しい画面をテストしました - Talk Android
+   原題: The best way to use CarPlay or Android Auto on your motorcycle without risking your phone? We tested the new screens everyone's talking about - Talk Android
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 26 Jul 2026 15:00:00 GMT
+
+
+[Android Auto]
+1. Android Auto には数秒でアクセスできる開発者メニューがあります - Engadget
+   原題: Android Auto Has A Developer Menu You Can Access In Seconds - Engadget
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 26 Jul 2026 15:30:00 GMT
+
+2. 自分で Android Auto セットアップを持ち込んでからレンタカーを怖がらなくなりました - How-To Geek
+   原題: I stopped dreading rental cars once I brought my own Android Auto setup - How-To Geek
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 26 Jul 2026 16:15:13 GMT
+
+
+[Arduino]
+1. ジョアン・アルドゥイーノ奨学金を授与 - スクラントン・タイムズ・トリビューン
+   原題: Joanne Arduino Scholarship awarded - Scranton Times-Tribune
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 26 Jul 2026 04:01:13 GMT
+
+2. Elecrow オールインワン Arduino スターター キット レビュー - 20 プロジェクト - Hackster.io
+   原題: Elecrow All-in-One Arduino Starter Kit Review - 20 Projects - Hackster.io
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 25 Jul 2026 14:16:01 GMT
+
+3. フェンシングの得点ボックスを構築する - ハッカデイ
+   原題: Building A Fencing Scoring Box - Hackaday
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 26 Jul 2026 02:00:00 GMT
+
+4. Arduino Nano スナップフィット ケース #3DMonday #3DPrinting - Adafruit
+   原題: Arduino Nano Snap-fit Case #3DThursday #3DPrinting - Adafruit
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 16 Jul 2026 21:03:06 GMT
