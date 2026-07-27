@@ -1,0 +1,91 @@
+Searcher Daily Report
+Generated at: 2026-07-28 08:00:54
+Removed duplicates (today): 3
+Removed duplicates (7 days): 31
+
+[AI]
+1. Nvidia と OpenAI、AI インフラストラクチャ計画に資金を提供するために最大 2,500 億ドルのバックストップについて協議中 - CNBC
+   原題: Nvidia and OpenAI in talks for up to $250 billion dollar backstop to fund AI infrastructure plans - CNBC
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 27 Jul 2026 17:32:53 GMT
+
+2. NVIDIA、資金調達の精査にもかかわらず、7,500 億ドルの新規 AI 取引を追求 - Yahoo Finance
+   原題: NVIDIA Pursues $750 Billion in New AI Deals Despite Financing Scrutiny - Yahoo Finance
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 27 Jul 2026 20:57:09 GMT
+
+3. Nvidia、サイバー攻撃に対抗するために Open Secure AI Alliance を立ち上げる - The Business Journal
+   原題: Nvidia launches Open Secure AI Alliance to combat cyberattacks - The Business Journals
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 27 Jul 2026 22:19:00 GMT
+
+4. 中国のAIブームが災いで逮捕者続出、誤った情報が国中を席巻する可能性があると警告 - BBC
+   原題: Warnings that China's AI Boom Could Swamp the Country with Misinformation as Disaster Lies Prompt Arrests - BBC
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 27 Jul 2026 22:07:23 GMT
+
+5. ジム・クレイマー氏、AIの循環融資の熱狂はドットコムバブルを反映していると警告 - CNBC
+   原題: Jim Cramer warns AI's circular financing frenzy echoes the dot-com bubble - CNBC
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 27 Jul 2026 22:20:01 GMT
+
+
+[CarPlay]
+1. 自動車メーカーの皆様へ: ワイヤレス Apple CarPlay、Android Auto、充電サック - Yahoo Autos
+   原題: Dear Automakers: Wireless Apple CarPlay, Android Auto, and Charging Suck - Yahoo Autos
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 26 Jul 2026 15:15:00 GMT
+
+2. iOS 27 に登場する Apple CarPlay のすべての新機能 - Geeky Gadgets
+   原題: Every New Apple CarPlay Feature Coming in iOS 27 - Geeky Gadgets
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 27 Jul 2026 13:59:35 GMT
+
+3. 25,000マイル後も、私のお気に入りのApple CarPlayアプリは機能し、信頼性が高く、ほとんど無料のままです - ZDNET
+   原題: 25,000 miles later, my favorite Apple CarPlay apps remain functional, reliable, and mostly free - ZDNET
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 15 Jun 2026 07:00:00 GMT
+
+
+[Android Auto]
+1. Google マップ最大の Android Auto アップグレードにより、より多くのユーザーが利用可能に - デジタル トレンド
+   原題: Google Maps’ biggest Android Auto upgrade is reaching more users - Digital Trends
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 27 Jul 2026 01:19:40 GMT
+
+2. Android Auto ユーザーは、Gemini がルーチンを実行しないことに不満を感じています - Android Authority
+   原題: Android Auto users are frustrated that Gemini won't run their routines - Android Authority
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 27 Jul 2026 17:39:00 GMT
+
+3. Android Auto 17.4 がすべてのユーザーに利用可能になり、謎の変更が加えられる - autoevolution
+   原題: Android Auto 17.4 Now Available for All Users With Mysterious Changes - autoevolution
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 27 Jul 2026 04:18:36 GMT
+
+
+[Arduino]
+1. Arduino UNO Qの大気質「汚染計」 - Hackster.io
+   原題: Air-Quality "Pollution Meter" on the Arduino UNO Q - Hackster.io
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 25 Jul 2026 22:40:56 GMT
+
+2. 未来を設計する: 教育者は今すぐ Arduino 奨学金に応募できます - Yahoo Finance
+   原題: Engineer the Future: Educators Can Apply for the Arduino Scholarship Now - Yahoo Finance
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 17 Jul 2026 07:00:00 GMT
+
+3. 8歳の息子のためにArduinoテニススコアカウンターを作りました - HackerNoon
+   原題: I Built an Arduino Tennis Score Counter for My 8-Year-Old - HackerNoon
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 07 May 2026 07:00:00 GMT
+
+4. Qualcomm Arduino ボード、Rubik Pi 3、および Snapdragon 搭載 PC に OpenClaw と Hermes Agent をインストールする方法 - Qualcomm
+   原題: How to Install OpenClaw and Hermes Agent on Qualcomm Arduino Boards, Rubik Pi 3 and PCs with Snapdragon - Qualcomm
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 24 Apr 2026 07:00:00 GMT
+
+5. エレガントなスナップフィット Arduino UNO R3 エンクロージャ – 透明カバー オプション #3DPrinting #3DMonday - Adafruit
+   原題: Elegant Snap-Fit Arduino UNO R3 Enclosure – Transparent Cover Option #3DPrinting #3DThursday - Adafruit
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 16 Jul 2026 12:00:15 GMT
