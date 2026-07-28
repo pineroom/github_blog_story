@@ -1,0 +1,111 @@
+Searcher Daily Report
+Generated at: 2026-07-29 08:00:59
+Removed duplicates (today): 3
+Removed duplicates (7 days): 27
+
+[AI]
+1. 投資家がAI株から逃避、アップルが2番目の5兆ドル企業に - ガーディアン紙
+   原題: Apple becomes second $5tn company as investors flee AI stocks - The Guardian
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 28 Jul 2026 16:51:00 GMT
+
+2. AIを巡る懸念でハイテク株が下落支出と中国のチップ - ニューヨーク・タイムズ
+   原題: Tech Stocks Tumble on Worries Over A.I. Spending and China’s Chips - The New York Times
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 28 Jul 2026 20:22:39 GMT
+
+3. ジム・クレイマー氏、ウォール街はAI取引から逃げ、代わりにこれらの株を購入していると語る - CNBC
+   原題: Jim Cramer says Wall Street is fleeing the AI trade and buying these stocks instead - CNBC
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 28 Jul 2026 22:20:01 GMT
+
+4. 意見 | AIの未来は誰にでもある - WSJ
+   原題: Opinion | The AI Future Is for Everyone - WSJ
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 28 Jul 2026 17:21:00 GMT
+
+5. 1,100人以上のAI労働者がテクノロジーの成長ペースを米国に求める - Bloomberg.com
+   原題: More Than ​​1,100 AI Workers Call for US to Pace Tech Growth - Bloomberg.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 28 Jul 2026 16:38:33 GMT
+
+
+[CarPlay]
+1. Google マップ 2026 のメジャー アップデートが Apple CarPlay と Android Auto で利用可能になり、あなたの運転体験に変革をもたらす - supercarblondie.com
+   原題: Major Google Maps 2026 update is now available on Apple CarPlay and Android Auto and it promises to transform your driving experience - supercarblondie.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 28 Jul 2026 19:56:00 GMT
+
+2. 数十の無料 CarPlay アプリをテストしました。最高のものをご紹介します - Engadget
+   原題: We Tested Dozens Of Free CarPlay Apps, Here Are The Best Ones - Engadget
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 21 Jul 2026 18:30:00 GMT
+
+3. この 30 ドルの Bluetooth アダプターで Apple CarPlay をワイヤレスにできる - Yahoo Autos
+   原題: Your Apple CarPlay Can Now Be Wireless With This $30 Bluetooth Adapter - Yahoo Autos
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 28 Jul 2026 12:30:00 GMT
+
+4. Apple Maps はフォードのユニバーサル EV プラットフォームを強化する - Kelley Blue Book
+   原題: Apple Maps Will Power Ford’s Universal EV Platform - Kelley Blue Book
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 28 Jul 2026 15:30:25 GMT
+
+5. この 30 ドルの Bluetooth アダプターを使用すると、Apple CarPlay をワイヤレスにできるようになります - AOL.com
+   原題: Your Apple CarPlay Can Now Be Wireless With This $30 Bluetooth Adapter - AOL.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 28 Jul 2026 15:42:42 GMT
+
+
+[Android Auto]
+1. Android Auto は地図だけではありません。Android Auto を使って私がやっている他の 5 つのことを紹介します - How-To Geek
+   原題: Android Auto isn't just for maps—here's 5 other things I do with it - How-To Geek
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 28 Jul 2026 16:45:13 GMT
+
+2. Android Auto: 禁止されているアプリの隠された世界 — 本当にできること (でもすべきこと) - Talk Android
+   原題: Android Auto: The Hidden World of Forbidden Apps—What You Can Really Do (But Should You?) - Talk Android
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 28 Jul 2026 06:30:00 GMT
+
+3. Google マップの Android Auto 用の新しい 3D イマーシブ ビューを試してみたところ、ナビゲーションに関する最大の問題が解決されました - ZDNET
+   原題: I tried Google Maps' new 3D Immersive View for Android Auto, and it fixed my biggest navigation problems - ZDNET
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 13 Jul 2026 07:00:00 GMT
+
+4. 次世代の Android を車内でもっと楽しく、もっと楽しく - blog.google
+   原題: Do more and have more fun with the next generation of Android in the car - blog.google
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 12 May 2026 07:00:00 GMT
+
+5. 私の新しい車にはナビゲーションが組み込まれていませんが、Android Auto のおかげでナビゲーションを見逃すことはありません - XDA
+   原題: My new car doesn't have built-in navigation, and I don't miss it thanks to Android Auto - XDA
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 28 Jul 2026 15:30:10 GMT
+
+
+[Arduino]
+1. カセゴッチ: Arduino Nano たまごっち - Adafruit
+   原題: Cassegotchi: Arduino Nano Tamagotchi - Adafruit
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 28 Jul 2026 17:35:33 GMT
+
+2. DigiKey と Arduino が賞金 20,000 ドルの Dream Lab Challenge を開始 - EE Times Asia
+   原題: DigiKey, Arduino Launch Dream Lab Challenge with $20,000 in Prizes - EE Times Asia
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 28 Jul 2026 02:46:48 GMT
+
+3. テスト中のダイオード: Arduino Nano の TestLab による特性曲線の測定 - Elektor マガジン
+   原題: Diodes Under Test: Measuring Characteristic Curves with TestLab for the Arduino Nano - Elektor Magazine
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 26 Jul 2026 22:05:00 GMT
+
+4. USB グラフィック ディスプレイ アダプターを使用してマイクロコントローラーからモニターを駆動する - Adafruit
+   原題: Drive a monitor from your microcontroller with a USB graphics display adapter - Adafruit
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 28 Jul 2026 14:09:20 GMT
+
+5. Zephyr Work の Arduino コアが新たなマイルストーンに到達、6 月にベータ版を終了する準備を整える - Hackster.io
+   原題: Arduino Core on Zephyr Work Hits a New Milestone, Prepares to Exit Beta in June - Hackster.io
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 18 May 2026 11:12:42 GMT
