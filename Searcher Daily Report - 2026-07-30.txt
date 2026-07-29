@@ -1,0 +1,106 @@
+Searcher Daily Report
+Generated at: 2026-07-30 08:00:56
+Removed duplicates (today): 2
+Removed duplicates (7 days): 27
+
+[AI]
+1. A.I.企業は数千人規模で電気技師や大工を募集している - ニューヨーク・タイムズ
+   原題: A.I. Companies Are Recruiting Electricians and Carpenters by the Thousands - The New York Times
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 29 Jul 2026 09:01:36 GMT
+
+2. 学術研究者向け ChatGPT で科学的発見を加速する - openai.com
+   原題: Accelerating scientific discovery with ChatGPT for Academic Researchers - openai.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 29 Jul 2026 17:09:14 GMT
+
+3. ジム・クレイマー氏、ソフトウェアの復活はAI株の次の上昇の青写真になる可能性があると語る - cnbc.com
+   原題: Jim Cramer says software's comeback could be the blueprint for AI stocks' next rally - cnbc.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 29 Jul 2026 22:22:13 GMT
+
+4. Tinder、ユーザーの顔を改変したAI写真ツールを一時停止 - nbcnews.com
+   原題: Tinder pauses AI photo tool that altered users’ faces - nbcnews.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 29 Jul 2026 22:29:04 GMT
+
+5. Anthropic の新しい AI モデルは、これまでよりも多くのソフトウェアのバグを特定できるようになりました。 Microsoft はそれらを迅速に修正することに苦心しています。 - プロパブリカ
+   原題: Anthropic’s New AI Model Can Identify More Software Bugs Than Ever. Microsoft Is Struggling to Fix Them Fast Enough. - ProPublica
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 29 Jul 2026 09:00:00 GMT
+
+
+[CarPlay]
+1. 自動車メーカーの皆様: ワイヤレス CarPlay と Android Auto が私たちを怒らせています - autoblog.com
+   原題: Dear Automakers: Wireless CarPlay And Android Auto Are Driving Us Mad - autoblog.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 26 Jul 2026 15:15:00 GMT
+
+2. iOS 27 で登場するすべての新しい Apple CarPlay 機能 - geeky-gadgets.com
+   原題: Every New Apple CarPlay Feature Coming in iOS 27 - geeky-gadgets.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 27 Jul 2026 13:59:35 GMT
+
+3. 数十の無料 CarPlay アプリをテストしました。最高のものをご紹介します - engadget.com
+   原題: We Tested Dozens Of Free CarPlay Apps, Here Are The Best Ones - engadget.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 21 Jul 2026 07:00:00 GMT
+
+4. Rivian のソフトウェア責任者は、CarPlay もボタンも必要ないと考えている - The Verge
+   原題: Rivian’s software chief thinks you don’t need CarPlay or buttons - The Verge
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 28 May 2026 07:00:00 GMT
+
+5. CarPlay と Google マップの設定 遠征前に変更しておいてよかった - Pocket-lint
+   原題: CarPlay and Google Maps settings I was glad I changed before my road trip - Pocket-lint
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 29 Jul 2026 11:00:12 GMT
+
+
+[Android Auto]
+1. Android Auto には数秒でアクセスできる開発者メニューがあります - engadget.com
+   原題: Android Auto Has A Developer Menu You Can Access In Seconds - engadget.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 26 Jul 2026 15:30:00 GMT
+
+2. Android Auto は地図だけではありません。Android Auto を使って私がやっている他の 5 つのことを紹介します - howtogeek.com
+   原題: Android Auto isn't just for maps—here's 5 other things I do with it - howtogeek.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 28 Jul 2026 16:45:13 GMT
+
+3. クールな子供たちがワイヤレスに切り替えているときに、私が有線の Android Auto を使用している理由 - ZDNET
+   原題: Why I'm using wired Android Auto when all the cool kids are switching to wireless - ZDNET
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 14 Jul 2026 07:00:00 GMT
+
+4. このアプリを使用すると、どんな車でも Android Auto を使用できるようになります - ライフハッカー
+   原題: This App Lets You Use Android Auto in Any Car - Lifehacker
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 20 Jul 2026 07:00:00 GMT
+
+
+[Arduino]
+1. Victoria Arduino が、アンダーカウンター エスプレッソの新たな解釈である Record を発表 - ロースト マガジンのデイリー コーヒー ニュース
+   原題: Victoria Arduino Introduces Record, a New Take on Undercounter Espresso - Daily Coffee News by Roast Magazine
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 29 Jul 2026 12:25:55 GMT
+
+2. Cassegotchi: Arduino Nano Tamagotchi - blog.adafruit.com
+   原題: Cassegotchi: Arduino Nano Tamagotchi - blog.adafruit.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 28 Jul 2026 17:35:33 GMT
+
+3. Moddo Pinch のご紹介 – 世界最小の 32 ビット Arduino 互換ボード (2026 版) - cnx-software.com
+   原題: Meet Moddo Pinch – The world’s smallest 32-bit Arduino-compatible board (2026 Edition) - cnx-software.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 14 Jul 2026 07:00:00 GMT
+
+4. DigiKey と Arduino が賞金 20,000 ドルの Dream Lab Challenge を開始 - EE Times India
+   原題: DigiKey, Arduino Launch Dream Lab Challenge with $20,000 in Prizes - EE Times India
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 29 Jul 2026 02:43:25 GMT
+
+5. nRF54L Arduino Core プロジェクトは、Nordic Semi の nRF54L ワイヤレス SoC に Arduino サポートをもたらします - cnx-software.com
+   原題: nRF54L Arduino Core project brings Arduino support to Nordic Semi nRF54L wireless SoCs - cnx-software.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 21 Jul 2026 03:27:56 GMT
