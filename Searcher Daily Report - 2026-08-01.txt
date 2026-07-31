@@ -1,0 +1,96 @@
+Searcher Daily Report
+Generated at: 2026-08-01 08:00:57
+Removed duplicates (today): 1
+Removed duplicates (7 days): 32
+
+[AI]
+1. ラリー・エリソン、AI にすべてを賭けるブーム。彼はAIの顔となるのだろうか？バブル？ - ニューヨーク・タイムズ紙
+   原題: Larry Ellison Bet It All on the A.I. Boom. Will He Be the Face of the A.I. Bubble? - The New York Times
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 31 Jul 2026 15:58:19 GMT
+
+2. Google、誤情報のリスクを警告後、新しい Earth AI ツールを撤回 - BBC
+   原題: Google withdraws new Earth AI tool after warnings over misinformation risks - BBC
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 31 Jul 2026 19:39:22 GMT
+
+3. 規制議論が激化する中、トランプ大統領のAI大統領令が重要な期限に近づく - CNBC
+   原題: Trump's AI executive order nears key deadline as regulation debate intensifies - CNBC
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 31 Jul 2026 21:46:32 GMT
+
+4. AIのスロップメロドラマがXを引き継ぎ、そのクリエイターは金儲けしている - WIRED
+   原題: AI Slop Melodramas Are Taking Over X—and Their Creators Are Cashing In - WIRED
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 31 Jul 2026 15:00:00 GMT
+
+5. Snapchat、「AIのスロップ」との戦いで他の人気プラットフォームに加わる - BBC
+   原題: Snapchat joins other popular platforms in fight against 'AI slop' - BBC
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 31 Jul 2026 21:57:59 GMT
+
+
+[CarPlay]
+1. Apple CarPlay スクリーンのプラスチック フィルム カバーを決して外さない男性。その後、数千ドルの費用がかかる - Motor1.com
+   原題: Man Never Removes Apple CarPlay Screen's Plastic Film Cover. Then It Costs Him Thousands Of Dollars - Motor1.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 31 Jul 2026 18:30:34 GMT
+
+2. iOS 27にはCarPlayビデオモードが搭載 - MacRumors
+   原題: iOS 27 Features CarPlay Video Mode - MacRumors
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 31 Jul 2026 19:15:40 GMT
+
+3. 当社の「総合的に最高」の CarPlay スクリーンはダッシュカムとしても - 販売中 - 道路とトラック
+   原題: Our 'Best Overall' CarPlay Screen Is Also a Dash Cam—and It's On Sale - Road & Track
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 22 Jul 2026 07:00:00 GMT
+
+4. 誰も語らないこの CarPlay カスタマイズ トリックを試してみる必要があります - Yahoo Autos
+   原題: You need to try this CarPlay customization trick that no one talks about - Yahoo Autos
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 30 Jul 2026 16:14:06 GMT
+
+
+[Android Auto]
+1. 以前は手動で行っていたが、Android Auto が自動的に行う 4 つのこと - androidpolice.com
+   原題: 4 things my Android Auto does automatically that I used to do manually - androidpolice.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 31 Jul 2026 12:30:15 GMT
+
+2. Android Auto の折りたたみ式スマートフォンとの闘い: Gemini は電話をかけることができない - autoevolution
+   原題: The Android Auto Struggle With Foldable Phones: Gemini Can't Make Phone Calls - autoevolution
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 31 Jul 2026 04:16:08 GMT
+
+3. Android Auto ダッシュボードにこれらのアプリをロードしました。車のディスプレイがついに便利になったと感じました - androidpolice.com
+   原題: I loaded my Android Auto dashboard with these apps; my car display finally feels useful - androidpolice.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 31 Jul 2026 16:15:31 GMT
+
+4. あなたが探していた Android Auto アップグレードがついに登場 - androidpolice.com
+   原題: The Android Auto upgrade you were looking for is finally here - androidpolice.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 30 Jul 2026 20:18:21 GMT
+
+5. この予期せぬ Android Auto アプリのおかげで、通勤時間が最も生産的な時間に変わりました - androidpolice.com
+   原題: This unexpected Android Auto app turned my commute into my most productive hour - androidpolice.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 30 Jul 2026 12:30:16 GMT
+
+
+[Arduino]
+1. ArduinoのZephyr RTOSベースのコアはベータ版を終了し、「レガシー」Mbedコアは非推奨になる - Hackster.io
+   原題: Arduino's Zephyr RTOS-Based Cores Exit Beta, with "Legacy" Mbed Cores to Be Deprecated - Hackster.io
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 31 Jul 2026 13:23:02 GMT
+
+2. Arduino の Marcello Majonchi 氏へのインタビュー: クアルコムの買収により、エッジ AI とロボティクスの新時代が到来 - ロボティクス＆オートメーション ニュース
+   原題: Interview with Arduino’s Marcello Majonchi: Qualcomm acquisition ushers in new era of edge AI and robotics - Robotics & Automation News
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 31 Jul 2026 11:28:05 GMT
+
+3. Arduino が Qualcomm Dragonwing IQ8 シリーズを搭載した Arduino VENTUNO Q を発表 - クアルコム
+   原題: Arduino Announces Arduino VENTUNO Q, Powered by Qualcomm Dragonwing IQ8 Series - Qualcomm
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 09 Mar 2026 07:00:00 GMT
