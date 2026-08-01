@@ -1,0 +1,101 @@
+Searcher Daily Report
+Generated at: 2026-08-02 08:01:00
+Removed duplicates (today): 2
+Removed duplicates (7 days): 30
+
+[AI]
+1. 独占：OpenAI、ハッキング捜査拡大で他のAIエージェントが封じ込めを逃れた証拠発見 - ロイター
+   原題: EXCLUSIVE: OpenAI finds evidence other AI agents escaped containment as it widens hacking probe - Reuters
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 31 Jul 2026 20:16:00 GMT
+
+2. OpenAIのHugging Faceハッキングで数か月にわたるAIサイバー警告が確認：「パンドラの箱は開いた」 - CNBC
+   原題: OpenAI's Hugging Face hack confirmed months of AI cyber warnings: 'Pandora's box is open' - CNBC
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 01 Aug 2026 12:00:01 GMT
+
+3. AIを恐れる数学のスーパースター、OpenAIに就職 - WSJ
+   原題: The Math Superstar Who’s Terrified of AI—and Just Took a Job at OpenAI - WSJ
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 01 Aug 2026 01:00:00 GMT
+
+4. DeepSeek の新しいお買い得モデルは AI の競争をゼロに加速する - Axios
+   原題: DeepSeek's new bargain model accelerates AI's race to zero - Axios
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 01 Aug 2026 13:04:23 GMT
+
+5. フロリダ州が支持する法案は、AIデータセンターに独自のエネルギーと水を供給することを義務付ける - Yahoo!
+   原題: Florida-backed bill would require AI data centers to supply their own energy and water - Yahoo
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 01 Aug 2026 22:22:00 GMT
+
+
+[CarPlay]
+1. Apple CarPlay が車の中で動作しませんか?最初に確認すべきことは次のとおりです - Engadget
+   原題: Apple CarPlay Isn't Working In Your Car? Here's What To Check First - Engadget
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 01 Aug 2026 16:30:00 GMT
+
+2. Android Auto と Apple CarPlay はどちらが最適ですか?それを知るために400マイル運転しました - TechRadar
+   原題: Which is best, Android Auto or Apple CarPlay? I drove 250 miles to find out - TechRadar
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 01 Aug 2026 08:00:00 GMT
+
+3. 結局のところ、GMはApple CarPlayとAndroid Autoを完全に廃止することはできないかもしれない - CarBuzz
+   原題: GM May Not Completely Kill Apple CarPlay And Android Auto After All - CarBuzz
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 01 Aug 2026 17:51:14 GMT
+
+4. iOS 27 の CarPlay に含まれる Apple の壁紙 18 枚をすべてダウンロード - 9to5mac.com
+   原題: Download all 18 wallpapers Apple included in CarPlay with iOS 27 - 9to5mac.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 12 Jun 2026 07:00:00 GMT
+
+5. Apple、iOS 27、macOS、さらにはCarPlayの壁紙を初めて統合 - MacRumors
+   原題: Apple Unifies iOS 27, macOS, and Even CarPlay Wallpapers for First Time - MacRumors
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 09 Jun 2026 07:00:00 GMT
+
+
+[Android Auto]
+1. Android Auto ダッシュボードにこれらのアプリをロードしました。車のディスプレイがついに便利になったと感じました - Android Police
+   原題: I loaded my Android Auto dashboard with these apps; my car display finally feels useful - Android Police
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 31 Jul 2026 16:15:31 GMT
+
+2. Android Auto は手間をかける価値がありません。私の車のインフォテインメントの方が優れています - How-To Geek
+   原題: Android Auto isn't worth the hassle—my car's infotainment does it better - How-To Geek
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 01 Aug 2026 17:45:13 GMT
+
+3. Android Auto が以前は手動で行っていたことを自動的に行う 4 つのこと - Android Police
+   原題: 4 things my Android Auto does automatically that I used to do manually - Android Police
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 31 Jul 2026 12:30:15 GMT
+
+4. Android Auto の隠し開発メニューを開く方法 - Technology Org
+   原題: How to Open Android Auto's Hidden Dev Menu - Technology Org
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 01 Aug 2026 14:20:26 GMT
+
+5. 初日から変更した 3 つの簡単なワイヤレス Android Auto 設定 - XDA
+   原題: 3 simple wireless Android Auto settings I changed on day one - XDA
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 23 Jul 2026 07:00:00 GMT
+
+
+[Arduino]
+1. Victoria Arduino が、Undercounter Espresso の新しい解釈である Record を発表 - dailycoffeenews.com
+   原題: Victoria Arduino Introduces Record, a New Take on Undercounter Espresso - dailycoffeenews.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 29 Jul 2026 12:25:55 GMT
+
+2. 未来を設計する: 教育者は今すぐ Arduino 奨学金に応募できます - Finance.yahoo.com
+   原題: Engineer the Future: Educators Can Apply for the Arduino Scholarship Now - finance.yahoo.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 17 Jul 2026 07:00:00 GMT
+
+3. DigiKeyとArduinoがUNO Qマイクロコントローラボードを搭載したDream Lab Challengeを開始 - designnews.com
+   原題: DigiKey & Arduino Launch Dream Lab Challenge Featuring UNO Q Microcontroller Board - designnews.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 22 Jul 2026 07:00:00 GMT
