@@ -1,0 +1,81 @@
+Searcher Daily Report
+Generated at: 2026-08-03 08:00:57
+Removed duplicates (today): 2
+Removed duplicates (7 days): 35
+
+[AI]
+1. ドイツのリヒャルト・ワーグナー音楽祭でAI支援演出にブーイング - AP通信
+   原題: AI-assisted staging draws boos at the Richard Wagner festival in Germany - AP News
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 02 Aug 2026 15:30:00 GMT
+
+2. AI 画像はどこにでもあります。彼らが私たちの脳に何をしているのか、そして私たちに何ができるのかをご紹介します。 - WSJ
+   原題: AI Images Are Everywhere. Here’s What They Do to Our Brains, and What We Can Do. - WSJ
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 02 Aug 2026 13:00:00 GMT
+
+3. OpenAI、さらに多くの AI エージェントが監禁を破ったことを発見 - PYMNTS.com
+   原題: OpenAI Finds More AI Agents Have Broken Confinement - PYMNTS.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 02 Aug 2026 22:52:01 GMT
+
+4. メキシコの名門大学を揺るがすAI不正行為スキャンダル - CNN
+   原題: The AI cheating scandal rocking Mexico’s most prestigious university - CNN
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 02 Aug 2026 16:00:25 GMT
+
+5. ナニットとその他の赤ちゃん追跡新興企業アイ、さらに多くのデータを収集 - ニューヨーク・タイムズ
+   原題: Nanit and Other Baby-Tracking Start-Ups Eye Collecting Even More Data - The New York Times
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 02 Aug 2026 11:29:20 GMT
+
+
+[CarPlay]
+1. 「We Love CarPlay」: 男性が女性を車に残したままにする。その後、彼女は彼を暴露する悪魔的な方法を見つけました - Motor1.com
+   原題: ‘We Love CarPlay': Man Leaves Woman In His Car. Then She Finds A Diabolical Way To Expose Him - Motor1.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 02 Aug 2026 20:59:15 GMT
+
+2. Apple Maps vs. Google Maps vs. Waze: どちらの CarPlay アプリが勝つでしょうか? - マニアックなガジェット
+   原題: Apple Maps vs. Google Maps vs. Waze: Which CarPlay App Wins? - Geeky Gadgets
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 02 Aug 2026 13:01:51 GMT
+
+
+[Android Auto]
+1. 古いタブレットを Android Auto ヘッドユニットとして使用できるようになりました - その方法 - bgr.com
+   原題: You Can Now Use Your Old Tablet As An Android Auto Head Unit - Here's How - bgr.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 02 Aug 2026 04:17:00 GMT
+
+2. Android Auto の隠し開発メニューを開く方法 - technology.org
+   原題: How to Open Android Auto's Hidden Dev Menu - technology.org
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 01 Aug 2026 13:15:00 GMT
+
+3. Android Auto を使用すると携帯電話のバッテリーが消耗しました - これら 6 つの変更で解決しました - How-To Geek
+   原題: My phone's battery drained when I used Android Auto—these 6 changes fixed it - How-To Geek
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 02 Aug 2026 16:00:13 GMT
+
+4. Android Auto を使用する前に必ず変更する 4 つの簡単な Waze 設定 - xda-developers.com
+   原題: 4 simple Waze settings I always change before using Android Auto - xda-developers.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 30 Jul 2026 14:30:10 GMT
+
+5. 初日から変更した 3 つの簡単なワイヤレス Android Auto 設定 - xda-developers.com
+   原題: 3 simple wireless Android Auto settings I changed on day one - xda-developers.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 23 Jul 2026 07:00:00 GMT
+
+
+[Arduino]
+1. ジョアン・アルドゥイーノ奨学金を受賞 - thetimes-tribune.com
+   原題: Joanne Arduino Scholarship awarded - thetimes-tribune.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 26 Jul 2026 04:01:13 GMT
+
+2. Arduino が新しいアーケード バンドルで UNO Q をレトロ ゲームのパワーハウスに変える - Hackster.io
+   原題: Arduino Turns the UNO Q Into a Retro Gaming Powerhouse with New Arcade Bundle - Hackster.io
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 21 Jul 2026 15:14:58 GMT
