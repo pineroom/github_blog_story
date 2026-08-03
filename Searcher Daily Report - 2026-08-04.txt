@@ -1,0 +1,101 @@
+Searcher Daily Report
+Generated at: 2026-08-04 08:01:08
+Removed duplicates (today): 2
+Removed duplicates (7 days): 29
+
+[AI]
+1. ハグフェイスCEO、中国はAI競争に勝利し、オープンモデルで優位に立つと語る - CNBC
+   原題: Hugging Face CEO says China is winning the AI race and dominating on open models - CNBC
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 03 Aug 2026 15:49:38 GMT
+
+2. AI の導入によって企業は何を得ることができるのでしょうか。支出？ - ニューヨーク・タイムズ紙
+   原題: What Are Companies Getting for All That A.I. Spending? - The New York Times
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 03 Aug 2026 18:56:22 GMT
+
+3. トランプ政権、AI枠組みを最終決定、当局者が発言 - CBSニュース
+   原題: Trump administration finalizes AI framework, official says - CBS News
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 03 Aug 2026 21:23:19 GMT
+
+4. 米国ハイテク大手がホワイトハウスにAIセキュリティテストについて議論するよう招待 - サウスチャイナ・モーニング・ポスト
+   原題: US tech giants invited to discuss AI security tests at White House - South China Morning Post
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 03 Aug 2026 22:25:55 GMT
+
+5. ホワイトハウス、新しいモデルテストの枠組みを検討するため火曜日にAI企業を招待 - CNBC
+   原題: White House to host AI companies Tuesday to review new model-testing framework - CNBC
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 03 Aug 2026 16:18:22 GMT
+
+
+[CarPlay]
+1. GM の Apple CarPlay ギャンブルに亀裂が入り始めているかもしれない - Autoblog
+   原題: GM’s Apple CarPlay Gamble May Be Starting To Crack - Autoblog
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 03 Aug 2026 13:00:00 GMT
+
+2. Apple CarPlay が本格的にアップグレードされようとしています – 新機能とそれが重要な理由をご紹介します – スタッフ.tv
+   原題: Apple CarPlay is about to get a serious upgrade – here’s what’s new, and why it matters - stuff.tv
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 03 Aug 2026 15:56:52 GMT
+
+3. iOS 27 の機能 CarPlay ビデオ モード - macrumors.com
+   原題: iOS 27 Features CarPlay Video Mode - macrumors.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 31 Jul 2026 19:15:40 GMT
+
+4. iOS 27 の CarPlay の新機能のすべて - 9to5Mac
+   原題: Here’s everything new for CarPlay in iOS 27 - 9to5Mac
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 22 Jul 2026 07:00:00 GMT
+
+5. Apple CarPlay が動作しない場合有線および無線の問題の修正 - ガジェットハック
+   原題: Apple CarPlay Not Working? Fixes for Wired and Wireless Issues - Gadget Hacks
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 03 Aug 2026 17:35:54 GMT
+
+
+[Android Auto]
+1. 私は Android Auto を生産性ハブに変えました。今ではこれなしでは運転できません - Android Police
+   原題: I turned Android Auto into a productivity hub; now I can't drive without it - Android Police
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 31 Jul 2026 13:15:15 GMT
+
+2. もっと早くダウンロードしておけばよかった 7 つの必須 Android Auto アプリ - Pocket-lint
+   原題: 7 essential Android Auto apps I wish I'd downloaded sooner - Pocket-lint
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 03 Aug 2026 18:38:15 GMT
+
+3. Android Auto 17.4 がすべてのユーザーに利用可能になり、謎の変更が加えられる - autoevolution
+   原題: Android Auto 17.4 Now Available for All Users With Mysterious Changes - autoevolution
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 27 Jul 2026 04:18:36 GMT
+
+
+[Arduino]
+1. Arduino の Marcello Majonchi 氏へのインタビュー: クアルコムの買収により、エッジ AI とロボティクスの新時代が到来 - roboticsandautomationnews.com
+   原題: Interview with Arduino’s Marcello Majonchi: Qualcomm acquisition ushers in new era of edge AI and robotics - roboticsandautomationnews.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 31 Jul 2026 11:28:05 GMT
+
+2. ジョアン・アルドゥイーノ奨学金を授与 - スクラントン・タイムズ・トリビューン
+   原題: Joanne Arduino Scholarship awarded - Scranton Times-Tribune
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 26 Jul 2026 04:01:13 GMT
+
+3. エレガントなスナップフィット Arduino UNO R3 エンクロージャ – 透明カバー オプション #3DPrinting #3DMonday - Adafruit
+   原題: Elegant Snap-Fit Arduino UNO R3 Enclosure – Transparent Cover Option #3DPrinting #3DThursday - Adafruit
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 16 Jul 2026 12:00:15 GMT
+
+4. 未来を設計する: 教育者は今すぐ Arduino 奨学金に応募できます - Yahoo Finance
+   原題: Engineer the Future: Educators Can Apply for the Arduino Scholarship Now - Yahoo Finance
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 17 Jul 2026 07:00:00 GMT
+
+5. PiZZa: Raspberry Pi Zero 2 W 上の Arduino - Adafruit
+   原題: PiZZa: Arduino on the Raspberry Pi Zero 2 W - Adafruit
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 01 Jul 2026 07:00:00 GMT
