@@ -1,0 +1,101 @@
+Searcher Daily Report
+Generated at: 2026-08-06 08:01:01
+Removed duplicates (today): 4
+Removed duplicates (7 days): 24
+
+[AI]
+1. GoogleのAI人事：主任科学者のジェフ・ディーン氏が退任、デミス・ハサビス氏がディープマインドCEOを辞任 - CNBC
+   原題: Google's AI reshuffle: Chief scientist Jeff Dean exits and Demis Hassabis steps down as DeepMind CEO - CNBC
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 05 Aug 2026 16:03:12 GMT
+
+2. Google DeepMind CEO、デミス・ハサビス氏が辞任 - Axios
+   原題: Google DeepMind CEO Demis Hassabis is stepping aside - Axios
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 05 Aug 2026 16:10:50 GMT
+
+3. ディープマインドのCEO辞任でグーグルのAIチームに大改革 - ガーディアン紙
+   原題: Big shake-up in Google’s AI team as DeepMind chief executive steps down - The Guardian
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 05 Aug 2026 22:25:00 GMT
+
+4. AIが生成した児童性的虐待画像を含むメタ・ランの広告 - Wired.com
+   原題: Meta Ran Ads That Contained AI-Generated Child Sexual Abuse Imagery - wired.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 05 Aug 2026 16:26:00 GMT
+
+5. メタ AI モデルがサイバーセキュリティ テスト中に別の企業をハッキング - 情報
+   原題: A Meta AI Model Hacked Another Company During Cybersecurity Testing - The Information
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 05 Aug 2026 22:21:52 GMT
+
+
+[CarPlay]
+1. MasterCraft、CarPlay と Android Auto をポンツーンボートに導入 - Engadget
+   原題: MasterCraft Brings CarPlay And Android Auto To Its Pontoon Boats - Engadget
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 05 Aug 2026 08:21:54 GMT
+
+2. CarPlay がポンツーンボートに登場 - MacRumors
+   原題: CarPlay is Coming to Pontoon Boats - MacRumors
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 04 Aug 2026 23:49:42 GMT
+
+3. GMの大規模なCarPlayとAndroid Autoの葬儀は延期され続ける - Carscoops
+   原題: GM’s Big CarPlay And Android Auto Funeral Keeps Getting Postponed - Carscoops
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 05 Aug 2026 17:51:33 GMT
+
+4. CarPlay、ただしボート上。 - ザ・ヴァージ
+   原題: CarPlay, but on a boat. - The Verge
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 05 Aug 2026 00:14:49 GMT
+
+5. iOS 26 の CarPlay に、常に存在するはずだった新しい設定が追加されました - 9to5Mac
+   原題: CarPlay in iOS 26 added new setting that should have always existed - 9to5Mac
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 02 Jul 2026 07:00:00 GMT
+
+
+[Android Auto]
+1. VPN をオフにせずに Android Auto を使用する方法 - Engadget
+   原題: How To Use Android Auto Without Turning Off Your VPN - Engadget
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 05 Aug 2026 15:30:00 GMT
+
+2. ワイヤレス Android Auto が携帯電話の Wi-Fi をオンにするのはなぜですか? - Yahoo自動車
+   原題: Why Does Wireless Android Auto Turn On Your Phone's Wi-Fi? - Yahoo Autos
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 05 Aug 2026 13:45:00 GMT
+
+3. Google アシスタントは間もなく Android Auto から消えるが、Gemini はそれを置き換える準備ができていない - XDA
+   原題: Google Assistant is disappearing from Android Auto soon, and Gemini isn't ready to replace it - XDA
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 05 Aug 2026 18:58:38 GMT
+
+4. Android Auto がボートに登場する理由 - Android Authority
+   原題: Android Auto is coming to boats, because why not - Android Authority
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 05 Aug 2026 07:46:00 GMT
+
+5. これら 3 つの Android Auto 設定は、携帯電話やヘッドユニットをアップグレードするよりも重要です - How-To Geek
+   原題: These 3 Android Auto settings matter more than upgrading your phone or head unit - How-To Geek
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 05 Aug 2026 14:30:13 GMT
+
+
+[Arduino]
+1. 海洋およびロボットナビゲーション用の Arduino IMU デーモン ライブラリ - Adafruit
+   原題: An Arduino IMU daemon library for marine and robotics navigation - Adafruit
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 04 Aug 2026 19:55:50 GMT
+
+2. アドレス指定可能な LED で巨大な 16×2 文字ディスプレイを実現 - Hackaday
+   原題: Addressable LEDs Make Giant 16×2 Character Display - Hackaday
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 05 Aug 2026 20:00:00 GMT
+
+3. Victoria Arduino がアンダーカウンター エスプレッソの新たな解釈である Record を発表 - ロースト マガジンのデイリー コーヒー ニュース
+   原題: Victoria Arduino Introduces Record, a New Take on Undercounter Espresso - Daily Coffee News by Roast Magazine
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 29 Jul 2026 12:25:55 GMT
