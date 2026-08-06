@@ -1,0 +1,96 @@
+Searcher Daily Report
+Generated at: 2026-08-07 08:01:06
+Removed duplicates (today): 4
+Removed duplicates (7 days): 29
+
+[AI]
+1. このA.I.自然界では見つからないウイルスが作られたばかり - ニューヨーク・タイムズ
+   原題: This A.I. Just Created Viruses Not Found in Nature - The New York Times
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 06 Aug 2026 20:19:24 GMT
+
+2. 人工知能を使ってまったく新しいウイルスを設計 - BBC
+   原題: Artificial Intelligence used to design brand new viruses - BBC
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 06 Aug 2026 18:01:52 GMT
+
+3. AI が自然界にはない新しいウイルスを設計 - axios.com
+   原題: AI designs new virus not found in nature - axios.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 06 Aug 2026 21:01:38 GMT
+
+4. OpenAIの新しいAIスマートスピーカーは300ドルから400ドルで販売されると報じられている - techcrunch.com
+   原題: OpenAI’s new AI smart speaker will reportedly sell for between $300-$400 - techcrunch.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 06 Aug 2026 22:43:53 GMT
+
+5. アジアがAIの野望を達成するには、より深いエネルギー市場が必要 - フォーチュン
+   原題: Asia needs deeper energy markets if it’s going to achieve its AI ambitions - Fortune
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 06 Aug 2026 11:36:59 GMT
+
+
+[CarPlay]
+1. iOS 27 の CarPlay は、人気の Apple アプリに 2 つの新機能を追加 - 9to5Mac
+   原題: CarPlay in iOS 27 adds two new features for popular Apple apps - 9to5Mac
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 06 Aug 2026 15:25:00 GMT
+
+2. Rivian のソフトウェア責任者は、CarPlay もボタンも必要ないと考えている - theverge.com
+   原題: Rivian’s software chief thinks you don’t need CarPlay or buttons - theverge.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 28 May 2026 07:00:00 GMT
+
+3. iOS 27アップデートでApple CarPlayに待望のオーディオ機能が追加 - Ubergizmo
+   原題: iOS 27 Update Brings Long-Awaited Audio Features To Apple CarPlay - Ubergizmo
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 06 Aug 2026 18:02:49 GMT
+
+4. これらの Apple CarPlay 機能は無視されることが多いですが、使わないと後悔するでしょう - supercarblondie.com
+   原題: These Apple CarPlay features are often ignored but you'll regret not using them - supercarblondie.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 06 Aug 2026 18:14:00 GMT
+
+5. Apple CarPlay と Android Auto が一部のボート乗りにとってメジャーなアップグレードとなる理由 - SlashGear
+   原題: How Apple CarPlay & Android Auto Can Be A Major Upgrade For Some Boaters - SlashGear
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 06 Aug 2026 18:45:00 GMT
+
+
+[Android Auto]
+1. Android Auto には、Google が見つけてほしくないアプリが隠されています - How-To Geek
+   原題: Android Auto is hiding a whole world of apps Google doesn't want you to find - How-To Geek
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 06 Aug 2026 17:00:13 GMT
+
+2. 毎日 Android Auto ユーザーとして、2026 年の大型アップデート後も必要な 5 つの機能 - Android Authority
+   原題: As a daily Android Auto user, these are the 5 features I still want after the big 2026 update - Android Authority
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 06 Aug 2026 09:00:00 GMT
+
+3. Android Auto をデスクトップ ダッシュボードに変えたら、もう戻れなくなりました - androidpolice.com
+   原題: I turned Android Auto into a desktop dashboard, and now I can't go back - androidpolice.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 04 Aug 2026 12:00:16 GMT
+
+4. GM、CarPlayとAndroid Autoの廃止で態度軟化の可能性 - Auto Spies
+   原題: GM May Be Softening Stance On Abandoning CarPlay And Android Auto - Auto Spies
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 06 Aug 2026 12:51:59 GMT
+
+
+[Arduino]
+1. DigiKey、Arduino がエンジニアリングコンテストで 20,000 ドルをオファー: 5,000 ドルの賞品が 4 件 - Assembly Magazine
+   原題: DigiKey, Arduino Offer $20,000 in Engineering Contest: Four $5,000 Prizes - Assembly Magazine
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 06 Aug 2026 11:00:00 GMT
+
+2. Arduino の解説: どのボードを購入すべきか、どのように使用するか (2026 年ガイド) - Pasquale Pilitteri
+   原題: Arduino Explained: Which Board to Buy and How to Use It (2026 Guide) - Pasquale Pillitteri
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 05 Aug 2026 13:48:57 GMT
+
+3. メールバッグから… - blog.adafruit.com
+   原題: From the mail bag… - blog.adafruit.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 06 Aug 2026 05:30:35 GMT
