@@ -1,0 +1,106 @@
+Searcher Daily Report
+Generated at: 2026-08-08 08:00:56
+Removed duplicates (today): 3
+Removed duplicates (7 days): 29
+
+[AI]
+1. 人工知能を使ってまったく新しいウイルスを設計 - bbc.com
+   原題: Artificial Intelligence used to design brand new viruses - bbc.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 06 Aug 2026 18:01:52 GMT
+
+2. AI が 16 種類の新しいウイルスをゼロから作成、薬剤耐性の期待を示し、悪用の可能性について警告 - cnn.com
+   原題: AI creates 16 new viruses from scratch, showing promise for drug resistance and drawing warnings about potential for misuse - cnn.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 06 Aug 2026 23:52:33 GMT
+
+3. 中国はAI分野での地位を確立しつつある。しかし、米国には依然として大きな優位性がある - CNBC
+   原題: China is gaining ground in AI. But the U.S. still has a major advantage - CNBC
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 07 Aug 2026 11:00:01 GMT
+
+4. YouTube スターのハンク グリーン氏、自身に新たな AI ポリシーを設定 - 他のコンテンツクリエイターにも同様の対応を求める - businessinsider.com
+   原題: YouTube star Hank Green sets new AI policy for himself — and urges other content creators to do the same - businessinsider.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 07 Aug 2026 22:47:53 GMT
+
+5. エージェント型 AI はセキュリティに対する人間の思い込みを打ち破る - Forbes
+   原題: Agentic AI Is Breaking Security’s Human Assumptions - Forbes
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 07 Aug 2026 22:27:01 GMT
+
+
+[CarPlay]
+1. これらの自動車メーカーはまだ CarPlay をサポートしていません。その理由は次のとおりです - 9to5Mac
+   原題: These automakers still don’t support CarPlay, here’s why - 9to5Mac
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 07 Aug 2026 19:14:00 GMT
+
+2. Apple CarPlayが水上ナビゲーション機能を備えた一部のポンツーンボートに拡張 - 9to5Mac
+   原題: Apple CarPlay expands to select pontoon boats with on-water navigation - 9to5Mac
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 05 Aug 2026 01:38:00 GMT
+
+3. Apple CarPlayをサポートしていない自動車ブランドについて解説 - ガジェットハック
+   原題: Car Brands That Don't Support Apple CarPlay, Explained - Gadget Hacks
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 07 Aug 2026 19:34:46 GMT
+
+4. Android Auto と Apple CarPlay がボートに登場 - Extremetech.com
+   原題: Android Auto and Apple CarPlay Are Coming to Boats - extremetech.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 07 Aug 2026 11:00:07 GMT
+
+5. Cartekit CarPlay Pro レビュー 2026: 有線 CarPlay ドライバーはケーブルを忘れる準備ができており、プラグイン ワイヤレス アダプターを発見 - newswire.com
+   原題: Cartekit CarPlay Pro Review 2026: Wired CarPlay Drivers Ready to Leave the Cable Behind Discover the Plug-In Wireless Adapter - newswire.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 07 Aug 2026 02:40:00 GMT
+
+
+[Android Auto]
+1. ワイヤレス Android Auto が携帯電話の Wi-Fi をオンにするのはなぜですか? - autos.yahoo.com
+   原題: Why Does Wireless Android Auto Turn On Your Phone's Wi-Fi? - autos.yahoo.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 05 Aug 2026 13:45:00 GMT
+
+2. 毎日 Android Auto ユーザーとして、2026 年の大型アップデート後もまだ必要な 5 つの機能 - androidauthority.com
+   原題: As a daily Android Auto user, these are the 5 features I still want after the big 2026 update - androidauthority.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 06 Aug 2026 09:00:00 GMT
+
+3. Android Auto がデフォルトで提供する 3 つのカスタム MacroDroid オートメーションを構築しました - How-To Geek
+   原題: I built 3 custom MacroDroid automations that Android Auto should offer by default - How-To Geek
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 07 Aug 2026 12:45:13 GMT
+
+4. Android Auto がボートに登場する理由 - androidauthority.com
+   原題: Android Auto is coming to boats, because why not - androidauthority.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 05 Aug 2026 07:46:00 GMT
+
+5. Android Auto に最適なダッシュボード構成をついに見つけました - Pocket-lint
+   原題: I finally found the perfect dashboard configuration for Android Auto - Pocket-lint
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 07 Aug 2026 19:24:23 GMT
+
+
+[Arduino]
+1. Moddo Pinch のご紹介 – 世界最小の 32 ビット Arduino 互換ボード (2026 版) - CNX ソフトウェア
+   原題: Meet Moddo Pinch – The world’s smallest 32-bit Arduino-compatible board (2026 Edition) - CNX Software
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 14 Jul 2026 07:00:00 GMT
+
+2. DigiKey と Arduino が賞金 20,000 ドルを獲得するチャレンジを発表 - PR Newswire
+   原題: DigiKey and Arduino Unveil Challenge to Award $20,000 in Prizes - PR Newswire
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 22 Jul 2026 07:00:00 GMT
+
+3. カセゴッチ: Arduino Nano たまごっち - Adafruit
+   原題: Cassegotchi: Arduino Nano Tamagotchi - Adafruit
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 28 Jul 2026 07:00:00 GMT
+
+4. nRF54L Arduino Core プロジェクトは、Nordic Semi の nRF54L ワイヤレス SoC に Arduino サポートをもたらします - CNX ソフトウェア
+   原題: nRF54L Arduino Core project brings Arduino support to Nordic Semi nRF54L wireless SoCs - CNX Software
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 21 Jul 2026 07:00:00 GMT
