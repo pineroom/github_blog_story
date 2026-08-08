@@ -1,0 +1,86 @@
+Searcher Daily Report
+Generated at: 2026-08-09 08:00:57
+Removed duplicates (today): 3
+Removed duplicates (7 days): 33
+
+[AI]
+1. ハグフェイスハッキングは危険なAIサイバー時代の始まりを示すが、多くの企業は「それに気づいていない」 - CNBC
+   原題: Hugging Face hack marks start of dangerous AI cyber era and many firms 'don't even know it' - CNBC
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 08 Aug 2026 12:00:01 GMT
+
+2. OpenAI、セキュリティ上の懸念から AI モデル Astra の一部の作業を一時停止へ | AI (人工知能) - ガーディアン紙
+   原題: OpenAI to pause some work on AI model Astra due to security concerns | AI (artificial intelligence) - The Guardian
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 08 Aug 2026 16:51:00 GMT
+
+3. AIがデートを再構築する中、ユダヤ人団体が人間の仲人の復活に賭けている - FOXニュース
+   原題: As AI reshapes dating, a Jewish organization is betting on the return of the human matchmaker - Fox News
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 08 Aug 2026 21:00:15 GMT
+
+4. コロラド州の大学がAIと連携するなか、学生たちは「盗作マシン」に対して立ち向かう - デトロイト・ニュース
+   原題: As Colorado universities align with AI, students take a stand against ‘plagiarism machine’ - The Detroit News
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 08 Aug 2026 20:54:00 GMT
+
+5. Move 37 は AI がすべてを変える瞬間です。それはどこでも突然起こります。 - WSJ
+   原題: Move 37 Is the Moment AI Changes Everything. It’s Suddenly Happening Everywhere. - WSJ
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 08 Aug 2026 01:00:00 GMT
+
+
+[CarPlay]
+1. 有線の Android Auto を試したら、もう無線には戻れません - Pocket-lint
+   原題: After trying wired Android Auto I'm never going back to wireless - Pocket-lint
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 07 Aug 2026 16:26:25 GMT
+
+2. ここでは、Siri AI が Apple CarPlay と連携するすべての方法と、私が最も役立つと感じた方法を紹介します - スタッフ.tv
+   原題: Here are all the ways Siri AI works with Apple CarPlay – and the ones I found most helpful - stuff.tv
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 08 Aug 2026 05:00:00 GMT
+
+3. Rivian のソフトウェア責任者は、CarPlay もボタンも必要ないと考えている - The Verge
+   原題: Rivian’s software chief thinks you don’t need CarPlay or buttons - The Verge
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 28 May 2026 07:00:00 GMT
+
+4. Apple は、CarPlay や​​ iPhone を必要としない車へのアクセス方法を発見しました - PhoneArena
+   原題: Apple found a way into your car that doesn't need CarPlay, or your iPhone - PhoneArena
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 26 Jul 2026 07:00:00 GMT
+
+5. iOS 27にはCarPlayビデオモードが搭載 - MacRumors
+   原題: iOS 27 Features CarPlay Video Mode - MacRumors
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 31 Jul 2026 07:00:00 GMT
+
+
+[Android Auto]
+1. 私は新しいスピードメーターよりも、これらの Android Auto の安全機能をはるかに信頼しています - Android Police
+   原題: I rely on these Android Auto safety features way more than the new speedometer - Android Police
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 08 Aug 2026 12:15:15 GMT
+
+
+[Arduino]
+1. DigiKeyとArduinoがUNO Qマイクロコントローラボードを搭載したDream Lab Challengeを開始 - デザインニュース
+   原題: DigiKey & Arduino Launch Dream Lab Challenge Featuring UNO Q Microcontroller Board - Design News
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 22 Jul 2026 07:00:00 GMT
+
+2. Arduino "Andy" Ceccacci の訃報 - Bagnasco & Calcaterra Funeral Home
+   原題: Obituary information for Arduino "Andy" Ceccacci - Bagnasco & Calcaterra Funeral Home
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 02 Feb 2026 08:00:00 GMT
+
+3. Arduino が Qualcomm Dragonwing IQ8 シリーズを搭載した Arduino VENTUNO Q を発表 - クアルコム
+   原題: Arduino Announces Arduino VENTUNO Q, Powered by Qualcomm Dragonwing IQ8 Series - Qualcomm
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 09 Mar 2026 07:00:00 GMT
+
+4. Arduino、ロボット工学などのための高性能 SBC VENTUNO Q で 21 周年を祝う - Hackster.io
+   原題: Arduino Celebrates Turning 21 with the VENTUNO Q, a High-Performance SBC for Robotics and More - Hackster.io
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 09 Mar 2026 11:55:19 GMT
