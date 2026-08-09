@@ -1,0 +1,96 @@
+Searcher Daily Report
+Generated at: 2026-08-10 08:01:07
+Removed duplicates (today): 3
+Removed duplicates (7 days): 32
+
+[AI]
+1. イスラエルの小規模スタートアップが OpenAI、Anthropic、Meta で不正な AI ハッキングにどのように関与したか - cnbc.com
+   原題: How a small Israeli startup was linked to rogue AI hacks at OpenAI, Anthropic and Meta - cnbc.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 09 Aug 2026 11:31:42 GMT
+
+2. AI エージェントが S&P 500 指数を押し上げる方法 - Yahoo Finance
+   原題: How AI agents can power the S&P 500 higher - Yahoo Finance
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 09 Aug 2026 12:30:00 GMT
+
+3. 5大アナリストAIの動き：この株の反発は「買いのチャンス」 - Investing.com
+   原題: 5 big analyst AI moves: Pullback in this stock is an ’enhanced buying opportunity’ - Investing.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 09 Aug 2026 09:08:33 GMT
+
+4. 中国、AI分野で米国に挑戦するため28兆ドルの資本市場を解放 - ブルームバーグ.com
+   原題: China Unleashes $28 Trillion Capital Markets to Challenge US in AI - bloomberg.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 09 Aug 2026 21:00:19 GMT
+
+5. ハグフェイスハッキングは危険なAIサイバー時代の始まりを示すが、多くの企業は「それに気づいていない」 - cnbc.com
+   原題: Hugging Face hack marks start of dangerous AI cyber era and many firms 'don't even know it' - cnbc.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 08 Aug 2026 12:00:01 GMT
+
+
+[CarPlay]
+1. CarPlay 接続に問題がありますか?これでその理由が説明されるかもしれません - 9to5Mac
+   原題: CarPlay connection issues? This might explain why - 9to5Mac
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 08 Aug 2026 00:51:00 GMT
+
+2. Android Auto と Apple CarPlay はどちらが最適ですか?それを知るために400マイル運転しました - TechRadar
+   原題: Which is best, Android Auto or Apple CarPlay? I drove 250 miles to find out - TechRadar
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 01 Aug 2026 08:00:00 GMT
+
+
+[Android Auto]
+1. 遠征中に Android Auto をオフラインで試してみたところ、2 つの点でモバイル データよりも優れていました - ZDNET
+   原題: I tried Android Auto offline while on a road trip, and it beats mobile data in 2 ways - ZDNET
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 30 Jul 2026 07:00:00 GMT
+
+2. Android Auto を何年も使い続けてきた私が誓った、携帯電話の冷却に関する 8 つのヒント - ZDNET
+   原題: After years of using Android Auto, these are the 8 phone cooling tips I swear by - ZDNET
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 26 Jun 2026 07:00:00 GMT
+
+3. 古いタブレットを Android Auto ヘッドユニットとして使用できるようになりました - その方法 - bgr.com
+   原題: You Can Now Use Your Old Tablet As An Android Auto Head Unit - Here's How - bgr.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 05 Aug 2026 21:08:03 GMT
+
+4. 初日から変更した 3 つの簡単なワイヤレス Android Auto 設定 - XDA
+   原題: 3 simple wireless Android Auto settings I changed on day one - XDA
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 23 Jul 2026 07:00:00 GMT
+
+5. Android Auto 17.4 がすべてのユーザーに利用可能になり、謎の変更が加えられる - autoevolution.com
+   原題: Android Auto 17.4 Now Available for All Users With Mysterious Changes - autoevolution.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 27 Jul 2026 07:00:00 GMT
+
+
+[Arduino]
+1. Qualcomm Arduino ボード、Rubik Pi 3、および Snapdragon 搭載 PC に OpenClaw と Hermes Agent をインストールする方法 - qualcomm.com
+   原題: How to Install OpenClaw and Hermes Agent on Qualcomm Arduino Boards, Rubik Pi 3 and PCs with Snapdragon - qualcomm.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 24 Apr 2026 07:00:00 GMT
+
+2. かわいいホームスタジオ - Hackster.io
+   原題: Kawaii Home Studio - Hackster.io
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 09 Aug 2026 05:37:38 GMT
+
+3. テスト中のダイオード: Arduino Nano の TestLab による特性曲線の測定 - Elektor マガジン
+   原題: Diodes Under Test: Measuring Characteristic Curves with TestLab for the Arduino Nano - Elektor Magazine
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 26 Jul 2026 22:05:00 GMT
+
+4. Arduino が Qualcomm Dragonwing IQ8 シリーズを搭載した Arduino VENTUNO Q を発表 - qualcomm.com
+   原題: Arduino Announces Arduino VENTUNO Q, Powered by Qualcomm Dragonwing IQ8 Series - qualcomm.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 09 Mar 2026 07:00:00 GMT
+
+5. Arduino が、30 メートルの範囲で最大 64 個の I2C デバイスをサポートする Modulino ハブおよびエクステンダ モジュールを発売 - CNX ソフトウェア
+   原題: Arduino launches Modulino Hub and Extender modules to support up to 64 I2C devices, 30-meter range - CNX Software
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 28 Jun 2026 07:00:00 GMT
