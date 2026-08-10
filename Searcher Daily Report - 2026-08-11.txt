@@ -1,0 +1,96 @@
+Searcher Daily Report
+Generated at: 2026-08-11 08:00:53
+Removed duplicates (today): 2
+Removed duplicates (7 days): 30
+
+[AI]
+1. A.I.エージェントは不正行為をした学生のためにオンラインコース全体を受講している - ニューヨーク・タイムズ
+   原題: A.I. Agents Are Taking Entire Online Courses for Cheating Students - The New York Times
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 10 Aug 2026 09:00:18 GMT
+
+2. ザッカーバーグ氏、超インテリジェントAIを誰もが手にできるようにするビジョンを提示 - Fox Business
+   原題: Zuckerberg lays out vision to put superintelligent AI in everyone's hands - Fox Business
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 10 Aug 2026 13:47:00 GMT
+
+3. CEOのジェンセン・ファンが自社のチップは「投資可能な資産」であるとCNBCに語ったため、NVIDIAは5,000億ドルの資金調達を計画 - cnbc.com
+   原題: Nvidia lines up $500 billion in financing as CEO Jensen Huang tells CNBC his chips are ‘investable asset’ - cnbc.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 10 Aug 2026 18:58:47 GMT
+
+4. ウォール街の巨人企業、5,000億ドルのAI融資契約でNVIDIAと提携 - フィナンシャル・タイムズ
+   原題: Wall Street giants partner with Nvidia on $500bn AI financing deal - Financial Times
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 10 Aug 2026 16:22:57 GMT
+
+5. Nvidia、AI構築に資金を提供するために大規模な動きを行う - Yahoo Finance
+   原題: Nvidia Makes Massive Move to Fund AI Buildout - Yahoo Finance
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 10 Aug 2026 21:27:35 GMT
+
+
+[CarPlay]
+1. CarPlay スクリーンは、古い車を近代化する簡単な方法です。これらは私たちがテストした中で最高のものです。 - モータートレンド
+   原題: CarPlay Screens Are an Easy Way to Modernize an Older Car. These Are the Best We Tested. - MotorTrend
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 10 Aug 2026 20:23:51 GMT
+
+2. Apple CarPlay でビデオが見られるようになる - Motor1.com
+   原題: Apple CarPlay Could Soon Let You Watch Videos - Motor1.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 10 Aug 2026 01:16:56 GMT
+
+3. CarPlay スクリーンは、古い車を近代化する簡単な方法です。これらは私たちがテストした中で最高のものです。 - Yahoo自動車
+   原題: CarPlay Screens Are an Easy Way to Modernize an Older Car. These Are the Best We Tested. - Yahoo Autos
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 10 Aug 2026 11:00:00 GMT
+
+
+[Android Auto]
+1. Android Auto がデフォルトで提供する 3 つのカスタム MacroDroid オートメーションを構築しました - howtogeek.com
+   原題: I built 3 custom MacroDroid automations that Android Auto should offer by default - howtogeek.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 07 Aug 2026 12:45:13 GMT
+
+2. 私が車のインフォテインメント システムの代わりに Android Auto を使用している 5 つの理由 – もう後戻りできない – ZDNET
+   原題: 5 reasons I'm using Android Auto instead of my car's own infotainment system - and can't go back - ZDNET
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 19 Jun 2026 07:00:00 GMT
+
+3. Android Auto には、Google が見つけてほしくないアプリが隠されています - howtogeek.com
+   原題: Android Auto is hiding a whole world of apps Google doesn't want you to find - howtogeek.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 06 Aug 2026 17:00:13 GMT
+
+4. ポルシェの新しいヘッドユニットは古い 911s CarPlay と高速道路を回避する設定を提供します - AutoNext.co
+   原題: Porsche's new head unit gives older 911s CarPlay, and a setting to avoid the motorway - AutoNext.co
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 10 Aug 2026 07:08:32 GMT
+
+
+[Arduino]
+1. Arduino UNO Q を使ってゼロから AI ロボットを作る - Hackster.io
+   原題: AI Robot from Scratch with Arduino UNO Q - Hackster.io
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 10 Aug 2026 15:57:55 GMT
+
+2. Arduino を搭載したこのレトロなハンドヘルドは誰でも自宅で構築できます - Yanko Design
+   原題: This Arduino-Powered Retro Handheld Is One Anyone Can Build at Home - Yanko Design
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 10 Aug 2026 17:20:52 GMT
+
+3. Moddo Pinch のご紹介 – 世界最小の 32 ビット Arduino 互換ボード (2026 版) - cnx-software.com
+   原題: Meet Moddo Pinch – The world’s smallest 32-bit Arduino-compatible board (2026 Edition) - cnx-software.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 14 Jul 2026 07:00:00 GMT
+
+4. この 6 ドルの RISC-V 開発ボードは、USB ポート内に完全に収まります - Hackster.io
+   原題: This $6 RISC-V Dev Board Fits Entirely Inside Your USB Port - Hackster.io
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 10 Aug 2026 14:35:23 GMT
+
+5. Arduino が、最大 64 個の I2C デバイス、30 メートルの範囲をサポートする Modulino ハブおよびエクステンダ モジュールを発売 - cnx-software.com
+   原題: Arduino launches Modulino Hub and Extender modules to support up to 64 I2C devices, 30-meter range - cnx-software.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 28 Jun 2026 07:00:00 GMT
