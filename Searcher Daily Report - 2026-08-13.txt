@@ -1,0 +1,111 @@
+Searcher Daily Report
+Generated at: 2026-08-13 08:01:06
+Removed duplicates (today): 3
+Removed duplicates (7 days): 19
+
+[AI]
+1. 独占：AIの大規模な再編につながったGoogle幹部の動きの内部 - ロイター
+   原題: EXCLUSIVE: Inside the Google executive moves that led to its big AI reshuffle - Reuters
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 12 Aug 2026 21:27:41 GMT
+
+2. 支援から実行まで: 企業が AI を活用する方法 - OpenAI
+   原題: From assistance to execution: How enterprises put AI to work - OpenAI
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 12 Aug 2026 13:06:54 GMT
+
+3. Jim Cramer 氏は、AI データセンター取引が戻ってきたと述べています。これら6銘柄がカムバックをリードしている - CNBC
+   原題: Jim Cramer says the AI data center trade is back. These 6 stocks are leading the comeback - CNBC
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 12 Aug 2026 22:27:52 GMT
+
+4. AIのゴッドファーザー、米政府はAIによる脅威増大への備えができていないと警告 - CNN
+   原題: Godfather of AI warns US government not prepared for rising threats from AI - CNN
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 12 Aug 2026 21:54:43 GMT
+
+5. AI原子力企業Fermi、ついに新CEOを迎える - TechCrunch
+   原題: AI nuclear power firm Fermi finally has a new CEO - TechCrunch
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 12 Aug 2026 22:24:00 GMT
+
+
+[CarPlay]
+1. MLB iPhone アプリが新しい CarPlay とライブ アクティビティ機能でさらに改良 - 9to5mac.com
+   原題: MLB iPhone app just got better with new CarPlay and Live Activity features - 9to5mac.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 12 Aug 2026 18:10:00 GMT
+
+2. iOS 27 Beta 5内で秘密のCarPlayアップデートが発見される - マニアックなガジェット
+   原題: Secret CarPlay Updates Discovered Inside iOS 27 Beta 5 - Geeky Gadgets
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 12 Aug 2026 09:05:16 GMT
+
+3. MasterCraft、CarPlay と Android Auto をポンツーンボートに導入 - Engadget
+   原題: MasterCraft Brings CarPlay And Android Auto To Its Pontoon Boats - Engadget
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 05 Aug 2026 08:21:54 GMT
+
+4. CarPlayが主導権を握る：Crest MarineとBalise Pontoonsが業界初でSavvy Navvyと提携 - Business Wire
+   原題: CarPlay Arrives at the Helm: Crest Marine and Balise Pontoons Partner With Savvy Navvy on Industry First - Business Wire
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 04 Aug 2026 07:00:00 GMT
+
+5. iOS 27 の CarPlay の新機能はすべてここにあります - 9to5mac.com
+   原題: Here’s everything new for CarPlay in iOS 27 - 9to5mac.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 22 Jul 2026 07:00:00 GMT
+
+
+[Android Auto]
+1. Android Auto と Android Automotive は似ていますが、違いは深い - Jalopnik
+   原題: Android Auto And Android Automotive Sound Alike, But The Differences Run Deep - Jalopnik
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 12 Aug 2026 03:25:00 GMT
+
+2. Google マップの新しい 3D Immersive View が良すぎて、Waze をやめようと思う - How-To Geek
+   原題: Google Maps’ new 3D Immersive View is so good I’m ditching Waze - How-To Geek
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 12 Aug 2026 13:00:13 GMT
+
+3. Android Auto でサイドロードできる 3 つのアプリ - bgr.com
+   原題: 3 Apps You Can Sideload On Android Auto - bgr.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 12 Aug 2026 16:47:00 GMT
+
+4. Android Auto ユーザーは、ライブ TV を視聴するための新しくて使い慣れた方法を利用できます - Android Authority
+   原題: Android Auto users have a new yet familiar way to watch live TV - Android Authority
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 12 Aug 2026 17:59:00 GMT
+
+5. Cardo のプレミアム ライディング アプリが Android Auto と互換性を備えて利用可能になりました - Visordown
+   原題: Cardo’s premium riding app now available with Android Auto compatibility - Visordown
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 11 Aug 2026 12:35:00 GMT
+
+
+[Arduino]
+1. Arduino の最新アップデートによりコードが自動的に作成される - Hackster.io
+   原題: Arduino's Latest Update Writes Your Code for You - Hackster.io
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 12 Aug 2026 14:15:23 GMT
+
+2. Victoria Arduino が、アンダーカウンター エスプレッソの新たな解釈である Record を発表 - ロースト マガジンのデイリー コーヒー ニュース
+   原題: Victoria Arduino Introduces Record, a New Take on Undercounter Espresso - Daily Coffee News by Roast Magazine
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 29 Jul 2026 12:25:55 GMT
+
+3. Qualcomm Arduino ボード、Rubik Pi 3、および Snapdragon 搭載 PC に OpenClaw と Hermes Agent をインストールする方法 - Qualcomm
+   原題: How to Install OpenClaw and Hermes Agent on Qualcomm Arduino Boards, Rubik Pi 3 and PCs with Snapdragon - Qualcomm
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 24 Apr 2026 07:00:00 GMT
+
+4. 海洋およびロボットナビゲーション用の Arduino IMU デーモン ライブラリ - Adafruit
+   原題: An Arduino IMU daemon library for marine and robotics navigation - Adafruit
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 04 Aug 2026 19:55:50 GMT
+
+5. 未来を設計する: 教育者は今すぐ Arduino 奨学金に応募できます - Yahoo Finance
+   原題: Engineer the Future: Educators Can Apply for the Arduino Scholarship Now - Yahoo Finance
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 17 Jul 2026 07:00:00 GMT
