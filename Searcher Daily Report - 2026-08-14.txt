@@ -1,0 +1,111 @@
+Searcher Daily Report
+Generated at: 2026-08-14 08:00:53
+Removed duplicates (today): 3
+Removed duplicates (7 days): 27
+
+[AI]
+1. 「ビッグショート」投資家スティーブ・アイスマン氏、AIブームのアキレス腱を見ている - CNBC
+   原題: 'Big Short' investor Steve Eisman sees an Achilles' heel in the AI boom - CNBC
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 13 Aug 2026 13:19:00 GMT
+
+2. チャットボットはほとんど監視されずに議会の仕事を行っている - ワシントン・ポスト
+   原題: Chatbots are doing the work of Congress with little oversight - The Washington Post
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 13 Aug 2026 17:00:00 GMT
+
+3. 議員による AI チャットボットのワイルドかつ規制のない使い方 - The New Republic
+   原題: The Wild—and Unregulated—Ways Lawmakers Are Using AI Chatbots - The New Republic
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 13 Aug 2026 16:23:02 GMT
+
+4. 意見 | A.I.あなたの社会生活に影響を与えます。はい、あなたのものです。 - ニューヨーク・タイムズ紙
+   原題: Opinion | A.I. Will Affect Your Social Life. Yes, Yours. - The New York Times
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 10 Aug 2026 09:02:11 GMT
+
+5. 商業委員会トップの民主党、AI「監視価格設定」をめぐり航空会社に圧力 - The Hill
+   原題: Top Commerce Committee Democrat presses airlines over AI ‘surveillance pricing’ - The Hill
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 13 Aug 2026 22:24:00 GMT
+
+
+[CarPlay]
+1. Rivian が長年要望されていた機能をついに手に入れました - いや、それは CarPlay ではありません - The Verge
+   原題: Rivian is finally getting a long-requested feature — and no, it’s not CarPlay - The Verge
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 13 Aug 2026 14:00:00 GMT
+
+2. MLB iPhone アプリが新しい CarPlay とライブ アクティビティ機能でさらに改良 - 9to5Mac
+   原題: MLB iPhone app just got better with new CarPlay and Live Activity features - 9to5Mac
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 12 Aug 2026 18:10:00 GMT
+
+3. Apple、CarPlayの変更を加えたiOS 27パブリックベータ3をリリース - Geeky Gadgets
+   原題: Apple Releases iOS 27 Public Beta 3 with CarPlay Changes - Geeky Gadgets
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 13 Aug 2026 13:03:44 GMT
+
+4. CarPlay がポンツーンボートに登場 - MacRumors
+   原題: CarPlay is Coming to Pontoon Boats - MacRumors
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 04 Aug 2026 07:00:00 GMT
+
+5. iOS 26 の CarPlay に、常に存在するはずだった新しい設定が追加されました - 9to5Mac
+   原題: CarPlay in iOS 26 added new setting that should have always existed - 9to5Mac
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 02 Jul 2026 07:00:00 GMT
+
+
+[Android Auto]
+1. Android Auto の Google マップがここ数年で最大のアップデートを取得 - SlashGear
+   原題: Google Maps On Android Auto Is Getting Its Biggest Update In Years - SlashGear
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 13 Aug 2026 11:15:00 GMT
+
+2. Android Auto での Gemini 音声通話は何度も失敗する – Google は 9 月までにこの問題を修正する必要がある – ZDNET
+   原題: Gemini voice calling on Android Auto keeps failing me - and Google has until September to fix it - ZDNET
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 13 Aug 2026 17:07:00 GMT
+
+3. これらの Android Auto 設定を修正した後、携帯電話に手を伸ばさなくなりました - Android Police
+   原題: I stopped reaching for my phone after fixing these Android Auto settings - Android Police
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 13 Aug 2026 15:15:15 GMT
+
+4. これら 4 つの Google デフォルトの使用をやめたら Android Auto がさらに便利になりました - How-To Geek
+   原題: Android Auto became more useful after I stopped using these 4 Google defaults - How-To Geek
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 13 Aug 2026 18:45:13 GMT
+
+5. Android Auto を車に追加する 4 つの方法 - Pocket-lint
+   原題: 4 ways to add Android Auto to your car - Pocket-lint
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 13 Aug 2026 00:00:00 GMT
+
+
+[Arduino]
+1. モジュラー Arduino UNO ブレッドボード ワークステーション – ESP32 + Nano ブラケット #3DPrinting #3DMonday - Adafruit
+   原題: Modular Arduino UNO Breadboard Workstation – ESP32 + Nano Brackets #3DPrinting #3DThursday - Adafruit
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 13 Aug 2026 17:00:32 GMT
+
+2. 調整可能な Arduino UNO ブレッドボード ワークステーション – ヒンジ付きオリジナル #3DMonday #3DPrinting - Adafruit
+   原題: Adjustable Arduino UNO Breadboard Workstation – Original with Hinge #3DThursday #3DPrinting - Adafruit
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 13 Aug 2026 16:00:28 GMT
+
+3. プロジェクト #15: 環境 – IP65 容量性土壌水分セン - Hackster.io
+   原題: Project #15: Environment – IP65 Capacitive Soil Moisture Sen - Hackster.io
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 13 Aug 2026 21:59:41 GMT
+
+4. Arduino Uno R4 WiFi レッスン 58: Arduino 天気気圧プロジェクト R.j.デッカー (Sv2vVS8n46) - mshale.com
+   原題: Arduino Uno R4 WiFi LESSON 58: Arduino Weather Barometer Project R.j. Decker (Sv2vVS8n46) - mshale.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 10 Aug 2026 03:36:16 GMT
+
+5. 未来を設計する: 教育者は今すぐ Arduino 奨学金に応募できます - モーニングスター
+   原題: Engineer the Future: Educators Can Apply for the Arduino Scholarship Now - Morningstar
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 17 Jul 2026 07:00:00 GMT
