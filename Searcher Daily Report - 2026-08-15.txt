@@ -1,0 +1,111 @@
+Searcher Daily Report
+Generated at: 2026-08-15 08:00:56
+Removed duplicates (today): 3
+Removed duplicates (7 days): 26
+
+[AI]
+1. アマゾンとアルファベットの利益が明らかにするAIの循環的性質ブーム - ニューヨーク・タイムズ
+   原題: Amazon and Alphabet’s Profits Reveal Circular Nature of A.I. Boom - The New York Times
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 14 Aug 2026 14:44:23 GMT
+
+2. オンラインデートが「救済モード」になる中、AIはすべての問題を解決できるのでしょうか? - ガーディアン紙
+   原題: As online dating goes into ‘salvage mode’, can AI solve all its problems? - The Guardian
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 14 Aug 2026 16:59:00 GMT
+
+3. 中国の最新オープンウェイトモデルはハッキングにおいて米国モデルに匹敵する - Axios
+   原題: China's latest open-weight model rivals U.S. models at hacking - Axios
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 14 Aug 2026 22:33:58 GMT
+
+4. 状況認識の提出書類、シタデルへのポートフォリオ強制売却前のAIの賭けを示す - CNBC
+   原題: Situational Awareness filing shows AI bets before forced portfolio sale to Citadel - CNBC
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 14 Aug 2026 22:27:32 GMT
+
+5. ワクチン、AI、クラトムに関する小児科医 - WCVB
+   原題: Pediatrician on vaccines, AI and kratom - WCVB
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 14 Aug 2026 22:07:00 GMT
+
+
+[CarPlay]
+1. Rivian はついに長年要望されていた機能を手に入れました - いや、それは CarPlay ではありません - theverge.com
+   原題: Rivian is finally getting a long-requested feature — and no, it’s not CarPlay - theverge.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 13 Aug 2026 14:00:00 GMT
+
+2. iOS 27 Beta 5内で秘密のCarPlayアップデートが発見 - geeky-gadgets.com
+   原題: Secret CarPlay Updates Discovered Inside iOS 27 Beta 5 - geeky-gadgets.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 12 Aug 2026 09:05:16 GMT
+
+3. Apple、iOS 27でCarPlayに起こる大きな変更をひっそりと隠していた - Engadget
+   原題: Apple Quietly Hid A Big Change Coming For CarPlay With iOS 27 - Engadget
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 15 Jul 2026 07:00:00 GMT
+
+4. iOS 27: 8 つ以上の新しい CarPlay 機能 - MacRumors
+   原題: iOS 27: 8+ New CarPlay Features - MacRumors
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 09 Jul 2026 07:00:00 GMT
+
+5. これらの自動車メーカーはまだ CarPlay をサポートしていません。その理由は次のとおりです - 9to5Mac
+   原題: These automakers still don’t support CarPlay, here’s why - 9to5Mac
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 07 Aug 2026 19:14:00 GMT
+
+
+[Android Auto]
+1. この 30 ドルのアクセサリにより、Android Auto 使用時の携帯電話の充電方法が変わりました - XDA
+   原題: This $30 accessory changed how I charge my phone while using Android Auto - XDA
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 14 Aug 2026 15:30:10 GMT
+
+2. 私がシンプルな USB ケーブルのためにワイヤレス Android Auto を永久に放棄した理由 - Android Police
+   原題: Why I permanently abandoned wireless Android Auto for a simple USB cable - Android Police
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 14 Aug 2026 20:00:16 GMT
+
+3. 私の車の内蔵ナビゲーションは役に立たないので、Android Auto を唯一使用する画面にしました - XDA
+   原題: My car's built-in navigation is useless, so I made Android Auto the only screen I use - XDA
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 14 Aug 2026 19:00:10 GMT
+
+4. Android Auto が 1080p ビデオ再生によるネイティブ YouTube サポートを追加 - Ubergizmo
+   原題: Android Auto Adds Native YouTube Support With 1080p Video Playback - Ubergizmo
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 14 Aug 2026 15:00:22 GMT
+
+5. HERMIX NANO を使用すると、古いタブレットがわずか 74 ドルで最新の車のダッシュボードに変身します - freeyork
+   原題: Transform Your Old Tablet into a Modern Car Dashboard with the HERMIX NANO for Just $74 - freeyork
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 14 Aug 2026 14:49:11 GMT
+
+
+[Arduino]
+1. Arduino を搭載したこのロボットの爪は、まるでスーパーヴィランの隠れ家から来たかのように指の間で地球を回転させます - XDA
+   原題: This Arduino-powered robot claw spins a globe between its fingers like it came from a supervillain's lair - XDA
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 14 Aug 2026 06:24:23 GMT
+
+2. AI エージェントが Arduino コードを書き換える - オープンソースをあなたに
+   原題: AI Agent Rewrites Arduino Code - Open Source For You
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 14 Aug 2026 07:51:03 GMT
+
+3. Arduino 電力メーター - YouTube
+   原題: Arduino Electricity Meter - YouTube
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 13 Aug 2026 08:50:27 GMT
+
+4. DigiKey、Arduino がエンジニアリングコンテストで 20,000 ドルをオファー: 5,000 ドルの賞品が 4 件 - Assembly Magazine
+   原題: DigiKey, Arduino Offer $20,000 in Engineering Contest: Four $5,000 Prizes - Assembly Magazine
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 06 Aug 2026 11:00:00 GMT
+
+5. Arduino Uno R4 WiFi レッスン 58: Arduino 天気気圧プロジェクト R.j.デッカー (Sv2vVS8n46) - ムシェール
+   原題: Arduino Uno R4 WiFi LESSON 58: Arduino Weather Barometer Project R.j. Decker (Sv2vVS8n46) - Mshale
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 10 Aug 2026 03:36:16 GMT
