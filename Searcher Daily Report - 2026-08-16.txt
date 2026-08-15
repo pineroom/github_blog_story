@@ -1,0 +1,81 @@
+Searcher Daily Report
+Generated at: 2026-08-16 08:00:57
+Removed duplicates (today): 0
+Removed duplicates (7 days): 35
+
+[AI]
+1. 古本の売れ行きが好調だ。 AIのせいでしょうか？ - BBC
+   原題: Secondhand book sales are booming. Is it because of AI? - BBC
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 15 Aug 2026 11:25:32 GMT
+
+2. アリババのAIモデルが30億ダウンロードを達成、メタ、Googleを追い越す - Bloomberg.com
+   原題: Alibaba AI Models Hit 3 Billion Downloads, Passing Meta, Google - Bloomberg.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 15 Aug 2026 09:16:06 GMT
+
+3. AI が時間の節約にどのように役立つか - CBS ニュース
+   原題: How AI can help you save time - CBS News
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 15 Aug 2026 21:12:00 GMT
+
+4. アリババの AI モデルが 30 億ダウンロードに達し、メタ、グーグルを上回る - フォーチュン
+   原題: Alibaba AI models hit 3 billion downloads, passing Meta, Google - Fortune
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 15 Aug 2026 22:39:00 GMT
+
+5. 「意味がない」：AIは大学生に専攻の再考を強いる - Axios
+   原題: "There's no point": AI forces college students to rethink their major - Axios
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 15 Aug 2026 10:19:23 GMT
+
+
+[CarPlay]
+1. iOS 27 の CarPlay は、人気の Apple アプリに 2 つの新機能を追加 - 9to5Mac
+   原題: CarPlay in iOS 27 adds two new features for popular Apple apps - 9to5Mac
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 06 Aug 2026 07:00:00 GMT
+
+2. Apple CarPlay が車の中で動作しませんか?最初に確認すべきことは次のとおりです - Engadget
+   原題: Apple CarPlay Isn't Working In Your Car? Here's What To Check First - Engadget
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 01 Aug 2026 07:00:00 GMT
+
+
+[Android Auto]
+1. あなたの車には Android Auto が搭載されていませんか? 20 ユーロ未満で稼働させる簡単な裏技 - Talk Android
+   原題: No Android Auto in your car? The easy trick to get it up and running for under 20 euros - Talk Android
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 15 Aug 2026 15:00:00 GMT
+
+2. Google、誰もが嫌っていたが今では愛されている Android Auto 機能を廃止 - autoevolution
+   原題: Google Is Killing Off the Android Auto Feature Everybody Hated but Now Loves - autoevolution
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 15 Aug 2026 06:38:35 GMT
+
+3. この 30 ドルのアクセサリにより、Android Auto 使用中に車内で携帯電話を充電する方法が変わりました - XDA
+   原題: This $30 accessory changed how I charge my phone in my car while using Android Auto - XDA
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 14 Aug 2026 15:30:10 GMT
+
+4. Android Auto には数秒でアクセスできる開発者メニューがあります - Engadget
+   原題: Android Auto Has A Developer Menu You Can Access In Seconds - Engadget
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 26 Jul 2026 07:00:00 GMT
+
+5. Google が組み込まれた車を購入しましたが、Apple マップが勝ち続けています - Android Police
+   原題: I bought a car with Google built-in, but Apple Maps keeps winning - Android Police
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 15 Aug 2026 16:15:15 GMT
+
+
+[Arduino]
+1. Victoria Arduino が、Undercounter Espresso の新しい解釈である Record を発表 - dailycoffeenews.com
+   原題: Victoria Arduino Introduces Record, a New Take on Undercounter Espresso - dailycoffeenews.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 29 Jul 2026 12:25:55 GMT
+
+2. Pinch は、実質的に微細な 32 ビット Arduino 互換開発ボードです - Hackster.io
+   原題: Pinch Is a 32-Bit Arduino-Compatible Dev Board That is Practically Microscopic - Hackster.io
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 14 Jul 2026 20:52:59 GMT
