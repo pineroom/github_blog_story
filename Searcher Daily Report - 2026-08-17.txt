@@ -1,0 +1,72 @@
+Searcher Daily Report
+Generated at: 2026-08-17 08:00:49
+Removed duplicates (today): 2
+Removed duplicates (7 days): 36
+
+[AI]
+1. Stripe、AI企業OpenRouter買収で70億ドル超の契約を締結 - Bloomberg.com
+   原題: Stripe Clinches Over $7 Billion Deal to Buy AI Firm OpenRouter - Bloomberg.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 16 Aug 2026 20:08:01 GMT
+
+2. 米軍はAIを望んでいる優位性。確執と中国がそれを阻止するかもしれない。 - ニューヨーク・タイムズ紙
+   原題: The U.S. Military Wants A.I. Dominance. Feuds and China May Thwart It. - The New York Times
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 16 Aug 2026 09:00:49 GMT
+
+3. AIデータセンターからの2600万ドルを拒否した「カントリー・ヒックス」 - WSJ
+   原題: The ‘Country Hicks’ Who Refused $26 Million from an AI Data Center - WSJ
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 16 Aug 2026 01:00:00 GMT
+
+4. A.I.と危機に瀕する富、富を分かち合うよう圧力が高まる - ニューヨーク・タイムズ
+   原題: With A.I. Riches at Stake, Pressures Mount to Share the Wealth - The New York Times
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 16 Aug 2026 09:00:38 GMT
+
+5. ケンタッキー州の「田舎者」農家、土地にデータセンターを建設するAI企業の2600万ドルの提案を拒否 - nypost.com
+   原題: ‘Country hick’ Kentucky farmers reject AI company’s $26M offer to build data centers on land - nypost.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 16 Aug 2026 22:19:00 GMT
+
+
+[CarPlay]
+1. Android Auto と Apple CarPlay: 両者を区別する機能 - Engadget
+   原題: Android Auto Vs Apple CarPlay: What Features Set Them Apart - Engadget
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 16 Aug 2026 17:30:00 GMT
+
+2. WhatsApp がついにドライバーが待ち望んでいた必須機能を Android Auto と CarPlay に追加 - Talk Android
+   原題: WhatsApp finally adds the must-have feature drivers have been waiting for on Android Auto and CarPlay - Talk Android
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 14 Aug 2026 06:00:00 GMT
+
+3. Rivian のソフトウェア責任者は、CarPlay もボタンも必要ないと考えている - The Verge
+   原題: Rivian’s software chief thinks you don’t need CarPlay or buttons - The Verge
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 28 May 2026 07:00:00 GMT
+
+4. Apple は、CarPlay や​​ iPhone を必要としない車へのアクセス方法を発見しました - PhoneArena
+   原題: Apple found a way into your car that doesn't need CarPlay, or your iPhone - PhoneArena
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 26 Jul 2026 07:00:00 GMT
+
+5. Android Auto と Apple CarPlay はどちらが最適ですか?それを知るために400マイル運転しました - techradar.com
+   原題: Which is best, Android Auto or Apple CarPlay? I drove 250 miles to find out - techradar.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 01 Aug 2026 07:00:00 GMT
+
+
+[Android Auto]
+- No new items after dedupe
+
+[Arduino]
+1. Arduino が Qualcomm Dragonwing IQ8 シリーズを搭載した Arduino VENTUNO Q を発表 - クアルコム
+   原題: Arduino Announces Arduino VENTUNO Q, Powered by Qualcomm Dragonwing IQ8 Series - Qualcomm
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 09 Mar 2026 07:00:00 GMT
+
+2. Arduino UNO Q でアプリ開発を始めましょう - Qualcomm
+   原題: Get Started with App development on Arduino UNO Q - Qualcomm
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 15 Jan 2026 08:00:00 GMT
