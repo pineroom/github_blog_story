@@ -1,0 +1,111 @@
+Searcher Daily Report
+Generated at: 2026-08-18 08:00:49
+Removed duplicates (today): 2
+Removed duplicates (7 days): 26
+
+[AI]
+1. AIにはうんざりしています。スロップ？テクノロジー大手も同様です。 - ニューヨーク・タイムズ紙
+   原題: Sick of A.I. Slop? So Are Tech Giants. - The New York Times
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 17 Aug 2026 15:36:10 GMT
+
+2. 「100万ドルの要求以上」：AIの富がサンフランシスコの住宅市場の熱狂を煽る - CNN
+   原題: ‘A million dollars over asking’: AI wealth is fueling housing market frenzy in San Francisco - CNN
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 17 Aug 2026 10:30:29 GMT
+
+3. 米国の牧場主、歴史的な牛不足に直面、AIデータセンターへの影響に備える - foxnews.com
+   原題: US ranchers face historic cattle shortage, brace for AI data center impact - foxnews.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 17 Aug 2026 21:59:21 GMT
+
+4. フィジー・シモ氏、AIは「あらゆる病気を治療できる」と信じていると語る、Anthropic CEOのダリオ・アモデイ氏の意見に同意 Business Insider Japan
+   原題: Fidji Simo says she believes AI can 'cure all diseases,' agreeing with Anthropic CEO Dario Amodei - Business Insider
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 17 Aug 2026 22:30:00 GMT
+
+5. これらは、今後数か月間注目すべきアジア太平洋地域の企業です。 - ブルームバーグ・コム
+   原題: These are the Asia Pacific companies you should keep an eye on over the next few months. - Bloomberg.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 17 Aug 2026 22:00:00 GMT
+
+
+[CarPlay]
+1. iOS 27はCarPlayのここ数年で最大の新機能を導入 - MacRumors
+   原題: iOS 27 Introduces CarPlay's Biggest New Feature in Years - MacRumors
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 17 Aug 2026 21:38:57 GMT
+
+2. 有線の Apple CarPlay に切り替えたらもう戻れません - Pocket-lint
+   原題: I switched to wired Apple CarPlay and there's no going back - Pocket-lint
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 17 Aug 2026 19:57:01 GMT
+
+3. Android Auto と Apple CarPlay はどちらが最適ですか?それを知るために400マイル運転しました - TechRadar
+   原題: Which is best, Android Auto or Apple CarPlay? I drove 250 miles to find out - TechRadar
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 01 Aug 2026 07:00:00 GMT
+
+4. CarPlay 接続に問題がありますか?これでその理由が説明されるかもしれません - 9to5Mac
+   原題: CarPlay connection issues? This might explain why - 9to5Mac
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 07 Aug 2026 07:00:00 GMT
+
+5. 結局のところ、GMはApple CarPlayとAndroid Autoを完全に廃止することはできないかもしれない - CarBuzz
+   原題: GM May Not Completely Kill Apple CarPlay And Android Auto After All - CarBuzz
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 01 Aug 2026 07:00:00 GMT
+
+
+[Android Auto]
+1. Google マップに代わる上位 3 つの Android Auto ナビゲーション アプリをテストしました。 1 つは明らかに勝者でした - Android Police
+   原題: I tested the top 3 Android Auto navigation apps to replace Google Maps; one was a clear winner - Android Police
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 17 Aug 2026 12:15:15 GMT
+
+2. 今すぐアップデート: ファームウェア アップデートでワイドスクリーン ディスプレイ上の Android Auto を修正 - autoevolution
+   原題: Update Now: Firmware Update Fixes Android Auto on Widescreen Displays - autoevolution
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 17 Aug 2026 05:46:57 GMT
+
+3. アダプターにより Google のワイヤレス Android Auto が実現 - EDN - Voice of the Engineer
+   原題: Adapter makes Google’s wireless Android Auto a reality - EDN - Voice of the Engineer
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 17 Aug 2026 12:01:34 GMT
+
+4. Android Auto は素晴らしいと思いますが、これら 3 つのアプリがその真の可能性を解き放ちました - Android Police
+   原題: I think Android Auto is great, but these 3 apps unlocked its true potential - Android Police
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 17 Aug 2026 19:00:16 GMT
+
+5. 私は Android Auto を毎日使っていますが、これらのヒントは私の経験を完全に変えました - Android Police
+   原題: I use Android Auto daily, and these tips have completely changed my experience - Android Police
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 17 Aug 2026 19:00:16 GMT
+
+
+[Arduino]
+1. Arduino が、30 メートルの範囲で最大 64 個の I2C デバイスをサポートする Modulino ハブおよびエクステンダ モジュールを発売 - CNX ソフトウェア
+   原題: Arduino launches Modulino Hub and Extender modules to support up to 64 I2C devices, 30-meter range - CNX Software
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 28 Jun 2026 07:00:00 GMT
+
+2. Pinch で Arduino を USB-C コネクタに接続 - ハッカデイ
+   原題: Pinch Puts An Arduino On A USB-C Connector - Hackaday
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 15 Jul 2026 07:00:00 GMT
+
+3. アンソニー・マーク・アルドゥイーノの訃報 2020年12月23日 - suessfuneralhome.net
+   原題: Anthony Mark Arduino Obituary Dec 23, 2020 - suessfuneralhome.net
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 14 Jun 2026 06:12:06 GMT
+
+4. ESP32-P4 LP (低電力) コア用のオープンソース Arduino ライブラリ - Adafruit
+   原題: An open source Arduino library for the ESP32-P4 LP (Low Power) core - Adafruit
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 20 Apr 2026 07:00:00 GMT
+
+5. Arduino UNO Q ボード: 次世代エッジ AI のデュアルブレイン パワーを解き明かす - クアルコム
+   原題: The Arduino UNO Q Board: Unpack the Dual-Brain Power for Next-Gen Edge AI - Qualcomm
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 10 May 2026 07:00:00 GMT
