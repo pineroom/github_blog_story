@@ -1,0 +1,96 @@
+Searcher Daily Report
+Generated at: 2026-08-19 08:00:58
+Removed duplicates (today): 1
+Removed duplicates (7 days): 32
+
+[AI]
+1. 彼女は自分の苦しみについてChatGPT以外には誰にも話さなかった。彼女の死がAIリスクについて明らかにしたこと - NPR
+   原題: She told no one about her agony except ChatGPT. What her death reveals about AI risks - NPR
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 18 Aug 2026 09:00:00 GMT
+
+2. テキサス大学が保守派の見直しでシャーレに - ニューヨーク・タイムズ
+   原題: A Texas University Becomes a Petri Dish for a Conservative Overhaul - The New York Times
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 18 Aug 2026 09:00:07 GMT
+
+3. ペンシルベニア州知事、州内にAIデータセンター設置に新たな規則を課す命令に署名 - ロイター
+   原題: Pennsylvania governor signs order imposing new rules to set up AI data centers in state - Reuters
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 18 Aug 2026 21:52:41 GMT
+
+4. 「あなたは私たちを売り飛ばしたのです！」ニュージャージー州町、住民の噴火を受けて大規模AIデータセンターの次段階を承認 - NJ.com
+   原題: ‘You sold us out!’ N.J. town approves next phase of massive AI data center as residents erupt - NJ.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 18 Aug 2026 16:16:00 GMT
+
+5. ペンシルベニア州知事、AIデータセンターに関する大統領令に署名：「全米で最も厳しいガードレール」 - katu.com
+   原題: PA governor signs executive order on AI data centers: 'nation’s strictest guardrails' - katu.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 18 Aug 2026 22:41:22 GMT
+
+
+[CarPlay]
+1. iOS 27 の CarPlay の新機能のすべて - 9to5Mac
+   原題: Here’s everything new for CarPlay in iOS 27 - 9to5Mac
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 22 Jul 2026 07:00:00 GMT
+
+2. WhatsApp が新しい CarPlay エクスペリエンス、iPad サインアップなどを発表 - MacRumors
+   原題: WhatsApp Announces New CarPlay Experience, iPad Sign-Up, and More - MacRumors
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 22 Jul 2026 07:00:00 GMT
+
+3. CarPlay スクリーンは、古い車を近代化する簡単な方法です。これらは私たちがテストした中で最高のものです。 - モータートレンド
+   原題: CarPlay Screens Are an Easy Way to Modernize an Older Car. These Are the Best We Tested. - MotorTrend
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 10 Aug 2026 07:00:00 GMT
+
+4. CarPlay Ultra と Android Auto: 現在、EV 購入者にとって車と携帯電話のどちらが重要ですか? - EV駆動
+   原題: CarPlay Ultra vs Android Auto: Which Matters More to EV Buyers Now - the Car or the Phone? - EV Powered
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 18 Aug 2026 19:00:36 GMT
+
+
+[Android Auto]
+1. 新しい Android Auto アップデート: Google がすべてのユーザー向けにバージョン 17.5 をリリース - autoevolution
+   原題: New Android Auto Update: Google Releases Version 17.5 for All Users - autoevolution
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 18 Aug 2026 04:21:16 GMT
+
+2. Android Auto がついに YouTube で公式サポートされるようになり、私の車の巨大スクリーンがさらに便利になりそうです - XDA
+   原題: Android Auto is finally getting official YouTube support, and my car's giant screen is about to get way more useful - XDA
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 18 Aug 2026 15:30:10 GMT
+
+3. Android 上の Chrome で Gemini のパワーを活用してください。 - blog.google
+   原題: Tap into the power of Gemini in Chrome on Android. - blog.google
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 18 Aug 2026 19:08:41 GMT
+
+4. Android Auto に独自のアプリ ストアを与え、Google が除外したアプリのロックを解除しました - MakeUseOf
+   原題: I gave Android Auto its own app store and unlocked the apps Google leaves out - MakeUseOf
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 18 Aug 2026 18:30:13 GMT
+
+5. Gemini の Chrome 自動ブラウジングがついに Android に登場し、日常を簡単にします - Android Central
+   原題: Gemini's auto-browse in Chrome is finally here for Android to make the mundane a breeze - Android Central
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 18 Aug 2026 19:00:00 GMT
+
+
+[Arduino]
+1. Arduino UNO Q を使ってゼロから AI ロボットを作る - Hackster.io
+   原題: AI Robot from Scratch with Arduino UNO Q - Hackster.io
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 10 Aug 2026 20:35:04 GMT
+
+2. Moddo Pinch のご紹介 – 世界最小の 32 ビット Arduino 互換ボード (2026 版) - CNX ソフトウェア
+   原題: Meet Moddo Pinch – The world’s smallest 32-bit Arduino-compatible board (2026 Edition) - CNX Software
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 14 Jul 2026 07:00:00 GMT
+
+3. Arduino、ロボット工学などのための高性能 SBC VENTUNO Q で 21 周年を祝う - Hackster.io
+   原題: Arduino Celebrates Turning 21 with the VENTUNO Q, a High-Performance SBC for Robotics and More - Hackster.io
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 09 Mar 2026 11:55:19 GMT
