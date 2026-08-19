@@ -1,0 +1,111 @@
+Searcher Daily Report
+Generated at: 2026-08-20 08:01:02
+Removed duplicates (today): 1
+Removed duplicates (7 days): 28
+
+[AI]
+1. 誰もがこの AI を使用しています。ハンマーで殺したい口述アプリ - ニューヨーク・タイムズ
+   原題: Everyone’s Using This A.I. Dictation App That I Want to Murder With a Hammer - The New York Times
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 19 Aug 2026 09:00:54 GMT
+
+2. ジェミニの 1 年間で学期を始めましょう - blog.google
+   原題: Start the semester with one year of Gemini, on us - blog.google
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 19 Aug 2026 19:07:21 GMT
+
+3. Google、SearchとGeminiに新しいAI学習ツールを詰め込む - TechCrunch
+   原題: Google packs Search and Gemini with new AI study tools - TechCrunch
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 19 Aug 2026 19:00:00 GMT
+
+4. Pixel 11 Pro レビュー: イネーブラーとしての Google AI - Engadget
+   原題: Pixel 11 Pro Review: Google AI As Your Enabler - Engadget
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 19 Aug 2026 16:00:00 GMT
+
+5. 判事、イーロン・マスク社によるAIヌード化禁止阻止の推進を検討 - CBSニュース
+   原題: Judge considers Elon Musk company's push to block AI nudification ban - CBS News
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 19 Aug 2026 22:33:00 GMT
+
+
+[CarPlay]
+1. Apple、CarPlay Ultraがこれらの自動車ブランドに導入されると発表 - MacRumors
+   原題: Apple Says CarPlay Ultra is Coming to These Vehicle Brands - MacRumors
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 19 Aug 2026 19:53:50 GMT
+
+2. もっと早く試しておけばよかった、見落とされている CarPlay の 3 つの機能とその理由 - ZDNET
+   原題: 3 overlooked CarPlay features you'll wish you tried sooner - and why - ZDNET
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 04 Aug 2026 07:00:00 GMT
+
+3. CarPlay と CarPlay Ultra: アストンマーティン以外のドライバーが見逃しているものは何ですか? - スタッフ.tv
+   原題: CarPlay vs CarPlay Ultra: What are non-Aston Martin drivers missing out on? - stuff.tv
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 19 Aug 2026 17:51:41 GMT
+
+4. iOS 27 Carplay の新機能 - MacTrast
+   原題: What’s New in iOS 27 Carplay - MacTrast
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 19 Aug 2026 18:36:35 GMT
+
+5. CarPlay スクリーンは、古い車を近代化する簡単な方法です。これらは私たちがテストした中で最高のものです。 - モータートレンド.com
+   原題: CarPlay Screens Are an Easy Way to Modernize an Older Car. These Are the Best We Tested. - motortrend.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 10 Aug 2026 07:00:00 GMT
+
+
+[Android Auto]
+1. 新しい Android Auto アップデート: Google がすべてのユーザー向けにバージョン 17.5 をリリース - autoevolution.com
+   原題: New Android Auto Update: Google Releases Version 17.5 for All Users - autoevolution.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 18 Aug 2026 04:21:16 GMT
+
+2. このサイドロードされた Android Auto アプリは、車の中で YouTube を見たりウェブを閲覧したりする私のお気に入りの方法です - XDA
+   原題: This sideloaded Android Auto app is my favorite way to watch YouTube and browse the web in my car - XDA
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 19 Aug 2026 12:30:15 GMT
+
+3. 今すぐアップデート: ファームウェア アップデートでワイドスクリーン ディスプレイ上の Android Auto を修正 - autoevolution.com
+   原題: Update Now: Firmware Update Fixes Android Auto on Widescreen Displays - autoevolution.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 17 Aug 2026 05:46:57 GMT
+
+4. ユーザーがここ10年で最大のアップデートを受ける中、トップのGoogleマップ機能が失われる - autoevolution.com
+   原題: Top Google Maps Feature Goes Missing As Users Are Getting the Biggest Update in a Decade - autoevolution.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 17 Aug 2026 07:15:15 GMT
+
+5. Googleマップのナビゲーション不具合がAndroid Automotiveユーザーを狂わせている - Android Authority
+   原題: Google Maps navigation glitch is driving Android Automotive users crazy - Android Authority
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 19 Aug 2026 15:18:00 GMT
+
+
+[Arduino]
+1. PicoCamera: RP2040 / RP2350 用の Arduino 互換カメラ ライブラリ - Adafruit
+   原題: PicoCamera: An Arduino-compatible camera library for the RP2040 / RP2350 - Adafruit
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 19 Aug 2026 18:27:27 GMT
+
+2. Arduino® UNO™ Q Board でのローカル LLM の実行: 実践ガイド - EE Times
+   原題: Running Local LLMs on the Arduino® UNO™ Q Board: a Practical Guide - EE Times
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 19 Aug 2026 13:01:44 GMT
+
+3. 最新のデータセンターを駆動する 5 つの新しい EDSFF SSD - 電子設計
+   原題: 5 New EDSFF SSDs Driving Modern Data Centers - Electronic Design
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 19 Aug 2026 15:38:52 GMT
+
+4. Arduino Uno Q In C - Zephyr タスク - i-programmer.info
+   原題: Arduino Uno Q In C - Zephyr Tasks - i-programmer.info
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 19 Aug 2026 07:10:08 GMT
+
+5. Arduino スパイダーマン ウェブ シューター #Wearable Wednesday - Adafruit
+   原題: Arduino Spider-Man Web Shooter #WearableWednesday - Adafruit
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 19 Aug 2026 19:51:08 GMT
