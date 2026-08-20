@@ -1,0 +1,111 @@
+Searcher Daily Report
+Generated at: 2026-08-21 08:01:17
+Removed duplicates (today): 1
+Removed duplicates (7 days): 28
+
+[AI]
+1. AIはどのようにして暴飲暴食が国債利回り上昇に貢献 - ニューヨーク・タイムズ
+   原題: How the A.I. Borrowing Binge Helps Drive Up Government Bond Yields - The New York Times
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 20 Aug 2026 19:40:08 GMT
+
+2. AIデータセンターへの怒りは広告から選挙まであらゆるところで現れている - CNBC
+   原題: AI data center outrage is showing up everywhere from ads to elections - CNBC
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 20 Aug 2026 14:03:30 GMT
+
+3. AIを使用して子供の露骨な画像やビデオを作成したとして起訴されたケイン郡の男性 - CBSニュース
+   原題: Kane County man accused of using AI to produce explicit images and videos of children - CBS News
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 20 Aug 2026 22:09:00 GMT
+
+4. 家庭プロジェクトでAIの「自信が能力を支配」しないように、便利屋会社KXANオースティンが警告
+   原題: Don’t let AI ‘confidence overrule competence’ on home projects, warns handyman company - KXAN Austin
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 20 Aug 2026 22:21:53 GMT
+
+5. AI が教育方法をどのように変えたかを理解するためにご協力ください - ヘッヒンガー レポート
+   原題: Help us understand how AI has changed the way you teach - The Hechinger Report
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 20 Aug 2026 22:41:25 GMT
+
+
+[CarPlay]
+1. Apple、CarPlay Ultra はどこにありますか? - MacRumors
+   原題: Apple, Where is CarPlay Ultra? - MacRumors
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 20 Aug 2026 18:25:12 GMT
+
+2. すべての自動車ブランドがワイヤレスを推進しているにもかかわらず、私が依然として有線の Apple CarPlay を使用する 6 つの理由 - スタッフ.tv
+   原題: 6 reasons I still use wired Apple CarPlay, even though all the car brands are pushing wireless - stuff.tv
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 20 Aug 2026 15:54:03 GMT
+
+3. GMのCarPlay廃止でシボレーEVの販売が試される - AppleInsider
+   原題: GM's CarPlay removal puts Chevy EV sales to the test - AppleInsider
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 20 Aug 2026 19:23:00 GMT
+
+4. iOS 26 の CarPlay に、常に存在するはずだった新しい設定が追加されました - 9to5Mac
+   原題: CarPlay in iOS 26 added new setting that should have always existed - 9to5Mac
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 02 Jul 2026 07:00:00 GMT
+
+5. iOS-27-CarPlay - MacTrast
+   原題: iOS-27-CarPlay - MacTrast
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 20 Aug 2026 10:55:19 GMT
+
+
+[Android Auto]
+1. Google、今回の Android Auto アップデートでランダムな切断とフリーズが修正されると発表 - 9to5Google
+   原題: Google says this Android Auto update should fix random disconnects & freezes - 9to5Google
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 20 Aug 2026 16:30:00 GMT
+
+2. Android Auto、ほぼ使用不能になった接続バグをついに修正 - Android Authority
+   原題: Android Auto finally fixes a connection bug that made it nearly unusable - Android Authority
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 20 Aug 2026 15:08:00 GMT
+
+3. Android Auto での Gemini 音声通話は何度も失敗する – Google は 9 月までにこの問題を修正する必要がある – ZDNET
+   原題: Gemini voice calling on Android Auto keeps failing me - and Google has until September to fix it - ZDNET
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 13 Aug 2026 17:07:00 GMT
+
+4. 次世代の Android を車内で使って、もっと楽しく、もっと楽しく - blog.google
+   原題: Do more and have more fun with the next generation of Android in the car - blog.google
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 12 May 2026 07:00:00 GMT
+
+5. Android Auto のデフォルトのひどい天気エクスペリエンスを修正する方法を見つけました - Pocket-lint
+   原題: I found a way to fix Android Auto's terrible default weather experience - Pocket-lint
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 20 Aug 2026 19:33:25 GMT
+
+
+[Arduino]
+1. Arduino クラウドが複数ページのダッシュボード、デバイスのロック、App Lab の統合を実現 - Hackster.io
+   原題: Arduino Cloud Gains Multi-Page Dashboards, Device Locking, and App Lab Integration - Hackster.io
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 20 Aug 2026 11:58:46 GMT
+
+2. Qualcomm Arduino ボード、Rubik Pi 3、および Snapdragon 搭載 PC に OpenClaw と Hermes Agent をインストールする方法 - Qualcomm
+   原題: How to Install OpenClaw and Hermes Agent on Qualcomm Arduino Boards, Rubik Pi 3 and PCs with Snapdragon - Qualcomm
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 24 Apr 2026 07:00:00 GMT
+
+3. 最初のクアルコム x Arduino イノベーション ラボがハノイで開設 - en.baochinhphu.vn
+   原題: First Qualcomm x Arduino Innovation Lab inaugurated in Ha Noi - en.baochinhphu.vn
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 20 Aug 2026 02:01:00 GMT
+
+4. プロジェクト #16: サウンド – DFPlayer Pro – Mk30 - Hackster.io
+   原題: Project #16: Sound – DFPlayer Pro – Mk30 - Hackster.io
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 19 Aug 2026 23:02:43 GMT
+
+5. PiZZa: Raspberry Pi Zero 2 W 上の Arduino - Adafruit
+   原題: PiZZa: Arduino on the Raspberry Pi Zero 2 W - Adafruit
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 01 Jul 2026 07:00:00 GMT
