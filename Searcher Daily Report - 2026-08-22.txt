@@ -1,0 +1,81 @@
+Searcher Daily Report
+Generated at: 2026-08-22 08:00:52
+Removed duplicates (today): 1
+Removed duplicates (7 days): 35
+
+[AI]
+1. メタ AI グラスの需要が急増するにつれ、不気味な録音を避けることが難しくなっている - Ars Technica
+   原題: As demand for Meta AI glasses explodes, it’s harder to avoid creepy recordings - Ars Technica
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 21 Aug 2026 11:00:53 GMT
+
+2. ビッグテックの AI はどのように機能するのか過剰な借り入れが債券利回りを押し上げている - ニューヨーク・タイムズ
+   原題: How Big Tech’s A.I. Borrowing Binge Is Driving Up Bond Yields - The New York Times
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 20 Aug 2026 20:50:00 GMT
+
+3. 「イタリア人の頭脳腐れ」を巡る争いでAIアートの所有者が決まる可能性 - NPR
+   原題: A battle over ‘Italian brainrot’ could shape who owns AI art - NPR
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 21 Aug 2026 22:16:46 GMT
+
+4. AI会計スタートアップRilletがいかにして48時間で1億ドルを調達しユニコーンになったか - TechCrunch
+   原題: How AI accounting startup Rillet raised $100M and became a unicorn in 48 hours - TechCrunch
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 21 Aug 2026 22:10:01 GMT
+
+5. OpenAI、カリフォルニア州でAI法の強化を求める - Yahoo!ニュース
+   原題: OpenAI calls for stronger AI laws in California - Yahoo
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 21 Aug 2026 22:29:42 GMT
+
+
+[CarPlay]
+1. CarPlay Ultra がついに多くの車に間もなく導入されます - Pocket-lint
+   原題: CarPlay Ultra is finally coming to more cars soon - here's when - Pocket-lint
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 21 Aug 2026 14:30:14 GMT
+
+2. GM の Apple CarPlay ギャンブルに亀裂が入り始めているかもしれない - Autoblog
+   原題: GM’s Apple CarPlay Gamble May Be Starting To Crack - Autoblog
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 03 Aug 2026 07:00:00 GMT
+
+
+[Android Auto]
+1. 今すぐ更新: Google、Android Auto パッチを発表、ユーザーは気に入らない - autoevolution
+   原題: Update Now: Google Announces Android Auto Patch, Users Won't Like It - autoevolution
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 21 Aug 2026 05:52:03 GMT
+
+2. Android Autoの接続問題は最新アップデートでついに解決へ - Android Police
+   原題: Android Auto's connection problems are finally ending with the latest update - Android Police
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 20 Aug 2026 19:47:54 GMT
+
+3. Google、Android Autoの最新アップデートでイライラする切断やフリーズが解消されると発表 - XDA
+   原題: Google says Android Auto’s latest update should end those frustrating disconnects and freezes - XDA
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 20 Aug 2026 21:28:39 GMT
+
+4. Android Auto の 2 つのイライラするバグが修正されました - ArenaEV - ArenaEV
+   原題: Two frustrating Android Auto bugs are now fixed - ArenaEV - ArenaEV
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 21 Aug 2026 01:03:01 GMT
+
+5. Google、Android Autoユーザーに必須パッチを含む新バージョンとしてアップデートするよう指示 - autoevolution
+   原題: Google Tells Android Auto Users To Update As New Version Includes Must-Have Patch - autoevolution
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 20 Aug 2026 06:39:32 GMT
+
+
+[Arduino]
+1. Arduino R3 + ブレッドボード ホルダー – スティッキーバックまたはホットグルー マウント #3DMonday #3DPrinting - Adafruit
+   原題: Arduino R3 + Breadboard Holder – Sticky-Back or Hot-Glue Mount #3DThursday #3DPrinting - Adafruit
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 20 Aug 2026 23:00:34 GMT
+
+2. Arduino、ロボット工学などのための高性能 SBC VENTUNO Q で 21 周年を祝う - Hackster.io
+   原題: Arduino Celebrates Turning 21 with the VENTUNO Q, a High-Performance SBC for Robotics and More - Hackster.io
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 09 Mar 2026 11:55:19 GMT
