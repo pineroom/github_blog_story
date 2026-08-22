@@ -1,0 +1,101 @@
+Searcher Daily Report
+Generated at: 2026-08-23 08:00:59
+Removed duplicates (today): 1
+Removed duplicates (7 days): 32
+
+[AI]
+1. Nvidia Customers Notified About AI-Related Price Hikes Above 15% - Bloomberg.com
+   原題: Nvidia Customers Notified About AI-Related Price Hikes Above 15% - Bloomberg.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 22 Aug 2026 18:42:34 GMT
+
+2. Nvidia customers reportedly warned about AI-related price hikes - CNBC
+   原題: Nvidia customers reportedly warned about AI-related price hikes - CNBC
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 22 Aug 2026 20:26:44 GMT
+
+3. Nvidia just showed that the harness, not the AI model, is now the real hero - TechCrunch
+   原題: Nvidia just showed that the harness, not the AI model, is now the real hero - TechCrunch
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 21 Aug 2026 19:43:39 GMT
+
+4. Harvard Is Selling a $699 Course Taught by A.I. Clones of Its Faculty - The New York Times
+   原題: Harvard Is Selling a $699 Course Taught by A.I. Clones of Its Faculty - The New York Times
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 22 Aug 2026 12:00:05 GMT
+
+5. Did Marvel Just Quietly Admit To Using AI For Spider-Man: Brand New Day? - Yahoo
+   原題: Did Marvel Just Quietly Admit To Using AI For Spider-Man: Brand New Day? - Yahoo
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 22 Aug 2026 22:29:28 GMT
+
+
+[CarPlay]
+1. iOS 27: 8+ New CarPlay Features - MacRumors
+   原題: iOS 27: 8+ New CarPlay Features - MacRumors
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 18 Aug 2026 23:17:02 GMT
+
+2. I found out why Apple CarPlay suddenly dies on some roads - Pocket-lint
+   原題: I found out why Apple CarPlay suddenly dies on some roads - Pocket-lint
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 22 Aug 2026 11:01:14 GMT
+
+3. Follow The Autokit Carplay Discount Code Crypto Portfolio Picks - CoinMarketCap
+   原題: Follow The Autokit Carplay Discount Code Crypto Portfolio Picks - CoinMarketCap
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 22 Aug 2026 08:22:09 GMT
+
+4. CarPlay in iOS 27 adds two new features for popular Apple apps - 9to5Mac
+   原題: CarPlay in iOS 27 adds two new features for popular Apple apps - 9to5Mac
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 06 Aug 2026 07:00:00 GMT
+
+
+[Android Auto]
+1. Android Auto YouTube Limitations: Is It Worth Using In The Car? - Engadget
+   原題: Android Auto YouTube Limitations: Is It Worth Using In The Car? - Engadget
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 22 Aug 2026 17:30:00 GMT
+
+2. I used Android Auto without touching the screen for a week; now I can't go back - Android Police
+   原題: I used Android Auto without touching the screen for a week; now I can't go back - Android Police
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 22 Aug 2026 14:15:10 GMT
+
+3. Android Auto's new update solves the one problem that made waiting in my car unbearable - Android Police
+   原題: Android Auto's new update solves the one problem that made waiting in my car unbearable - Android Police
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 11 Aug 2026 07:00:00 GMT
+
+4. Google Maps rolling out Immersive Navigation, speedometer in Android Auto to more users - 9to5Google
+   原題: Google Maps rolling out Immersive Navigation, speedometer in Android Auto to more users - 9to5Google
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 25 Jul 2026 07:00:00 GMT
+
+5. A huge visual upgrade for Google Maps is rolling out on Android Auto - Android Police
+   原題: A huge visual upgrade for Google Maps is rolling out on Android Auto - Android Police
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 13 Jul 2026 07:00:00 GMT
+
+
+[Arduino]
+1. DigiKey, Arduino Offer $20,000 in Engineering Contest: Four $5,000 Prizes - Assembly Magazine
+   原題: DigiKey, Arduino Offer $20,000 in Engineering Contest: Four $5,000 Prizes - Assembly Magazine
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 06 Aug 2026 07:00:00 GMT
+
+2. PiZZa Turns Your Raspberry Pi SBC Into a Powerful Arduino - Hackster.io
+   原題: PiZZa Turns Your Raspberry Pi SBC Into a Powerful Arduino - Hackster.io
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 08 Jul 2026 01:26:46 GMT
+
+3. Modular Arduino UNO Breadboard Workstation – ESP32 + Nano Brackets #3DPrinting #3DThursday - Adafruit
+   原題: Modular Arduino UNO Breadboard Workstation – ESP32 + Nano Brackets #3DPrinting #3DThursday - Adafruit
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 13 Aug 2026 17:00:32 GMT
+
+4. Pinch Is a 32-Bit Arduino-Compatible Dev Board That is Practically Microscopic - Hackster.io
+   原題: Pinch Is a 32-Bit Arduino-Compatible Dev Board That is Practically Microscopic - Hackster.io
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 14 Jul 2026 20:52:59 GMT
