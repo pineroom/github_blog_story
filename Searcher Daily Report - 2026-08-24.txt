@@ -1,0 +1,96 @@
+Searcher Daily Report
+Generated at: 2026-08-24 08:00:54
+Removed duplicates (today): 0
+Removed duplicates (7 days): 33
+
+[AI]
+1. Nvidia Is Spending $6 Billion to Build a Powerful U.S. Alternative to Chinese AI - WSJ
+   原題: Nvidia Is Spending $6 Billion to Build a Powerful U.S. Alternative to Chinese AI - WSJ
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 23 Aug 2026 00:00:00 GMT
+
+2. Is there a pending AI ‘debt bomb’ crisis? No. This isn’t Enron 2.0 | Gene Marks - The Guardian
+   原題: Is there a pending AI ‘debt bomb’ crisis? No. This isn’t Enron 2.0 | Gene Marks - The Guardian
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 23 Aug 2026 14:01:00 GMT
+
+3. Cloudflare OS: Cloudflare's Open-Source Corporate AI Platform Built on a Capability-Based Model - infoq.com
+   原題: Cloudflare OS: Cloudflare's Open-Source Corporate AI Platform Built on a Capability-Based Model - infoq.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 23 Aug 2026 22:50:28 GMT
+
+4. US Futures Edge Lower With AI Spending in Focus: Markets Wrap - Bloomberg.com
+   原題: US Futures Edge Lower With AI Spending in Focus: Markets Wrap - Bloomberg.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 23 Aug 2026 22:10:35 GMT
+
+5. Texas welcomed the AI boom. Now Abbott says data centers "dug their own grave" - Axios
+   原題: Texas welcomed the AI boom. Now Abbott says data centers "dug their own grave" - Axios
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 23 Aug 2026 16:28:22 GMT
+
+
+[CarPlay]
+1. The Reasons Siri May Not Work On CarPlay - Engadget
+   原題: The Reasons Siri May Not Work On CarPlay - Engadget
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 23 Aug 2026 13:30:00 GMT
+
+2. Rivian’s software chief thinks you don’t need CarPlay or buttons - The Verge
+   原題: Rivian’s software chief thinks you don’t need CarPlay or buttons - The Verge
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 28 May 2026 07:00:00 GMT
+
+3. Android Auto Vs Apple CarPlay: What Features Set Them Apart - Engadget
+   原題: Android Auto Vs Apple CarPlay: What Features Set Them Apart - Engadget
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 16 Aug 2026 17:30:00 GMT
+
+4. 4 reasons wireless CarPlay is always worth paying extra for - Pocket-lint
+   原題: 4 reasons wireless CarPlay is always worth paying extra for - Pocket-lint
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 23 Aug 2026 16:01:14 GMT
+
+5. How To Stop Siri From Interrupting While You're Using CarPlay - Engadget
+   原題: How To Stop Siri From Interrupting While You're Using CarPlay - Engadget
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 23 Aug 2026 20:00:00 GMT
+
+
+[Android Auto]
+1. How Is Android Auto Different From Android Automotive? - Engadget
+   原題: How Is Android Auto Different From Android Automotive? - Engadget
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 23 Aug 2026 20:30:00 GMT
+
+2. Android Car Malware Spreads Through Built-In Updaters for Ad Fraud, Proxy Botnet - The Hacker News
+   原題: Android Car Malware Spreads Through Built-In Updaters for Ad Fraud, Proxy Botnet - The Hacker News
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 21 Aug 2026 15:41:00 GMT
+
+3. I ditched wired Android Auto after the cable wouldn't stay connected; here's why wireless wins - Android Police
+   原題: I ditched wired Android Auto after the cable wouldn't stay connected; here's why wireless wins - Android Police
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 23 Aug 2026 15:15:10 GMT
+
+4. Update Now: Google Says Android Auto 17.4 Fixes Widespread Disconnect Bug - autoevolution
+   原題: Update Now: Google Says Android Auto 17.4 Fixes Widespread Disconnect Bug - autoevolution
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 20 Aug 2026 06:39:32 GMT
+
+
+[Arduino]
+1. Arduino Announces Arduino VENTUNO Q, Powered by Qualcomm Dragonwing IQ8 Series - Qualcomm
+   原題: Arduino Announces Arduino VENTUNO Q, Powered by Qualcomm Dragonwing IQ8 Series - Qualcomm
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 09 Mar 2026 07:00:00 GMT
+
+2. Get Started with App development on Arduino UNO Q - Qualcomm
+   原題: Get Started with App development on Arduino UNO Q - Qualcomm
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 15 Jan 2026 08:00:00 GMT
+
+3. An Arduino library for controlling compatible Kenwood audio equipment - Adafruit
+   原題: An Arduino library for controlling compatible Kenwood audio equipment - Adafruit
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 15 Jul 2026 07:00:00 GMT
