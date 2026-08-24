@@ -1,0 +1,96 @@
+Searcher Daily Report
+Generated at: 2026-08-25 08:00:54
+Removed duplicates (today): 0
+Removed duplicates (7 days): 30
+
+[AI]
+1. Anatomy of an Autonomous Attack: 5 Alarming A.I. Capabilities - The New York Times
+   原題: Anatomy of an Autonomous Attack: 5 Alarming A.I. Capabilities - The New York Times
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 24 Aug 2026 14:04:33 GMT
+
+2. Goldman Sachs partner warns of 'huge danger' in letting AI replace bankers' reasoning skills - CNBC
+   原題: Goldman Sachs partner warns of 'huge danger' in letting AI replace bankers' reasoning skills - CNBC
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 24 Aug 2026 15:00:01 GMT
+
+3. Meta Plans to Launch ‘Hatch’ AI Agent Platform in Coming Weeks - The Information
+   原題: Meta Plans to Launch ‘Hatch’ AI Agent Platform in Coming Weeks - The Information
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 24 Aug 2026 22:40:00 GMT
+
+4. Discovery of 'thousands' of AI-generated child pornography images leads to man's arrest in Humble, Pct. 1 says - ABC13 Houston
+   原題: Discovery of 'thousands' of AI-generated child pornography images leads to man's arrest in Humble, Pct. 1 says - ABC13 Houston
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 24 Aug 2026 19:31:17 GMT
+
+5. Humble man accused of having thousands of AI-generated child pornography images - KHOU
+   原題: Humble man accused of having thousands of AI-generated child pornography images - KHOU
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 24 Aug 2026 22:36:00 GMT
+
+
+[CarPlay]
+1. Affordable iPhone accessories for CarPlay worth trying - 9to5Mac
+   原題: Affordable iPhone accessories for CarPlay worth trying - 9to5Mac
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 24 Aug 2026 15:18:00 GMT
+
+2. Rivian EVs Are Getting A Software Update That Makes It Easier To Dodge The Cops - InsideEVs
+   原題: Rivian EVs Are Getting A Software Update That Makes It Easier To Dodge The Cops - InsideEVs
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 24 Aug 2026 07:07:00 GMT
+
+3. Which is best, Android Auto or Apple CarPlay? I drove 250 miles to find out - TechRadar
+   原題: Which is best, Android Auto or Apple CarPlay? I drove 250 miles to find out - TechRadar
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 01 Aug 2026 07:00:00 GMT
+
+
+[Android Auto]
+1. Google Maps bug won’t show traffic data on Android Auto and more - 9to5Google
+   原題: Google Maps bug won’t show traffic data on Android Auto and more - 9to5Google
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 24 Aug 2026 14:15:00 GMT
+
+2. Google fixed this Google Maps issue on mobile, but it's back now on Android Auto - Android Authority
+   原題: Google fixed this Google Maps issue on mobile, but it's back now on Android Auto - Android Authority
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 24 Aug 2026 09:51:00 GMT
+
+3. Google Maps traffic data is disappearing in Android Auto, and there's no fix in sight - XDA
+   原題: Google Maps traffic data is disappearing in Android Auto, and there's no fix in sight - XDA
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 24 Aug 2026 16:27:10 GMT
+
+4. Your Android Auto just lost a critical driving feature, and no one knows why - Android Police
+   原題: Your Android Auto just lost a critical driving feature, and no one knows why - Android Police
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 24 Aug 2026 13:32:37 GMT
+
+5. 4 Android Auto features I rely on to stay safer behind the wheel - XDA
+   原題: 4 Android Auto features I rely on to stay safer behind the wheel - XDA
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 24 Aug 2026 12:30:15 GMT
+
+
+[Arduino]
+1. RideLinkBLE: Arduino ESP32 BLE library for e-bike controllers - Adafruit
+   原題: RideLinkBLE: Arduino ESP32 BLE library for e-bike controllers - Adafruit
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 24 Aug 2026 18:58:55 GMT
+
+2. Simplified Raspberry Pi Pico VGA - Adafruit
+   原題: Simplified Raspberry Pi Pico VGA - Adafruit
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 24 Aug 2026 16:05:58 GMT
+
+3. The Arduino UNO Q Board: Unpack the Dual-Brain Power for Next-Gen Edge AI - Qualcomm
+   原題: The Arduino UNO Q Board: Unpack the Dual-Brain Power for Next-Gen Edge AI - Qualcomm
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 10 May 2026 07:00:00 GMT
+
+4. Building a Practical Asset Tracking System with Arduino® UNO™ Q - Qualcomm
+   原題: Building a Practical Asset Tracking System with Arduino® UNO™ Q - Qualcomm
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 20 Jul 2026 07:00:00 GMT
