@@ -1,0 +1,91 @@
+Searcher Daily Report
+Generated at: 2026-08-26 08:00:54
+Removed duplicates (today): 2
+Removed duplicates (7 days): 32
+
+[AI]
+1. Opinion | We Know the Risks of A.I. We Need to Act. - The New York Times
+   原題: Opinion | We Know the Risks of A.I. We Need to Act. - The New York Times
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 25 Aug 2026 09:02:33 GMT
+
+2. Nvidia Has Become a Banker to the AI Boom, Putting It on Dangerous Ground - WSJ
+   原題: Nvidia Has Become a Banker to the AI Boom, Putting It on Dangerous Ground - WSJ
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 25 Aug 2026 09:30:00 GMT
+
+3. Trader predicts future of the AI Industrial Revolution - Fox Business
+   原題: Trader predicts future of the AI Industrial Revolution - Fox Business
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 25 Aug 2026 22:00:40 GMT
+
+4. Column: The freak-out over AI data centers is creating a moral panic - Los Angeles Times
+   原題: Column: The freak-out over AI data centers is creating a moral panic - Los Angeles Times
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 25 Aug 2026 22:00:00 GMT
+
+5. San Jose moves to set rules for wave of power-hungry AI projects - The Business Journals
+   原題: San Jose moves to set rules for wave of power-hungry AI projects - The Business Journals
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 25 Aug 2026 22:06:00 GMT
+
+
+[CarPlay]
+1. Is Radio Interference Killing Your CarPlay Connection? - CEoutlook.com
+   原題: Is Radio Interference Killing Your CarPlay Connection? - CEoutlook.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 25 Aug 2026 02:14:09 GMT
+
+2. This $58 Android Auto screen installs in minutes and works with any car - Android Police
+   原題: This $58 Android Auto screen installs in minutes and works with any car - Android Police
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 25 Aug 2026 16:46:48 GMT
+
+
+[Android Auto]
+1. 4 simple Android Auto settings I always change to keep my hands off my phone while driving - XDA
+   原題: 4 simple Android Auto settings I always change to keep my hands off my phone while driving - XDA
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 25 Aug 2026 15:30:15 GMT
+
+2. Key Android Auto Feature Broken, Users Request Emergency Update - autoevolution
+   原題: Key Android Auto Feature Broken, Users Request Emergency Update - autoevolution
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 25 Aug 2026 17:27:53 GMT
+
+3. 7 Of The Best Bluetooth Car Adapters For Every Port Type - bgr.com
+   原題: 7 Of The Best Bluetooth Car Adapters For Every Port Type - bgr.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 25 Aug 2026 14:02:00 GMT
+
+4. 4 key Android Auto features I rely on to stay safe while driving - XDA
+   原題: 4 key Android Auto features I rely on to stay safe while driving - XDA
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 24 Aug 2026 12:30:15 GMT
+
+
+[Arduino]
+1. $299 Arduino Ventuno Q SBC combines Qualcomm Dragonwing IQ8 SoC and STM32H5 MCU - CNX Software
+   原題: $299 Arduino Ventuno Q SBC combines Qualcomm Dragonwing IQ8 SoC and STM32H5 MCU - CNX Software
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 25 Aug 2026 08:00:50 GMT
+
+2. Arduino VENTUNO Q is Here: Bringing Agentic AI to the Physical World with Qualcomm Dragonwing IQ8 Series - Qualcomm
+   原題: Arduino VENTUNO Q is Here: Bringing Agentic AI to the Physical World with Qualcomm Dragonwing IQ8 Series - Qualcomm
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 25 Aug 2026 14:00:40 GMT
+
+3. Arduino Opens Pre-Orders for the Powerful VENTUNO Q, Its Second UNO-Branded Single-Board Computer - Hackster.io
+   原題: Arduino Opens Pre-Orders for the Powerful VENTUNO Q, Its Second UNO-Branded Single-Board Computer - Hackster.io
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 25 Aug 2026 15:58:34 GMT
+
+4. Arduino Announces Pre-Orders for VENTUNO Q Edge AI Platform - TechPowerUp
+   原題: Arduino Announces Pre-Orders for VENTUNO Q Edge AI Platform - TechPowerUp
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 25 Aug 2026 15:56:47 GMT
+
+5. Arduino Air Quality Monitor With MQ135 Waltham Forest (K2WxjaAd98) - Mshale
+   原題: Arduino Air Quality Monitor With MQ135 Waltham Forest (K2WxjaAd98) - Mshale
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 25 Aug 2026 20:10:10 GMT
