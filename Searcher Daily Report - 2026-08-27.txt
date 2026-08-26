@@ -1,0 +1,96 @@
+Searcher Daily Report
+Generated at: 2026-08-27 08:00:53
+Removed duplicates (today): 0
+Removed duplicates (7 days): 32
+
+[AI]
+1. The turbulent AI era is here. The choices we make now are critical. - gatesnotes.com
+   原題: The turbulent AI era is here. The choices we make now are critical. - gatesnotes.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 26 Aug 2026 22:34:54 GMT
+
+2. Mark Zuckerberg had a bold plan to replace Meta staff with AI. Here’s how it imploded. - Reuters
+   原題: Mark Zuckerberg had a bold plan to replace Meta staff with AI. Here’s how it imploded. - Reuters
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 26 Aug 2026 10:07:00 GMT
+
+3. AI agents meant to replace Meta workers made “large-scale, disruptive actions” - Ars Technica
+   原題: AI agents meant to replace Meta workers made “large-scale, disruptive actions” - Ars Technica
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 26 Aug 2026 21:25:27 GMT
+
+4. Mark Zuckerberg’s Botched AI Makeover of Meta - New York Magazine
+   原題: Mark Zuckerberg’s Botched AI Makeover of Meta - New York Magazine
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 26 Aug 2026 20:24:12 GMT
+
+5. Nvidia forecasts fiscal '28 revenue growth of 70%, soaring past estimates: Live updates - CNBC
+   原題: Nvidia forecasts fiscal '28 revenue growth of 70%, soaring past estimates: Live updates - CNBC
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 26 Aug 2026 21:46:00 GMT
+
+
+[CarPlay]
+1. Pioneer releases its first collection of iPhone accessories - 9to5Mac
+   原題: Pioneer releases its first collection of iPhone accessories - 9to5Mac
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 26 Aug 2026 15:45:00 GMT
+
+2. Volvo EX60, EX90 and ES90 Gain New Intelligent Safety Features, Apple CarPlay Upgrade - autoevolution
+   原題: Volvo EX60, EX90 and ES90 Gain New Intelligent Safety Features, Apple CarPlay Upgrade - autoevolution
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 26 Aug 2026 08:00:18 GMT
+
+3. Rivian EVs Can Now Dodge Speed Traps, But Still Don’t Have CarPlay - Autoblog
+   原題: Rivian EVs Can Now Dodge Speed Traps, But Still Don’t Have CarPlay - Autoblog
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 26 Aug 2026 15:01:30 GMT
+
+4. Volvo details CarPlay update that adds Spatial Audio feature for three models - 9to5Mac
+   原題: Volvo details CarPlay update that adds Spatial Audio feature for three models - 9to5Mac
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 26 Aug 2026 15:07:00 GMT
+
+5. Ford Ties Up With Apple for New Mapping Tech and Features - Kelley Blue Book
+   原題: Ford Ties Up With Apple for New Mapping Tech and Features - Kelley Blue Book
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 26 Aug 2026 14:42:50 GMT
+
+
+[Android Auto]
+1. Android Auto team is rolling up with a fix for your Spotify problems - Android Authority
+   原題: Android Auto team is rolling up with a fix for your Spotify problems - Android Authority
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 26 Aug 2026 15:28:00 GMT
+
+2. Is This the Ultimate Weather Upgrade Android Auto Drivers Have Been Waiting For? - Talk Android
+   原題: Is This the Ultimate Weather Upgrade Android Auto Drivers Have Been Waiting For? - Talk Android
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 26 Aug 2026 15:00:00 GMT
+
+3. Why Android Auto's latest updates finally made me stop missing my phone - Android Police
+   原題: Why Android Auto's latest updates finally made me stop missing my phone - Android Police
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 26 Aug 2026 15:15:10 GMT
+
+4. A New Google Maps Bug Is Breaking A Critical Feature For Android Auto Users - bgr.com
+   原題: A New Google Maps Bug Is Breaking A Critical Feature For Android Auto Users - bgr.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 26 Aug 2026 18:39:57 GMT
+
+5. Google Gemini Has Upgraded My Morning Commute. 9 Clever Ways I Use It With Android Auto - PCMag
+   原題: Google Gemini Has Upgraded My Morning Commute. 9 Clever Ways I Use It With Android Auto - PCMag
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 24 Aug 2026 06:59:59 GMT
+
+
+[Arduino]
+1. Getting Started with ESP32 in Arduino IDE - Elektor Magazine
+   原題: Getting Started with ESP32 in Arduino IDE - Elektor Magazine
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 26 Aug 2026 12:54:43 GMT
+
+2. SECO announces SOM-SMARC-Dragonwing-IQ8 to bridge Arduino® prototyping and industrial Edge AI deployment - EIN News
+   原題: SECO announces SOM-SMARC-Dragonwing-IQ8 to bridge Arduino® prototyping and industrial Edge AI deployment - EIN News
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 26 Aug 2026 08:08:00 GMT
