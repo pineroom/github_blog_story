@@ -1,0 +1,81 @@
+Searcher Daily Report
+Generated at: 2026-08-28 08:00:51
+Removed duplicates (today): 0
+Removed duplicates (7 days): 37
+
+[AI]
+1. Nvidia Agrees to Buy Open Source AI Platform Hugging Face For $12.9 Billion - The Information
+   原題: Nvidia Agrees to Buy Open Source AI Platform Hugging Face For $12.9 Billion - The Information
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 27 Aug 2026 01:26:00 GMT
+
+2. Bill Gates Is Warning That A.I. Is More Dangerous Than Big Tech Will Admit - The New York Times
+   原題: Bill Gates Is Warning That A.I. Is More Dangerous Than Big Tech Will Admit - The New York Times
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 26 Aug 2026 07:01:07 GMT
+
+3. Bill Gates proposes major limits on AI development - CNN
+   原題: Bill Gates proposes major limits on AI development - CNN
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 26 Aug 2026 14:09:39 GMT
+
+4. Is This the End of AI Shame? - The Atlantic
+   原題: Is This the End of AI Shame? - The Atlantic
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 27 Aug 2026 22:12:00 GMT
+
+5. Previewing the Model Hardware Standard - Anthropic
+   原題: Previewing the Model Hardware Standard - Anthropic
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 27 Aug 2026 17:58:11 GMT
+
+
+[CarPlay]
+1. Here’s everything new for CarPlay in iOS 27 - 9to5Mac
+   原題: Here’s everything new for CarPlay in iOS 27 - 9to5Mac
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 22 Jul 2026 07:00:00 GMT
+
+2. WhatsApp Announces New CarPlay Experience, iPad Sign-Up, and More - MacRumors
+   原題: WhatsApp Announces New CarPlay Experience, iPad Sign-Up, and More - MacRumors
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 22 Jul 2026 07:00:00 GMT
+
+
+[Android Auto]
+1. Android Auto Users Get New Phones, End Up Losing Major Google Maps Update - autoevolution
+   原題: Android Auto Users Get New Phones, End Up Losing Major Google Maps Update - autoevolution
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 27 Aug 2026 04:37:49 GMT
+
+2. I switched back to wireless charging and fixed my issues with Android Auto - Pocketables
+   原題: I switched back to wireless charging and fixed my issues with Android Auto - Pocketables
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 27 Aug 2026 17:04:06 GMT
+
+3. My experience using Hyundai's wireless Android Auto dongle in my Exter - Team-BHP
+   原題: My experience using Hyundai's wireless Android Auto dongle in my Exter - Team-BHP
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 27 Aug 2026 08:56:00 GMT
+
+
+[Arduino]
+1. Arduino opens pre-orders for VENTUNO Q edge AI development platform - New Electronics
+   原題: Arduino opens pre-orders for VENTUNO Q edge AI development platform - New Electronics
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 27 Aug 2026 08:30:03 GMT
+
+2. Adjustable Arduino UNO Breadboard Workstation – Print-in-Place Hinge #3DThursday #3DPrinting - Adafruit
+   原題: Adjustable Arduino UNO Breadboard Workstation – Print-in-Place Hinge #3DThursday #3DPrinting - Adafruit
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 27 Aug 2026 09:00:44 GMT
+
+3. Arduino Uno + Breadboard Holder #3DThursday #3DPrinting - Adafruit
+   原題: Arduino Uno + Breadboard Holder #3DThursday #3DPrinting - Adafruit
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 27 Aug 2026 16:00:09 GMT
+
+4. Running Local LLMs on the Arduino® UNO™ Q Board: a Practical Guide - EE Times
+   原題: Running Local LLMs on the Arduino® UNO™ Q Board: a Practical Guide - EE Times
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 19 Aug 2026 13:01:44 GMT
