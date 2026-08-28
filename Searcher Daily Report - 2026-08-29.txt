@@ -1,0 +1,91 @@
+Searcher Daily Report
+Generated at: 2026-08-29 08:01:13
+Removed duplicates (today): 1
+Removed duplicates (7 days): 34
+
+[AI]
+1. もしAIが株式市場の上昇はまだ始まったばかりですか? - ニューヨーク・タイムズ紙
+   原題: What if the A.I. Stock Market Rally Is Just Getting Started? - The New York Times
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 28 Aug 2026 13:00:06 GMT
+
+2. ポール・クロード・ジゴ: AI について私が正しい理由 - The Atlantic
+   原題: Paul Claude Gigot: Why I Am Right About AI - The Atlantic
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 27 Aug 2026 21:11:28 GMT
+
+3. Google、AIモードで検索結果をさらに隠蔽 - The Verge
+   原題: Google further buries search results under AI mode - The Verge
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 28 Aug 2026 22:48:11 GMT
+
+4. なぜ AI パイロットの 95% が失敗するのか — そして代わりにイムラン・タリク氏とジュン・ション氏が何をしたのか - タイム誌
+   原題: Why 95% of AI Pilots Fail — and What Imran Tariq and Jun Xiong Do Instead - Time Magazine
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 28 Aug 2026 22:13:43 GMT
+
+5. X、反データセンターメッセージを広める偽アカウントの背後に外国の敵がいることを明らかに - Fox Business
+   原題: X reveals foreign adversary behind fake accounts disseminating anti-data center messaging - Fox Business
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 28 Aug 2026 16:22:00 GMT
+
+
+[CarPlay]
+1. ショートカットを使用して Apple CarPlay にイントロを追加する方法 - Engadget
+   原題: How To Add An Intro To Apple CarPlay Using Shortcuts - Engadget
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 28 Aug 2026 12:00:00 GMT
+
+2. CarPlay の空間オーディオがボルボ車に導入開始 - MacRumors
+   原題: Spatial Audio in CarPlay Now Rolling Out in Volvo Vehicles - MacRumors
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 28 Aug 2026 12:35:42 GMT
+
+3. これは、来月の iOS 27 の登場時に Apple CarPlay に追加されるすべてです - supercarblondie.com
+   原題: This is everything that's being added to Apple CarPlay when iOS 27 arrives next month - supercarblondie.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 28 Aug 2026 22:03:00 GMT
+
+4. GMのCarPlay廃止でシボレーEVの販売が試される - AppleInsider
+   原題: GM's CarPlay removal puts Chevy EV sales to the test - AppleInsider
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 20 Aug 2026 07:00:00 GMT
+
+5. Apple、CarPlay Ultra はどこにありますか? - MacRumors
+   原題: Apple, Where is CarPlay Ultra? - MacRumors
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 20 Aug 2026 07:00:00 GMT
+
+
+[Android Auto]
+1. 私の車に常備されている、あまり知られていない Android Auto アプリ 4 つ - XDA
+   原題: 4 lesser-known Android Auto apps that earned a permanent spot in my car - XDA
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 28 Aug 2026 15:30:16 GMT
+
+2. Android Auto から Gemini への切り替えにより、運転中の安全性が低下するとドライバーが主張 - Android Police
+   原題: Drivers claim Android Auto's switch to Gemini makes them feel less safe behind the wheel - Android Police
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 28 Aug 2026 15:35:50 GMT
+
+3. Spotify のバグにより、Android Auto ドライバーはエラー メッセージを見つめ続ける (更新) - Android Authority
+   原題: Spotify bug leaves Android Auto drivers staring at error message (Update) - Android Authority
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 24 Aug 2026 20:51:00 GMT
+
+4. ドライバーが有効にする必要がある 5 つの Google マップ設定 - bgr.com
+   原題: 5 Google Maps Settings Drivers Should Enable - bgr.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 28 Aug 2026 16:17:00 GMT
+
+
+[Arduino]
+1. Qualcomm Arduino ボード、Rubik Pi 3、および Snapdragon 搭載 PC に OpenClaw と Hermes Agent をインストールする方法 - Qualcomm
+   原題: How to Install OpenClaw and Hermes Agent on Qualcomm Arduino Boards, Rubik Pi 3 and PCs with Snapdragon - Qualcomm
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 24 Apr 2026 07:00:00 GMT
+
+2. PicoCamera: RP2040 / RP2350 用の Arduino 互換カメラ ライブラリ - Adafruit
+   原題: PicoCamera: An Arduino-compatible camera library for the RP2040 / RP2350 - Adafruit
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 19 Aug 2026 18:27:27 GMT
