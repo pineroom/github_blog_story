@@ -1,0 +1,78 @@
+Searcher Daily Report
+Generated at: 2026-08-30 08:00:46
+Removed duplicates (today): 0
+Removed duplicates (7 days): 37
+
+[AI]
+1. AIへの不安とソーシャルメディアへの懸念が衝突し、テクノロジー関連の反発が最高潮に達する - CNBC
+   原題: Tech backlash reaches fever pitch as AI angst collides with social media fears - CNBC
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 29 Aug 2026 12:00:01 GMT
+
+2. OpenAI の HuggingFace 調査から得られた 5 つの最もクレイジーな発見 - Axios
+   原題: The 5 craziest discoveries from OpenAI's HuggingFace investigation - Axios
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 29 Aug 2026 13:28:29 GMT
+
+3. OpenAI、イーロン・マスク氏のSpaceXによる買収後、モデルのCursorへのアクセスを終了へ - CNBC
+   原題: OpenAI to end model access to Cursor after acquisition by Elon Musk's SpaceX - CNBC
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 29 Aug 2026 19:05:55 GMT
+
+4. SpaceX による Cursor 買収後の当社の決定 - OpenAI
+   原題: Our decision on Cursor following its acquisition by SpaceX - OpenAI
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 29 Aug 2026 01:46:12 GMT
+
+5. OpenAIがCursorのAIモデルを遮断、マスクとの確執を深める - Mashable
+   原題: OpenAI cuts off Cursor's AI models, deepening feud with Musk - Mashable
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 29 Aug 2026 15:46:59 GMT
+
+
+[CarPlay]
+1. Apple CarPlay、Siri AI の登場前に新しい AI チャットボット アプリを追加 - 9to5Mac
+   原題: Apple CarPlay gaining a new AI chatbot app before Siri AI arrives - 9to5Mac
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 29 Aug 2026 17:13:00 GMT
+
+2. Bluetooth または Wi-Fi: ワイヤレス CarPlay はどのように接続しますか? - Yahoo自動車
+   原題: Bluetooth Or Wi-Fi: How Does Wireless CarPlay Connect? - Yahoo Autos
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 29 Aug 2026 16:00:00 GMT
+
+3. 最高のワイヤレス CarPlay および Android Auto アダプター - Autoguide.com
+   原題: The Best Wireless CarPlay and Android Auto Adapters - Autoguide.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 28 Aug 2026 14:19:18 GMT
+
+
+[Android Auto]
+1. すべての Android スマートフォンで Android Auto を使用できますか? - エンガジェット
+   原題: Can All Android Phones Use Android Auto? - Engadget
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 29 Aug 2026 12:00:00 GMT
+
+2. これらの隠し設定が原因で Android Auto 通話が中断される - How-To Geek
+   原題: Your Android Auto calls are broken because of these hidden settings - How-To Geek
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 29 Aug 2026 00:00:00 GMT
+
+3. 「ハンドルを握っていると確かにイライラすることもあります！」ドライバーは Android Auto の Gemini への切り替えを嫌っている - PhoneArena
+   原題: "There are times it certainly makes me angrier behind the wheel!" Drivers hate Android Auto's switch to Gemini - PhoneArena
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 29 Aug 2026 12:20:48 GMT
+
+4. 古い携帯電話を Android Auto ヘッドユニットに変えてみた - Pocket-lint
+   原題: I turned my old phone into an Android Auto head unit - Pocket-lint
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 29 Aug 2026 13:00:14 GMT
+
+5. Google マップに飽きましたか?代わりにこれらの Android Auto Navigation アプリを試してみてください - Yahoo Autos
+   原題: Tired Of Google Maps? Try These Android Auto Navigation Apps Instead - Yahoo Autos
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 29 Aug 2026 20:17:00 GMT
+
+
+[Arduino]
+- No new items after dedupe
