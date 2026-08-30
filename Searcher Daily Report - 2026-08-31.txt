@@ -1,0 +1,91 @@
+Searcher Daily Report
+Generated at: 2026-08-31 08:00:53
+Removed duplicates (today): 1
+Removed duplicates (7 days): 35
+
+[AI]
+1. We tested how AI chatbots would handle foreign propaganda. They did surprisingly well - NPR
+   原題: We tested how AI chatbots would handle foreign propaganda. They did surprisingly well - NPR
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 30 Aug 2026 07:00:00 GMT
+
+2. Help Wanted: ‘Forward-Deployed’ Humans for the A.I. Era - The New York Times
+   原題: Help Wanted: ‘Forward-Deployed’ Humans for the A.I. Era - The New York Times
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 30 Aug 2026 09:00:55 GMT
+
+3. Russia deploys AI-guided drones in Ukraine war - Fox News
+   原題: Russia deploys AI-guided drones in Ukraine war - Fox News
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 30 Aug 2026 22:44:32 GMT
+
+4. Nvidia, Microsoft, Amazon and Google Just Racked Up US$160 Billion in AI Gains- But There’s a Catch - Stocks Down Under
+   原題: Nvidia, Microsoft, Amazon and Google Just Racked Up US$160 Billion in AI Gains- But There’s a Catch - Stocks Down Under
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 30 Aug 2026 21:31:35 GMT
+
+5. Man accused of posing as NFL player to scam women tricked AI, Google: Court docs - WFLA
+   原題: Man accused of posing as NFL player to scam women tricked AI, Google: Court docs - WFLA
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 30 Aug 2026 21:59:23 GMT
+
+
+[CarPlay]
+1. Apple CarPlay just added a major weather app - 9to5Mac
+   原題: Apple CarPlay just added a major weather app - 9to5Mac
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 30 Aug 2026 19:57:00 GMT
+
+2. AI Invades CarPlay As New Big App Now Available - autoevolution
+   原題: AI Invades CarPlay As New Big App Now Available - autoevolution
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 30 Aug 2026 10:20:41 GMT
+
+3. Volvo EX90 gets Dolby Atmos inside CarPlay via OTA update - AutoNext.co
+   原題: Volvo EX90 gets Dolby Atmos inside CarPlay via OTA update - AutoNext.co
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 30 Aug 2026 12:08:40 GMT
+
+4. Meta Chatbot Arrives on Apple CarPlay Ahead of Siri AI Update - The Mac Observer
+   原題: Meta Chatbot Arrives on Apple CarPlay Ahead of Siri AI Update - The Mac Observer
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 30 Aug 2026 13:05:17 GMT
+
+
+[Android Auto]
+1. Improve Your Android Auto Experience By Doing These Simple Things - Engadget
+   原題: Improve Your Android Auto Experience By Doing These Simple Things - Engadget
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 30 Aug 2026 13:30:00 GMT
+
+2. 5 Apps That Add Live FM Radio To Your Android Auto - bgr.com
+   原題: 5 Apps That Add Live FM Radio To Your Android Auto - bgr.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 30 Aug 2026 12:47:00 GMT
+
+3. Android Auto isn’t just for cars — I use it beside my PC - MakeUseOf
+   原題: Android Auto isn’t just for cars — I use it beside my PC - MakeUseOf
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 30 Aug 2026 10:00:13 GMT
+
+4. How to move your Android Auto taskbar to the side (or bottom) - How-To Geek
+   原題: How to move your Android Auto taskbar to the side (or bottom) - How-To Geek
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 30 Aug 2026 15:15:13 GMT
+
+5. How To Improve Your Audio Quality On Android Auto - Engadget
+   原題: How To Improve Your Audio Quality On Android Auto - Engadget
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 30 Aug 2026 20:00:00 GMT
+
+
+[Arduino]
+1. Low-cost Arduino platform enables pulsed-current synthesis of electrochemical nanostructures - Bioengineer.org
+   原題: Low-cost Arduino platform enables pulsed-current synthesis of electrochemical nanostructures - Bioengineer.org
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 30 Aug 2026 00:43:36 GMT
+
+2. Arduino's Latest Update Writes Your Code for You - Hackster.io
+   原題: Arduino's Latest Update Writes Your Code for You - Hackster.io
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 12 Aug 2026 14:15:23 GMT
