@@ -1,0 +1,111 @@
+Searcher Daily Report
+Generated at: 2026-09-01 08:01:09
+Removed duplicates (today): 1
+Removed duplicates (7 days): 25
+
+[AI]
+1. AIを研究する意識？ボットがあなたとお話したいと思っています。 - ニューヨーク・タイムズ紙
+   原題: Study A.I. Consciousness? The Bots Would Like a Word With You. - The New York Times
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 31 Aug 2026 13:44:51 GMT
+
+2. 「スーパーヒューマン」AI ツールは 2 秒以内に心臓病を発見 - ガーディアン
+   原題: ‘Superhuman’ AI tool spots heart disease in less than 2 seconds - The Guardian
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 31 Aug 2026 19:02:00 GMT
+
+3. ガル・ガドット、AIを使ったセットと照明を使った映画主演を擁護、「それに取り組むか、ゲームから外れるだろう」 AIが俳優を改変しないように弁護士が6か月を費やした - バラエティ
+   原題: Gal Gadot Defends Starring in Movie With AI Sets and Lighting Because ‘You’re Going to Work With It or Be Out of the Game’; Lawyers Spent 6 Months Ensuring AI Would Not Alter Actors - Variety
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 31 Aug 2026 22:05:00 GMT
+
+4. 米国の電力ブームの費用は誰が払うのか? AIの急増の中で、青と赤の州は公共料金を下げる全く異なる方法を提供している - foxnews.com
+   原題: Who pays for US power boom? Blue, red states offer starkly different ways to lower utility bills amid AI surge - foxnews.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 31 Aug 2026 22:41:00 GMT
+
+5. 技術専門家が新学期の混乱をスムーズにするために保護者が AI を活用する方法を共有 - CBS ニュース
+   原題: Tech expert shares how parents can use AI to smooth back-to-school chaos - CBS News
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 31 Aug 2026 22:19:00 GMT
+
+
+[CarPlay]
+1. Apple CarPlay のオーディオ品質を向上させる方法 - Engadget
+   原題: How To Improve Your Audio Quality On Apple CarPlay - Engadget
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 30 Aug 2026 23:00:00 GMT
+
+2. 最近の 3 つのエキサイティングなアプリのアップデートにより、CarPlay はさらに改良され続けています - 9to5Mac
+   原題: CarPlay keeps getting better with three recent exciting app updates - 9to5Mac
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 31 Aug 2026 12:11:00 GMT
+
+3. ついに、あなたの車は嵐の到来を知ることができます - Apple Weather からではなく - Cult of Mac
+   原題: Finally, your car can see the storm coming — just not from Apple Weather - Cult of Mac
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 31 Aug 2026 15:03:03 GMT
+
+4. AI が CarPlay に侵入、新たなビッグアプリが登場 - autoevolution.com
+   原題: AI Invades CarPlay As New Big App Now Available - autoevolution.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 30 Aug 2026 10:20:41 GMT
+
+5. Rivian のソフトウェア責任者は、CarPlay もボタンも必要ないと考えている - The Verge
+   原題: Rivian’s software chief thinks you don’t need CarPlay or buttons - The Verge
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 28 May 2026 07:00:00 GMT
+
+
+[Android Auto]
+1. 長距離ドライブを楽にする Android Auto 機能 - bgr.com
+   原題: Android Auto Features That Can Make Long Drives Easier - bgr.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 31 Aug 2026 04:47:00 GMT
+
+2. Android Auto を車の外で使用する 4 つの創造的な方法 - How-To Geek
+   原題: 4 creative ways people use Android Auto outside of their cars - How-To Geek
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 31 Aug 2026 13:00:13 GMT
+
+3. Android Auto の非公式ビデオ プレーヤーで車の中でゲームをプレイできるようになりました - Android Authority
+   原題: Android Auto’s unofficial video player now lets you play games in your car - Android Authority
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 31 Aug 2026 13:19:00 GMT
+
+4. この機能により、Android Auto の使用中にスパム電話を遠ざけることができます - Engadget
+   原題: This Feature Keeps Distracting Spam Calls Away While Using Android Auto - Engadget
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 31 Aug 2026 12:30:00 GMT
+
+5. すべてのドライブをより良くする 3 つの Android Auto の隠れた設定 - XDA
+   原題: 3 hidden Android Auto settings that make every drive so much better - XDA
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 31 Aug 2026 19:00:15 GMT
+
+
+[Arduino]
+1. $299 Arduino Ventuno Q SBC は、Qualcomm Dragonwing IQ8 SoC と STM32H5 MCU を組み合わせたもの - cnx-software.com
+   原題: $299 Arduino Ventuno Q SBC combines Qualcomm Dragonwing IQ8 SoC and STM32H5 MCU - cnx-software.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 25 Aug 2026 08:00:50 GMT
+
+2. SECO、Arduino® プロトタイピングと産業用エッジ AI 展開の橋渡しとなる SOM-SMARC-Dragonwing-IQ8 を発表 - The National Law Review
+   原題: SECO announces SOM-SMARC-Dragonwing-IQ8 to bridge Arduino® prototyping and industrial Edge AI deployment - The National Law Review
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 26 Aug 2026 09:35:19 GMT
+
+3. Arduino IDE での ESP32 入門 - elektormagazine.com
+   原題: Getting Started with ESP32 in Arduino IDE - elektormagazine.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 26 Aug 2026 12:54:43 GMT
+
+4. RideLinkBLE: 電動自転車コントローラー用 Arduino ESP32 BLE ライブラリ - Adafruit
+   原題: RideLinkBLE: Arduino ESP32 BLE library for e-bike controllers - Adafruit
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 24 Aug 2026 18:58:55 GMT
+
+5. Arduino が Qualcomm Dragonwing IQ8 シリーズを搭載した Arduino VENTUNO Q を発表 - クアルコム
+   原題: Arduino Announces Arduino VENTUNO Q, Powered by Qualcomm Dragonwing IQ8 Series - Qualcomm
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 09 Mar 2026 07:00:00 GMT
