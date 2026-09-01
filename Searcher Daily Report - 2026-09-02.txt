@@ -1,0 +1,111 @@
+Searcher Daily Report
+Generated at: 2026-09-02 08:00:50
+Removed duplicates (today): 1
+Removed duplicates (7 days): 21
+
+[AI]
+1. 'It can outthink me': How a major manufacturer came to embrace AI - NPR
+   原題: 'It can outthink me': How a major manufacturer came to embrace AI - NPR
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 01 Sep 2026 09:00:00 GMT
+
+2. AI token prices are hitting new record lows - CNBC
+   原題: AI token prices are hitting new record lows - CNBC
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 01 Sep 2026 16:08:31 GMT
+
+3. Judge clears path for Centennial project sale; records reveal talks with AI data center group - News 5 Cleveland WEWS
+   原題: Judge clears path for Centennial project sale; records reveal talks with AI data center group - News 5 Cleveland WEWS
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 01 Sep 2026 22:20:41 GMT
+
+4. Nampa Police use AI translation technology to communicate in the field - KBOI
+   原題: Nampa Police use AI translation technology to communicate in the field - KBOI
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 01 Sep 2026 22:37:51 GMT
+
+5. AI’s not taking all the jobs. Just ask your local hobby shop, garage band and crafts store - CNN
+   原題: AI’s not taking all the jobs. Just ask your local hobby shop, garage band and crafts store - CNN
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 01 Sep 2026 09:00:29 GMT
+
+
+[CarPlay]
+1. How To Improve Your Audio Quality On Apple CarPlay - engadget.com
+   原題: How To Improve Your Audio Quality On Apple CarPlay - engadget.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 30 Aug 2026 23:00:00 GMT
+
+2. Ford Fathom Will Not Utilize Apple CarPlay Ultra - Ford Authority
+   原題: Ford Fathom Will Not Utilize Apple CarPlay Ultra - Ford Authority
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 01 Sep 2026 12:16:36 GMT
+
+3. How To Add An Intro To Apple CarPlay Using Shortcuts - engadget.com
+   原題: How To Add An Intro To Apple CarPlay Using Shortcuts - engadget.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 28 Aug 2026 12:00:00 GMT
+
+4. The Reasons Siri May Not Work On CarPlay - engadget.com
+   原題: The Reasons Siri May Not Work On CarPlay - engadget.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 23 Aug 2026 07:00:00 GMT
+
+5. Check Out The New Apple CarPlay Ultra For Your Car - CarProUSA.com.
+   原題: Check Out The New Apple CarPlay Ultra For Your Car - CarProUSA.com.
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 01 Sep 2026 18:11:15 GMT
+
+
+[Android Auto]
+1. Android Auto 17.6 update rolling out with redesigned logo [Gallery] - 9to5google.com
+   原題: Android Auto 17.6 update rolling out with redesigned logo [Gallery] - 9to5google.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 01 Sep 2026 13:55:00 GMT
+
+2. 4 creative ways people use Android Auto outside of their cars - howtogeek.com
+   原題: 4 creative ways people use Android Auto outside of their cars - howtogeek.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 31 Aug 2026 13:00:13 GMT
+
+3. Android Auto could soon get its own Quick Settings tiles, one toggle at a time - Android Authority
+   原題: Android Auto could soon get its own Quick Settings tiles, one toggle at a time - Android Authority
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 01 Sep 2026 13:03:00 GMT
+
+4. How To Improve Your Audio Quality On Android Auto - engadget.com
+   原題: How To Improve Your Audio Quality On Android Auto - engadget.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 30 Aug 2026 20:00:00 GMT
+
+5. This Feature Keeps Distracting Spam Calls Away While Using Android Auto - engadget.com
+   原題: This Feature Keeps Distracting Spam Calls Away While Using Android Auto - engadget.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 31 Aug 2026 12:30:00 GMT
+
+
+[Arduino]
+1. An 11-year-old in Colorado who had been following the Flint water crisis built a prototype lead detector using carbon nanotubes, an Arduino processor, Bluetooth and a smartphone app that could report a result in seconds instead of waiting days for a laborator - ScienceBlog.com
+   原題: An 11-year-old in Colorado who had been following the Flint water crisis built a prototype lead detector using carbon nanotubes, an Arduino processor, Bluetooth and a smartphone app that could report a result in seconds instead of waiting days for a laborator - ScienceBlog.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 01 Sep 2026 18:00:30 GMT
+
+2. Arduino Board Boosts Edge AI - opensourceforu.com
+   原題: Arduino Board Boosts Edge AI - opensourceforu.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 01 Sep 2026 05:37:20 GMT
+
+3. Running Local LLMs on the Arduino® UNO™ Q Board: a Practical Guide - eetimes.com
+   原題: Running Local LLMs on the Arduino® UNO™ Q Board: a Practical Guide - eetimes.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 23 Aug 2026 20:52:56 GMT
+
+4. StreetSense: know what you’re breathing - Adafruit
+   原題: StreetSense: know what you’re breathing - Adafruit
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 01 Sep 2026 15:46:15 GMT
+
+5. Pinch Is a 32-Bit Arduino-Compatible Dev Board That is Practically Microscopic - Hackster.io
+   原題: Pinch Is a 32-Bit Arduino-Compatible Dev Board That is Practically Microscopic - Hackster.io
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 14 Jul 2026 20:52:59 GMT
