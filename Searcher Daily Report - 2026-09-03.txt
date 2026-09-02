@@ -1,0 +1,111 @@
+Searcher Daily Report
+Generated at: 2026-09-03 08:01:14
+Removed duplicates (today): 1
+Removed duplicates (7 days): 21
+
+[AI]
+1. マムダニ氏、ニューヨーク市の公立学校で8年生までの生徒を対象にAIの導入を禁止 - NBCニューヨーク
+   原題: Mamdani bans AI in NYC public schools for students through 8th grade - NBC New York
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 02 Sep 2026 09:12:56 GMT
+
+2. 全米最大の学校制度であるニューヨーク市、8年生までの生徒にAIを禁止 - APニュース
+   原題: NYC, the nation’s largest school system, bans AI for students through 8th grade - AP News
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 02 Sep 2026 18:43:00 GMT
+
+3. マムダニ市長とサミュエルズ首相、学校における国内最大規模の生成型 AI モラトリアムで生徒を第一に - NYC.gov
+   原題: Mayor Mamdani and Chancellor Samuels Put Students First with Nation’s Broadest Generative AI Moratorium in Schools - NYC.gov
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 02 Sep 2026 15:41:53 GMT
+
+4. ビル・シモンズのポッドキャスト共同司会者は彼の AI にうんざりしているおふざけ - ニューヨーク・タイムズ
+   原題: Bill Simmons’s Podcast Co-Hosts Are Tired of His A.I. Antics - The New York Times
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 02 Sep 2026 12:49:00 GMT
+
+5. AMDのサウジAIビルドアウトはNVIDIAやBroadcomに対抗できるか? - Yahooファイナンス
+   原題: Can AMD's Saudi AI Buildout Challenge NVIDIA and Broadcom? - Yahoo Finance
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 02 Sep 2026 18:47:00 GMT
+
+
+[CarPlay]
+1. あなたの車に新しい Apple CarPlay Ultra をチェックしてください - MySA
+   原題: Check Out The New Apple CarPlay Ultra For Your Car - MySA
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 01 Sep 2026 07:00:00 GMT
+
+2. すべてのドライブを改善する 3 つの Apple CarPlay の簡単な修正 - Pocket-lint
+   原題: 3 easy Apple CarPlay fixes that make every drive better - Pocket-lint
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 01 Sep 2026 11:00:14 GMT
+
+3. ルートに沿ったナビゲーションと天気予報を備えた Big Weather アプリが CarPlay で起動 - autoevolution
+   原題: Big Weather App Launches on CarPlay With Navigation and Weather Alerts Along Your Route - autoevolution
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 31 Aug 2026 03:57:26 GMT
+
+4. 妻の 2006 トヨタ 4 ランナーに Apple CarPlay を入れたら、もう過去を振り返ることはありません - Jalopnik
+   原題: I Put Apple CarPlay In My Wife's 2006 Toyota 4Runner And I'm Never Looking Back - Jalopnik
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 28 Jun 2026 07:00:00 GMT
+
+5. Helios Technologies、Apple Carplay と Android Auto で No Roads プラットフォームを拡張 - マーケットスクリーナー.com
+   原題: Helios Technologies Expands No Roads Platform with Apple Carplay and Android Auto - marketscreener.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 01 Sep 2026 18:05:58 GMT
+
+
+[Android Auto]
+1. Android Auto 用 Google マップは、網膜を焼き付けない新しい色を間もなく提供する可能性があります - Android Authority
+   原題: Google Maps for Android Auto could soon offer new colors that won't burn your retinas - Android Authority
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 02 Sep 2026 07:14:00 GMT
+
+2. 古い車でも、どんな車でもワイヤレス Android Auto をセットアップする 3 つの方法 - How-To Geek
+   原題: 3 ways to set up wireless Android Auto in any car, even older ones - How-To Geek
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 01 Sep 2026 17:30:13 GMT
+
+3. Android Auto はついに小さな画面での天気情報のソリューションを提供するかもしれません: Jimothy、the raccoon - Android Authority
+   原題: Android Auto may finally have a solution for weather info on smaller screens: Jimothy, the raccoon - Android Authority
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 01 Sep 2026 12:09:00 GMT
+
+4. 私の Kia Niro のインフォテインメント システムが Android Auto よりも優れている 5 つの理由 - How-To Geek
+   原題: 5 reasons my Kia Niro's infotainment system is better than Android Auto - How-To Geek
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 02 Sep 2026 16:30:13 GMT
+
+5. Android Auto には数秒でアクセスできる開発者メニューがあります - engadget.com
+   原題: Android Auto Has A Developer Menu You Can Access In Seconds - engadget.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 26 Jul 2026 07:00:00 GMT
+
+
+[Arduino]
+1. Arduino の VENTUNO Q が予約注文されましたが、完売しました - なんと! Ubuntu
+   原題: Arduino’s VENTUNO Q went up for pre-order, sold out - OMG! Ubuntu
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 02 Sep 2026 18:12:30 GMT
+
+2. Arduino Unoを使用した自動車デザイン Arduino Rover 山を背景に夜には街がライトアップされる - krepsiniozinios
+   原題: Car Design Using Arduino Uno Arduino Rover The City Is Lit Up At Night With Mountains In The Background - krepsiniozinios
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 02 Sep 2026 03:06:35 GMT
+
+3. Arduino Uno + ブレッドボード ホルダー #3DMonday #3DPrinting - blog.adafruit.com
+   原題: Arduino Uno + Breadboard Holder #3DThursday #3DPrinting - blog.adafruit.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 27 Aug 2026 16:00:09 GMT
+
+4. Arduino NANO R4 を使用したトランジスタ カーブトレーサ - Elektor Magazine
+   原題: Transistor Curvetracer with Arduino NANO R4 - Elektor Magazine
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 01 Sep 2026 08:08:02 GMT
+
+5. Arduino VENTUNO Qが登場：Qualcomm Dragonwing IQ8シリーズでエージェントティックAIを物理世界に導入 - WebWire
+   原題: Arduino VENTUNO Q is Here: Bringing Agentic AI to the Physical World with Qualcomm Dragonwing IQ8 Series - WebWire
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 26 Aug 2026 13:09:45 GMT
