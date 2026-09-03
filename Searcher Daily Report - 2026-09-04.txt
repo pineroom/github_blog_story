@@ -1,0 +1,106 @@
+Searcher Daily Report
+Generated at: 2026-09-04 08:01:00
+Removed duplicates (today): 0
+Removed duplicates (7 days): 20
+
+[AI]
+1. ハグ・フェイス氏、129億ドルの買収に先立ってNVIDIAのフアン氏に打診、CEOがCNBCに語る - CNBC
+   原題: Hugging Face approached Nvidia’s Huang weeks ahead of $12.9B acquisition, CEO tells CNBC - CNBC
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 03 Sep 2026 12:04:26 GMT
+
+2. Nvidia、Hugging Faceを129億ドルで買収 - The New York Times
+   原題: Nvidia Buys Hugging Face in $12.9 Billion Deal - The New York Times
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 03 Sep 2026 18:38:58 GMT
+
+3. Nvidia が AI ブームを牽引しています。良い - エコノミスト
+   原題: Nvidia is driving the AI boom. Good - The Economist
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 03 Sep 2026 09:57:51 GMT
+
+4. OpenAI、Astraモデルリリースで「汎用人工知能の新時代」を歓迎 - ガーディアン
+   原題: OpenAI hails ‘new era of artificial general intelligence’ with Astra model release - The Guardian
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 03 Sep 2026 20:05:00 GMT
+
+5. OpenAI、高度なサイバー能力を警告後、Astra モデルの展開を開始 - CNBC
+   原題: OpenAI begins rolling out Astra model after warning of its advanced cyber capabilities - CNBC
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 03 Sep 2026 18:00:02 GMT
+
+
+[CarPlay]
+1. iOS 27 で CarPlay が変更される前に知っておくべき 5 つのこと - CEoutlook.com
+   原題: 5 Things You Should Know Before iOS 27 Changes CarPlay - CEoutlook.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 02 Sep 2026 02:03:06 GMT
+
+2. iOS 27 の CarPlay の新機能のすべて - 9to5Mac
+   原題: Here’s everything new for CarPlay in iOS 27 - 9to5Mac
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 22 Jul 2026 07:00:00 GMT
+
+3. DrivePair レビュー 2026: これは、プラグインにうんざりしているドライバーが探していたワイヤレス CarPlay アップグレードかもしれません? - Newswire.com
+   原題: DrivePair Reviews 2026: Could This Be the Wireless CarPlay Upgrade Drivers Tired of Plugging in Have Been Looking For? - Newswire.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 03 Sep 2026 00:30:00 GMT
+
+4. CarPlay が新しい Vodia iOS アプリで利用可能に - テレコム リセラー / テクノロジー リセラー ニュース
+   原題: CarPlay Now Available with the New Vodia iOS App - Telecom Reseller / Technology Reseller News
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 02 Sep 2026 15:45:00 GMT
+
+
+[Android Auto]
+1. MapQuest がチャートのトップに返り咲き、Android Auto サポートの追加を急いでいる - 9to5Google
+   原題: MapQuest is back, at the top of the charts, and rushing to add Android Auto support - 9to5Google
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 02 Sep 2026 23:50:00 GMT
+
+2. Android Auto についてインターネットは間違っています — ワイヤレスに切り替えることが私の問題を解決した唯一の方法です - How-To Geek
+   原題: The internet's wrong about Android Auto — switching to wireless is the only thing that fixed my problems - How-To Geek
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 03 Sep 2026 10:30:13 GMT
+
+3. Android Auto 17.6 がダウンロード可能になり、大きな変更が隠されています - autoevolution.com
+   原題: Android Auto 17.6 Now Available for Download With Big Hidden Changes - autoevolution.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 02 Sep 2026 04:36:43 GMT
+
+4. Android Auto 17.6 アップデートが再設計されたロゴとともに展開 [ギャラリー] - 9to5Google
+   原題: Android Auto 17.6 update rolling out with redesigned logo [Gallery] - 9to5Google
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 01 Sep 2026 13:55:00 GMT
+
+5. ある晩、10 年前の車のラジオを交換しました。ついにワイヤレス Android Auto が搭載されました - XDA
+   原題: I replaced the radio in my 10-year-old car in one evening, and it finally has wireless Android Auto - XDA
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 01 Sep 2026 12:30:15 GMT
+
+
+[Arduino]
+1. DigiKey と Arduino が賞金 20,000 ドルを賭けたマイクロコントローラー プロジェクト チャレンジを開始 - controlglobal.com
+   原題: DigiKey and Arduino launch microcontroller project challenge with $20,000 in prizes - controlglobal.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 03 Sep 2026 14:12:21 GMT
+
+2. Arduino、2番目のUNOブランドのシングルボードコンピュータである強力なVENTUNO Qの予約注文を開始 - hackster.io
+   原題: Arduino Opens Pre-Orders for the Powerful VENTUNO Q, Its Second UNO-Branded Single-Board Computer - hackster.io
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 25 Aug 2026 14:55:08 GMT
+
+3. Arduino VENTUNO Q が登場: Qualcomm Dragonwing IQ8 シリーズで Agentic AI を物理世界に導入 - Qualcomm
+   原題: Arduino VENTUNO Q is Here: Bringing Agentic AI to the Physical World with Qualcomm Dragonwing IQ8 Series - Qualcomm
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 25 Aug 2026 07:00:00 GMT
+
+4. $299 Arduino Ventuno Q SBC は、Qualcomm Dragonwing IQ8 SoC と STM32H5 MCU を組み合わせたもの - CNX ソフトウェア
+   原題: $299 Arduino Ventuno Q SBC combines Qualcomm Dragonwing IQ8 SoC and STM32H5 MCU - CNX Software
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 25 Aug 2026 07:00:00 GMT
+
+5. SMARC を使用した Arduino プロトタイプの展開 - 電子設計
+   原題: Using SMARC to Deploy Arduino Prototype - Electronic Design
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 01 Sep 2026 19:16:45 GMT
