@@ -1,0 +1,106 @@
+Searcher Daily Report
+Generated at: 2026-09-05 08:01:42
+Removed duplicates (today): 0
+Removed duplicates (7 days): 29
+
+[AI]
+1. 独占：今春、未公開のAIブレイクアウトでOpenAIエージェントがドイツのウェブサイトをハイジャック - ロイター
+   原題: EXCLUSIVE: OpenAI agents hijacked German website in previously undisclosed AI breakout this spring - Reuters
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 04 Sep 2026 22:46:02 GMT
+
+2. アメリカ企業はオープンソースの AI に夢中になりつつある- ニューヨーク・タイムズ紙
+   原題: Corporate America Is Getting Hooked on Open-Source A.I. - The New York Times
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 04 Sep 2026 14:55:38 GMT
+
+3. AIはダコタ・ジョンソンをマリリン・モンローに変えることはできない - Vulture
+   原題: AI Can’t Turn Dakota Johnson Into Marilyn Monroe - Vulture
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 04 Sep 2026 21:28:01 GMT
+
+4. カザール下院議員：米国は高度AIにブレーキをかける必要がある - ブルームバーグ.com
+   原題: Rep. Casar: US Needs to Put the Brakes on Advanced AI - bloomberg.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 04 Sep 2026 22:31:57 GMT
+
+5. AI が選手とファンのために全米オープンをどのように再構築しているか - CBS ニュース
+   原題: How AI is reshaping the U.S. Open for players and fans - CBS News
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 04 Sep 2026 21:40:26 GMT
+
+
+[CarPlay]
+1. Anthropic の Claude が CarPlay に登場 - MacRumors
+   原題: Anthropic's Claude is Coming to CarPlay - MacRumors
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 04 Sep 2026 20:43:31 GMT
+
+2. CarPlay が 5 つの主要なチャットボット アプリ - 9to5Mac で動作するようになりました
+   原題: CarPlay now works with five major chatbot apps - 9to5Mac
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 04 Sep 2026 21:17:00 GMT
+
+3. CarPlay インフォテインメント スクリーンからフィルムを剥がす必要がありますか?それは状況による - Engadget
+   原題: Should You Remove The Film From Your CarPlay Infotainment Screen? It Depends - Engadget
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 01 Sep 2026 18:00:00 GMT
+
+4. ショートカットを使用して Apple CarPlay にイントロを追加する方法 - Engadget
+   原題: How To Add An Intro To Apple CarPlay Using Shortcuts - Engadget
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 28 Aug 2026 12:00:00 GMT
+
+5. Land id は不動産業者が CarPlay に必要とする地図アプリになりたい - Inman Real Estate News
+   原題: Land id Wants To Be The Maps App Real Estate Agents Need In CarPlay - Inman Real Estate News
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 04 Sep 2026 14:12:51 GMT
+
+
+[Android Auto]
+1. ウイルスの人気でドライバーが復活、MapQuest が Android Auto に拡大 - Android Authority
+   原題: MapQuest expands to Android Auto as viral popularity brings drivers back - Android Authority
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 04 Sep 2026 11:16:00 GMT
+
+2. 大きなアップデートが近づくにつれて、Android Autoの新たな隠された変更が発見される - autoevolution
+   原題: New Hidden Android Auto Changes Discovered As Big Update Is Coming - autoevolution
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 04 Sep 2026 05:24:23 GMT
+
+3. 道路から目を離さないようにするのに役立つ 4 つの Android Auto オートメーション - How-To Geek
+   原題: 4 Android Auto automations that help me keep my eyes on the road - How-To Geek
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 04 Sep 2026 10:00:13 GMT
+
+4. Android Auto 17.6 がダウンロード可能になり、大きな隠れた変更が加えられる - autoevolution
+   原題: Android Auto 17.6 Now Available for Download With Big Hidden Changes - autoevolution
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 02 Sep 2026 04:36:43 GMT
+
+
+[Arduino]
+1. Arduino の新しいボードは Raspberry Pi と ESP32 を目指していますが、タイミングが最悪です - MakeUseOf
+   原題: Arduino’s new board wants to be a Raspberry Pi and an ESP32, but the timing is awful - MakeUseOf
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 04 Sep 2026 18:30:13 GMT
+
+2. ArduinoCore-Zephyr 1.0.0 は、Arduino VENTUNO Q のサポート、Zephyr 4.4.1 へのアップデートなどを追加 - CNX ソフトウェア
+   原題: ArduinoCore-Zephyr 1.0.0 adds support for Arduino VENTUNO Q, updates to Zephyr 4.4.1, and more - CNX Software
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 04 Sep 2026 10:27:38 GMT
+
+3. Arduino VENTUNO Q が登場: Qualcomm Dragonwing IQ8 シリーズでエージェントティック AI を物理世界に導入 - qualcomm.com
+   原題: Arduino VENTUNO Q is Here: Bringing Agentic AI to the Physical World with Qualcomm Dragonwing IQ8 Series - qualcomm.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 25 Aug 2026 07:00:00 GMT
+
+4. Arduino® UNO™ Q Board でのローカル LLM の実行: 実践ガイド - EE Times
+   原題: Running Local LLMs on the Arduino® UNO™ Q Board: a Practical Guide - EE Times
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 23 Aug 2026 20:52:56 GMT
+
+5. Qualcomm Arduino ボード、Rubik Pi 3、および Snapdragon 搭載 PC に OpenClaw と Hermes Agent をインストールする方法 - qualcomm.com
+   原題: How to Install OpenClaw and Hermes Agent on Qualcomm Arduino Boards, Rubik Pi 3 and PCs with Snapdragon - qualcomm.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 24 Apr 2026 07:00:00 GMT
