@@ -1,0 +1,96 @@
+Searcher Daily Report
+Generated at: 2026-09-06 08:00:53
+Removed duplicates (today): 0
+Removed duplicates (7 days): 31
+
+[AI]
+1. GPT-6 アストラ: 新世代のインテリジェンス - OpenAI
+   原題: GPT-6 Astra: A new generation of intelligence - OpenAI
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 05 Sep 2026 06:54:46 GMT
+
+2. 独占：OpenAIエージェントが今春未公開のAIブレイクアウトでドイツのウェブサイトをハイジャック - reuters.com
+   原題: EXCLUSIVE: OpenAI agents hijacked German website in previously undisclosed AI breakout this spring - reuters.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 04 Sep 2026 10:03:00 GMT
+
+3. OpenAI、「wikiインシデント」を確認、さらなる情報開示に向けて「フレームワークに取り組んでいる」と語る - TechCrunch
+   原題: OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure - TechCrunch
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 05 Sep 2026 18:05:27 GMT
+
+4. OpenAI、AIエージェントが不正行為を行った別の事件を暴露した報道を受けて対応 - Engadget
+   原題: OpenAI Responds After Report Exposed Another Incident In Which Its AI Agents Went Rogue - Engadget
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 05 Sep 2026 21:17:18 GMT
+
+5. ダニー・ボイル、新作映画「インク」でAIの使用を認める - Deadline.com
+   原題: Danny Boyle Confirms Use Of AI In New Movie ‘Ink’ - deadline.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 05 Sep 2026 21:41:00 GMT
+
+
+[CarPlay]
+1. Anthropic のクロードが CarPlay に登場 - macrumors.com
+   原題: Anthropic's Claude Comes to CarPlay - macrumors.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 04 Sep 2026 20:43:31 GMT
+
+2. Ottocast CarPlay の仕組みと料金はいくらですか? - エンガジェット
+   原題: How Does Ottocast CarPlay Work And How Much Does It Cost? - Engadget
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 05 Sep 2026 14:30:00 GMT
+
+3. Apple CarPlay の 2026 年のオーバーホール: 試してみたいダッシュボードのアップグレード - geeky-gadgets.com
+   原題: Apple CarPlay’s 2026 Overhaul: Dashboard Upgrades to Try - geeky-gadgets.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 05 Sep 2026 11:04:31 GMT
+
+4. CarPlay のもう 1 つの大きなアプリ: Claude がすべてのユーザーに利用可能になりました - autoevolution
+   原題: Another Big App on CarPlay: Claude Now Available for All Users - autoevolution
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 05 Sep 2026 07:09:49 GMT
+
+5. あなたの車に新しい Apple CarPlay Ultra をチェックしてください - carpro.com
+   原題: Check Out The New Apple CarPlay Ultra For Your Car - carpro.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 01 Sep 2026 18:11:15 GMT
+
+
+[Android Auto]
+1. Android Auto の音量が下がり続けますか?これが理由かもしれません - Engadget
+   原題: Does Your Android Auto Keep Lowering The Volume? This Might Be Why - Engadget
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 05 Sep 2026 14:00:00 GMT
+
+2. Android Auto 上の Google マップに新しいインターフェースと新しい色が追加 - autoevolution
+   原題: Google Maps on Android Auto To Get a New Interface and New Colors - autoevolution
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 05 Sep 2026 09:28:23 GMT
+
+3. MapQuest は復活した名声で迅速に動作し、Android Auto サポートを追加 - CNET
+   原題: MapQuest Acts Fast With Its Revived Fame, Adding Android Auto Support - CNET
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 05 Sep 2026 00:19:29 GMT
+
+4. Android Auto は面白くて珍しい方法で天気情報を表示します - autoevolution
+   原題: Android Auto Will Show Weather Information in a Funny but Unusual Way - autoevolution
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 03 Sep 2026 05:16:58 GMT
+
+5. すべてのドライバーが変更すべき 4 つの簡単な Android Auto 設定 - Pocket-lint
+   原題: 4 simple Android Auto settings every driver should change - Pocket-lint
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 05 Sep 2026 15:00:15 GMT
+
+
+[Arduino]
+1. Arduino Rc ボート Gps Arduino で Bluetooth RC ボートを作る方法 HC05 Bluetooth モジュールを備えた DIY Arduino ボート #rccar - Krepšinio žinios
+   原題: Arduino Rc Boat Gps How To Make A Bluetooth RC Boat With Arduino DIY Arduino Boat With HC05 Bluetooth Module #rccar - Krepšinio žinios
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 01 Sep 2026 22:41:27 GMT
+
+2. Qualcomm Arduino ボード、Rubik Pi 3、および Snapdragon 搭載 PC に OpenClaw と Hermes Agent をインストールする方法 - Qualcomm
+   原題: How to Install OpenClaw and Hermes Agent on Qualcomm Arduino Boards, Rubik Pi 3 and PCs with Snapdragon - Qualcomm
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 24 Apr 2026 07:00:00 GMT
