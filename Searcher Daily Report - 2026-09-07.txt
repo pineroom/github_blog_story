@@ -1,0 +1,106 @@
+Searcher Daily Report
+Generated at: 2026-09-07 08:01:03
+Removed duplicates (today): 0
+Removed duplicates (7 days): 28
+
+[AI]
+1. サンダース氏、外国敵に有利になる可能性のある米国の重要産業に「死刑」を推し進める - FOXニュース
+   原題: Sanders pushes 'death penalty' for crucial US industry that could give advantage to foreign adversaries - Fox News
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 06 Sep 2026 16:37:21 GMT
+
+2. 私は 3 人の子供の父親で、人工知能の影響を研究しています。AI について親が知っておくべきことはこれです - ガーディアン
+   原題: I’m a father of three who studies the impact of artificial intelligence: this is what parents need to know about AI - The Guardian
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 06 Sep 2026 11:00:00 GMT
+
+3. ドレーク大学、国家AI戦略でパナマと提携 - KCCI
+   原題: Drake University partners with Panama on national AI strategy - KCCI
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 06 Sep 2026 22:05:00 GMT
+
+4. エイリアンの心 - OpenAI
+   原題: An Alien Mind - OpenAI
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 06 Sep 2026 16:09:46 GMT
+
+5. AI データセンターは地方の土地市場を変革し、反発を煽っている - CNBC
+   原題: AI data centers are transforming rural land markets — and fueling a backlash - CNBC
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 06 Sep 2026 12:00:01 GMT
+
+
+[CarPlay]
+1. Anthropic のクロードが CarPlay に登場 - MacRumors
+   原題: Anthropic's Claude Comes to CarPlay - MacRumors
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 04 Sep 2026 20:43:31 GMT
+
+2. Ottocast CarPlay の仕組みと料金はいくらですか? -engadget.com
+   原題: How Does Ottocast CarPlay Work And How Much Does It Cost? - engadget.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 05 Sep 2026 14:30:00 GMT
+
+3. 試す価値のある CarPlay 用の手頃な価格の iPhone アクセサリ - 9to5Mac
+   原題: Affordable iPhone accessories for CarPlay worth trying - 9to5Mac
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 05 Sep 2026 22:00:00 GMT
+
+4. フォード、再び CarPlay Ultra に背を向ける：Fathom にはそれは必要ない - autoevolution
+   原題: Ford Turns Its Back on CarPlay Ultra Again: Fathom Doesn't Need It - autoevolution
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 06 Sep 2026 08:16:01 GMT
+
+5. Apple CarPlay の 2026 年のオーバーホール: 試してみたいダッシュボードのアップグレード - Geeky Gadgets
+   原題: Apple CarPlay’s 2026 Overhaul: Dashboard Upgrades to Try - Geeky Gadgets
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 05 Sep 2026 11:04:31 GMT
+
+
+[Android Auto]
+1. Android Auto にアプリをサイドロードする方法 - engadget.com
+   原題: How To Sideload Apps Onto Android Auto - engadget.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 06 Sep 2026 01:00:00 GMT
+
+2. Android Auto が自分の携帯電話に何をしているかを認識した後、ワイヤレスでの使用をやめました - How-To Geek
+   原題: I stopped using Android Auto wirelessly after realizing what it was doing to my phone - How-To Geek
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 06 Sep 2026 17:30:13 GMT
+
+3. Android Auto の長所と短所 - bgr.com
+   原題: The Pros And Cons Of Android Auto - bgr.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 05 Sep 2026 17:17:00 GMT
+
+4. Android Auto の音量が下がり続けますか?これが理由かもしれません - engadget.com
+   原題: Does Your Android Auto Keep Lowering The Volume? This Might Be Why - engadget.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 05 Sep 2026 14:00:00 GMT
+
+5. すべての EV オーナーがインストールする必要がある 4 つの Android Auto アプリ - bgr.com
+   原題: 4 Android Auto Apps Every EV Owner Needs To Install - bgr.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 06 Sep 2026 04:47:00 GMT
+
+
+[Arduino]
+1. Arduinoをご紹介します! – C++ を使用した Arduino コンピューティングの概要 |宇宙で教える T04.1 - 欧州宇宙機関
+   原題: Meet Arduino! – Introduction to Arduino computing using C++ | Teach with Space T04.1 - European Space Agency
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 06 Sep 2026 15:08:34 GMT
+
+2. RideLinkBLE: 電動自転車コントローラー用 Arduino ESP32 BLE ライブラリ - blog.adafruit.com
+   原題: RideLinkBLE: Arduino ESP32 BLE library for e-bike controllers - blog.adafruit.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 24 Aug 2026 07:00:00 GMT
+
+3. Arduino NANO R4を使用したトランジスタカーブトレーサ - elektormagazine.com
+   原題: Transistor Curvetracer with Arduino NANO R4 - elektormagazine.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 01 Sep 2026 08:08:02 GMT
+
+4. ArduinoCore-Zephyr 1.0.0 は、Arduino VENTUNO Q のサポート、Zephyr 4.4.1 へのアップデートなどを追加 - cnx-software.com
+   原題: ArduinoCore-Zephyr 1.0.0 adds support for Arduino VENTUNO Q, updates to Zephyr 4.4.1, and more - cnx-software.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 04 Sep 2026 10:27:38 GMT
