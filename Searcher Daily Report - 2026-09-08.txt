@@ -1,0 +1,91 @@
+Searcher Daily Report
+Generated at: 2026-09-08 08:01:05
+Removed duplicates (today): 1
+Removed duplicates (7 days): 32
+
+[AI]
+1. OpenAIの主任研究者、AI研究所の速度を落とす必要があるかもしれないと警告 - Yahoo!ニュース
+   原題: OpenAI Chief Scientist Warns AI Labs May Need to Slow Down - Yahoo
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 07 Sep 2026 21:16:03 GMT
+
+2. OpenAIの主任科学者、誰もAIの影響に対する準備ができていないと警告 - BBC
+   原題: OpenAI chief scientist warns no-one is prepared for consequences of AI - BBC
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 07 Sep 2026 12:22:07 GMT
+
+3. トランプ氏、AI投稿相次ぎ、米国のために「株で数千億ドル」稼いだ、と発言 - cnbc.com
+   原題: Trump says he's made 'Hundreds of Billions of Dollars on Stocks' for the U.S., in stream of AI posts - cnbc.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 07 Sep 2026 11:06:20 GMT
+
+4. トランプ大統領、二国併合、州名変更、月の所有権主張の画像を投稿 - nypost.com
+   原題: Trump posts images of annexing two countries, renaming a state and claiming ownership of the moon - nypost.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 07 Sep 2026 19:01:00 GMT
+
+5. AIアメリカを再び偉大にする：ミーム卿ドナルド・トランプのデジタルフィードが再び軌道から外れる - タイムズ・オブ・インディア
+   原題: Make AI-merica Great Again: Meme Lord Donald Trump’s digital feed goes off rails again - The Times of India
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 07 Sep 2026 13:17:00 GMT
+
+
+[CarPlay]
+1. ポータブル Apple CarPlay スクリーンが実際に価値があるのはいつですか? - エンガジェット
+   原題: When Are Portable Apple CarPlay Screens Actually Worth It? - Engadget
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 07 Sep 2026 01:00:00 GMT
+
+2. この言葉で最も有名な自動車ブランドの一部が Apple CarPlay や​​ Android Auto をサポートしていない理由 - Pocket-lint
+   原題: Why some of the word's most well-known car brands don't support Apple CarPlay or Android Auto - Pocket-lint
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 06 Sep 2026 23:00:14 GMT
+
+3. 携帯電話への自動接続を停止するために CarPlay を切断する方法 - Engadget
+   原題: How To Disconnect CarPlay So It Will Stop Auto-Connecting To Your Phone - Engadget
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 07 Sep 2026 16:00:00 GMT
+
+4. CarPlay のチャットボット ラインナップに Claude が追加 - Appleosophy
+   原題: CarPlay’s Chatbot Lineup Now Includes Claude - Appleosophy
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 07 Sep 2026 13:00:05 GMT
+
+5. すべての自動車ブランドがワイヤレスを推進しているにもかかわらず、私が依然として有線の Apple CarPlay を使用する 6 つの理由 - スタッフ.tv
+   原題: 6 reasons I still use wired Apple CarPlay, even though all the car brands are pushing wireless - stuff.tv
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 20 Aug 2026 07:00:00 GMT
+
+
+[Android Auto]
+1. ワイヤレス Android Auto を使用するメリットとデメリット - Engadget
+   原題: The Pros And Cons Of Using Wireless Android Auto - Engadget
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 06 Sep 2026 23:30:00 GMT
+
+2. Android Auto でアプリを見つけて非表示にする方法 - Engadget
+   原題: How To Find And Hide An App On Android Auto - Engadget
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 07 Sep 2026 15:00:00 GMT
+
+3. この人気の Android Auto アプリで、携帯電話から車にビデオを送信できるようになりました - Android Authority
+   原題: This beloved Android Auto app now lets you send videos from your phone to your car - Android Authority
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 07 Sep 2026 07:14:00 GMT
+
+4. Android Auto で Waze に切り替える 5 つの理由 - SlashGear
+   原題: 5 Reasons To Switch To Waze On Android Auto - SlashGear
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 07 Sep 2026 13:45:00 GMT
+
+5. Android Auto にアプリをサイドロードする方法 - Engadget
+   原題: How To Sideload Apps Onto Android Auto - Engadget
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 06 Sep 2026 01:00:00 GMT
+
+
+[Arduino]
+1. Arduino Unoを使用した自動車デザイン Arduino Rover 山を背景に夜には街がライトアップされる - KREPSINIOZINIOS.LT
+   原題: Car Design Using Arduino Uno Arduino Rover The City Is Lit Up At Night With Mountains In The Background - KREPSINIOZINIOS.LT
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 02 Sep 2026 03:06:35 GMT
