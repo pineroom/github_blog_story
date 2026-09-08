@@ -1,0 +1,101 @@
+Searcher Daily Report
+Generated at: 2026-09-09 08:01:04
+Removed duplicates (today): 1
+Removed duplicates (7 days): 23
+
+[AI]
+1. ナビエ・ストークスのミレニアム賞問題について - openai.com
+   原題: On the Navier–Stokes Millennium Prize Problem - openai.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 08 Sep 2026 17:20:23 GMT
+
+2. ジム・クレイマー氏は、投資家がAI株に注目しすぎていると語る。彼が代わりに見るべきと言っているのはここです - CNBC
+   原題: Jim Cramer says investors are too focused on AI stocks. Here’s where he says to look instead - CNBC
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 08 Sep 2026 22:25:23 GMT
+
+3. 同意のないAI画像作成のサイバーストーカー行為で男に懲役15年の実刑判決 - WSYX
+   原題: Man sentenced to 15 years in prison for cyberstalking, creating nonconsensual AI images - WSYX
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 08 Sep 2026 22:44:17 GMT
+
+4. AI があなたの小規模チームに大企業のリーダーシップの問題をもたらした - Forbes
+   原題: AI Handed Your Small Team A Big Company’s Leadership Problem - Forbes
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 08 Sep 2026 22:46:16 GMT
+
+5. 数十億を失った24歳 - The Atlantic
+   原題: The 24-Year-Old Who Lost Billions - The Atlantic
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 08 Sep 2026 11:00:00 GMT
+
+
+[CarPlay]
+1. CarPlay のセットアップ後に変更したい設定 - Engadget
+   原題: The CarPlay Settings You May Want To Change After Setting It Up - Engadget
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 08 Sep 2026 13:30:00 GMT
+
+2. キャデラック リリク EV は GM の CarPlay 禁止の最初の亀裂である - 9to5Mac
+   原題: The Cadillac Lyriq EV is the first crack in GM’s CarPlay ban - 9to5Mac
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 08 Sep 2026 13:21:00 GMT
+
+3. さようなら、Apple CarPlay? Acura ADX の新しい AI アシスタントのせいで仕事を辞めるかもしれない - MotorTrend
+   原題: Bye, Apple CarPlay? My Acura ADX’s New AI Assistant Might Make Me Quit - MotorTrend
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 08 Sep 2026 12:07:30 GMT
+
+4. この言葉で最も有名な自動車ブランドの一部が Apple CarPlay や​​ Android Auto をサポートしていない理由 - pocket-lint.com
+   原題: Why some of the word's most well-known car brands don't support Apple CarPlay or Android Auto - pocket-lint.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 06 Sep 2026 23:00:14 GMT
+
+5. GMのCarPlayとAndroid Autoとの決別には例外が1つある - Yahoo Autos
+   原題: GM's Breakup With CarPlay And Android Auto Has One Exception - Yahoo Autos
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 07 Sep 2026 23:00:00 GMT
+
+
+[Android Auto]
+1. GMのCarPlayとAndroid Autoとの決別には1つの例外がある - Engadget
+   原題: GM's Breakup With CarPlay And Android Auto Has One Exception - Engadget
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 07 Sep 2026 23:00:00 GMT
+
+2. Android Auto の Google マップに、この要望の多かった機能がついに追加されましたが、現在は廃止されています - Android Authority
+   原題: Google Maps on Android Auto finally got this highly requested feature, but now it's disappearing - Android Authority
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 08 Sep 2026 17:52:00 GMT
+
+3. 高速道路での長距離移動を快適にする 6 つの Android Auto 機能 - Jalopnik
+   原題: 6 Android Auto Features That Help Make Long Highway Trips Better - Jalopnik
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 08 Sep 2026 20:25:00 GMT
+
+4. Android Auto が自分の携帯電話に何をしているかを認識した後、ワイヤレスでの Android Auto の使用をやめました - howtogeek.com
+   原題: I stopped using Android Auto wirelessly after realizing what it was doing to my phone - howtogeek.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 06 Sep 2026 17:30:13 GMT
+
+5. Waze ユーザーが Android Auto で主要なナビゲーション情報を失い、アップデートに問題がある - autoevolution
+   原題: Waze Users Lose Key Navigation Information on Android Auto, Update at Fault - autoevolution
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 08 Sep 2026 04:02:35 GMT
+
+
+[Arduino]
+1. Arduino、2番目のUNOブランドのシングルボードコンピュータである強力なVENTUNO Qの予約注文を開始 - Hackster.io
+   原題: Arduino Opens Pre-Orders for the Powerful VENTUNO Q, Its Second UNO-Branded Single-Board Computer - Hackster.io
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 25 Aug 2026 20:57:31 GMT
+
+2. RideLinkBLE: 電動自転車コントローラー用 Arduino ESP32 BLE ライブラリ - Adafruit
+   原題: RideLinkBLE: Arduino ESP32 BLE library for e-bike controllers - Adafruit
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 24 Aug 2026 07:00:00 GMT
+
+3. Arduino が Qualcomm Dragonwing IQ8 シリーズを搭載した Arduino VENTUNO Q を発表 - クアルコム
+   原題: Arduino Announces Arduino VENTUNO Q, Powered by Qualcomm Dragonwing IQ8 Series - Qualcomm
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 09 Mar 2026 07:00:00 GMT
