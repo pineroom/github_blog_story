@@ -1,0 +1,91 @@
+Searcher Daily Report
+Generated at: 2026-09-11 08:01:01
+Removed duplicates (today): 1
+Removed duplicates (7 days): 34
+
+[AI]
+1. 意見 |かつてビッグテックはアメリカを騙した。 2回目はあまりうまくいきません。 - ニューヨーク・タイムズ紙
+   原題: Opinion | Big Tech Fooled America Once. The Second Time’s Not Going So Well. - The New York Times
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 10 Sep 2026 09:04:01 GMT
+
+2. マスク用語が「心理学」を恐れる中、より多くの人類研究者がAIの危険性を警告 - ガーディアン紙
+   原題: More Anthropic researchers warn of AI’s perils as Musk terms fears a ‘psyop’ - The Guardian
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 10 Sep 2026 21:51:00 GMT
+
+3. 高まるA.I.の合唱。内部関係者、人類絶滅の可能性を警告 - NBCニュース
+   原題: Growing chorus of A.I. insiders warns of possible extinction of humans - NBC News
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 10 Sep 2026 22:49:13 GMT
+
+4. 「速度を落とせ」バーニー・サンダース氏、AI超知能を禁止する法案を提案 - BBC
+   原題: 'Slow it down' - Bernie Sanders proposes bill to ban AI superintelligence - BBC
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 10 Sep 2026 22:48:37 GMT
+
+5. アンスロピックは生物兵器製造の可能性を阻止したと主張 - ニューヨーク・タイムズ
+   原題: Anthropic Says It Blocked Possible Efforts to Build Biological Weapons - The New York Times
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 10 Sep 2026 21:50:37 GMT
+
+
+[CarPlay]
+1. iPhone 18 が登場、CarPlay に朗報 - autoevolution
+   原題: iPhone 18 Is Here, and There's Good News for CarPlay - autoevolution
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 10 Sep 2026 03:50:10 GMT
+
+2. Apple CarPlay ディスプレイをカスタマイズする方法: アプリ、ウィジェット、iOS 26 - ガジェットハック
+   原題: How to Customize Apple CarPlay Display: Apps, Widgets, iOS 26 - Gadget Hacks
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 10 Sep 2026 12:01:41 GMT
+
+3. CPMC X6 レビュー: 粗いエッジのオートバイ CarPlay - 究極のオートバイ
+   原題: CPMC X6 Review: Motorcycle CarPlay With Rough Edges - Ultimate Motorcycling
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 09 Sep 2026 23:25:39 GMT
+
+
+[Android Auto]
+1. Android Auto ユーザーは、Google の波状のメディア プログレス バーがなくなったと主張 - Android Authority
+   原題: Android Auto users say Google's wavy media progress bar is gone - Android Authority
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 10 Sep 2026 18:42:00 GMT
+
+2. これら 3 つのアプリをランチャーから削除すると Android Auto が大幅に改善される - How-To Geek
+   原題: Android Auto gets much better when you remove these 3 apps from the launcher - How-To Geek
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 09 Sep 2026 17:30:12 GMT
+
+3. 秘密の Android Auto 開発者メニューを 10 回タップすると、サイドロードされたアプリと Google が埋め込んだワイヤレス切り替え機能のロックが解除されます - MakeUseOf
+   原題: Ten taps for secret Android Auto developer menu unlocks sideloaded apps and the wireless toggle Google buried - MakeUseOf
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 10 Sep 2026 16:00:14 GMT
+
+
+[Arduino]
+1. Arduino VENTUNO Q が登場: Qualcomm Dragonwing IQ8 シリーズで Agentic AI を物理世界に導入 - Qualcomm
+   原題: Arduino VENTUNO Q is Here: Bringing Agentic AI to the Physical World with Qualcomm Dragonwing IQ8 Series - Qualcomm
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 25 Aug 2026 07:00:00 GMT
+
+2. Arduino UNO メディア キャリアは、MIPI CSI/DSI およびオーディオ コネクタを UNO Q および VENTUNO Q ボードに追加します - CNX ソフトウェア
+   原題: Arduino UNO Media Carrier adds MIPI CSI/DSI and audio connectors to UNO Q and VENTUNO Q boards - CNX Software
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 10 Sep 2026 00:00:32 GMT
+
+3. SMARC を使用した Arduino プロトタイプの展開 - 電子設計
+   原題: Using SMARC to Deploy Arduino Prototype - Electronic Design
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 01 Sep 2026 19:16:45 GMT
+
+4. DigiKey と Arduino が賞金 20,000 ドルを賭けたマイクロコントローラー プロジェクト チャレンジを開始 - controlglobal.com
+   原題: DigiKey and Arduino launch microcontroller project challenge with $20,000 in prizes - controlglobal.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 03 Sep 2026 14:12:21 GMT
+
+5. $299 Arduino Ventuno Q SBC は、Qualcomm Dragonwing IQ8 SoC と STM32H5 MCU を組み合わせたもの - CNX ソフトウェア
+   原題: $299 Arduino Ventuno Q SBC combines Qualcomm Dragonwing IQ8 SoC and STM32H5 MCU - CNX Software
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 25 Aug 2026 07:00:00 GMT
