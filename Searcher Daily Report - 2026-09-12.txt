@@ -1,0 +1,91 @@
+Searcher Daily Report
+Generated at: 2026-09-12 08:01:02
+Removed duplicates (today): 0
+Removed duplicates (7 days): 29
+
+[AI]
+1. 意見 | This Is Really Bad - The New York Times
+   原題: Opinion | This Is Really Bad - The New York Times
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 11 Sep 2026 09:02:30 GMT
+
+2. アンスロピック、イランが米国のAIモデルを利用して米海軍軍艦を標的に - WSJ
+   原題: Anthropic Says Iran Used Its American AI Model to Target U.S. Navy Warships - WSJ
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 11 Sep 2026 14:28:47 GMT
+
+3. 下院民主党、「壊滅的」リスクを理由にジョンソン議長にAIセーフガード可決のための休会中止を要請 - CNN
+   原題: House Democrats urge Speaker Johnson to cancel recess to pass AI safeguards, citing ‘catastrophic’ risk - CNN
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 11 Sep 2026 21:38:45 GMT
+
+4. Facebook億万長者の「効果的な利他主義」運動がAI規制推進を推進していると非難 - FOXニュース
+   原題: Facebook billionaire's 'effective altruism' movement accused of driving AI regulation push - Fox News
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 11 Sep 2026 20:57:03 GMT
+
+5. OpenAIは最先端AIの減速に前向き、CEOのサム・アルトマン氏がスタッフに語る - Bloomberg.com
+   原題: OpenAI Is Open to Slowing Cutting-Edge AI, CEO Sam Altman Tells Staff - Bloomberg.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 11 Sep 2026 00:43:00 GMT
+
+
+[CarPlay]
+1. CarPlay のセットアップ後に変更したい設定 - engadget.com
+   原題: The CarPlay Settings You May Want To Change After Setting It Up - engadget.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 08 Sep 2026 13:30:00 GMT
+
+2. CarPlay は 6 つの主要な AI チャットボット アプリで動作するようになり、キー ホールドアウトは 1 つになった - 9to5Mac
+   原題: CarPlay now works with six major AI chatbot apps, leaving one key holdout - 9to5Mac
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 11 Sep 2026 14:16:00 GMT
+
+3. Apple CarPlay ディスプレイを変更およびカスタマイズする方法 - engadget.com
+   原題: How To Change And Customize Your Apple CarPlay Display - engadget.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 08 Sep 2026 23:30:00 GMT
+
+4. Apple CarPlay が携帯電話のバッテリーを消耗させるのはなぜですか? -engadget.com
+   原題: Why Is Apple CarPlay Draining Your Phone Battery? - engadget.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 08 Sep 2026 15:00:00 GMT
+
+5. 結局のところ、GMはApple CarPlayとAndroid Autoを完全に廃止することはできないかもしれない - CarBuzz
+   原題: GM May Not Completely Kill Apple CarPlay And Android Auto After All - CarBuzz
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 01 Aug 2026 07:00:00 GMT
+
+
+[Android Auto]
+1. このサイドロードされた Android Auto アプリは、車の画面をレトロなゲーム アーケードに変えました - XDA
+   原題: This sideloaded Android Auto app transformed my car’s screen into a retro gaming arcade - XDA
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 11 Sep 2026 15:31:17 GMT
+
+2. 地元のラジオを捨てて、世界中の何千もの放送局を備えた Android Auto アプリを購入しました - Android Police
+   原題: I ditched local radio for an Android Auto app with thousands of stations from around the world - Android Police
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 11 Sep 2026 10:00:10 GMT
+
+3. Android Auto で DOOM を実行してみたが、思った通り非実用的だった - How-To Geek
+   原題: I got DOOM running on Android Auto, and it's exactly as impractical as it sounds - How-To Geek
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 11 Sep 2026 17:30:13 GMT
+
+4. Android Auto ユーザーは、長年よだれを垂らし続けてきた Google マップ機能を失う - autoevolution
+   原題: Android Auto Users Lose the Google Maps Feature They've Been Drooling Over for Years - autoevolution
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 09 Sep 2026 03:58:07 GMT
+
+5. 一部の Android Auto では Google マップの速度計が表示されなくなり、交通データも依然として表示されない - 9to5google.com
+   原題: Google Maps speedometer disappears on Android Auto for some, traffic data still missing too - 9to5google.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 08 Sep 2026 19:05:00 GMT
+
+
+[Arduino]
+1. 互換性のある Kenwood オーディオ機器を制御するための Arduino ライブラリ - Adafruit
+   原題: An Arduino library for controlling compatible Kenwood audio equipment - Adafruit
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 15 Jul 2026 07:00:00 GMT
