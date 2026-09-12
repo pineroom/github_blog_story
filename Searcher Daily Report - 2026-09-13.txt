@@ -1,0 +1,91 @@
+Searcher Daily Report
+Generated at: 2026-09-13 08:01:09
+Removed duplicates (today): 1
+Removed duplicates (7 days): 35
+
+[AI]
+1. 私たちはフロンティアを歩まなければなりません - darioamodei.com
+   原題: We Must Pace the Frontier - darioamodei.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 12 Sep 2026 14:15:02 GMT
+
+2. Nvidia (NVDA) の 2 GW オーストラリア AI 推進はインフラストラクチャの優位性をさらに高める可能性 - Finance.yahoo.com
+   原題: Nvidia (NVDA)’s 2 GW Australia AI Push Could Deepen Its Infrastructure Advantage - finance.yahoo.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 12 Sep 2026 22:03:11 GMT
+
+3. トランプ氏、中国に対する米国のリードを守るためにAIの破滅的発言を一蹴 - Bloomberg.com
+   原題: Trump Brushes Off AI Doomsaying to Guard US Lead Over China - Bloomberg.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 12 Sep 2026 15:52:21 GMT
+
+4. AIデータセンターは米国全土で拡大を続ける - Fox News
+   原題: AI data centers continue expanding across the US - Fox News
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 12 Sep 2026 22:27:58 GMT
+
+5. 「私には何も持っていない」：トランプ大統領、AIの存続リスクに対する懸念を一蹴 - Politico
+   原題: ‘I don’t have any’: Trump brushes aside concerns over AI’s existential risks - Politico
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 11 Sep 2026 16:29:00 GMT
+
+
+[CarPlay]
+1. iOS 27 で Apple CarPlay は実際に何が変わりますか? - オートブログ
+   原題: What Actually Changes in Apple CarPlay With iOS 27? - Autoblog
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 12 Sep 2026 12:30:00 GMT
+
+2. Anthropic のクロードが CarPlay に登場 - macrumors.com
+   原題: Anthropic's Claude Comes to CarPlay - macrumors.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 04 Sep 2026 07:00:00 GMT
+
+3. Apple CarPlay のオーディオ品質を向上させる方法 - Engadget
+   原題: How To Improve Your Audio Quality On Apple CarPlay - Engadget
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 30 Aug 2026 07:00:00 GMT
+
+
+[Android Auto]
+1. Android Auto で私の車が売れました。自動車メーカーはあなたにも車を売ってくれると賭けています - Android Police
+   原題: Android Auto sold me my car, now carmakers are betting it'll sell you one too - Android Police
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 12 Sep 2026 16:15:10 GMT
+
+2. Google、Android Auto 17.7を全ユーザー向けにリリース、インストール方法はこちら - autoevolution
+   原題: Google Releases Android Auto 17.7 for All Users, Here's How To Install It - autoevolution
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 12 Sep 2026 08:49:27 GMT
+
+3. 秘密の Android Auto 開発者メニューを 10 回タップすると、サイドロードされたアプリと Google が埋め込んだワイヤレス切り替え機能のロックが解除されます - makeuseof.com
+   原題: Ten taps for secret Android Auto developer menu unlocks sideloaded apps and the wireless toggle Google buried - makeuseof.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 10 Sep 2026 16:00:14 GMT
+
+4. Google マップに、Android Auto で使用する価値のある機能がついに追加されました - pocket-lint.com
+   原題: Google Maps finally added features that make it worth using on Android Auto - pocket-lint.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 09 Sep 2026 18:30:48 GMT
+
+5. 運転体験を台無しにする Android Auto の 5 つの間違い - bgr.com
+   原題: 5 Android Auto Mistakes That Could Be Ruining Your Driving Experience - bgr.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 12 Sep 2026 17:32:00 GMT
+
+
+[Arduino]
+1. Arduino® UNO™ Q Board でのローカル LLM の実行: 実践ガイド - EE Times
+   原題: Running Local LLMs on the Arduino® UNO™ Q Board: a Practical Guide - EE Times
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 09 Sep 2026 18:52:21 GMT
+
+2. Arduinoの新しいボードはRaspberry PiとESP32を目指しているが、タイミングが最悪 - makeuseof.com
+   原題: Arduino’s new board wants to be a Raspberry Pi and an ESP32, but the timing is awful - makeuseof.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 04 Sep 2026 18:30:13 GMT
+
+3. Qualcomm Arduino ボード、Rubik Pi 3、および Snapdragon 搭載 PC に OpenClaw と Hermes Agent をインストールする方法 - Qualcomm
+   原題: How to Install OpenClaw and Hermes Agent on Qualcomm Arduino Boards, Rubik Pi 3 and PCs with Snapdragon - Qualcomm
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 24 Apr 2026 07:00:00 GMT
