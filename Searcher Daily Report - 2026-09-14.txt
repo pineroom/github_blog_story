@@ -1,0 +1,76 @@
+Searcher Daily Report
+Generated at: 2026-09-14 08:00:51
+Removed duplicates (today): 1
+Removed duplicates (7 days): 35
+
+[AI]
+1. 人間的な最高経営責任者（CEO）ダリオ・アモデイ氏、A.I. を呼び掛けるスローダウン - ニューヨーク・タイムズ
+   原題: Anthropic C.E.O. Dario Amodei Calls for A.I. Slowdown - The New York Times
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 12 Sep 2026 16:03:01 GMT
+
+2. 彼は数学における大きな進歩に近づいていました。そしてAIにスクープされてしまいました。 - ワシントンポスト.com
+   原題: He was close to a huge math breakthrough. Then he got scooped by AI. - washingtonpost.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 13 Sep 2026 17:00:00 GMT
+
+3. チャールズ王はA.I.を招集する予定開発の遅れを求める声の中の指導者たち - ニューヨーク・タイムズ
+   原題: King Charles Will Convene A.I. Leaders Amid Calls to Slow Development - The New York Times
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 13 Sep 2026 20:23:47 GMT
+
+4. テクノロジー企業が AI を抑制することが難しい理由- ニューヨーク・タイムズ紙
+   原題: Why It’s Difficult for Tech Companies to Rein In A.I. - The New York Times
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 12 Sep 2026 16:18:06 GMT
+
+5. ダウ・ジョーンズ先物：人類主導の減速要求はAI株に打撃を与えるか？ FRB会合を控え - Investor's Business Daily
+   原題: Dow Jones Futures: Will Anthropic-Led Call For Slowdown Hit AI Stocks? Fed Meeting Ahead - Investor's Business Daily
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 13 Sep 2026 21:56:00 GMT
+
+
+[CarPlay]
+1. 自動車メーカーは2026年にCarPlayを廃止：その理由は次のとおりです - Engadget
+   原題: Car Manufacturers Are Ditching CarPlay In 2026: Here's Why - Engadget
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 13 Sep 2026 17:30:00 GMT
+
+2. Ottocast CarPlay の仕組みと料金はいくらですか? - エンガジェット
+   原題: How Does Ottocast CarPlay Work And How Much Does It Cost? - Engadget
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 05 Sep 2026 14:30:00 GMT
+
+
+[Android Auto]
+1. Android Auto の問題の 1 つは簡単なアップデートで解決できる - Engadget
+   原題: One Problem With Android Auto Can Be Fixed With A Simple Update - Engadget
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 12 Sep 2026 23:00:00 GMT
+
+2. 私は Android Auto を搭載した車をうらやましく思っていました - この 20 ドルの回避策を見つけるまでは - androidauthority.com
+   原題: I used to envy cars with Android Auto — until I found this $20 workaround - androidauthority.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 13 Sep 2026 09:30:00 GMT
+
+3. 私は Android Auto でこうした間違いを犯すのをやめました。ようやくドライブのストレスが軽減されました - Android Police
+   原題: I stopped making these Android Auto mistakes; my drives finally got less stressful - Android Police
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 13 Sep 2026 10:00:10 GMT
+
+4. あなたの有線 Android Auto 接続は、ある重要な目的で密かに Bluetooth を使用しています - How-To Geek
+   原題: Your wired Android Auto connection secretly still uses Bluetooth for one important thing - How-To Geek
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 12 Sep 2026 23:30:13 GMT
+
+5. Google、Android Autoのマップで消えるスピードメーターの原因を説明 - androidauthority.com
+   原題: Google explains what's going on with the disappearing speedometer in Maps on Android Auto - androidauthority.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 11 Sep 2026 20:44:00 GMT
+
+
+[Arduino]
+1. Arduino の新しいボードは Raspberry Pi と ESP32 を目指していますが、タイミングが最悪です - MakeUseOf
+   原題: Arduino’s new board wants to be a Raspberry Pi and an ESP32, but the timing is awful - MakeUseOf
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 04 Sep 2026 07:00:00 GMT
