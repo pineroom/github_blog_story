@@ -1,0 +1,111 @@
+Searcher Daily Report
+Generated at: 2026-09-16 08:01:16
+Removed duplicates (today): 4
+Removed duplicates (7 days): 13
+
+[AI]
+1. クルーズ氏とホーリー氏、AI企業に対する独占禁止法の適用除外を打ち切る - politico.com
+   原題: Cruz and Hawley shut down antitrust exemptions for AI companies - politico.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 15 Sep 2026 19:27:28 GMT
+
+2. AIは本当に人類を滅ぼすことができるのか – 6人の専門家がリスクを詳しく解説 - ガーディアン紙
+   原題: Could AI really wipe out humanity – six experts spell out the risks - The Guardian
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 15 Sep 2026 20:55:00 GMT
+
+3. テキサスのアーチ・マニング氏、暴力的なAIビデオへの反応を謝罪 - espn.com
+   原題: Texas' Arch Manning apologizes for reaction to violent AI video - espn.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 15 Sep 2026 18:47:00 GMT
+
+4. テキサスQBアーチ・マニング、AIビデオに対する「無神経なコメント」を謝罪 - NBCニュース
+   原題: Texas QB Arch Manning apologizes for ‘insensitive comment’ over AI video - NBC News
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 15 Sep 2026 19:11:25 GMT
+
+5. AIビデオの反応を受けてアーチ・マニングが謝罪。テキサスはもっと早く行動すべきだった |ゴールデン - Yahooスポーツ
+   原題: Arch Manning apologizes after AI video reaction. Texas should have acted sooner | Golden - Yahoo Sports
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 15 Sep 2026 22:01:52 GMT
+
+
+[CarPlay]
+1. GM、CarPlay と共存するためにトラックのネイティブ ソフトウェアをアップデート - The Verge
+   原題: GM updates its trucks’ native software to coexist with CarPlay - The Verge
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 15 Sep 2026 11:00:00 GMT
+
+2. Apple CarPlay は静かに、待望の追加機能を備えた無料アップグレードを入手しました - Pocket-lint
+   原題: Apple CarPlay quietly just got a free upgrade with some long-awaited additions - Pocket-lint
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 14 Sep 2026 23:00:14 GMT
+
+3. GM、ピックアップトラック用の新しいユーザーインターフェースを発表 - ゼネラルモーターズ
+   原題: GM unveils a new user interface for pickup trucks - General Motors
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 15 Sep 2026 14:16:10 GMT
+
+4. GM、新しいトラックインターフェースにApple CarPlayとAndroid Autoを搭載 - Motor1.com
+   原題: GM Keeps Apple CarPlay And Android Auto On Its New Truck Interface - Motor1.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 15 Sep 2026 21:18:00 GMT
+
+5. GMはすでにApple CarPlayを廃止後復活させている - bgr.com
+   原題: GM Is Already Bringing Apple CarPlay Back After Discontinuing It - bgr.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 15 Sep 2026 16:16:48 GMT
+
+
+[Android Auto]
+1. GM ピックアップのインフォテインメント再設計には CarPlay、Android Auto が統合 - Detroit Free Press
+   原題: GM pickups' infotainment redesign integrates CarPlay, Android Auto - Detroit Free Press
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 15 Sep 2026 19:35:00 GMT
+
+2. 古い車を新しく感じさせる 3 つの Android Auto 機能 - bgr.com
+   原題: 3 Android Auto Features That Can Make An Older Car Feel New - bgr.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 15 Sep 2026 16:17:00 GMT
+
+3. Android Auto、ドライバーが長年望んでいた Google マップ機能を搭載 - HotHardware
+   原題: Android Auto Gets Google Maps Feature Drivers Have Wanted For Years - HotHardware
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 15 Sep 2026 14:33:00 GMT
+
+4. ゼネラルモーターズ、2027 年に CarPlay と Android Auto のスペースを確保 シエラ州シルバラード (GM:NYSE) - Seeking Alpha
+   原題: General Motors makes room for CarPlay and Android Auto in 2027 Silverado, Sierra (GM:NYSE) - Seeking Alpha
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 15 Sep 2026 12:26:02 GMT
+
+5. Android Auto が 7 年ぶりについに主要な Google マップ機能を搭載 - bgr.com
+   原題: Android Auto Is Finally Getting A Key Google Maps Feature, 7 Years Later - bgr.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 15 Sep 2026 21:17:00 GMT
+
+
+[Arduino]
+1. EcoFlow AI: Arduino UNO Q を使用したスマート灌漑コントローラー - Hackster.io
+   原題: EcoFlow AI: smart irrigation controller with Arduino UNO Q - Hackster.io
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 15 Sep 2026 01:20:41 GMT
+
+2. Arduino® UNO™ Q Board でローカル LLM を実行する: 実践ガイド - eetimes.com
+   原題: Running Local LLMs on the Arduino® UNO™ Q Board: a Practical Guide - eetimes.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 09 Sep 2026 18:52:21 GMT
+
+3. Arduino の収益 2023 年: 推定 1 億 4,250 万ドルARR - GetLatka
+   原題: Arduino Revenue 2023: $142.5M Est. ARR - GetLatka
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 10 Sep 2026 07:00:00 GMT
+
+4. Arduino、2番目のUNOブランドのシングルボードコンピュータである強力なVENTUNO Qの予約注文を開始 - Hackster.io
+   原題: Arduino Opens Pre-Orders for the Powerful VENTUNO Q, Its Second UNO-Branded Single-Board Computer - Hackster.io
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 25 Aug 2026 11:03:26 GMT
+
+5. Arduino UNO-Q オープンソース デュアルブレイン AI 自律 UAV スタック - Hackster.io
+   原題: Arduino UNO-Q Opensource Dual-Brain AI Autonomous UAV Stack - Hackster.io
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 13 Sep 2026 07:00:00 GMT
