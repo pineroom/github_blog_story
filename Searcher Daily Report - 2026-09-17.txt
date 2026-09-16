@@ -1,0 +1,111 @@
+Searcher Daily Report
+Generated at: 2026-09-17 08:00:56
+Removed duplicates (today): 4
+Removed duplicates (7 days): 14
+
+[AI]
+1. The Liftoff Scenario That Terrifies A.I. Doomsayers - The New York Times
+   原題: The Liftoff Scenario That Terrifies A.I. Doomsayers - The New York Times
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 16 Sep 2026 19:56:44 GMT
+
+2. The real reason why Donald Trump is so furiously against AI guardrails - CNN
+   原題: The real reason why Donald Trump is so furiously against AI guardrails - CNN
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 16 Sep 2026 04:01:29 GMT
+
+3. Congress in AI deadlock as public fear soars - Politico
+   原題: Congress in AI deadlock as public fear soars - Politico
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 16 Sep 2026 12:00:00 GMT
+
+4. Ted Cruz: ‘It’s still my hope’ to have an AI markup this month - Politico
+   原題: Ted Cruz: ‘It’s still my hope’ to have an AI markup this month - Politico
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 16 Sep 2026 18:23:56 GMT
+
+5. House votes to curb AI data center costs - Axios
+   原題: House votes to curb AI data center costs - Axios
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 16 Sep 2026 22:56:26 GMT
+
+
+[CarPlay]
+1. GM Finds Splitscreen Solution For CarPlay And Android Auto - Engadget
+   原題: GM Finds Splitscreen Solution For CarPlay And Android Auto - Engadget
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 15 Sep 2026 19:59:01 GMT
+
+2. Great News: GM Isn't Giving Up On Apple CarPlay And Android Auto After All - autos.yahoo.com
+   原題: Great News: GM Isn't Giving Up On Apple CarPlay And Android Auto After All - autos.yahoo.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 16 Sep 2026 18:30:20 GMT
+
+3. GM brings CarPlay, Android Auto to split-screen interface in 2027 Silverado, Sierra - Car Dealership Guy News
+   原題: GM brings CarPlay, Android Auto to split-screen interface in 2027 Silverado, Sierra - Car Dealership Guy News
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 16 Sep 2026 20:16:23 GMT
+
+4. GM Revives Apple CarPlay for 2027 Chevy Silverado and GMC Sierra - Autoweek
+   原題: GM Revives Apple CarPlay for 2027 Chevy Silverado and GMC Sierra - Autoweek
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 16 Sep 2026 16:30:00 GMT
+
+5. GM’s new UI for trucks gives CarPlay its own window - The Next Web
+   原題: GM’s new UI for trucks gives CarPlay its own window - The Next Web
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 16 Sep 2026 17:29:07 GMT
+
+
+[Android Auto]
+1. How To Manually Update Android Auto (And What It Might Mean If You Can't) - Engadget
+   原題: How To Manually Update Android Auto (And What It Might Mean If You Can't) - Engadget
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 15 Sep 2026 23:00:00 GMT
+
+2. Android Auto update lets you customize your Google Maps ‘driving avatar’ via car display - 9to5Google
+   原題: Android Auto update lets you customize your Google Maps ‘driving avatar’ via car display - 9to5Google
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 16 Sep 2026 17:25:00 GMT
+
+3. Android Auto could give you a better look at your destination before you start your trip - Android Authority
+   原題: Android Auto could give you a better look at your destination before you start your trip - Android Authority
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 16 Sep 2026 10:01:00 GMT
+
+4. The 11-inch Android Auto wireless screen you've been waiting for just dropped to $109 - Android Police
+   原題: The 11-inch Android Auto wireless screen you've been waiting for just dropped to $109 - Android Police
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 16 Sep 2026 18:09:24 GMT
+
+5. I added Android Auto to my old car for $20 without replacing the stereo - MakeUseOf
+   原題: I added Android Auto to my old car for $20 without replacing the stereo - MakeUseOf
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 16 Sep 2026 14:01:13 GMT
+
+
+[Arduino]
+1. Arduino Reaches Core Zephyr 1.0 - i-programmer.info
+   原題: Arduino Reaches Core Zephyr 1.0 - i-programmer.info
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 16 Sep 2026 17:23:32 GMT
+
+2. This Cyberdeck Puppet Is Whimsy Overload - Hackster.io
+   原題: This Cyberdeck Puppet Is Whimsy Overload - Hackster.io
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 16 Sep 2026 11:32:42 GMT
+
+3. Arduino Revenue 2023: $142.5M Est. ARR - getlatka.com
+   原題: Arduino Revenue 2023: $142.5M Est. ARR - getlatka.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 10 Sep 2026 07:00:00 GMT
+
+4. $299 Arduino Ventuno Q SBC combines Qualcomm Dragonwing IQ8 SoC and STM32H5 MCU - cnx-software.com
+   原題: $299 Arduino Ventuno Q SBC combines Qualcomm Dragonwing IQ8 SoC and STM32H5 MCU - cnx-software.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 25 Aug 2026 07:00:00 GMT
+
+5. AI ESP32 Coding without Losing Control - Elektor Magazine
+   原題: AI ESP32 Coding without Losing Control - Elektor Magazine
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 15 Sep 2026 17:19:00 GMT
