@@ -1,0 +1,111 @@
+Searcher Daily Report
+Generated at: 2026-09-18 08:01:11
+Removed duplicates (today): 0
+Removed duplicates (7 days): 27
+
+[AI]
+1. 匿名の数学オタク、人類学を辞めてAI安全性の顔に - WSJ
+   原題: The Anonymous Math Geek Who Quit Anthropic—and Became the Face of AI Safety - WSJ
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 17 Sep 2026 01:00:00 GMT
+
+2. OpenAI、AIの新たな動作について警告し、より綿密に追跡することを誓約 - APニュース
+   原題: OpenAI flags concerning new AI behavior and vows to track it more closely - AP News
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 17 Sep 2026 10:49:00 GMT
+
+3. AI黙示録はこうなる - WIRED
+   原題: Here’s What the AI Apocalypse Could Look Like - WIRED
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 17 Sep 2026 22:20:00 GMT
+
+4. Paradium.AIがラウンドテーブル（ナスダック：RTB）と10年間の戦略的プラットフォーム契約を締結 - Business Wire
+   原題: Paradium.AI Signs 10-Year Strategic Platform Agreement with Roundtable (Nasdaq: RTB) - Business Wire
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 17 Sep 2026 21:45:00 GMT
+
+5. トランプ大統領はAIを擁護したTruth Socialのデータセンターとコメント投稿者らの拍手 - ニューヨーク・タイムズ
+   原題: Trump Defended A.I. Data Centers on Truth Social, and Commenters Clapped Back - The New York Times
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 15 Sep 2026 22:53:04 GMT
+
+
+[CarPlay]
+1. iOS 27 CarPlay のどの機能があなたの車で実際に動作しますか? - MacRumors
+   原題: Which iOS 27 CarPlay Features Actually Work in Your Car? - MacRumors
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 17 Sep 2026 11:17:46 GMT
+
+2. Apple の新しい iOS 27 は CarPlay に多数のアップデートをもたらす - Kelley Blue Book
+   原題: Apple’s New iOS 27 Brings a Host of Updates to CarPlay - Kelley Blue Book
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 17 Sep 2026 17:04:37 GMT
+
+3. Apple CarPlay ディスプレイを変更およびカスタマイズする方法 - Engadget
+   原題: How To Change And Customize Your Apple CarPlay Display - Engadget
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 08 Sep 2026 07:00:00 GMT
+
+4. キャデラック リリック EV は GM の CarPlay 禁止の最初のクラックである - 9to5Mac
+   原題: The Cadillac Lyriq EV is the first crack in GM’s CarPlay ban - 9to5Mac
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 08 Sep 2026 07:00:00 GMT
+
+5. First Shift：GMがトラックのApple CarPlayを微調整 - 自動車ニュース
+   原題: First Shift: GM tweaks Apple CarPlay in trucks - Automotive News
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 17 Sep 2026 19:43:32 GMT
+
+
+[Android Auto]
+1. 車でのリスニング方法を完全に変えた、過小評価されている 6 つの Android Auto オーディオ アプリ - Android Police
+   原題: 6 underrated Android Auto audio apps that completely changed how I listen in my car - Android Police
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 17 Sep 2026 16:15:10 GMT
+
+2. 私は毎日 Waze を使用していますが、最新の Android Auto アップデートにより私の運転方法が完全に変わりました - Android Authority
+   原題: I use Waze every day, and the latest Android Auto update completely changed how I drive - Android Authority
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 17 Sep 2026 10:30:00 GMT
+
+3. Android Auto の Google マップに最も基本的なカスタマイズ機能がついに追加 - autoevolution
+   原題: Google Maps on Android Auto Is Finally Getting the Most Basic Customization Feature - autoevolution
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 17 Sep 2026 06:30:02 GMT
+
+4. 新しい GM ユーザー インターフェイスが Apple CarPlay、Android Auto を復活 - Kelley Blue Book
+   原題: New GM User Interface Restores Apple CarPlay, Android Auto - Kelley Blue Book
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 17 Sep 2026 20:24:20 GMT
+
+5. Android Auto 17.6 がダウンロード可能になり、大きな隠れた変更が加えられる - autoevolution
+   原題: Android Auto 17.6 Now Available for Download With Big Hidden Changes - autoevolution
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 02 Sep 2026 07:00:00 GMT
+
+
+[Arduino]
+1. マッシモ・バンツィ氏とアンドレア・リチェッタ氏、ライブビルドでArduino UNO Qのスマートさを紹介すると約束 - Hackster.io
+   原題: Massimo Banzi, Andrea Richetta Promise to Showcase the Arduino UNO Q's Smarts in a Live Build - Hackster.io
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 17 Sep 2026 11:20:11 GMT
+
+2. Arduino VENTUNO Q が登場: Qualcomm Dragonwing IQ8 シリーズで Agentic AI を物理世界に導入 - Qualcomm
+   原題: Arduino VENTUNO Q is Here: Bringing Agentic AI to the Physical World with Qualcomm Dragonwing IQ8 Series - Qualcomm
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 25 Aug 2026 07:00:00 GMT
+
+3. DigiKey と Arduino が賞金 20,000 ドルを賭けたマイクロコントローラー プロジェクト チャレンジを開始 - controlglobal.com
+   原題: DigiKey and Arduino launch microcontroller project challenge with $20,000 in prizes - controlglobal.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 03 Sep 2026 14:12:21 GMT
+
+4. $299 Arduino Ventuno Q SBC は、Qualcomm Dragonwing IQ8 SoC と STM32H5 MCU を組み合わせたもの - CNX ソフトウェア
+   原題: $299 Arduino Ventuno Q SBC combines Qualcomm Dragonwing IQ8 SoC and STM32H5 MCU - CNX Software
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 25 Aug 2026 07:00:00 GMT
+
+5. Arduino Mega Case – スナップフィット #3DPrinting #3DMonday - Adafruit
+   原題: Arduino Mega Case – Snap-Fit #3DPrinting #3DThursday - Adafruit
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 16 Jul 2026 07:00:00 GMT
