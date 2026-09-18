@@ -1,0 +1,111 @@
+Searcher Daily Report
+Generated at: 2026-09-19 08:01:07
+Removed duplicates (today): 4
+Removed duplicates (7 days): 24
+
+[AI]
+1. 独占：米軍は偽情報報告にAIを使用した後、危機一髪だったと情報筋が語る - CNN
+   原題: Exclusive: US military had close call after using AI for false intelligence report, sources say - CNN
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 18 Sep 2026 16:55:50 GMT
+
+2. レポート：AI兵器の幻覚をめぐり米国が中国船に乗り込みそうになった - arstechnica.com
+   原題: Report: US almost boarded Chinese ship over hallucinated AI arms report - arstechnica.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 18 Sep 2026 20:26:33 GMT
+
+3. 国防総省、欧州での軍事駐留を再考、「AIのゴッドファーザー」が規制を求める：朝の総括 - NBCニュース
+   原題: Pentagon rethinks military presence in Europe and ‘Godfather of AI’ calls for regulation: Morning Rundown - NBC News
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 18 Sep 2026 11:26:20 GMT
+
+4. 独占 |ジェミニ、グーグルのAIによる初の侵入で3社をハッキング - WSJ
+   原題: Exclusive | Gemini Hacked Three Companies in First Known Breakout by Google’s AI - WSJ
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 18 Sep 2026 22:10:00 GMT
+
+5. 破滅者、夢想家、そして習氏：トランプ大統領、AIについてあらゆる方面の意見を聞く - NBCニュース
+   原題: The doomers, the dreamers and Xi: Trump hears from all sides on AI - NBC News
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 18 Sep 2026 22:39:40 GMT
+
+
+[CarPlay]
+1. GM、自社車にApple CarPlayとAndroid Autoを再ダウンロード - Yahoo Finance
+   原題: GM is re-downloading Apple CarPlay, Android Auto to its cars - Yahoo Finance
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 18 Sep 2026 20:35:00 GMT
+
+2. iOS 27 で Apple CarPlay で YouTube が視聴できるようになる: その仕組み - Geeky Gadgets
+   原題: iOS 27 Lets You Watch YouTube on Apple CarPlay: How It Works - Geeky Gadgets
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 18 Sep 2026 12:14:20 GMT
+
+3. これらの隠された Waze 機能は、次のドライブを Apple CarPlay または Android Auto に接続すると変わります - supercarblondie.com
+   原題: These hidden Waze features will transform your next drive when you hook it up to Apple CarPlay or Android Auto - supercarblondie.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 16 Sep 2026 10:03:00 GMT
+
+4. iOS 27 の新しい CarPlay 機能の一部にアクセスできない場合、あなたは一人ではありません - pocket-lint.com
+   原題: If you can't access some of iOS 27's new CarPlay features, you're not alone - pocket-lint.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 17 Sep 2026 20:16:18 GMT
+
+5. GMは洞窟、CarPlayはガソリン車から廃止されない - appleinsider.com
+   原題: GM caves, CarPlay won't be cut from gas-powered vehicles - appleinsider.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 15 Sep 2026 17:50:00 GMT
+
+
+[Android Auto]
+1. Android Auto がついにこの迷惑なダッシュボードのバグを修正するかもしれない - Android Authority
+   原題: Android Auto may finally be fixing this annoying dashboard bug - Android Authority
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 18 Sep 2026 11:13:00 GMT
+
+2. Android Auto の新しい Google マップ機能: Gemini による目的地情報 - autoevolution
+   原題: New Google Maps Feature on Android Auto: Gemini-Powered Destination Information - autoevolution
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 18 Sep 2026 03:36:52 GMT
+
+3. 4 つの Android Auto ナビゲーション アプリをテストしました。過小評価されているオプションの 1 つは、Google マップよりも大量のトラフィックを処理できる - Android Police
+   原題: I tested 4 Android Auto navigation apps; one underrated option handles heavy traffic better than Google Maps - Android Police
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 18 Sep 2026 11:00:10 GMT
+
+4. これら 4 つの Android Auto 機能が自分の車で異なって見える理由がついにわかりました - How-To Geek
+   原題: I finally found out why these 4 Android Auto features look different in my car - How-To Geek
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 18 Sep 2026 17:30:13 GMT
+
+5. GM、ピックアップトラック用の新しいユーザーインターフェースを発表 - news.gm.com
+   原題: GM unveils a new user interface for pickup trucks - news.gm.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 15 Sep 2026 14:16:10 GMT
+
+
+[Arduino]
+1. 物理的な映画をカートリッジのように扱う Arduino 搭載 NFC スキャナーを誰かが作った - XDA
+   原題: Someone made an Arduino-powered NFC scanner that treats physical movies like cartridges - XDA
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 18 Sep 2026 05:46:34 GMT
+
+2. SMARC を使用した Arduino プロトタイプの展開 - 電子設計
+   原題: Using SMARC to Deploy Arduino Prototype - Electronic Design
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 01 Sep 2026 07:00:00 GMT
+
+3. 互換性のある Kenwood オーディオ機器を制御するための Arduino ライブラリ - Adafruit
+   原題: An Arduino library for controlling compatible Kenwood audio equipment - Adafruit
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 15 Jul 2026 07:00:00 GMT
+
+4. PiZZa: Raspberry Pi Zero 2 W 上の Arduino - Adafruit
+   原題: PiZZa: Arduino on the Raspberry Pi Zero 2 W - Adafruit
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 01 Jul 2026 07:00:00 GMT
+
+5. Arduino UNO Q ボード: 次世代エッジ AI のデュアルブレイン パワーを解き明かす - クアルコム
+   原題: The Arduino UNO Q Board: Unpack the Dual-Brain Power for Next-Gen Edge AI - Qualcomm
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 10 May 2026 07:00:00 GMT
