@@ -1,101 +1,16 @@
 Searcher Daily Report
-Generated at: 2026-09-20 06:25:21
+Generated at: 2026-09-20 06:25:23
 Removed duplicates (today): 2
-Removed duplicates (7 days): 28
+Removed duplicates (7 days): 58
 
 [AI]
-1. DraftKings による A.I. の使用方法最も負けそうなギャンブラーをターゲットに - ニューヨーク・タイムズ
-   原題: How DraftKings Uses A.I. to Target the Gamblers Likeliest to Lose - The New York Times
-   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
-   Published: Sat, 19 Sep 2026 15:41:02 GMT
-
-2. Gemini AIがテストブレイクアウトで3社をハッキング、Googleが発表 - ニューヨークタイムズ
-   原題: Gemini AI Hacked Three Companies in a Testing Breakout, Google Says - The New York Times
-   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
-   Published: Sat, 19 Sep 2026 00:04:48 GMT
-
-3. Google、自社のAIモデルが3つの外部システムに不正アクセスされたと発表 - NBCニュース
-   原題: Google says its AI model gained unauthorized access to three outside systems - NBC News
-   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
-   Published: Sat, 19 Sep 2026 01:37:00 GMT
-
-4. トランプ大統領、AI皇帝の名を冠した「AI軍」創設へも制約要求は拒否 - ワシントン・ポスト
-   原題: Trump to form ‘AI Force,’ name AI czar but rejects calls for constraints - The Washington Post
-   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
-   Published: Sat, 19 Sep 2026 20:45:39 GMT
-
-5. ティリー・ノーウッドのプレスツアーはAIに期待される通りに進んでいる - TechCrunch
-   原題: Tilly Norwood’s press tour is going about as well as you’d expect for an AI - TechCrunch
-   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
-   Published: Sat, 19 Sep 2026 00:12:07 GMT
-
+- No new items after dedupe
 
 [CarPlay]
-1. GM、購入者の要望に応えてApple CarPlayを復活 - Yahoo Finance
-   原題: GM brings back Apple CarPlay as buyers demand it - Yahoo Finance
-   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
-   Published: Sat, 19 Sep 2026 12:10:47 GMT
-
-2. CarPlay で 2 台の携帯電話を切り替える方法 - engadget.com
-   原題: How To Switch Between Two Phones On CarPlay - engadget.com
-   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
-   Published: Sat, 19 Sep 2026 16:30:00 GMT
-
-3. 通勤をもっと楽しくする 4 つの Apple CarPlay アプリ - Pocket-lint
-   原題: 4 Apple CarPlay apps that make my commute more fun - Pocket-lint
-   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
-   Published: Sat, 19 Sep 2026 14:00:14 GMT
-
-4. 自動車メーカーは密かにApple CarPlayとAndroid Autoを廃止し、6,250億ドルのチャンスを利用しようとしている - supercarblondie.com
-   原題: Automakers are quietly getting rid of Apple CarPlay and Android Auto to try and take advantage of $625 billion opportunity - supercarblondie.com
-   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
-   Published: Sat, 19 Sep 2026 18:01:00 GMT
-
-5. GMはApple CarPlayを取り上げたが、その代替品は実に優れている - USA Today
-   原題: GM took away Apple CarPlay and the replacement is actually good - USA Today
-   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
-   Published: Sat, 19 Sep 2026 11:04:28 GMT
-
+- No new items after dedupe
 
 [Android Auto]
-1. Android Auto アップデートで携帯電話信号アイコンが修正される可能性があります – それは戻ってきましたか? - 9to5Google
-   原題: Android Auto update might fix cellular signal icon – is it back for you? - 9to5Google
-   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
-   Published: Fri, 18 Sep 2026 15:05:00 GMT
-
-2. Android Auto の接続設定を微調整して、不具合のある 30 ドルのワイヤレス アダプターをシームレスなダッシュボード ハブに変えました - Android Police
-   原題: I tweaked my Android Auto connection settings, turning a glitchy $30 wireless adapter into a seamless dashboard hub - Android Police
-   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
-   Published: Sat, 19 Sep 2026 17:00:10 GMT
-
-3. Android Auto の新しい Google マップ機能: Gemini による目的地情報 - autoevolution.com
-   原題: New Google Maps Feature on Android Auto: Gemini-Powered Destination Information - autoevolution.com
-   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
-   Published: Fri, 18 Sep 2026 03:36:52 GMT
-
-4. スマートフォンが「はい」と答えたときに、Android Auto が「いいえ」と答えることが 5 回あります - How-To Geek
-   原題: 5 times Android Auto says No when your phone says Yes - How-To Geek
-   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
-   Published: Sat, 19 Sep 2026 21:00:13 GMT
-
-5. これらのスマートフォンの機能を無効にしました。 Android Auto のセットアップが大幅に改善されました - Android Police
-   原題: I disabled these smartphone features; now my Android Auto setup is miles better - Android Police
-   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
-   Published: Sat, 19 Sep 2026 19:00:10 GMT
-
+- No new items after dedupe
 
 [Arduino]
-1. Arduino UNO メディア キャリアは、MIPI CSI/DSI およびオーディオ コネクタを UNO Q および VENTUNO Q ボードに追加します - CNX ソフトウェア
-   原題: Arduino UNO Media Carrier adds MIPI CSI/DSI and audio connectors to UNO Q and VENTUNO Q boards - CNX Software
-   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
-   Published: Thu, 10 Sep 2026 07:00:00 GMT
-
-2. Arduino が VENTUNO Q Edge AI プラットフォームの予約注文を発表 - TechPowerUp
-   原題: Arduino Announces Pre-Orders for VENTUNO Q Edge AI Platform - TechPowerUp
-   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
-   Published: Tue, 25 Aug 2026 07:00:00 GMT
-
-3. Arduino Uno と MQ-2 を使用したガス漏れ検出器 - Hackster.io
-   原題: Gas Leakage Detector Using Arduino Uno and MQ-2 - Hackster.io
-   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
-   Published: Tue, 15 Sep 2026 07:00:00 GMT
+- No new items after dedupe
