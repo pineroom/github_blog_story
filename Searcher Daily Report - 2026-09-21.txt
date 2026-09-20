@@ -1,0 +1,111 @@
+Searcher Daily Report
+Generated at: 2026-09-21 08:01:04
+Removed duplicates (today): 4
+Removed duplicates (7 days): 21
+
+[AI]
+1. 中国のAI大躍進を遂げます。しかし、その経済は遅れをとっています。 - ニューヨーク・タイムズ紙
+   原題: China’s A.I. Makes a Great Leap Forward. But Its Economy Is Falling Behind. - The New York Times
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 20 Sep 2026 09:01:40 GMT
+
+2. A.I.ローグになった?トランプ大統領が提案するのは新しいルールではなく「A.I.」フォース」 - ニューヨーク・タイムズ
+   原題: A.I. Gone Rogue? Trump Proposes Not New Rules but an ‘A.I. Force.’ - The New York Times
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 20 Sep 2026 00:19:35 GMT
+
+3. AI における世界的なリーダーシップとはどのようなものでしょうか? - NPR
+   原題: What does global leadership on AI look like? - NPR
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 20 Sep 2026 21:28:28 GMT
+
+4. 専門家、米国がAI競争に確実に勝てるようにする必要があると語る - FOXニュース
+   原題: Expert says we need to make sure US wins the AI race - Fox News
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 20 Sep 2026 22:27:13 GMT
+
+5. Anthropic、OpenAI、SpaceXAI、GoogleがAIの減速に関して違法な合意を結んだと訴訟 - CNN
+   原題: Lawsuit says Anthropic, OpenAI, SpaceXAI and Google made illegal agreement on AI slowdown - CNN
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 20 Sep 2026 01:06:00 GMT
+
+
+[CarPlay]
+1. GM、購入者の要望に応えてApple CarPlayを復活 - Finance.yahoo.com
+   原題: GM brings back Apple CarPlay as buyers demand it - finance.yahoo.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 19 Sep 2026 12:10:47 GMT
+
+2. 私は確信しています: GM の新しい EV には Apple CarPlay は必要ありません - freep.com
+   原題: I’m convinced: GM’s new EVs don’t need Apple CarPlay - freep.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 19 Sep 2026 12:48:00 GMT
+
+3. Apple CarPlay と CarPlay Ultra の違いは何ですか? - エンガジェット
+   原題: What Is The Difference Between Apple CarPlay And CarPlay Ultra? - Engadget
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 19 Sep 2026 23:30:00 GMT
+
+4. 男性たちは、46ドルの安価なApple CarPlayとAndroid Autoアダプターを試して、高価な代替品よりも優れているかどうかを確認します - supercarblondie.com
+   原題: Men try out a $46 cheap Apple CarPlay and Android Auto adapter to see if it's better than expensive alternatives - supercarblondie.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 20 Sep 2026 04:07:00 GMT
+
+5. GM、自社車にApple CarPlayとAndroid Autoを再ダウンロード - Finance.yahoo.com
+   原題: GM is re-downloading Apple CarPlay, Android Auto to its cars - finance.yahoo.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 18 Sep 2026 20:35:00 GMT
+
+
+[Android Auto]
+1. MapQuest が Android Auto で動作するようになりました – 使用方法は次のとおりです - currently.com
+   原題: MapQuest Now Works With Android Auto – Here's How To Use It - Currently.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 20 Sep 2026 19:15:00 GMT
+
+2. Android Auto 17.8 が最初のユーザーに利用可能になり、すぐにインストールすることもできます - autoevolution
+   原題: Android Auto 17.8 Now Available for the First Users, You Can Also Install It Right Away - autoevolution
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 20 Sep 2026 12:54:31 GMT
+
+3. わずか 4 ドルで古い車に Android Auto を追加しました - Android Police
+   原題: I added Android Auto to an old car for just $4 - Android Police
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 20 Sep 2026 20:00:10 GMT
+
+4. 携帯電話に触れずに Android Auto を使用する 5 つの方法 - bgr.com
+   原題: 5 Ways To Use Android Auto Without Touching Your Phone - bgr.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 20 Sep 2026 17:32:00 GMT
+
+5. MapQuest が Android Auto で動作するようになりました – 使用方法は次のとおりです - SlashGear
+   原題: MapQuest Now Works With Android Auto – Here's How To Use It - SlashGear
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 20 Sep 2026 19:15:00 GMT
+
+
+[Arduino]
+1. Sony カーステレオ LCD のリバース エンジニアリング - ハッカデイ
+   原題: Reverse Engineering A Sony Car Stereo LCD - Hackaday
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 20 Sep 2026 14:00:00 GMT
+
+2. Arduino の新しいボードは Raspberry Pi と ESP32 を目指していますが、タイミングが最悪です - MakeUseOf
+   原題: Arduino’s new board wants to be a Raspberry Pi and an ESP32, but the timing is awful - MakeUseOf
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 04 Sep 2026 07:00:00 GMT
+
+3. ナガランド科学センターが学生向けにArduinoの基礎に関するワークショップを開催 - MorungExpress
+   原題: Nagaland Science Centre hosts workshop on Arduino Fundamentals for students - MorungExpress
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 20 Sep 2026 16:18:50 GMT
+
+4. Pinch は、実質的に顕微鏡レベルの 32 ビット Arduino 互換開発ボードです - hackster.io
+   原題: Pinch Is a 32-Bit Arduino-Compatible Dev Board That is Practically Microscopic - hackster.io
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 14 Jul 2026 20:52:59 GMT
+
+5. Qualcomm Arduino ボード、Rubik Pi 3、および Snapdragon 搭載 PC に OpenClaw と Hermes Agent をインストールする方法 - Qualcomm
+   原題: How to Install OpenClaw and Hermes Agent on Qualcomm Arduino Boards, Rubik Pi 3 and PCs with Snapdragon - Qualcomm
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 24 Apr 2026 07:00:00 GMT
