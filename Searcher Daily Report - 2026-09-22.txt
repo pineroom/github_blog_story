@@ -1,96 +1,16 @@
 Searcher Daily Report
-Generated at: 2026-09-22 07:35:54
+Generated at: 2026-09-22 07:35:55
 Removed duplicates (today): 3
-Removed duplicates (7 days): 31
+Removed duplicates (7 days): 57
 
 [AI]
-1. 数学と人工知能に関する諮問グループ - OpenAI
-   原題: Advisory Group on Mathematics and Artificial Intelligence - OpenAI
-   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
-   Published: Mon, 21 Sep 2026 17:32:19 GMT
-
-2. A.I.ネットワーキングには暗い側面があるパーティーハウス - ニューヨーク・タイムズ
-   原題: The A.I. Party House Where Networking Has a Dark Side - The New York Times
-   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
-   Published: Mon, 21 Sep 2026 09:04:07 GMT
-
-3. Gemini 3.8 Live および 3.8 Live Extended Thinking の紹介 - blog.google
-   原題: Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking - blog.google
-   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
-   Published: Tue, 15 Sep 2026 17:07:08 GMT
-
-4. AI規制議論が激化 - CNBC
-   原題: AI regulation debate heats up - CNBC
-   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
-   Published: Mon, 21 Sep 2026 21:54:03 GMT
-
-5. Napster、パーソナライズされた宿題サポートを提供する AI 教師クローンを開発 - CNET
-   原題: Napster Developing AI Teacher Clones to Provide Personalized Homework Support - CNET
-   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
-   Published: Mon, 21 Sep 2026 22:01:05 GMT
-
+- No new items after dedupe
 
 [CarPlay]
-1. GMはApple CarPlayを「復活」させることはできない、なぜならそれは決して去らなかったからだ - The Verge
-   原題: GM can’t ‘bring back’ Apple CarPlay because it never left - The Verge
-   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
-   Published: Mon, 21 Sep 2026 17:47:54 GMT
-
-2. CarPlay で動作する主要なチャットボット アプリはどれですか? - エンガジェット
-   原題: Which Major Chatbot Apps Work With CarPlay? - Engadget
-   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
-   Published: Sun, 20 Sep 2026 23:30:00 GMT
-
-3. iPhone 18 で CarPlay が動作しない、解決策は次のとおりです - autoevolution
-   原題: CarPlay Not Working With iPhone 18, Here's the Fix - autoevolution
-   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
-   Published: Mon, 21 Sep 2026 06:01:21 GMT
-
-4. CarPlay がさらに改良、iOS 27 の新機能がすべてここに - 9to5Mac
-   原題: CarPlay just got better, here’s everything new in iOS 27 - 9to5Mac
-   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
-   Published: Mon, 21 Sep 2026 13:40:00 GMT
-
-5. CarPlay で 2 台の携帯電話を切り替える方法 - Engadget
-   原題: How To Switch Between Two Phones On CarPlay - Engadget
-   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
-   Published: Sat, 19 Sep 2026 16:30:00 GMT
-
+- No new items after dedupe
 
 [Android Auto]
-1. 古い車にわずか 4 ドルで Android Auto を追加しました - androidpolice.com
-   原題: I added Android Auto to an old car for just $4 - androidpolice.com
-   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
-   Published: Sun, 20 Sep 2026 20:00:10 GMT
-
-2. 古い Android タブレットを捨てないでください — 代わりにこれをしてください - Engadget
-   原題: Don't Throw Away Your Old Android Tablet — Do This Instead - Engadget
-   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
-   Published: Mon, 21 Sep 2026 12:00:00 GMT
-
-3. 存在を知らないかもしれない 3 つの Android Auto の隠された設定 - bgr.com
-   原題: 3 Hidden Android Auto Settings You Might Not Know Existed - bgr.com
-   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
-   Published: Mon, 21 Sep 2026 16:47:00 GMT
-
-4. Google が Android Auto にゲームを導入 - BetaNews
-   原題: Google is bringing games to Android Auto - BetaNews
-   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
-   Published: Mon, 21 Sep 2026 18:34:49 GMT
-
-5. あなたが知らない 5 つの便利な Android Auto の詳細設定 - SlashGear
-   原題: 5 Useful Advanced Android Auto Settings You Might Not Know About - SlashGear
-   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
-   Published: Mon, 21 Sep 2026 08:30:00 GMT
-
+- No new items after dedupe
 
 [Arduino]
-1. Arduinoの新しいボードはRaspberry PiとESP32を目指しているが、タイミングが最悪 - makeuseof.com
-   原題: Arduino’s new board wants to be a Raspberry Pi and an ESP32, but the timing is awful - makeuseof.com
-   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
-   Published: Fri, 04 Sep 2026 07:00:00 GMT
-
-2. Arduino® UNO™ Q Board でのローカル LLM の実行: 実践ガイド - EE Times
-   原題: Running Local LLMs on the Arduino® UNO™ Q Board: a Practical Guide - EE Times
-   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
-   Published: Wed, 19 Aug 2026 13:01:36 GMT
+- No new items after dedupe
