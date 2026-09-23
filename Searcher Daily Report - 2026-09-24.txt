@@ -1,0 +1,111 @@
+Searcher Daily Report
+Generated at: 2026-09-24 08:01:12
+Removed duplicates (today): 1
+Removed duplicates (7 days): 23
+
+[AI]
+1. AI企業のトップらは国連安全保障理事会に対し、AIは全人類にとってリスクとなる可能性があると語る - AP通信
+   原題: Heads of AI firms tell UN Security Council that it could be a risk to all humanity - AP News
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 23 Sep 2026 21:54:00 GMT
+
+2. AI指導者、システムの強力化に伴う安全保障リスクを国連に警告 - ロイター
+   原題: AI leaders warn UN of security risks as systems grow more powerful - Reuters
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 23 Sep 2026 21:18:57 GMT
+
+3. サム・アルトマン氏とダリオ・アモデイ氏、国連安全保障理事会に国際AI標準の採用を要請 - cnn.com
+   原題: Sam Altman, Dario Amodei urge UN Security Council to adopt international AI standards - cnn.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 23 Sep 2026 22:25:30 GMT
+
+4. 上院共和党、AI内部告発法案の早期可決を目指す - politico.com
+   原題: Senate Republican seeks to fast-track AI whistleblower bill - politico.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 23 Sep 2026 16:20:21 GMT
+
+5. ジェンセン・ファンはトランプ大統領の耳を持っています。彼は AI について何を話しているのでしょうか? - NPR
+   原題: Jensen Huang has President Trump’s ear. What might he be telling him about AI? - NPR
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 23 Sep 2026 22:19:15 GMT
+
+
+[CarPlay]
+1. これらの簡単なことを実行して Apple CarPlay エクスペリエンスを向上させましょう - Engadget
+   原題: Improve Your Apple CarPlay Experience By Doing These Simple Things - Engadget
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 22 Sep 2026 23:00:00 GMT
+
+2. Apple CarPlay が iPhone のバッテリーを消耗させる理由 - SlashGear
+   原題: Why Apple CarPlay Is Draining Your iPhone's Battery - SlashGear
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 21 Sep 2026 22:45:00 GMT
+
+3. Apple CarPlay がさらにカスタマイズ可能になりました: これらの設定を変更してください - en.softonic.com
+   原題: Apple CarPlay is more customizable now: change these settings - en.softonic.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 23 Sep 2026 09:38:37 GMT
+
+4. もっと早く試しておけばよかった、見落とされている CarPlay の 3 つの機能とその理由 - ZDNET
+   原題: 3 overlooked CarPlay features you’ll wish you tried sooner – and why - ZDNET
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 04 Aug 2026 07:00:00 GMT
+
+5. Apple、CarPlay Ultra はどこにありますか? - MacRumors
+   原題: Apple, Where is CarPlay Ultra? - MacRumors
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 20 Aug 2026 07:00:00 GMT
+
+
+[Android Auto]
+1. Google マップのアップデートで、Android Auto で次の曲がり角で信号機や一時停止の標識が表示されるなど - 9to5Google
+   原題: Google Maps update shows traffic lights and stop signs at your next turn on Android Auto, more - 9to5Google
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 23 Sep 2026 19:55:00 GMT
+
+2. 今すぐ Android ゲームを車のスクリーンに表示しましょう - android-developers.googleblog.com
+   原題: Bring your Android game to the car screen today - android-developers.googleblog.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 21 Sep 2026 16:03:50 GMT
+
+3. Android Auto の新しい Google マップのスピードメーターで頭痛が発生、ユーザーは別の修正を求める - autoevolution
+   原題: New Google Maps Speedometer Headache on Android Auto, Users Calling for Another Fix - autoevolution
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 23 Sep 2026 05:31:19 GMT
+
+4. Android Auto のゲーム ライブラリは新しいタイトルで大幅に増加しようとしています - Android Police
+   原題: Android Auto's game library is about to grow significantly with new titles - Android Police
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 22 Sep 2026 19:05:28 GMT
+
+5. YouTube のことは忘れて、Android Auto でゲームを歓迎 - autoevolution
+   原題: Forget About YouTube, Games Now Welcome on Android Auto - autoevolution
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 22 Sep 2026 04:45:12 GMT
+
+
+[Arduino]
+1. 新しい VENTUNO Q ボードにより、Arduino はロボット開発を容易にしたいと考えています - The Robot Report
+   原題: With the new VENTUNO Q board, Arduino hopes to make robotics development easier - The Robot Report
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 23 Sep 2026 18:09:10 GMT
+
+2. 踊って話す AI 搭載の柴犬 - Hackster.io
+   原題: An AI-Powered Shiba Inu That Dances and Talks - Hackster.io
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 23 Sep 2026 15:37:36 GMT
+
+3. Arduino がコア Zephyr 1.0 に到達 - i-programmer.info
+   原題: Arduino Reaches Core Zephyr 1.0 - i-programmer.info
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 16 Sep 2026 17:23:32 GMT
+
+4. Arduino の収益 2023 年: 推定 1 億 4,250 万ドルARR - GetLatka
+   原題: Arduino Revenue 2023: $142.5M Est. ARR - GetLatka
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 15 Sep 2026 07:00:00 GMT
+
+5. Victoria Arduino が、アンダーカウンター エスプレッソの新たな解釈である Record を発表 - ロースト マガジンのデイリー コーヒー ニュース
+   原題: Victoria Arduino Introduces Record, a New Take on Undercounter Espresso - Daily Coffee News by Roast Magazine
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 29 Jul 2026 07:00:00 GMT
