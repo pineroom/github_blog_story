@@ -1,0 +1,106 @@
+Searcher Daily Report
+Generated at: 2026-09-25 08:01:22
+Removed duplicates (today): 1
+Removed duplicates (7 days): 27
+
+[AI]
+1. Google が AI を手に入れるデータセンターの宇宙への競争 - ニューヨーク・タイムズ
+   原題: Google Takes the A.I. Data Center Race to Outer Space - The New York Times
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 24 Sep 2026 13:48:42 GMT
+
+2. OpenAIプログラムが政府の保健ポータルをハッキングしたことを受け、オーストラリアが緊急審査を開始 - BBC
+   原題: Australia launches urgent review after OpenAI program hacks government health portal - BBC
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 24 Sep 2026 06:22:25 GMT
+
+3. 政府システムへの初のAIハッキングに「極度の懸念」 - CNN
+   原題: ‘Extreme concern’ over first known AI hack of a government system - CNN
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 23 Sep 2026 23:19:23 GMT
+
+4. 不正AIエージェントが政府ウェブサイトをハッキング、世界のリーダーが規制措置の危機に瀕 - FOXニュース
+   原題: Rogue AI agents hack government website, world leaders on edge of regulatory action - Fox News
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 24 Sep 2026 20:12:50 GMT
+
+5. トランプ大統領、ホワイトハウスで中国の習近平氏との「素晴らしい会談」をライブで宣伝 - ガーディアン紙
+   原題: Trump touts ‘great meeting’ with China’s Xi Jinping at White House – live - The Guardian
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 24 Sep 2026 13:30:00 GMT
+
+
+[CarPlay]
+1. CarPlay に対する GM のスタンスは相変わらずひび割れていて混乱している - The Drive
+   原題: GM’s Stance on CarPlay Is as Fractured and Confusing as Ever - The Drive
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 22 Sep 2026 17:40:28 GMT
+
+2. ゼネラルモーターズ、CarPlayを（ほぼ）再導入 - Yahoo Autos
+   原題: General Motors To Reintroduce CarPlay (Mostly) - Yahoo Autos
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 24 Sep 2026 15:26:00 GMT
+
+3. GM、CarPlayを復活させるも、EV購入者は依然としてチャンスを逃す - 自動ブログ
+   原題: GM Brings Back CarPlay, But EV Buyers Still Miss Out - Autoblog
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 22 Sep 2026 16:01:00 GMT
+
+4. Apple CarPlay が iPhone のバッテリーを消耗させる理由 - slashgear.com
+   原題: Why Apple CarPlay Is Draining Your iPhone's Battery - slashgear.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 21 Sep 2026 22:45:00 GMT
+
+5. GMは将来のEVからApple CarPlayを廃止する計画を持っていることを知っておいてほしい - MacRumors
+   原題: GM Wants You to Know It Still Plans to Ditch Apple CarPlay in Future EVs - MacRumors
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 21 Sep 2026 19:32:18 GMT
+
+
+[Android Auto]
+1. これら 7 つのアプリで Android Auto がさらに楽しくなる - MakeUseOf
+   原題: These 7 apps make Android Auto so much more fun - MakeUseOf
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 24 Sep 2026 13:30:14 GMT
+
+2. 調査によると、私のお気に入りの Google 製品の 1 つは、多くの人にとって依然として贅沢品であることが判明 - Android Authority
+   原題: Survey says one of my favorite Google products remains a luxury for many - Android Authority
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 24 Sep 2026 09:34:00 GMT
+
+3. Samsung Galaxy ルーチンを使用して独自の Android Auto 代替ツールを構築しました - How-To Geek
+   原題: I built my own Android Auto alternative using Samsung Galaxy routines - How-To Geek
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 24 Sep 2026 19:30:14 GMT
+
+4. GM の CarPlay 戦略 (またはその欠如) で実際に何が起こっているのか - 9to5Mac
+   原題: Here’s what’s really going on with GM’s CarPlay strategy (or lack thereof) - 9to5Mac
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 21 Sep 2026 23:18:00 GMT
+
+5. Android Auto がついに GameSnacks に全画面対応を与えるかもしれない - Android Authority
+   原題: Android Auto may finally give GameSnacks the full screen treatment - Android Authority
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 24 Sep 2026 21:14:00 GMT
+
+
+[Arduino]
+1. Arduino の VENTUNO Q SBC を無料でテスト - electricweekly.com
+   原題: Test Arduino’s VENTUNO Q SBC for free - electronicsweekly.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 24 Sep 2026 05:21:56 GMT
+
+2. Element14 がエンジニアを Arduino VENTUNO Q SBC のテストに招待 - Global Sources
+   原題: Element14 invites engineers to test Arduino VENTUNO Q SBC - Global Sources
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 24 Sep 2026 09:45:00 GMT
+
+3. Arduino VENTUNO Q が登場: Qualcomm Dragonwing IQ8 シリーズで Agentic AI を物理世界に導入 - Qualcomm
+   原題: Arduino VENTUNO Q is Here: Bringing Agentic AI to the Physical World with Qualcomm Dragonwing IQ8 Series - Qualcomm
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 25 Aug 2026 07:00:00 GMT
+
+4. Arduino Mega Case – スナップフィット #3DPrinting #3DMonday - Adafruit
+   原題: Arduino Mega Case – Snap-Fit #3DPrinting #3DThursday - Adafruit
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 16 Jul 2026 07:00:00 GMT
