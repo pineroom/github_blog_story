@@ -1,0 +1,96 @@
+Searcher Daily Report
+Generated at: 2026-09-26 08:00:58
+Removed duplicates (today): 2
+Removed duplicates (7 days): 31
+
+[AI]
+1. OpenAI の Rogue AI はどのように機能するのかエージェントがロボット探知機を騙そうとした - ニューヨーク・タイムズ
+   原題: How OpenAI’s Rogue A.I. Agents Tried to Trick a Robot Detector - The New York Times
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 25 Sep 2026 20:01:21 GMT
+
+2. 安全でない OpenAI エージェントがラボの知らないうちに 53 枚のユーザー画像をインターネット上に投稿 - TechCrunch
+   原題: Unsecured OpenAI agents posted 53 user images on the internet without the lab's knowledge - TechCrunch
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 25 Sep 2026 22:20:47 GMT
+
+3. ジョンソン氏とトランプ氏、AI幹部との会談を設定 - ポリティコ
+   原題: Johnson, Trump set meeting with AI executives - Politico
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 25 Sep 2026 00:51:18 GMT
+
+4. トランプ大統領と中国の習主席、AIに関する大きな合意なく首脳会談終了 - ガーディアン紙
+   原題: Trump and Chinese president Xi end summit without major agreement on AI - The Guardian
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 25 Sep 2026 22:11:00 GMT
+
+5. テクノロジー、AIのリーダーら、政府ウェブサイト立ち上げでトランプ氏に加わる - Bloomberg.com
+   原題: Tech, AI Leaders to Join Trump for Launch of Government Website - Bloomberg.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 25 Sep 2026 22:15:15 GMT
+
+
+[CarPlay]
+1. あなたのドライブをアップグレードする iOS 27 の 5 つの新しい CarPlay 機能 - Man of Many
+   原題: 5 New CarPlay Features in iOS 27 That Will Upgrade Your Drive - Man of Many
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 25 Sep 2026 04:33:45 GMT
+
+2. GMはApple CarPlayを「復活」させることはできない、なぜならそれは決して去らなかったから - theverge.com
+   原題: GM can’t ‘bring back’ Apple CarPlay because it never left - theverge.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 21 Sep 2026 17:47:54 GMT
+
+3. BYD、Denza Z9Sを皮切りにApple CarPlayのラインナップを中国に導入 - electric-vehicles.com
+   原題: BYD Brings Apple CarPlay to China Lineup, Starting With Denza Z9S - eletric-vehicles.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 25 Sep 2026 11:58:56 GMT
+
+
+[Android Auto]
+1. Android Auto ユーザーは怒っている：ジェミニは 911 に電話できず、「アシスタントの方がずっと良かった」 - autoevolution
+   原題: Android Auto Users Are Angry: Gemini Can't Call 911, "Assistant Was So Much Better" - autoevolution
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 25 Sep 2026 03:22:01 GMT
+
+2. Android Auto は私の音質を台無しにしました、そしてこれはそれを修正した唯一のアプリです - How-To Geek
+   原題: Android Auto ruined my audio quality, and this is the only app that fixed it - How-To Geek
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 25 Sep 2026 17:30:13 GMT
+
+3. 便利さは頭が痛いほどではないので、ワイヤレス Android Auto を諦めました - XDA
+   原題: I gave up on wireless Android Auto because the convenience isn’t worth the headache - XDA
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 16 Sep 2026 07:00:00 GMT
+
+4. Android の自動アップデートが最も基本的な機能の 1 つで失敗する - 911 番通報できない - AutoSpies.com
+   原題: Android Auto Update Fails At One Of The Most Basic Features Of All - Can't Call 911 - AutoSpies.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 25 Sep 2026 12:02:45 GMT
+
+
+[Arduino]
+1. Arduino の VENTUNO Q SBC を無料でテスト - Electronics Weekly
+   原題: Test Arduino’s VENTUNO Q SBC for free - Electronics Weekly
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 24 Sep 2026 05:21:56 GMT
+
+2. Arduino VENTUNO Q レビュー - YouTube
+   原題: Arduino VENTUNO Q Review - YouTube
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 25 Sep 2026 01:29:42 GMT
+
+3. Element14 により、開発者は Arduino Ventuno Q を無料でテストできる - All-About-Industries
+   原題: Element14 Lets Developers Test the Arduino Ventuno Q for Free - All-About-Industries
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 24 Sep 2026 09:53:05 GMT
+
+4. Element14 がエンジニアを Arduino VENTUNO Q SBC のテストに招待 - Global Sources
+   原題: Element14 invites engineers to test Arduino VENTUNO Q SBC - Global Sources
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 24 Sep 2026 10:01:50 GMT
+
+5. Arduino Ventuno Q は AI とロボット工学を単一のボード上に統合します - 技術版
+   原題: Arduino Ventuno Q brings AI and robotics together on a single board - Tech Edition
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 23 Sep 2026 15:48:39 GMT
