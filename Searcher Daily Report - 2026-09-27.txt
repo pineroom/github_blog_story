@@ -1,0 +1,111 @@
+Searcher Daily Report
+Generated at: 2026-09-27 08:01:05
+Removed duplicates (today): 2
+Removed duplicates (7 days): 24
+
+[AI]
+1. 中国と米国、300億ドルの関税削減で合意、習主席訪問中のAI対話で北京発表 - CNBC
+   原題: China, U.S. agree to $30 billion tariff cut, AI dialogue during Xi visit, Beijing says - CNBC
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 26 Sep 2026 10:58:02 GMT
+
+2. 中国と米国、AI安全チャネルの確立と貿易・軍事協議の継続で合意 - KSL.com
+   原題: China and US agree to establish AI safety channel and continue trade and military talks - KSL.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 26 Sep 2026 19:04:56 GMT
+
+3. OpenAIは、AIエージェントが先週末に再び安全な「サンドボックス」を脱出し、トレーニングを2度目に一時停止すると発表 - Fortune.com
+   原題: OpenAI says its AI agents escaped a secure ‘sandbox’ again last weekend and it is pausing training for a second time - fortune.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 26 Sep 2026 15:25:00 GMT
+
+4. OpenAI、同社のモデルが米国政府のウェブサイトに不正行為を暴露したと発表 - NPR
+   原題: OpenAI says its models engaged with US government websites in misbehavior disclosure - NPR
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 26 Sep 2026 17:10:04 GMT
+
+5. OpenAI、自社のAIエージェントが同社の知らないうちに連邦ウェブサイトを調査していたと発表 - NPR
+   原題: OpenAI says its AI agents probed federal websites without the company's knowledge - NPR
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 26 Sep 2026 21:13:08 GMT
+
+
+[CarPlay]
+1. GM、Apple CarPlayとAndroid Auto戦略を変えなかった - GM当局
+   原題: GM Didn’t Change Its Apple CarPlay And Android Auto Strategy - GM Authority
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 26 Sep 2026 05:10:24 GMT
+
+2. あなたがまだ使っていない最高の iOS 27 CarPlay 新機能 - Geeky Gadgets
+   原題: The Best New iOS 27 CarPlay Features You Aren’t Using Yet - Geeky Gadgets
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 26 Sep 2026 13:02:40 GMT
+
+3. Apple、CarPlay Ultra はどこにありますか? - macrumors.com
+   原題: Apple, Where is CarPlay Ultra? - macrumors.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 20 Aug 2026 07:00:00 GMT
+
+4. 2 台の異なる携帯電話で Apple CarPlay を使用する方法 - Pocket-lint
+   原題: How I use Apple CarPlay with two different phones - Pocket-lint
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 26 Sep 2026 14:00:15 GMT
+
+5. GM、購入者の要望を受けてApple CarPlayを復活 - Yahoo Finance
+   原題: GM brings back Apple CarPlay as buyers demand it - Yahoo Finance
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 19 Sep 2026 12:10:47 GMT
+
+
+[Android Auto]
+1. Google マップのアップデートで、Android Auto で次の曲がり角で信号機や一時停止の標識が表示されるなど - 9to5google.com
+   原題: Google Maps update shows traffic lights and stop signs at your next turn on Android Auto, more - 9to5google.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 23 Sep 2026 19:55:00 GMT
+
+2. 車の外でも Android Auto がデフォルトの Android ランチャーになりました - Android Police
+   原題: Android Auto is now my default Android launcher, even outside my car - Android Police
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 26 Sep 2026 19:00:10 GMT
+
+3. 新しい Android Auto ユーザーができるだけ早く変更する必要がある 5 つの設定 - Pocket-lint
+   原題: 5 settings every new Android Auto user needs to change ASAP - Pocket-lint
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 26 Sep 2026 00:00:00 GMT
+
+4. Android Auto の最も便利な機能を試してみましたが、どれも後悔しました - How-To Geek
+   原題: I tried Android Auto's most useful features and regretted every one - How-To Geek
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 26 Sep 2026 21:00:14 GMT
+
+5. Google マップ、Android Auto に便利な新しい信号機機能を追加 - bgr.com
+   原題: Google Maps Just Got A Useful New Traffic Lights Feature On Android Auto - bgr.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 26 Sep 2026 10:32:00 GMT
+
+
+[Arduino]
+1. Arduino UNO-Q 天気ダッシュボード - elektormagazine.com
+   原題: Arduino UNO-Q Weather Dashboard - elektormagazine.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 26 Sep 2026 19:42:29 GMT
+
+2. Microduck に代わる DIY - Hackster.io
+   原題: The DIY Alternative to Microduck - Hackster.io
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 26 Sep 2026 13:02:49 GMT
+
+3. PiZZa: Raspberry Pi Zero 2 W 上の Arduino - Adafruit
+   原題: PiZZa: Arduino on the Raspberry Pi Zero 2 W - Adafruit
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 01 Jul 2026 07:00:00 GMT
+
+4. アーティスト向けのエレクトロニクスと Arduino マイクロコントローラー | 2026 年 10 月 1 日から 11 月 19 日まで |午後6時30分～午後9時30分 |継続教育 - ビジュアルアーツスクール | SVA
+   原題: Electronics and Arduino Microcontroller for Artists | Oct 1 - Nov 19, 2026 | 6:30-9:30 PM | Continuing Education - School of Visual Arts | SVA
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 27 Jul 2026 18:08:35 GMT
+
+5. Arduino の収益 2023 年: 推定 1 億 4,250 万ドルARR - getlatka.com
+   原題: Arduino Revenue 2023: $142.5M Est. ARR - getlatka.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 15 Sep 2026 07:00:00 GMT
