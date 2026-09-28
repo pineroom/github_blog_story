@@ -1,0 +1,91 @@
+Searcher Daily Report
+Generated at: 2026-09-29 08:01:10
+Removed duplicates (today): 4
+Removed duplicates (7 days): 31
+
+[AI]
+1. Nvidia、AIエージェントの不正行為を阻止するセキュリティプラットフォームを発表 - APニュース
+   原題: Nvidia unveils security platform to stop AI agents from going rogue - AP News
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 28 Sep 2026 22:14:00 GMT
+
+2. Nvidia、AIエージェントの不正行為を阻止するソフトウェアプラットフォームをリリース - CNBC
+   原題: Nvidia releases software platform to stop AI agents from misbehaving - CNBC
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 28 Sep 2026 09:00:02 GMT
+
+3. Nvidia は、不正な AI を阻止するソフトウェア ツールを発表しました。どのように機能するでしょうか? - PBS
+   原題: Nvidia announced a software tool to stop rogue AI. How would it work? - PBS
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 28 Sep 2026 22:07:17 GMT
+
+4. AMD、World Labsを82億ドルで買収 - WSJ
+   原題: AMD to Acquire World Labs for $8.2 Billion - WSJ
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 28 Sep 2026 21:34:00 GMT
+
+5. AMD、フェイフェイ・リー氏のAI企業World Labsを82億ドル相当の契約で買収 - CNBC
+   原題: AMD acquiring Fei-Fei Li's World Labs AI firm in deal worth $8.2 billion - CNBC
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 28 Sep 2026 20:10:45 GMT
+
+
+[CarPlay]
+1. Apple マップではなく Google マップを使用する場合に CarPlay ナビゲーションを改善する方法 - Engadget
+   原題: How To Improve CarPlay Navigation If You Use Google Maps Over Apple Maps - Engadget
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 27 Sep 2026 23:00:00 GMT
+
+2. iPhone オーナーの皆さん、このワイヤレス CarPlay アダプターは Amazon でほぼゼロマージン価格のプライムデーの景品です - ギズモード
+   原題: iPhone Owners, This Wireless CarPlay Adapter Is Practically a Prime Day Giveaway at Near No-Margin Pricing on Amazon - Gizmodo
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 28 Sep 2026 15:25:58 GMT
+
+3. GMのCarPlay Uターン: 購入者の好みに対する3年間の賭けがついに逆転 - Yahoo Finance
+   原題: GM’s CarPlay U-Turn: A Three-Year Bet Against Buyer Preference Finally Reverses - Yahoo Finance
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 23 Sep 2026 12:51:19 GMT
+
+4. GM、Apple CarPlayとAndroid Autoとの戦いを断念 - CarBuzz
+   原題: GM Gives Up The Fight Against Apple CarPlay And Android Auto - CarBuzz
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 24 Sep 2026 15:30:00 GMT
+
+
+[Android Auto]
+1. 古いメルセデス C クラス用にワイヤレス Android Auto アダプターを購入しました - Team-BHP
+   原題: Bought a wireless Android Auto adapter for my old Mercedes C-Class - Team-BHP
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 27 Sep 2026 05:41:55 GMT
+
+2. Android Auto 17.8 がすべてのユーザーにダウンロード可能になりました - autoevolution
+   原題: Android Auto 17.8 Now Available for Download for All Users - autoevolution
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 27 Sep 2026 07:27:18 GMT
+
+3. これなしでは運転できない 4 つの強力な Android Auto 機能 - How-To Geek
+   原題: 4 powerful Android Auto features I never drive without - How-To Geek
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 27 Sep 2026 23:30:13 GMT
+
+
+[Arduino]
+1. BelWattmeter Arduino ライブラリ - Adafruit
+   原題: A BelWattmeter Arduino library - Adafruit
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 28 Sep 2026 19:39:05 GMT
+
+2. Arduino の新しいボードは Raspberry Pi と ESP32 を目指していますが、タイミングが最悪です - MakeUseOf
+   原題: Arduino’s new board wants to be a Raspberry Pi and an ESP32, but the timing is awful - MakeUseOf
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 04 Sep 2026 07:00:00 GMT
+
+3. Qualcomm Arduino ボード、Rubik Pi 3、および Snapdragon 搭載 PC に OpenClaw と Hermes Agent をインストールする方法 - Qualcomm
+   原題: How to Install OpenClaw and Hermes Agent on Qualcomm Arduino Boards, Rubik Pi 3 and PCs with Snapdragon - Qualcomm
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 24 Apr 2026 07:00:00 GMT
+
+4. Arduino UNO Q でアプリ開発を始めましょう - Qualcomm
+   原題: Get Started with App development on Arduino UNO Q - Qualcomm
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 15 Jan 2026 08:00:00 GMT
