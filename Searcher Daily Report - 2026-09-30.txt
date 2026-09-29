@@ -1,0 +1,106 @@
+Searcher Daily Report
+Generated at: 2026-09-30 08:01:15
+Removed duplicates (today): 5
+Removed duplicates (7 days): 24
+
+[AI]
+1. トランプ氏とジョンソン氏、ホワイトハウスでAIトップと会談へ - FOXニュース
+   原題: Trump, Johnson to meet with top AI leaders at the White House - Fox News
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 29 Sep 2026 20:20:26 GMT
+
+2. 独占：AnthropicのIPO目論見書には、広範なAIビジョンと高騰するコストが示されている - ロイター
+   原題: EXCLUSIVE: Anthropic's IPO prospectus shows sweeping AI vision, surging costs - Reuters
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 28 Sep 2026 23:17:00 GMT
+
+3. Anthropic、漏洩したIPO申請書で自社のAIモデルが「人類の存続リスク」をもたらすと発言：報道 - CNN
+   原題: Anthropic says its AI models pose ‘existential risk to humanity’ in leaked IPO filing: report - CNN
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 29 Sep 2026 14:37:34 GMT
+
+4. AIが「人類の実存的リスク」をもたらす可能性があると人類学が警告 - ホノルル・スター・アドバタイザー
+   原題: Anthropic warns AI may pose ‘existential risks to humanity’ - Honolulu Star-Advertiser
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 29 Sep 2026 21:31:58 GMT
+
+5. 指数の動きが鈍い中、AI株が上昇。これら3つのチップギア株の価値は1兆ドルを超える - Investor's Business Daily
+   原題: AI Stocks Rise Amid Limp Index Action; These 3 Chip Gear Stocks Surpass $1 Trillion In Value - Investor's Business Daily
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 29 Sep 2026 22:08:00 GMT
+
+
+[CarPlay]
+1. ポルシェ、この工場改装により、2009 ～ 2016 年の「フューチャー クラシック」にタッチスクリーンを追加します - 車とドライバー
+   原題: Porsche Will Add a Touchscreen to Your 2009–2016 ‘Future Classic’ with This Factory Retrofit - Car and Driver
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 29 Sep 2026 20:00:34 GMT
+
+2. Google マップのイマーシブ ナビゲーションを 2 週間テストしました。Apple CarPlay と Android Auto で難しい出口を簡単に確認できるようになりました - Tom's Guide
+   原題: I tested Google Maps Immersive Navigation for 2 weeks — and it makes seeing tricky exits a breeze on Apple CarPlay and Android Auto - Tom's Guide
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 29 Sep 2026 05:30:00 GMT
+
+3. ポルシェ、古い 911、ボクスター、ケイマン モデルに CarPlay、Android Auto を提供 - スーパーカー ブログ
+   原題: Porsche now offers CarPlay, Android Auto for older 911, Boxster & Cayman models - The Supercar Blog
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 29 Sep 2026 14:11:15 GMT
+
+4. 私は Android Auto に乗るか死ぬか派ですが、Apple CarPlay はこれら 3 つの機能でそれを上回ります - ZDNET
+   原題: I’m an Android Auto ride or die – but Apple CarPlay beats it with these 3 features - ZDNET
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 29 Sep 2026 19:04:09 GMT
+
+5. 新しい Waze Alert: 突然の速度低下通知が Android Auto と CarPlay で利用可能になりました - autoevolution
+   原題: New Waze Alert: Sudden Slowdown Notifications Now Available on Android Auto and CarPlay - autoevolution
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 29 Sep 2026 05:53:36 GMT
+
+
+[Android Auto]
+1. Google アシスタントは廃止されました: Android Auto ユーザーは今後 Gemini を使用する必要があります - autoevolution
+   原題: Google Assistant Is Dead: Android Auto Users MUST Now Use Gemini - autoevolution
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 29 Sep 2026 07:13:08 GMT
+
+2. Android Auto の隠れた開発者メニューで、Google が見つけてほしくない 7 つの機能のロックが解除される - How-To Geek
+   原題: Android Auto's hidden developer menu unlocks 7 features Google doesn't want you to find - How-To Geek
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 29 Sep 2026 19:00:14 GMT
+
+3. 7 日間: F-Droid 2.0、Firefox 2026 の再設計、Android Auto ゲーム - neowin.net
+   原題: 7 Days: F-Droid 2.0, Firefox 2026 redesign, Android Auto gaming - neowin.net
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 27 Sep 2026 16:18:00 GMT
+
+4. Android Auto と Android Automotive OS の違いは何ですか? - スラッシュギア
+   原題: What's The Difference Between Android Auto And Android Automotive OS? - SlashGear
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 29 Sep 2026 21:15:00 GMT
+
+5. Android Auto のバグにより、閉じた折りたたみ式携帯電話からの通話が妨げられている - Android Authority
+   原題: Android Auto bug is preventing calls from closed foldable phones - Android Authority
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 29 Sep 2026 19:09:00 GMT
+
+
+[Arduino]
+1. Arduino VENTUNO Q: あなたを含むすべての人のための物理 AI! - EEジャーナル
+   原題: Arduino VENTUNO Q: Physical AI for All, Including You! - EEJournal
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 29 Sep 2026 14:00:29 GMT
+
+2. この DIY ロボットは周囲の世界を見て反応できます - Hackster.io
+   原題: This DIY Robot Can See and React to the World Around It - Hackster.io
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 29 Sep 2026 15:31:24 GMT
+
+3. Qualcomm Arduino ボード、Rubik Pi 3、および Snapdragon 搭載 PC に OpenClaw と Hermes Agent をインストールする方法 - qualcomm.com
+   原題: How to Install OpenClaw and Hermes Agent on Qualcomm Arduino Boards, Rubik Pi 3 and PCs with Snapdragon - qualcomm.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 24 Apr 2026 07:00:00 GMT
+
+4. Arduino UNO Q でアプリ開発を始めましょう - qualcomm.com
+   原題: Get Started with App development on Arduino UNO Q - qualcomm.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 15 Jan 2026 08:00:00 GMT
