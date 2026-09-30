@@ -1,0 +1,76 @@
+Searcher Daily Report
+Generated at: 2026-10-01 08:01:00
+Removed duplicates (today): 4
+Removed duplicates (7 days): 33
+
+[AI]
+1. トランプ大統領のAI昼食会に誰が出席し、誰がどこに座ったのか - nytimes.com
+   原題: Who Attended Trump’s AI Luncheon, and Who Sat Where - nytimes.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 30 Sep 2026 00:30:10 GMT
+
+2. Google、最先端の AI モデル Gemini 4 Argon を公開 - cnbc.com
+   原題: Google rolls out Gemini 4 Argon, its most advanced AI model - cnbc.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 30 Sep 2026 20:00:08 GMT
+
+3. Google、新しいAIモデルGemini 4 Argonを発表、アルファベット株価上昇へ - 本誌
+   原題: Google Unveils New AI Model Gemini 4 Argon, Sending Alphabet Stock Higher - Barron's
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 30 Sep 2026 21:35:00 GMT
+
+4. Gemini 4 Argon: フロンティア インテリジェンスの次の時代 - blog.google
+   原題: Gemini 4 Argon: our next era of frontier intelligence - blog.google
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 30 Sep 2026 20:06:23 GMT
+
+5. 子供と AI に関して親が考慮すべき 5 つのこと - シアトル・タイムズ
+   原題: 5 things parents should consider when it comes to kids and AI - The Seattle Times
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 30 Sep 2026 22:31:28 GMT
+
+
+[CarPlay]
+1. 私は Android Auto に乗るか死ぬか派ですが、Apple CarPlay はこれら 3 つの機能でそれを上回っています - ZDNET
+   原題: I’m an Android Auto ride or die – but Apple CarPlay beats it on these 3 features - ZDNET
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 29 Sep 2026 19:04:09 GMT
+
+2. あなたの少し古いポルシェもワイヤレス Apple CarPlay と Android Auto を利用できるようになりました - Motor1.com
+   原題: Your Slightly Older Porsche Can Now Get Wireless Apple CarPlay And Android Auto - Motor1.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 30 Sep 2026 05:51:00 GMT
+
+3. 新しい iOS 27 アップデートで Apple CarPlay が変わりました。それを最大限に活用するには、次の設定を使用する必要があります - supercarblondie.com
+   原題: New iOS 27 update has just transformed Apple CarPlay and you need to use these settings to get the most out of it - supercarblondie.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 30 Sep 2026 10:53:00 GMT
+
+4. Lucid Air UX 3.0 アップデートにより、より高速なコントロール、よりスマートな EV ルーティング、より優れた CarPlay が実現 - 電気自動車レポート
+   原題: Lucid Air UX 3.0 Update Brings Faster Controls, Smarter EV Routing and Better CarPlay - Electric Cars Report
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 30 Sep 2026 15:06:16 GMT
+
+
+[Android Auto]
+1. Google、折りたたみ式スマートフォンを閉じていると通話がブロックされる Android Auto のバグを認識 - 9to5Google
+   原題: Google aware of Android Auto bug that blocks calls if your foldable phone is closed - 9to5Google
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 30 Sep 2026 14:55:00 GMT
+
+2. Android Auto のバグにより、閉じた折りたたみ式携帯電話での通話がブロックされる - Android ヘッドライン
+   原題: Android Auto Bug Blocks Calls on Closed Foldable Phones - Android Headlines
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 30 Sep 2026 20:44:51 GMT
+
+3. 新しい Android Auto ユーザーが早急に変更する必要がある 5 つの設定 - pocket-lint.com
+   原題: 5 settings every new Android Auto user needs to change ASAP - pocket-lint.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 26 Sep 2026 00:00:00 GMT
+
+
+[Arduino]
+1. Arduino パーキング センサー: 近づくとビープ音が速くなります - Adafruit
+   原題: Arduino parking sensor: beeps faster as you get closer - Adafruit
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 30 Sep 2026 19:08:06 GMT
