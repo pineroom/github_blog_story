@@ -1,0 +1,111 @@
+Searcher Daily Report
+Generated at: 2026-10-02 08:01:04
+Removed duplicates (today): 5
+Removed duplicates (7 days): 23
+
+[AI]
+1. Googleが強力な新モデルをリリース、AI責任争いが上院に及ぶ - FOXニュース
+   原題: AI liability fight reaches Senate as Google releases powerful new model - Fox News
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 01 Oct 2026 19:53:52 GMT
+
+2. マイク・ロウ氏、米国の労働者が「10年ぶりの問題」に直面していると警告 - Fox Business
+   原題: Mike Rowe warns US workforce facing ‘problem of the decade’ - Fox Business
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 01 Oct 2026 10:57:00 GMT
+
+3. 元連邦規制当局は、既存の法律がすでにAIに適用されていると述べている - npr.org
+   原題: Former federal regulator says existing laws already apply to AI - npr.org
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 01 Oct 2026 21:12:39 GMT
+
+4. AI スタートアップ Suno の新ツールで音声を音声に変換 - ブルームバーグ.com
+   原題: AI Startup Suno’s New Tool Puts Music to Spoken Word - bloomberg.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 01 Oct 2026 22:01:05 GMT
+
+5. CNBC AI フォーラムのライブ最新情報: OpenAI のブレット・テイラー氏、AI を安全にする「義務」があると語る - cnbc.com
+   原題: CNBC AI Forum live updates: OpenAI's Bret Taylor says we have an "obligation" to make AI safe - cnbc.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 01 Oct 2026 21:24:00 GMT
+
+
+[CarPlay]
+1. Twelve South が小型の新しい「Airfly Drive」ワイヤレス CarPlay アダプターを発売 - 9to5mac.com
+   原題: Twelve South launches tiny new ‘Airfly Drive’ wireless CarPlay adapter - 9to5mac.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 01 Oct 2026 17:20:00 GMT
+
+2. 新しい「AirFly Drive」アクセサリが有線CarPlayをワイヤレスCarPlayに変える - MacRumors
+   原題: New 'AirFly Drive' Accessory Turns Wired CarPlay Into Wireless CarPlay - MacRumors
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 01 Oct 2026 22:08:31 GMT
+
+3. すべてのドライバーが必要とする (そしておそらくあなたは使っていない) 14 の隠された CarPlay 機能 - スタッフ.tv
+   原題: 14 hidden CarPlay features every driver needs (and you’re probably not using) - stuff.tv
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 01 Oct 2026 15:48:52 GMT
+
+4. Google マップのイマーシブ ナビゲーションを 2 週間テストしました。Apple CarPlay と Android Auto で難しい出口を簡単に確認できるようになりました - tomsguide.com
+   原題: I tested Google Maps Immersive Navigation for 2 weeks — and it makes seeing tricky exits a breeze on Apple CarPlay and Android Auto - tomsguide.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 29 Sep 2026 05:30:00 GMT
+
+5. 毎日の通勤を完全に変え、CarPlay を無視した 5 つの Android Auto 機能 - Android Police
+   原題: 5 Android Auto features that completely changed my daily commute and leave CarPlay in the dust - Android Police
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 01 Oct 2026 19:00:10 GMT
+
+
+[Android Auto]
+1. Android Auto が Google Pixel の Magic Cue とプロアクティブ アシスタンスのサポートを準備 - 9to5Google
+   原題: Android Auto prepares support for Google Pixel’s Magic Cue & Proactive Assistance - 9to5Google
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 01 Oct 2026 14:55:00 GMT
+
+2. 私の Android Auto セットアップは、長距離の旅行中でも完全にオフラインで実行されます - Android Police
+   原題: My Android Auto setup runs fully offline, even on long road trips - Android Police
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 01 Oct 2026 13:30:10 GMT
+
+3. すでに所有しているハードウェアを使用して古い車に Android Auto を無料で追加する方法 - How-To Geek
+   原題: How to add Android Auto to an old car for free using hardware you already own - How-To Geek
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 29 Sep 2026 10:30:13 GMT
+
+4. Android Auto 17.9 がオンラインで発見、ダウンロード方法は次のとおりです - autoevolution
+   原題: Android Auto 17.9 Spotted Online, Here's How You Can Download It - autoevolution
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 01 Oct 2026 04:06:05 GMT
+
+5. 閉じた折りたたみ式デバイスが原因で Android Auto 通話が失敗する: Moto と Google が調査中 - Android Central
+   原題: Closed foldables cause Android Auto calls to fail: Moto and Google are investigating - Android Central
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 01 Oct 2026 10:11:00 GMT
+
+
+[Arduino]
+1. Arduino UNO Q が DOGZILLA S2 に AI 頭脳を与える - Hackster.io
+   原題: Arduino UNO Q Gives DOGZILLA S2 an AI Brain - Hackster.io
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 01 Oct 2026 15:02:51 GMT
+
+2. 新しい VENTUNO Q ボードにより、Arduino はロボット開発を容易にしたいと考えています - The Robot Report
+   原題: With the new VENTUNO Q board, Arduino hopes to make robotics development easier - The Robot Report
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 23 Sep 2026 18:21:32 GMT
+
+3. Arduino がコア Zephyr 1.0 に到達 - i-programmer.info
+   原題: Arduino Reaches Core Zephyr 1.0 - i-programmer.info
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 16 Sep 2026 07:00:00 GMT
+
+4. アーティスト向けのエレクトロニクスと Arduino マイクロコントローラー | 2026 年 10 月 1 日から 11 月 19 日まで |午後6時30分～午後9時30分 |継続教育 - sva.edu
+   原題: Electronics and Arduino Microcontroller for Artists | Oct 1 - Nov 19, 2026 | 6:30-9:30 PM | Continuing Education - sva.edu
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 27 Jul 2026 18:08:35 GMT
+
+5. このかわいい柴犬のデスクトップ ペットを 3D プリントできます - Hackster.io
+   原題: You Can 3D Print This Cute Shiba Inu Desktop Pet - Hackster.io
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 01 Oct 2026 13:12:14 GMT
