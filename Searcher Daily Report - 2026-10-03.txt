@@ -1,0 +1,96 @@
+Searcher Daily Report
+Generated at: 2026-10-03 08:01:09
+Removed duplicates (today): 4
+Removed duplicates (7 days): 27
+
+[AI]
+1. 意見 | AI がどれだけ必要かを示す 6 つのグラフ- ニューヨーク・タイムズ紙
+   原題: Opinion | Six Charts That Show Just How Much We Need A.I. - The New York Times
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 02 Oct 2026 09:03:53 GMT
+
+2. 分析 | Google の AI を検索に使用すべき場合とスキップすべき場合 - washingtonpost.com
+   原題: Analysis | When you should use Google’s AI for search — and when you should skip it - washingtonpost.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 02 Oct 2026 16:00:00 GMT
+
+3. Trump to Name Jay Clayton to Serve as A.I. Czar - The New York Times
+   原題: Trump to Name Jay Clayton to Serve as A.I. Czar - The New York Times
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 02 Oct 2026 15:57:04 GMT
+
+4. トランプ大統領、新たなAI皇帝に情報長官のジェイ・クレイトンを指名すると予想 - washingtonpost.com
+   原題: Trump expected to name intelligence chief Jay Clayton as new AI czar - washingtonpost.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 02 Oct 2026 22:46:12 GMT
+
+5. 環状道路はトランプ大統領のAI合意をどのように受け入れたのでしょうか? - ザ・ヒル
+   原題: How did the beltway take Trump’s AI accord? - The Hill
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 02 Oct 2026 22:45:00 GMT
+
+
+[CarPlay]
+1. Twelve South が新しい Airfly Drive ワイヤレス CarPlay および Android Auto アダプターを発売 - 9to5Toys
+   原題: Twelve South launches new Airfly Drive wireless CarPlay and Android Auto adapter - 9to5Toys
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 02 Oct 2026 09:30:00 GMT
+
+2. Lamtto 車用インフォテインメント システムのレビュー: 古代車向けのボーナス付き CarPlay - Macworld
+   原題: Lamtto Car Infotainment System review: CarPlay with a bonus for ancient cars - Macworld
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 02 Oct 2026 07:30:55 GMT
+
+3. Apple にブロックされる前に Apple CarPlay で YouTube をストリーミングする方法 - Geeky Gadgets
+   原題: How to Stream YouTube on Apple CarPlay Before Apple Blocks It - Geeky Gadgets
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 30 Sep 2026 09:02:48 GMT
+
+4. Twelve South、小型の新しい「Airfly Drive」ワイヤレス CarPlay アダプターを発売 [更新] - 9to5Mac
+   原題: Twelve South launches tiny new ‘Airfly Drive’ wireless CarPlay adapter [Updated] - 9to5Mac
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 02 Oct 2026 18:15:00 GMT
+
+5. Twelve South の新しい $40 Airfly ワイヤレス CarPlay/Android Auto アダプターはすでに完売しています。今のうちに 1 つ獲得してください - 9to5Toys
+   原題: Twelve South's new $40 Airfly wireless CarPlay/Android Auto adapter already selling out, score one now while you can - 9to5Toys
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 02 Oct 2026 19:24:00 GMT
+
+
+[Android Auto]
+1. Android Auto で Google メッセージが音楽を中断し続けましたが、これが実際に機能した唯一の修正方法です - How-To Geek
+   原題: Google Messages kept interrupting my music in Android Auto, and this is the only fix that actually worked - How-To Geek
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 01 Oct 2026 17:00:14 GMT
+
+2. この小さなガジェットは、車をアップグレードすることなく、CarPay または Android Auto をワイヤレスにします - t3.com
+   原題: This tiny gadget turns your CarPay or Android Auto wireless – without upgrading your car - t3.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 02 Oct 2026 11:00:00 GMT
+
+3. Google、Android Auto のアップデートとメディア アプリの修正を確認 – 波線は今後も存続 - 9to5Google
+   原題: Google confirms Android Auto updates & fixes for media apps – the squiggly line is here to stay - 9to5Google
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 02 Oct 2026 18:20:00 GMT
+
+4. Android Auto 17.9 は 2 つの新しい大きな機能を予告します: おそらく少なくとも 1 つは嫌いになるでしょう - autoevolution
+   原題: Android Auto 17.9 Teases Two New Big Features: You'll Probably Hate at Least One - autoevolution
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 02 Oct 2026 05:47:04 GMT
+
+5. Android Auto エクスペリエンスを向上させるために無効にする 4 つの Android 設定 - How-To Geek
+   原題: 4 Android settings to disable for a better Android Auto experience - How-To Geek
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 02 Oct 2026 20:30:14 GMT
+
+
+[Arduino]
+1. Arduino の VENTUNO Q SBC を無料でテスト - Electronics Weekly
+   原題: Test Arduino’s VENTUNO Q SBC for free - Electronics Weekly
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 24 Sep 2026 05:21:56 GMT
+
+2. Arduino の最新アップデートによりコードが自動的に作成される - Hackster.io
+   原題: Arduino's Latest Update Writes Your Code for You - Hackster.io
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 12 Aug 2026 14:15:23 GMT
