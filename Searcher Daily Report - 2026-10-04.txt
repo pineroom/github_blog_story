@@ -1,0 +1,101 @@
+Searcher Daily Report
+Generated at: 2026-10-04 08:01:07
+Removed duplicates (today): 2
+Removed duplicates (7 days): 27
+
+[AI]
+1. OpenAIの文化が壊れたので辞めた - The Atlantic
+   原題: I Quit OpenAI Because Its Culture Is Broken - The Atlantic
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 03 Oct 2026 11:00:00 GMT
+
+2. OpenAIの安全リーダーが辞任、AI企業の文化は「壊れている」と警告 - ガーディアン
+   原題: OpenAI safety leader quits, warning AI company’s culture is ‘broken’ - The Guardian
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 03 Oct 2026 20:09:00 GMT
+
+3. OpenAIの安全担当社員が辞任、会社の「文化が壊れている」と主張 - TechCrunch
+   原題: OpenAI safety employee resigns, claiming the company’s ‘culture is broken’ - TechCrunch
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 03 Oct 2026 16:30:01 GMT
+
+4. A.I.ソングライティングの実験: 人間と機械の対峙 - ニューヨーク・タイムズ
+   原題: An A.I. Songwriting Experiment: Humans Against the Machine - The New York Times
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 03 Oct 2026 09:00:41 GMT
+
+5. 独占 |社会や業界の懸念を受け、新たなAI専門委員会がテクノロジーのリスクを報告へ - WSJ
+   原題: Exclusive | New AI Task Force to Report on Risks of Technology After Public and Industry Concerns - WSJ
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 03 Oct 2026 22:26:00 GMT
+
+
+[CarPlay]
+1. 自動車メーカーは2026年にCarPlayを廃止：その理由は次のとおりです - Engadget
+   原題: Car Manufacturers Are Ditching CarPlay In 2026: Here's Why - Engadget
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 13 Sep 2026 07:00:00 GMT
+
+2. GMはApple CarPlayを「復活」させることはできない、なぜならそれは決して去らなかったからだ - The Verge
+   原題: GM can’t ‘bring back’ Apple CarPlay because it never left - The Verge
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 21 Sep 2026 07:00:00 GMT
+
+3. 試す価値のある CarPlay 用の手頃な価格の iPhone アクセサリ - 9to5mac.com
+   原題: Affordable iPhone accessories for CarPlay worth trying - 9to5mac.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 05 Sep 2026 07:00:00 GMT
+
+4. Apple、CarPlay Ultra はどこにありますか? - MacRumors
+   原題: Apple, Where is CarPlay Ultra? - MacRumors
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 20 Aug 2026 07:00:00 GMT
+
+
+[Android Auto]
+1. 古い携帯電話を永続的な Android Auto デバイスに変えたら、メインの携帯電話が車に接続されなくなりました - XDA
+   原題: I turned an old phone into a permanent Android Auto device, and my main phone never connects to the car anymore - XDA
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 03 Oct 2026 12:30:19 GMT
+
+2. 次回のロードトリップで使用すべき 6 つの Android Auto 機能 -lashgear.com
+   原題: 6 Android Auto Features You Should Use On Your Next Road Trip - slashgear.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 02 Oct 2026 21:15:00 GMT
+
+3. Google、Android Auto メディアのメジャーアップデートを発表、この機能はゲームチェンジャーとなる - autoevolution
+   原題: Google Announces Major Android Auto Media Update, and This Feature Is a Game Changer - autoevolution
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 03 Oct 2026 04:15:54 GMT
+
+4. 次のドライブの前に車にインストールすべき 5 つの Android Auto ゲーム - Android Police
+   原題: 5 Android Auto games you should install in your car before your next road trip - Android Police
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 02 Oct 2026 21:00:10 GMT
+
+5. 閉じた折りたたみ式デバイスが原因で Android Auto 通話が失敗する: Moto と Google が調査中 - androidcentral.com
+   原題: Closed foldables cause Android Auto calls to fail: Moto and Google are investigating - androidcentral.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 01 Oct 2026 10:11:00 GMT
+
+
+[Arduino]
+1. Arduino VENTUNO Q が DIY インスタントカメラにローカル AI パワーを与える - Hackster.io
+   原題: Arduino VENTUNO Q Gives a DIY Instant Camera Local AI Powers - Hackster.io
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 03 Oct 2026 12:40:54 GMT
+
+2. クラウドを必要としない AI おもちゃ - Hackster.io
+   原題: An AI Toy That Doesn’t Need the Cloud - Hackster.io
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 03 Oct 2026 13:43:51 GMT
+
+3. PiZZa: Raspberry Pi Zero 2 W 上の Arduino - Adafruit
+   原題: PiZZa: Arduino on the Raspberry Pi Zero 2 W - Adafruit
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 01 Jul 2026 07:00:00 GMT
+
+4. Arduino が Qualcomm Dragonwing IQ8 シリーズを搭載した Arduino VENTUNO Q を発表 - クアルコム
+   原題: Arduino Announces Arduino VENTUNO Q, Powered by Qualcomm Dragonwing IQ8 Series - Qualcomm
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 09 Mar 2026 07:00:00 GMT
