@@ -1,0 +1,111 @@
+Searcher Daily Report
+Generated at: 2026-10-05 08:00:58
+Removed duplicates (today): 2
+Removed duplicates (7 days): 26
+
+[AI]
+1. トランプ氏、AI対策本部のリーダーシップを発表 - CNN
+   原題: Trump announces leadership of AI task force - CNN
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 04 Oct 2026 12:59:49 GMT
+
+2. A.I.の判決を受けて裁判所が判決を破棄殺人犯を「許す」被害者のビデオ - ニューヨーク・タイムズ
+   原題: Court Tosses ​​Sentence After A.I. Video of Victim ‘Forgiving’ His Killer Is Played - The New York Times
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 04 Oct 2026 21:04:44 GMT
+
+3. 裁判官が殺害された男のAIビデオを「愛した」と発言したため、裁判所が殺人者の判決を破棄 - NBCニュース
+   原題: Court throws out killer’s sentence after judge said he ‘loved’ AI video of slain man - NBC News
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 04 Oct 2026 21:29:21 GMT
+
+4. 被害者が裁判官と話しているAI生成ビデオにより、裁判所が過失致死の判決を破棄 - フォーチュン
+   原題: Court tosses manslaughter sentence due to an AI-generated video of the victim speaking to a judge - Fortune
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 04 Oct 2026 20:51:00 GMT
+
+5. ワシントン州全域のシアトルで抗議活動、AIデータセンターブームの一時停止を求める - シアトル・タイムズ
+   原題: Protests in Seattle, across WA call for pause on AI data center boom - The Seattle Times
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 04 Oct 2026 22:45:41 GMT
+
+
+[CarPlay]
+1. このあまり知られていないアプリを使用すると、Apple CarPlay で曲の歌詞を表示できます - engadget.com
+   原題: This Little-Known App Lets You Display Song Lyrics On Apple CarPlay - engadget.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 03 Oct 2026 23:00:00 GMT
+
+2. Twelve South、小型の新しい「Airfly Drive」ワイヤレス CarPlay アダプターを発売 - 9to5Mac
+   原題: Twelve South launches tiny new ‘Airfly Drive’ wireless CarPlay adapter - 9to5Mac
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 01 Oct 2026 17:20:00 GMT
+
+3. GM、CarPlayを2027年型シルバラードに搭載、しかし現在はGMのインターフェース内に搭載 - CarBuzz
+   原題: GM Keeps CarPlay In The 2027 Silverado, But It Now Lives Inside GM's Interface - CarBuzz
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 04 Oct 2026 19:30:11 GMT
+
+4. iOS 27 の最大の CarPlay アップグレードを試してみました。そのうちの 1 つは毎日使用します - MakeUseOf
+   原題: I tried iOS 27's biggest CarPlay upgrades, and one of them I’ll use every day - MakeUseOf
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 04 Oct 2026 20:00:14 GMT
+
+5. 車にドライブレコーダーとワイヤレス CarPlay を追加しました。これは、これまでに行った最高の 2-in-1 アップグレードです - Tom's Guide
+   原題: I added a dashcam and wireless CarPlay to my car — and it's the best 2-in-1 upgrade I've ever made - Tom's Guide
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 04 Oct 2026 12:00:00 GMT
+
+
+[Android Auto]
+1. これらの非表示の Google マップ設定を変更しました。 Android Auto ナビゲーションが大幅に改善されました - androidpolice.com
+   原題: I changed these hidden Google Maps settings; now my Android Auto navigation is miles better - androidpolice.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 03 Oct 2026 23:00:10 GMT
+
+2. 古い携帯電話を永続的な Android Auto デバイスに変えたら、メインの携帯電話が車に接続されなくなりました - xda-developers.com
+   原題: I turned an old phone into a permanent Android Auto device, and my main phone never connects to the car anymore - xda-developers.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 03 Oct 2026 12:30:19 GMT
+
+3. 新しい Android Auto アップデートが Google Play ストアで利用可能になりました。待ち時間を省略する方法 - autoevolution
+   原題: New Android Auto Update Now Available in the Google Play Store, Here's How To Skip the Wait - autoevolution
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 04 Oct 2026 06:55:00 GMT
+
+4. 磁石のおかげで私の乱雑な Android Auto セットアップが変わりました。修正コストは思ったよりも低かったです - How-To Geek
+   原題: Magnets transformed my messy Android Auto setup, and the fix costs less than you think - How-To Geek
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 04 Oct 2026 11:00:14 GMT
+
+5. Google Keep、OneNote、Obsidian 顔負けの Android メモアプリを見つけました - androidpolice.com
+   原題: I found an Android note-taking app that puts Google Keep, OneNote, and Obsidian to shame - androidpolice.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 04 Oct 2026 12:45:10 GMT
+
+
+[Arduino]
+1. Arduino パーキング センサー: 近づくとビープ音が速くなります - blog.adafruit.com
+   原題: Arduino parking sensor: beeps faster as you get closer - blog.adafruit.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 30 Sep 2026 19:08:06 GMT
+
+2. AVR ラップトップが 8 ビットの限界を押し上げる - ハッカデイ
+   原題: AVR Laptop Pushes The Limits Of 8-Bit - Hackaday
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 04 Oct 2026 17:00:00 GMT
+
+3. Arduino UNO Q ボード: 次世代エッジ AI のデュアルブレイン パワーを解き明かす - クアルコム
+   原題: The Arduino UNO Q Board: Unpack the Dual-Brain Power for Next-Gen Edge AI - Qualcomm
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 10 May 2026 07:00:00 GMT
+
+4. BelWattmeter Arduino ライブラリ - blog.adafruit.com
+   原題: A BelWattmeter Arduino library - blog.adafruit.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 28 Sep 2026 19:39:05 GMT
+
+5. Arduino UNO-Q 天気ダッシュボード - Elektor Magazine
+   原題: Arduino UNO-Q Weather Dashboard - Elektor Magazine
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 26 Sep 2026 19:42:29 GMT
