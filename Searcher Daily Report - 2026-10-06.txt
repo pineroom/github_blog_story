@@ -1,0 +1,111 @@
+Searcher Daily Report
+Generated at: 2026-10-06 08:00:58
+Removed duplicates (today): 2
+Removed duplicates (7 days): 22
+
+[AI]
+1. AI研究者、ニューヨーク市の公聴会で「我々は自らの敵を構築、成長させようと競っている」と警告 - CNBC
+   原題: AI researcher warns 'we are racing to build and grow our own adversary' in NYC hearing - CNBC
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 05 Oct 2026 10:41:41 GMT
+
+2. 元人類研究者、ニューヨーク市議会AI公聴会で証言 - Bloomberg.com
+   原題: Ex-Anthropic Researcher Testifies at NYC Council AI Hearing - Bloomberg.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 05 Oct 2026 16:46:47 GMT
+
+3. ニューヨーク市議会議員、AI規制案を反対：テクノロジーは「前進」する必要がある - FOXニュース
+   原題: NYC councilwoman pushes back on proposed AI regulations: Technology must ‘move forward’ - Fox News
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 05 Oct 2026 22:08:43 GMT
+
+4. 人々は、中間選挙での投票方法を決める手助けをChatGPTに求めている - NPR
+   原題: People are asking ChatGPT to help them decide how to vote in the midterms - NPR
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 05 Oct 2026 18:32:00 GMT
+
+5. AIの助けを借りて人々は自分の乳がんリスクを評価できる - CBSニュース
+   原題: People can assess their breast cancer risk with the help of AI - CBS News
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 05 Oct 2026 22:47:00 GMT
+
+
+[CarPlay]
+1. このあまり知られていないアプリを使用すると、Apple CarPlay で曲の歌詞を表示できます - Engadget
+   原題: This Little-Known App Lets You Display Song Lyrics On Apple CarPlay - Engadget
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 03 Oct 2026 23:00:00 GMT
+
+2. Twelve South が小型の新しい「Airfly Drive」ワイヤレス CarPlay アダプターを発売 [更新] - 9to5mac.com
+   原題: Twelve South launches tiny new ‘Airfly Drive’ wireless CarPlay adapter [Updated] - 9to5mac.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 02 Oct 2026 18:15:00 GMT
+
+3. 誰かが「完璧な」CarPlay を設計、見た目は Android Auto にそっくり - autoevolution.com
+   原題: Someone Designed the "Perfect" CarPlay, and It Looks Just Like Android Auto - autoevolution.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 05 Oct 2026 05:12:55 GMT
+
+4. GMのCarPlay廃止でシボレーEVの販売が試される - AppleInsider
+   原題: GM's CarPlay removal puts Chevy EV sales to the test - AppleInsider
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 20 Aug 2026 07:00:00 GMT
+
+5. CarPlay ウィジェットを追加してカスタマイズする方法 - Engadget
+   原題: How To Add And Customize Your CarPlay Widgets - Engadget
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 05 Oct 2026 22:30:00 GMT
+
+
+[Android Auto]
+1. Android Autoは間もなく数百万台の携帯電話で動作しなくなる可能性がある - Android Authority
+   原題: Android Auto could soon stop working on millions of phones - Android Authority
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 05 Oct 2026 11:22:00 GMT
+
+2. 新しい Android Auto アップデートが Google Play ストアで利用可能になりました。待ち時間を省略する方法 - autoevolution.com
+   原題: New Android Auto Update Now Available in the Google Play Store, Here's How To Skip the Wait - autoevolution.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 04 Oct 2026 06:55:00 GMT
+
+3. Google、Android Auto の信号アイコンが見つからない問題の修正が公開されることを確認 - 9to5Google
+   原題: Google confirms fix for Android Auto’s missing signal icon is rolling out - 9to5Google
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 05 Oct 2026 15:25:00 GMT
+
+4. Pixel 11 ユーザーは Android Auto で厄介な Google マップのバグに遭遇している - Android Police
+   原題: Pixel 11 users are getting some nasty Google Maps bugs in Android Auto - Android Police
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 05 Oct 2026 12:52:01 GMT
+
+5. Waze のバッテリーが消耗したため、Android Auto での Waze の使用をやめました。これを解決した方法は次のとおりです - How-To Geek
+   原題: I stopped using Waze in Android Auto after it killed my battery—here's what fixed it - How-To Geek
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 05 Oct 2026 20:30:14 GMT
+
+
+[Arduino]
+1. Arduino VENTUNO Q が登場: Qualcomm Dragonwing IQ8 シリーズで Agentic AI を物理世界に導入 - Qualcomm
+   原題: Arduino VENTUNO Q is Here: Bringing Agentic AI to the Physical World with Qualcomm Dragonwing IQ8 Series - Qualcomm
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 25 Aug 2026 07:00:00 GMT
+
+2. Arduino の VENTUNO Q SBC を無料でテスト - electricweekly.com
+   原題: Test Arduino’s VENTUNO Q SBC for free - electronicsweekly.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 24 Sep 2026 07:00:00 GMT
+
+3. Arduino 対 Raspberry Pi 2026: 50x ギャップ [テスト済み] - tech-insider.org
+   原題: Arduino vs Raspberry Pi 2026: 50x Gap [Tested] - tech-insider.org
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 24 Apr 2026 07:00:00 GMT
+
+4. Eyebrow RP2040: カスタム オープンソース バッジ コントローラー - Hackster.io
+   原題: Sopracciglio RP2040: Custom Open Sauce Badge Controller - Hackster.io
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 03 Oct 2026 07:00:00 GMT
+
+5. Arduino Mega Case – スナップフィット #3DPrinting #3DMonday - Adafruit
+   原題: Arduino Mega Case – Snap-Fit #3DPrinting #3DThursday - Adafruit
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 16 Jul 2026 07:00:00 GMT
