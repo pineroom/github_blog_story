@@ -1,0 +1,106 @@
+Searcher Daily Report
+Generated at: 2026-10-07 08:00:52
+Removed duplicates (today): 1
+Removed duplicates (7 days): 27
+
+[AI]
+1. Sharing AI progress in mathematics - OpenAI
+   原題: Sharing AI progress in mathematics - OpenAI
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 06 Oct 2026 22:21:50 GMT
+
+2. OpenAI, Anthropic, Meta, Google stop short of AI safety guarantee - Fox News
+   原題: OpenAI, Anthropic, Meta, Google stop short of AI safety guarantee - Fox News
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 06 Oct 2026 20:01:46 GMT
+
+3. BlackRock CEO says he's more fearful of losing the AI race than an AI bubble - NBC News
+   原題: BlackRock CEO says he's more fearful of losing the AI race than an AI bubble - NBC News
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 06 Oct 2026 22:23:02 GMT
+
+4. John Kiriakou warns US is ‘not prepared’ for AI threats: ‘The new frontier’ - Fox News
+   原題: John Kiriakou warns US is ‘not prepared’ for AI threats: ‘The new frontier’ - Fox News
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 06 Oct 2026 22:42:48 GMT
+
+5. Cramer says these blue-chip stocks are among the best ways to invest in the AI boom - CNBC
+   原題: Cramer says these blue-chip stocks are among the best ways to invest in the AI boom - CNBC
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 06 Oct 2026 22:13:04 GMT
+
+
+[CarPlay]
+1. This Simple Upgrade Brings CarPlay to Almost Any Older Car - Road & Track
+   原題: This Simple Upgrade Brings CarPlay to Almost Any Older Car - Road & Track
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 06 Oct 2026 10:00:00 GMT
+
+2. Someone Designed the "Perfect" CarPlay, and It Looks Just Like Android Auto - autoevolution
+   原題: Someone Designed the "Perfect" CarPlay, and It Looks Just Like Android Auto - autoevolution
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 05 Oct 2026 05:12:55 GMT
+
+3. iOS 27: 8+ New CarPlay Features - MacRumors
+   原題: iOS 27: 8+ New CarPlay Features - MacRumors
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 05 Oct 2026 21:58:02 GMT
+
+4. 5 New CarPlay Features in iOS 27 That Will Upgrade Your Drive - Man of Many
+   原題: 5 New CarPlay Features in iOS 27 That Will Upgrade Your Drive - Man of Many
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 26 Sep 2026 07:00:00 GMT
+
+5. 14 hidden CarPlay features every driver needs (and you’re probably not using) - Stuff
+   原題: 14 hidden CarPlay features every driver needs (and you’re probably not using) - Stuff
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 01 Oct 2026 15:48:52 GMT
+
+
+[Android Auto]
+1. Google is preparing to drop Android Auto support for millions of phones - How-To Geek
+   原題: Google is preparing to drop Android Auto support for millions of phones - How-To Geek
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 06 Oct 2026 17:14:45 GMT
+
+2. Issues with Google Maps on Android Auto using a Pixel 11 model could make driving dangerous - PhoneArena
+   原題: Issues with Google Maps on Android Auto using a Pixel 11 model could make driving dangerous - PhoneArena
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 05 Oct 2026 21:51:07 GMT
+
+3. Google Announces Long-Overdue Android Auto Cellular Signal Bar Fix - autoevolution
+   原題: Google Announces Long-Overdue Android Auto Cellular Signal Bar Fix - autoevolution
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 04 Oct 2026 07:32:04 GMT
+
+4. Remember MapQuest? You Can Now Use It With Android Auto - Engadget
+   原題: Remember MapQuest? You Can Now Use It With Android Auto - Engadget
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 06 Oct 2026 22:00:00 GMT
+
+5. Have you experienced disappearing icons in Android Auto? If so, there's now a fix — here’s how to solve it - TechRadar
+   原題: Have you experienced disappearing icons in Android Auto? If so, there's now a fix — here’s how to solve it - TechRadar
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 06 Oct 2026 10:48:33 GMT
+
+
+[Arduino]
+1. A BelWattmeter Arduino library - Adafruit
+   原題: A BelWattmeter Arduino library - Adafruit
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 28 Sep 2026 19:39:05 GMT
+
+2. Building a Practical Asset Tracking System with Arduino® UNO™ Q - Qualcomm
+   原題: Building a Practical Asset Tracking System with Arduino® UNO™ Q - Qualcomm
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 20 Jul 2026 07:00:00 GMT
+
+3. Game On: VENTUNO Q Turned Into a Gaming Rig - Hackster.io
+   原題: Game On: VENTUNO Q Turned Into a Gaming Rig - Hackster.io
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 06 Oct 2026 13:27:39 GMT
+
+4. How to Install OpenClaw and Hermes Agent on Qualcomm Arduino Boards, Rubik Pi 3 and PCs with Snapdragon - Qualcomm
+   原題: How to Install OpenClaw and Hermes Agent on Qualcomm Arduino Boards, Rubik Pi 3 and PCs with Snapdragon - Qualcomm
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 24 Apr 2026 07:00:00 GMT
