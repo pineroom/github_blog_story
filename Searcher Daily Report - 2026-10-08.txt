@@ -1,0 +1,96 @@
+Searcher Daily Report
+Generated at: 2026-10-08 08:01:13
+Removed duplicates (today): 3
+Removed duplicates (7 days): 30
+
+[AI]
+1. AI が数学の問題を 1 つ解決すると、誰もが大騒ぎになりました。さらに何百ものクラックが発生しました。 - WSJ
+   原題: AI Solved One Math Problem and Everyone Freaked Out. It Just Cracked Hundreds More. - WSJ
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 07 Oct 2026 14:32:00 GMT
+
+2. 大量の数学: 今週の驚くべき AI モデルの進歩 - Forbes
+   原題: A Whole Bunch Of Math: Jaw-Dropping AI Model Gains This Week - Forbes
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 07 Oct 2026 21:19:14 GMT
+
+3. 意見 |彼は地球上で最も強力なエンジニアです。彼がAIを考える理由は次のとおりです。順調です。 - ニューヨーク・タイムズ紙
+   原題: Opinion | He’s the Most Powerful Engineer on Earth. Here’s Why He Thinks A.I. Is Going Great. - The New York Times
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 07 Oct 2026 15:00:12 GMT
+
+4. 独占 |解雇されたOpenAI研究者、AI推論の可視性維持を企業に要請 - WSJ
+   原題: Exclusive | Fired OpenAI Researchers Ask Company to Preserve Visibility Into AI Reasoning - WSJ
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 07 Oct 2026 22:43:00 GMT
+
+5. ノーベル物理学賞受賞者の AI 役割の先駆者としての誇り - Phys.org
+   原題: Nobel physics winner's pride at pioneering AI role - Phys.org
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 07 Oct 2026 22:40:01 GMT
+
+
+[CarPlay]
+1. 中国で開発された無名のアプリのおかげで、ついに CarPlay で YouTube を再生できるようになりました - XDA
+   原題: I finally got YouTube playing in CarPlay thanks to an obscure app developed in China - XDA
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 07 Oct 2026 12:30:17 GMT
+
+2. 車の有線 CarPlay を無線 CarPlay に変える - MacRumors
+   原題: Turn Your Vehicle's Wired CarPlay Into Wireless CarPlay - MacRumors
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 07 Oct 2026 21:15:22 GMT
+
+3. Apple CarPlay の制限を回避する: 車内で YouTube をストリーミングする方法 - Geeky Gadgets
+   原題: Bypass Apple CarPlay Restrictions: How to Stream YouTube in Your Car - Geeky Gadgets
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 07 Oct 2026 07:02:08 GMT
+
+4. ボルボ、3 つのモデルに空間オーディオ機能を追加する CarPlay アップデートを詳細 - 9to5Mac
+   原題: Volvo details CarPlay update that adds Spatial Audio feature for three models - 9to5Mac
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 26 Aug 2026 07:00:00 GMT
+
+5. iPhone 18 Pro & Pro Max を CarPlay に接続する方法: 有線とワイヤレスのセットアップ - zeera Wireless
+   原題: How to Connect iPhone 18 Pro & Pro Max to CarPlay: Wired and Wireless Setup - zeera wireless
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 07 Oct 2026 13:43:47 GMT
+
+
+[Android Auto]
+1. Android Auto に必要な新しい最小 Android バージョンがあるので、今すぐ確認してください - PhoneArena
+   原題: There's a new minimum Android version you'll need for Android Auto, so check it now - PhoneArena
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 06 Oct 2026 11:06:58 GMT
+
+2. 車の始動時に音楽の自動再生を停止する Android Auto の修正を公開 - 9to5Google
+   原題: Android Auto rolling out fix that stops auto-playing music when you start your car - 9to5Google
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 07 Oct 2026 12:15:00 GMT
+
+3. Pixel 11 ユーザーは、Google マップのフリーズと Android Auto での奇妙な視覚的不具合を報告しています - XDA
+   原題: Pixel 11 users are reporting Google Maps freezes and strange visual glitches in Android Auto - XDA
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 06 Oct 2026 16:02:54 GMT
+
+4. これはあなたの車に必要な、実際に重要な 57 ドルのアップグレードです - Android Police
+   原題: This is the $57 upgrade your car needs that actually matters - Android Police
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 06 Oct 2026 17:03:10 GMT
+
+5. 私がワイヤレス Android Auto を二度と使用しない 3 つの理由 - MakeUseOf
+   原題: 3 reasons why I'll never use Wireless Android Auto again - MakeUseOf
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 07 Oct 2026 18:30:14 GMT
+
+
+[Arduino]
+1. Arduino VENTUNO Q: あなたを含むすべての人のための物理 AI! - EEジャーナル
+   原題: Arduino VENTUNO Q: Physical AI for All, Including You! - EEJournal
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 29 Sep 2026 14:00:29 GMT
+
+2. Arduino パーキングセンサー: 近づくとビープ音が速くなります - Adafruit
+   原題: Arduino parking sensor: beeps faster as you get closer - Adafruit
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 30 Sep 2026 19:08:06 GMT
