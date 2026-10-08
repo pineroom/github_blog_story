@@ -1,0 +1,91 @@
+Searcher Daily Report
+Generated at: 2026-10-09 08:00:59
+Removed duplicates (today): 2
+Removed duplicates (7 days): 30
+
+[AI]
+1. Nvidia、Oracle、CoreWeave、その他の AI 株が OpenAI 収益報告で下落 - CNBC
+   原題: Nvidia, Oracle, CoreWeave and other AI stocks sink on OpenAI revenue report - CNBC
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 08 Oct 2026 18:14:54 GMT
+
+2. OpenAIの従業員を解雇、AIの安全性と監視に懸念を表明 - Fox News
+   原題: Fired OpenAI employees raise concerns over AI safety, monitoring - Fox News
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 08 Oct 2026 19:54:28 GMT
+
+3. AI の不可避の罠 - The Atlantic
+   原題: AI’s Inevitability Trap - The Atlantic
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 08 Oct 2026 22:38:25 GMT
+
+4. 臨床試験では A.I. が示されています。チャットボットは救急治療に役立つ可能性がある - ニューヨーク・タイムズ
+   原題: Clinical Trial Indicates A.I. Chatbots Could Aid Urgent Care - The New York Times
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 08 Oct 2026 22:30:04 GMT
+
+5. マーク・キューバン、AIが雇用を奪う間違ったターゲットである理由について語る：医療費のせいだ、愚か者 - フォーチュン
+   原題: Mark Cuban on why AI is the wrong job-killer target: It’s the health care costs, stupid - Fortune
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 08 Oct 2026 19:16:00 GMT
+
+
+[CarPlay]
+1. iOS 27 で試すのに最適な CarPlay アップグレード - 9to5Mac
+   原題: The best CarPlay upgrades to try in iOS 27 - 9to5Mac
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 08 Oct 2026 12:24:00 GMT
+
+2. パイオニアの新しいダッシュカムは位置情報共有、Android Auto、CarPlay のサポートを備えています - autoevolution
+   原題: Pioneer's New Dash Cam Features Location Sharing, Android Auto and CarPlay Support - autoevolution
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 08 Oct 2026 06:05:48 GMT
+
+3. 2027 Chevrolet Trax、Trailblazer: 新しい Google 技術、しかし Apple CarPlay と Android Auto は依然として標準 - Cars.com
+   原題: 2027 Chevrolet Trax, Trailblazer: New Google Tech, But Apple CarPlay and Android Auto Still Standard - Cars.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 08 Oct 2026 19:54:57 GMT
+
+4. iOS 27 で CarPlay にウィジェットを追加する方法 — サポートされているアプリと不足しているウィジェットの修正 - zeera Wireless
+   原題: How to Add Widgets to CarPlay in iOS 27 — Supported Apps & Missing Widget Fixes - zeera wireless
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 08 Oct 2026 14:59:52 GMT
+
+
+[Android Auto]
+1. ついにこれらの Android Auto 設定をカスタマイズしました。私の毎日の通勤は決して同じではなくなります - Android Police
+   原題: I finally customized these Android Auto settings; my daily commute will never be the same - Android Police
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 07 Oct 2026 23:00:10 GMT
+
+2. Android Auto などのアップグレードを入手できるシボレーの最も手頃な SUV 2 台 - Detroit Free Press
+   原題: 2 of Chevy's most affordable SUVs to get Android Auto, other upgrades - Detroit Free Press
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 08 Oct 2026 14:11:00 GMT
+
+3. 誰でもインストールできる Genius アプリのおかげで、Netflix が Android Auto で利用可能に - autoevolution
+   原題: Netflix Now Available on Android Auto Thanks to Genius App Anyone Can Install - autoevolution
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 08 Oct 2026 04:24:36 GMT
+
+4. Android Auto の隠れたバッテリー消費は無効にすることができません。回避策は次のとおりです - How-To Geek
+   原題: Android Auto's hidden battery drain you can't disable—here's the workaround - How-To Geek
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 07 Oct 2026 23:00:14 GMT
+
+5. Android Auto で YouTube Music、Spotify、Amazon Music を試してみましたが、1 つのオフライン プレーヤーに勝てました - Android Police
+   原題: I tried YouTube Music, Spotify, and Amazon Music on Android Auto, but one offline player won me over - Android Police
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 08 Oct 2026 17:00:10 GMT
+
+
+[Arduino]
+1. JBR-001: A Hands-On Guide to Robot Vision - Hackster.io
+   原題: JBR-001: A Hands-On Guide to Robot Vision - Hackster.io
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 08 Oct 2026 20:39:55 GMT
+
+2. エッジ AI ベースの多段階外観検査システム - Hackster.io
+   原題: Edge AI-Based Multi-Stage Visual Inspection System - Hackster.io
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 07 Oct 2026 00:10:26 GMT
