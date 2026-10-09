@@ -1,0 +1,81 @@
+Searcher Daily Report
+Generated at: 2026-10-10 08:01:03
+Removed duplicates (today): 3
+Removed duplicates (7 days): 33
+
+[AI]
+1. スクープ：AI企業が民衆反乱の「翌日」シナリオを計画 - Axios
+   原題: Scoop: AI companies plot "day after" scenarios for public revolt - Axios
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 09 Oct 2026 10:53:42 GMT
+
+2. Google、Meta、OpenAIと競合する新しいクラウドベースのAIエージェントを発表 - Fox News
+   原題: Google unveils new cloud-based AI agent to compete with Meta, OpenAI - Fox News
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 09 Oct 2026 19:29:17 GMT
+
+3. AI企業はテネシー州の政治に賭けている。金額は次のとおりです - Yahoo!
+   原題: AI companies are betting on Tennessee politics. Here's how much - Yahoo
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 09 Oct 2026 21:31:13 GMT
+
+4. メタのAIの引き金を引くというマーク・ザッカーバーグの決断の内部エージェント - ニューヨーク・タイムズ
+   原題: Inside Mark Zuckerberg’s Decision to Pull the Trigger on Meta’s A.I. Agent - The New York Times
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 09 Oct 2026 09:03:46 GMT
+
+5. ウクライナのドローンが「ロシアのグーグル」のAIデータセンターを破壊 - Ars Technica
+   原題: Ukraine’s drones knock out AI data center belonging to "Russia’s Google" - Ars Technica
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 09 Oct 2026 22:04:07 GMT
+
+
+[CarPlay]
+1. パイオニア、ダッシュボードに置くだけで使える Android Auto および CarPlay 画面を発売 - autoevolution
+   原題: Pioneer Launches an Android Auto and CarPlay Screen That You Can Just Put On Your Dash - autoevolution
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 09 Oct 2026 04:50:45 GMT
+
+2. 【ペアアイウェア】犯罪現場のアイウェアアクセサリー - Decode39
+   原題: 【Pair Eyewear】 The Crime Scene Eyewear Accessories - Decode39
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 09 Oct 2026 21:22:08 GMT
+
+3. Carpuride プロモーション コード [CAR25] – 2026 年 10 月に CarPlay ディスプレイが 10% オフ - 安定
+   原題: Carpuride Promo Code [CAR25] – Save 10% OFF on CarPlay Displays in October 2026 - Steady
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 09 Oct 2026 22:04:05 GMT
+
+
+[Android Auto]
+1. Google はついにこの迷惑な Android Auto バグを修正しました - Pocket-lint
+   原題: Google is finally fixing this annoying Android Auto bug - Pocket-lint
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 09 Oct 2026 16:38:25 GMT
+
+2. この歓迎すべき Android Auto アップデートは、長年壊れていた機能を修正します - Yahoo Autos
+   原題: This welcome Android Auto update fixes a feature that's been broken for ages - Yahoo Autos
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 09 Oct 2026 16:00:00 GMT
+
+3. 調査によると、Android Auto の小さなデザイン変更が驚くほど意見の対立を引き起こしていることが判明 - Android Authority
+   原題: Survey suggests a small Android Auto design change is proving surprisingly divisive - Android Authority
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 08 Oct 2026 20:54:00 GMT
+
+
+[Arduino]
+1. Arduino R4 ユニバーサル ケース / ユニバーサル エンクロージャ #3DMonday #3DPrinting - Adafruit
+   原題: Arduino R4 Universal Case / Universal Enclosure #3DThursday #3DPrinting - Adafruit
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 08 Oct 2026 23:00:47 GMT
+
+2. アンソニー・マーク・アルドゥイーノの訃報 2020年12月23日 - suessfuneralhome.net
+   原題: Anthony Mark Arduino Obituary Dec 23, 2020 - suessfuneralhome.net
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 14 Jun 2026 06:12:06 GMT
+
+3. Arduino、2番目のUNOブランドのシングルボードコンピュータである強力なVENTUNO Qの予約注文を開始 - Hackster.io
+   原題: Arduino Opens Pre-Orders for the Powerful VENTUNO Q, Its Second UNO-Branded Single-Board Computer - Hackster.io
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 25 Aug 2026 14:45:50 GMT
