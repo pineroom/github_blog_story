@@ -1,0 +1,81 @@
+Searcher Daily Report
+Generated at: 2026-10-11 08:01:03
+Removed duplicates (today): 2
+Removed duplicates (7 days): 35
+
+[AI]
+1. Anthropic AI model sent fake murder tip to Philadelphia police - Yahoo
+   原題: Anthropic AI model sent fake murder tip to Philadelphia police - Yahoo
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 10 Oct 2026 10:57:53 GMT
+
+2. An Anthropic AI model sent a false homicide tip to Philadelphia police - TechCrunch
+   原題: An Anthropic AI model sent a false homicide tip to Philadelphia police - TechCrunch
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 09 Oct 2026 19:36:56 GMT
+
+3. Anthropic Agents Tried to Fill Out Visa Forms on State Dept. Website - The New York Times
+   原題: Anthropic Agents Tried to Fill Out Visa Forms on State Dept. Website - The New York Times
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 10 Oct 2026 02:17:47 GMT
+
+4. Microsoft CEO Nadella Calls for ‘Emergency Brake’ on Advanced AI - Bloomberg.com
+   原題: Microsoft CEO Nadella Calls for ‘Emergency Brake’ on Advanced AI - Bloomberg.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 10 Oct 2026 18:35:59 GMT
+
+5. Microsoft's Nadella says AI needs an ‘emergency brake’ that humans control - CNBC
+   原題: Microsoft's Nadella says AI needs an ‘emergency brake’ that humans control - CNBC
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 10 Oct 2026 20:59:28 GMT
+
+
+[CarPlay]
+1. 【printful】 Hey Arnold! Comic Tough Phone Case - iPhone Computers & Devices Electronics - Decode39
+   原題: 【printful】 Hey Arnold! Comic Tough Phone Case - iPhone Computers & Devices Electronics - Decode39
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 10 Oct 2026 03:46:29 GMT
+
+
+[Android Auto]
+1. Google Calendar in Android Auto unlocked a navigation shortcut I didn't know existed - Android Police
+   原題: Google Calendar in Android Auto unlocked a navigation shortcut I didn't know existed - Android Police
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 10 Oct 2026 12:00:10 GMT
+
+2. This Android Auto Problem Is Affecting Calls On Foldable Phones - Engadget
+   原題: This Android Auto Problem Is Affecting Calls On Foldable Phones - Engadget
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 10 Oct 2026 18:45:00 GMT
+
+3. It's Not Gone: The Feature Android Auto Users Love Is Still There, Google Says - autoevolution
+   原題: It's Not Gone: The Feature Android Auto Users Love Is Still There, Google Says - autoevolution
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 10 Oct 2026 08:24:47 GMT
+
+4. 4 ways Android Auto is sabotaging my car's audio - How-To Geek
+   原題: 4 ways Android Auto is sabotaging my car's audio - How-To Geek
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 10 Oct 2026 19:00:14 GMT
+
+5. Android Auto just fixed my biggest messaging issue, but it's only a partial solution - Android Police
+   原題: Android Auto just fixed my biggest messaging issue, but it's only a partial solution - Android Police
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 10 Oct 2026 13:30:10 GMT
+
+
+[Arduino]
+1. Gerald S. Arduino Obituary (2026) - Wheaton, IL - Hultgren Funeral Home and Cremation Center - Wheaton - Legacy | Obituary
+   原題: Gerald S. Arduino Obituary (2026) - Wheaton, IL - Hultgren Funeral Home and Cremation Center - Wheaton - Legacy | Obituary
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 08 Oct 2026 07:00:00 GMT
+
+2. Test Arduino’s VENTUNO Q SBC for free - Electronics Weekly
+   原題: Test Arduino’s VENTUNO Q SBC for free - Electronics Weekly
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 24 Sep 2026 07:00:00 GMT
+
+3. Running Local LLMs on the Arduino® UNO™ Q Board: a Practical Guide - EE Times
+   原題: Running Local LLMs on the Arduino® UNO™ Q Board: a Practical Guide - EE Times
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 19 Aug 2026 13:01:36 GMT
