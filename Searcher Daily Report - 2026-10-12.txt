@@ -1,0 +1,96 @@
+Searcher Daily Report
+Generated at: 2026-10-12 08:00:50
+Removed duplicates (today): 2
+Removed duplicates (7 days): 33
+
+[AI]
+1. Exclusive | Amazon in Talks to Buy AI Startup Decart for Around $7 Billion - WSJ
+   原題: Exclusive | Amazon in Talks to Buy AI Startup Decart for Around $7 Billion - WSJ
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 11 Oct 2026 20:26:00 GMT
+
+2. Amazon in talks to buy AI startup Decart for around $7 billion, WSJ reports - Reuters
+   原題: Amazon in talks to buy AI startup Decart for around $7 billion, WSJ reports - Reuters
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 11 Oct 2026 21:46:14 GMT
+
+3. Amazon Is in Talks to Buy AI Startup Decart, WSJ Reports - Bloomberg.com
+   原題: Amazon Is in Talks to Buy AI Startup Decart, WSJ Reports - Bloomberg.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 11 Oct 2026 20:46:52 GMT
+
+4. Yet Another Literary Prizewinner Seems to Be AI - The Atlantic
+   原題: Yet Another Literary Prizewinner Seems to Be AI - The Atlantic
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 11 Oct 2026 14:00:00 GMT
+
+5. AI’s quiet safety gatekeepers are stepping into the spotlight - CNBC
+   原題: AI’s quiet safety gatekeepers are stepping into the spotlight - CNBC
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 11 Oct 2026 11:00:01 GMT
+
+
+[CarPlay]
+1. I switched from Android Auto to Apple CarPlay for a month; I wasn't ready for this - Android Police
+   原題: I switched from Android Auto to Apple CarPlay for a month; I wasn't ready for this - Android Police
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 11 Oct 2026 15:00:10 GMT
+
+2. How To Enable Live Activities On iPhone And CarPlay - Engadget
+   原題: How To Enable Live Activities On iPhone And CarPlay - Engadget
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 11 Oct 2026 01:30:00 GMT
+
+3. Apple, Where is CarPlay Ultra? - MacRumors
+   原題: Apple, Where is CarPlay Ultra? - MacRumors
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 20 Aug 2026 07:00:00 GMT
+
+4. Car Manufacturers Are Ditching CarPlay In 2026: Here's Why - Engadget
+   原題: Car Manufacturers Are Ditching CarPlay In 2026: Here's Why - Engadget
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 13 Sep 2026 07:00:00 GMT
+
+
+[Android Auto]
+1. What's The Difference Between Android Automotive And Google Built-In? - Engadget
+   原題: What's The Difference Between Android Automotive And Google Built-In? - Engadget
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 11 Oct 2026 13:30:00 GMT
+
+2. Google Maps on Android Auto is perfect now that I've added this app - MakeUseOf
+   原題: Google Maps on Android Auto is perfect now that I've added this app - MakeUseOf
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 11 Oct 2026 12:00:14 GMT
+
+3. My old MP3 collection finally has a home on Android Auto - MakeUseOf
+   原題: My old MP3 collection finally has a home on Android Auto - MakeUseOf
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 11 Oct 2026 18:00:15 GMT
+
+4. 4 Android Auto tips you won't regret using on your next road trip - Pocket-lint
+   原題: 4 Android Auto tips you won't regret using on your next road trip - Pocket-lint
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 11 Oct 2026 16:00:16 GMT
+
+5. I turned an old phone into a permanent Android Auto device, and my main phone never connects to the car anymore - XDA
+   原題: I turned an old phone into a permanent Android Auto device, and my main phone never connects to the car anymore - XDA
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 03 Oct 2026 07:00:00 GMT
+
+
+[Arduino]
+1. With the new VENTUNO Q board, Arduino hopes to make robotics development easier - The Robot Report
+   原題: With the new VENTUNO Q board, Arduino hopes to make robotics development easier - The Robot Report
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 23 Sep 2026 18:21:32 GMT
+
+2. PiZZa: Arduino on the Raspberry Pi Zero 2 W - Adafruit
+   原題: PiZZa: Arduino on the Raspberry Pi Zero 2 W - Adafruit
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 01 Jul 2026 07:00:00 GMT
+
+3. Arduino's Latest Update Writes Your Code for You - Hackster.io
+   原題: Arduino's Latest Update Writes Your Code for You - Hackster.io
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 12 Aug 2026 14:15:23 GMT
