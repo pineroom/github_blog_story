@@ -1,0 +1,86 @@
+Searcher Daily Report
+Generated at: 2026-10-13 08:01:18
+Removed duplicates (today): 1
+Removed duplicates (7 days): 33
+
+[AI]
+1. エピック・ゲームズ、ディズニープロジェクトを延期、開発者にさらなるAI活用を要請 - Bloomberg.com
+   原題: Epic Games Delays Disney Project, Asks Developers to Use More AI - Bloomberg.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 12 Oct 2026 18:24:41 GMT
+
+2. Epic Games が「AI ファースト」ゲーム開発モデルに方向転換すると報じられている - Ars Technica
+   原題: Epic Games reportedly pivoting to "AI first" game development model - Ars Technica
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 12 Oct 2026 20:59:50 GMT
+
+3. ドラゴンクエストの生みの親、堀井雄二氏、AIで作ったというゲームを約30分で公開 - GamesIndustry.biz
+   原題: Dragon Quest creator Yuji Horii releases game he says he made with AI in about 30 minutes - GamesIndustry.biz
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 12 Oct 2026 18:49:25 GMT
+
+4. メタ氏、新AIモデルは最先端、Museエージェントをより賢くする - WSJ
+   原題: Meta Says New AI Model Is State-of-the-Art, Will Make Muse Agent Smarter - WSJ
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 12 Oct 2026 20:10:00 GMT
+
+5. Meta、ユーザーの支払い意思の最新テストで Muse Wonder AI モデルをデビュー - CNBC
+   原題: Meta debuts Muse Wonder AI model in latest test of users' willingness to pay - CNBC
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 12 Oct 2026 17:00:25 GMT
+
+
+[CarPlay]
+1. GMのCarPlay廃止でシボレーEVの販売が試される - AppleInsider
+   原題: GM's CarPlay removal puts Chevy EV sales to the test - AppleInsider
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 20 Aug 2026 07:00:00 GMT
+
+2. CarPlay ウィジェットを追加してカスタマイズする方法 - Engadget
+   原題: How To Add And Customize Your CarPlay Widgets - Engadget
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 05 Oct 2026 22:30:00 GMT
+
+3. ショートカットを使用して Apple CarPlay にイントロを追加する方法 - Engadget
+   原題: How To Add An Intro To Apple CarPlay Using Shortcuts - Engadget
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 28 Aug 2026 07:00:00 GMT
+
+4. このあまり知られていないアプリを使用すると、Apple CarPlay で曲の歌詞を表示できます - Engadget
+   原題: This Little-Known App Lets You Display Song Lyrics On Apple CarPlay - Engadget
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 03 Oct 2026 07:00:00 GMT
+
+5. 驚くほど簡単に修正できる CarPlay の 4 つの問題点 - Pocket-lint
+   原題: 4 CarPlay annoyances that are surprisingly easy to fix - Pocket-lint
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 12 Oct 2026 10:00:15 GMT
+
+
+[Android Auto]
+1. Google の公式 Android Auto エミュレータをインストールしたので、車に近づく前にすべてのアプリをテストするようになりました - XDA
+   原題: I installed Google's official Android Auto emulator, and now I test all my apps before they go near my car - XDA
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 12 Oct 2026 11:30:17 GMT
+
+2. Android Auto が車のオーディオを妨害する 4 つの方法 - Yahoo Autos
+   原題: 4 ways Android Auto is sabotaging my car's audio - Yahoo Autos
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 10 Oct 2026 19:00:14 GMT
+
+
+[Arduino]
+1. NXP HEF4052BPおよびArduinoを搭載した8チャンネルアナログモニター - Adafruit
+   原題: 8-channel analog monitor with NXP HEF4052BP and Arduino - Adafruit
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 12 Oct 2026 20:51:33 GMT
+
+2. Arduino VENTUNO Q が登場: Qualcomm Dragonwing IQ8 シリーズで Agentic AI を物理世界に導入 - Qualcomm
+   原題: Arduino VENTUNO Q is Here: Bringing Agentic AI to the Physical World with Qualcomm Dragonwing IQ8 Series - Qualcomm
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 25 Aug 2026 07:00:00 GMT
+
+3. Arduino UNO Q ボード: 次世代エッジ AI のデュアルブレイン パワーを解き明かす - クアルコム
+   原題: The Arduino UNO Q Board: Unpack the Dual-Brain Power for Next-Gen Edge AI - Qualcomm
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 10 May 2026 07:00:00 GMT
