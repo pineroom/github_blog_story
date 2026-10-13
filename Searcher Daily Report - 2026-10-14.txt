@@ -1,0 +1,106 @@
+Searcher Daily Report
+Generated at: 2026-10-14 08:00:54
+Removed duplicates (today): 3
+Removed duplicates (7 days): 26
+
+[AI]
+1. アンスロピック氏、AIモデルがまもなく家庭用デバイス間で複製され、シャットダウンが困難になる可能性があると警告 - Fox News
+   原題: Anthropic warns AI models could soon replicate across home devices, become difficult to shut down - Fox News
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 13 Oct 2026 20:04:29 GMT
+
+2. Anthropic、AI モデルが間もなく家庭用デバイス間で自身をコピーする可能性があると警告 - CNBC
+   原題: Anthropic warns AI models could soon copy themselves across home devices - CNBC
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 13 Oct 2026 08:27:20 GMT
+
+3. Anthropic、AIがインターネット上で自己複製する可能性があると警告 - Honolulu Star-Advertiser
+   原題: Anthropic warns AI could self-replicate across the internet - Honolulu Star-Advertiser
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 13 Oct 2026 22:26:48 GMT
+
+4. 男はAI楽曲と1万台のボットを利用して不正な音楽使用料800万ドルを徴収、検察が発表 - Fox Business
+   原題: Man used AI songs and 10,000 bots to collect $8M in fraudulent music royalties, prosecutors say - Fox Business
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 12 Oct 2026 22:35:00 GMT
+
+5. センター郡、5,000ドルの911訓練生シミュレーター契約でAIの利用を拡大 - WJAC
+   原題: Centre County expands AI use with $5K 911 trainee simulator contract - WJAC
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 13 Oct 2026 22:31:43 GMT
+
+
+[CarPlay]
+1. この 7 インチ CarPlay および Android Auto スクリーンは現在わずか 40 ドル - XDA
+   原題: This 7-inch CarPlay and Android Auto screen is now just $40 - XDA
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 13 Oct 2026 15:38:07 GMT
+
+2. Twelve South の新しい $40 Airfly ワイヤレス CarPlay/Android Auto アダプターが再入荷 - 9to5Toys
+   原題: Twelve South’s new $40 Airfly wireless CarPlay/Android Auto adapter is back in-stock - 9to5Toys
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 13 Oct 2026 09:34:00 GMT
+
+3. あなたのドライブをアップグレードする iOS 27 の 5 つの新しい CarPlay 機能 - Man of Many
+   原題: 5 New CarPlay Features in iOS 27 That Will Upgrade Your Drive - Man of Many
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 26 Sep 2026 07:00:00 GMT
+
+4. ポルシェ、この工場改装により、2009 ～ 2016 年の「フューチャー クラシック」にタッチスクリーンを追加します - 車とドライバー
+   原題: Porsche Will Add a Touchscreen to Your 2009–2016 ‘Future Classic’ with This Factory Retrofit - Car and Driver
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 29 Sep 2026 07:00:00 GMT
+
+
+[Android Auto]
+1. ワイヤレス Android Auto は便利なはずですが、これらの問題により役に立たなくなりました - Android Police
+   原題: Wireless Android Auto is supposed to be convenient, but these issues broke it for me - Android Police
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 12 Oct 2026 23:00:10 GMT
+
+2. YouTube が Android 自動車に自動バックグラウンド再生を導入 - 9to5Google
+   原題: YouTube bringing automatic background play to Android Automotive cars - 9to5Google
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 13 Oct 2026 17:55:00 GMT
+
+3. 私は有線を試すまではワイヤレス Android Auto の大ファンでしたが、今はもう戻れません - ZDNET
+   原題: I was a big wireless Android Auto fan, until I tried wired – now I won’t go back - ZDNET
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 13 Oct 2026 00:00:00 GMT
+
+4. Android Auto 18.0 アップデートの展開を開始、再設計に向けた準備を継続 - 9to5Google
+   原題: Android Auto 18.0 update starts rolling out, continues to gear up for redesign - 9to5Google
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 13 Oct 2026 20:45:00 GMT
+
+5. 30 台の新車をテストしましたが、この技術がなければ新車は購入できません - Sacramento Bee
+   原題: I tested 30 new vehicles and wouldn't buy a new car without this tech - Sacramento Bee
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 13 Oct 2026 15:25:00 GMT
+
+
+[Arduino]
+1. Arduino 用 Naïve ディスプレイ GUI - Adafruit
+   原題: The Naïve display GUI for Arduino - Adafruit
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 13 Oct 2026 14:33:30 GMT
+
+2. Arduino 用の太陽の方位角と日の出/日の入り計算ライブラリ - Adafruit
+   原題: A Sun azimuth and sunrise/sunset calculator library for Arduino - Adafruit
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 13 Oct 2026 15:11:56 GMT
+
+3. Arduino® UNO™ Q を使用した実用的な資産追跡システムの構築 - クアルコム
+   原題: Building a Practical Asset Tracking System with Arduino® UNO™ Q - Qualcomm
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 19 Jul 2026 07:00:00 GMT
+
+4. PiZZa が Raspberry Pi SBC を強力な Arduino に変える - Hackster.io
+   原題: PiZZa Turns Your Raspberry Pi SBC Into a Powerful Arduino - Hackster.io
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 08 Jul 2026 01:26:46 GMT
+
+5. Qualcomm Arduino ボード、Rubik Pi 3、および Snapdragon 搭載 PC に OpenClaw と Hermes Agent をインストールする方法 - Qualcomm
+   原題: How to Install OpenClaw and Hermes Agent on Qualcomm Arduino Boards, Rubik Pi 3 and PCs with Snapdragon - Qualcomm
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 24 Apr 2026 07:00:00 GMT
