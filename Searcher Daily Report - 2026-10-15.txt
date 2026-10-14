@@ -1,0 +1,91 @@
+Searcher Daily Report
+Generated at: 2026-10-15 08:00:59
+Removed duplicates (today): 2
+Removed duplicates (7 days): 23
+
+[AI]
+1. なんというAIの集団だろうか。エージェントたちは人間同士がディナーパーティーをしているかのように話した - ニューヨーク・タイムズ
+   原題: What a Group of A.I. Agents Talked About as Their Humans Had a Dinner Party - The New York Times
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 14 Oct 2026 09:01:19 GMT
+
+2. ASMLの好調な受注でAI支出ブームの勢いが衰える懸念が和らぐ - ロイター
+   原題: ASML's strong orders ease fears AI spending boom is running out of steam - Reuters
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 14 Oct 2026 05:07:00 GMT
+
+3. TSMCの業績、世界的なAI株取引の不安を静めるには高いハードルに直面 - Bloomberg.com
+   原題: TSMC Results Face High Bar to Calm Global AI Stock Trade Jitters - Bloomberg.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 14 Oct 2026 22:22:46 GMT
+
+4. 女性は男性よりAIを信頼していないが、誰も彼らに尋ねていない - マザー・ジョーンズ
+   原題: Women Trust AI Less Than Men—But No One’s Asking Them - Mother Jones
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 14 Oct 2026 22:20:06 GMT
+
+5. AIエージェントの利害が高まる中、CedarDBは1つのデータベースでトランザクションと分析の両方を処理したいと考えている - TechCrunch
+   原題: CedarDB wants one database to handle both transactions and analytics, as AI agents raise the stakes - TechCrunch
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 14 Oct 2026 22:00:00 GMT
+
+
+[CarPlay]
+1. AppleのHomeViewはiPadの一部、Apple Watchの一部、CarPlayの一部である - NBCニュース
+   原題: Apple’s HomeView is part iPad, part Apple Watch and part CarPlay - NBC News
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 14 Oct 2026 22:00:27 GMT
+
+2. Apple HomeViewにはこれら15のアプリがあり、一部のCarPlayアプリとウィジェットもサポートされています - MacRumors
+   原題: Apple HomeView Has These 15 Apps, Some CarPlay Apps and Widgets Also Supported - MacRumors
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 14 Oct 2026 16:03:02 GMT
+
+3. CarPlay 権利の仕組みと、それが HomeView にとって問題となる理由 - AppleInsider
+   原題: How CarPlay entitlements work, and why they're a problem for HomeView - AppleInsider
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 14 Oct 2026 15:34:00 GMT
+
+4. Tesla Tinkerers は CarPlay と AirPlay をネイティブで実行します [ビデオ] - Tesla アプリではありません
+   原題: Tesla Tinkerers Get CarPlay and AirPlay Running Natively [VIDEOS] - Not a Tesla App
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 14 Oct 2026 20:56:00 GMT
+
+5. HomeViewはいくつかの欠陥を補うためにCarPlayアプリに依存する - AppleInsider
+   原題: HomeView will rely on CarPlay apps to make up for some deficiencies - AppleInsider
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 14 Oct 2026 15:23:00 GMT
+
+
+[Android Auto]
+1. Android Auto 18 が利用可能になり、隠された「Cielo」メジャー アップデートの証拠 - autoevolution
+   原題: Android Auto 18 Now Available With Hidden "Cielo" Major Update Evidence - autoevolution
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 14 Oct 2026 05:58:34 GMT
+
+2. Android Auto は間もなくデュアル SIM スマートフォンをより真剣に受け止める可能性がある - Android Authority
+   原題: Android Auto could soon take dual-SIM phones more seriously - Android Authority
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 14 Oct 2026 08:11:00 GMT
+
+3. Android Auto が動作しない場合最初に確認すべきことは次のとおりです - Engadget
+   原題: Android Auto Not Working? Here's What To Check First - Engadget
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 29 Aug 2026 07:00:00 GMT
+
+4. 今すぐ Android ゲームを車のスクリーンに表示しましょう - blog.google
+   原題: Bring your Android game to the car screen today - blog.google
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 21 Sep 2026 07:00:00 GMT
+
+5. 古い車をお持ちですか？ Android Auto は簡単に追加できます: 2 つの方法、20 ドルから - ZDNET
+   原題: Got an old car? Android Auto is easy to add: 2 ways, starting at $20 - ZDNET
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 14 Oct 2026 22:28:21 GMT
+
+
+[Arduino]
+1. Arduino 対 Raspberry Pi 2026: 50x ギャップ [テスト済み] - tech-insider.org
+   原題: Arduino vs Raspberry Pi 2026: 50x Gap [Tested] - tech-insider.org
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 24 Apr 2026 07:00:00 GMT
