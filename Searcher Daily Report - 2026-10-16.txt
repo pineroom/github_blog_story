@@ -1,0 +1,96 @@
+Searcher Daily Report
+Generated at: 2026-10-16 08:00:50
+Removed duplicates (today): 0
+Removed duplicates (7 days): 33
+
+[AI]
+1. Nvidia leads chip stocks lower as AI trade takes - Yahoo Finance
+   原題: Nvidia leads chip stocks lower as AI trade takes - Yahoo Finance
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 15 Oct 2026 20:33:00 GMT
+
+2. Cracks are beginning to show in the stock market, as doubts grow about AI investments - NBC News
+   原題: Cracks are beginning to show in the stock market, as doubts grow about AI investments - NBC News
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 15 Oct 2026 21:33:56 GMT
+
+3. Jim Cramer says this week's AI sell-off offers a crucial lesson for investors - CNBC
+   原題: Jim Cramer says this week's AI sell-off offers a crucial lesson for investors - CNBC
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 15 Oct 2026 22:16:13 GMT
+
+4. Market selloff, rising rates test AI data centre deal boom - Reuters
+   原題: Market selloff, rising rates test AI data centre deal boom - Reuters
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 15 Oct 2026 16:12:49 GMT
+
+5. AI could drive a Tesla-SpaceX tie-up as soon as this fall, analysts say - Axios
+   原題: AI could drive a Tesla-SpaceX tie-up as soon as this fall, analysts say - Axios
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 15 Oct 2026 21:43:02 GMT
+
+
+[CarPlay]
+1. Android Auto users would love these CarPlay features (iPhone owners overlook them) - How-To Geek
+   原題: Android Auto users would love these CarPlay features (iPhone owners overlook them) - How-To Geek
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 15 Oct 2026 19:00:15 GMT
+
+2. Got wired Apple CarPlay or Android Auto? This is the must-have accessory for you - Stuff
+   原題: Got wired Apple CarPlay or Android Auto? This is the must-have accessory for you - Stuff
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 14 Oct 2026 14:42:59 GMT
+
+3. As Tesla Is Dragging Its Feet, Third Parties Prepare Native CarPlay and AirPlay Integration - autoevolution
+   原題: As Tesla Is Dragging Its Feet, Third Parties Prepare Native CarPlay and AirPlay Integration - autoevolution
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 15 Oct 2026 12:48:04 GMT
+
+4. HomeView Points to Siri AI as the Next Developer Platform - MacStories
+   原題: HomeView Points to Siri AI as the Next Developer Platform - MacStories
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 14 Oct 2026 20:03:59 GMT
+
+5. HomeView Has No App Store. Its Third-Party Apps Come From the Car Dashboard. - Forkast News
+   原題: HomeView Has No App Store. Its Third-Party Apps Come From the Car Dashboard. - Forkast News
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 15 Oct 2026 02:29:00 GMT
+
+
+[Android Auto]
+1. Android Auto 18 beta hints at upcoming new features and UI improvements - ArenaEV - ArenaEV
+   原題: Android Auto 18 beta hints at upcoming new features and UI improvements - ArenaEV - ArenaEV
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 14 Oct 2026 10:35:01 GMT
+
+2. Bored with Google Maps and Spotify? Try these 4 Android Auto apps - How-To Geek
+   原題: Bored with Google Maps and Spotify? Try these 4 Android Auto apps - How-To Geek
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 14 Oct 2026 23:00:14 GMT
+
+3. GM thinks you don't need Android Auto anymore: Here's why it's dead wrong - How-To Geek
+   原題: GM thinks you don't need Android Auto anymore: Here's why it's dead wrong - How-To Geek
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 15 Oct 2026 20:30:16 GMT
+
+4. How I use Google Maps in Android Auto to beat traffic and save time - Android Police
+   原題: How I use Google Maps in Android Auto to beat traffic and save time - Android Police
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 15 Oct 2026 10:00:10 GMT
+
+
+[Arduino]
+1. Arduino’s new $34 webcam brings computer vision to its Pi-like microcomputer. - The Verge
+   原題: Arduino’s new $34 webcam brings computer vision to its Pi-like microcomputer. - The Verge
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 15 Oct 2026 16:06:39 GMT
+
+2. $299 Arduino Ventuno Q SBC combines Qualcomm Dragonwing IQ8 SoC and STM32H5 MCU - CNX Software
+   原題: $299 Arduino Ventuno Q SBC combines Qualcomm Dragonwing IQ8 SoC and STM32H5 MCU - CNX Software
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 25 Aug 2026 07:00:00 GMT
+
+3. Project #15: Environment – MicroSD Card – Mk51 - Hackster.io
+   原題: Project #15: Environment – MicroSD Card – Mk51 - Hackster.io
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 14 Oct 2026 07:00:00 GMT
