@@ -1,0 +1,101 @@
+Searcher Daily Report
+Generated at: 2026-10-17 08:01:18
+Removed duplicates (today): 1
+Removed duplicates (7 days): 28
+
+[AI]
+1. テリー・タオはAIと数学の未来をめぐる議論の最前線に立つ - ニューヨーク・タイムズ
+   原題: Terry Tao Is on the Front Lines of the Debate Over AI and the Future of Math - The New York Times
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 16 Oct 2026 20:15:45 GMT
+
+2. AI の世界に火をつけたブログ投稿 - The Atlantic
+   原題: The Blog Post That Set the AI World on Fire - The Atlantic
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 16 Oct 2026 21:33:25 GMT
+
+3. Anthropic、独自の AI 安全法案を議員に静かに提案 - Politico
+   原題: Anthropic quietly pitches its own AI safety bill to lawmakers - Politico
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 16 Oct 2026 21:45:00 GMT
+
+4. 従業員が AI に貼り付けるものはセキュリティ上の問題になる可能性がある - USA Today
+   原題: What Employees Paste Into AI Might Be a Security Problem - USA Today
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 16 Oct 2026 21:58:00 GMT
+
+5. AI貿易と原油高への懸念が重なり、ウォール街は暴落 - ロイター
+   原題: Wall Street tumbles as worries about AI trade and high oil prices weigh - Reuters
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 16 Oct 2026 21:45:22 GMT
+
+
+[CarPlay]
+1. TwelveSouth の新しいアダプターを試すまで、私はワイヤレス CarPlay に反対していました - ZDNET
+   原題: I was anti-wireless CarPlay until I tried TwelveSouth’s new adapter - ZDNET
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 16 Oct 2026 10:45:00 GMT
+
+2. HomeView とサードパーティ アプリ: 機能するもの、機能しないもの、そして不明な点 - Macworld
+   原題: HomeView and third-party apps: What works, what doesn’t, and what we don’t know - Macworld
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 16 Oct 2026 11:10:52 GMT
+
+3. AppleのHomeViewにはアプリの問題がある - The Verge
+   原題: Apple’s HomeView has an app problem - The Verge
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 16 Oct 2026 15:38:17 GMT
+
+4. Apple CarPlay スクリーンのプラスチック フィルム カバーを決して外さない男性。その後、数千ドルの費用がかかる - Motor1.com
+   原題: Man Never Removes Apple CarPlay Screen's Plastic Film Cover. Then It Costs Him Thousands Of Dollars - Motor1.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 16 Oct 2026 07:34:34 GMT
+
+5. Android Auto ユーザーはこれらの CarPlay 機能を気に入るでしょう (iPhone 所有者はこれらの機能を見逃しています) - Yahoo Autos
+   原題: Android Auto users would love these CarPlay features (iPhone owners overlook them) - Yahoo Autos
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 15 Oct 2026 19:00:15 GMT
+
+
+[Android Auto]
+1. Android Auto のシークレット メニューを明らかにしたことで、私の最大の不満は何も壊すことなく解決されました - Android Police
+   原題: Uncovering Android Auto's secret menu fixed my biggest pet-peeves without breaking anything - Android Police
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 15 Oct 2026 23:00:12 GMT
+
+2. Google、Android Auto の信号アイコンが見つからない問題を修正中と発表、実際は [U] - 9to5Google
+   原題: Google says fix for Android Auto’s missing signal icon is rolling out, and it actually is [U] - 9to5Google
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 16 Oct 2026 15:01:00 GMT
+
+3. これらの設定を変更するまで、Android Auto はバッテリーの最大の敵でした - How-To Geek
+   原題: Android Auto was my battery’s biggest enemy until I changed these settings - How-To Geek
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 16 Oct 2026 19:00:17 GMT
+
+4. Android Auto の欠落していたシグナルバーがついに正式に復活 - Android Authority
+   原題: Android Auto's missing signal bars are finally making a proper comeback - Android Authority
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 16 Oct 2026 11:28:00 GMT
+
+5. GM は Android Auto はもう必要ないと考えている: それが完全に間違っている理由は次のとおりです - Yahoo Autos
+   原題: GM thinks you don't need Android Auto anymore: Here's why it's dead wrong - Yahoo Autos
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 15 Oct 2026 20:30:16 GMT
+
+
+[Arduino]
+1. Arduino がすべての Arduino Nano Matter ボードに Zigbee サポートを導入 — コアを更新するだけ - Hackster.io
+   原題: Arduino Brings Zigbee Support to All Arduino Nano Matter Boards — Just Update Your Core - Hackster.io
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 16 Oct 2026 12:25:49 GMT
+
+2. Arduino、2番目のUNOブランドのシングルボードコンピュータである強力なVENTUNO Qの予約注文を開始 - Hackster.io
+   原題: Arduino Opens Pre-Orders for the Powerful VENTUNO Q, Its Second UNO-Branded Single-Board Computer - Hackster.io
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 25 Aug 2026 14:45:50 GMT
+
+3. Arduino R4 ユニバーサル ケース / ユニバーサル エンクロージャ #3DMonday #3DPrinting - Adafruit
+   原題: Arduino R4 Universal Case / Universal Enclosure #3DThursday #3DPrinting - Adafruit
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 08 Oct 2026 23:00:47 GMT
