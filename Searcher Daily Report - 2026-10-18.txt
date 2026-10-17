@@ -1,0 +1,76 @@
+Searcher Daily Report
+Generated at: 2026-10-18 08:01:02
+Removed duplicates (today): 0
+Removed duplicates (7 days): 39
+
+[AI]
+1. AI の期待ギャップ - Anthropic
+   原題: The AI expectations gap - Anthropic
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 16 Oct 2026 16:45:00 GMT
+
+2. MetaはスクレイピングとAIトレーニングの懸念を引き起こした文言を削除 - TechCrunch
+   原題: Meta removes language that raised scraping and AI training concerns - TechCrunch
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 17 Oct 2026 21:31:32 GMT
+
+3. Nvidia 対 AMD: AI ビジネスではどちらが利益率を下げる余地があるでしょうか? - Yahooファイナンス
+   原題: Nvidia vs. AMD: Which AI Business Has More Room for Margins to Fall? - Yahoo Finance
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 17 Oct 2026 22:11:05 GMT
+
+4. AI に弱いリンクが現れ始める借入 - ニューヨーク・タイムズ
+   原題: Weak Links Start to Show in A.I. Borrowing - The New York Times
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 17 Oct 2026 09:00:52 GMT
+
+5. AIの時給400ドルのギグエコノミーに医師と弁護士が参加 - Bloomberg.com
+   原題: Doctors and Lawyers Are Joining AI’s $400-an-Hour Gig Economy - Bloomberg.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 16 Oct 2026 07:00:07 GMT
+
+
+[CarPlay]
+1. Apple CarPlay に主要な天気アプリが追加されました - 9to5Mac
+   原題: Apple CarPlay just added a major weather app - 9to5Mac
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 30 Aug 2026 07:00:00 GMT
+
+2. Apple CarPlay のオーディオ品質を向上させる方法 - Engadget
+   原題: How To Improve Your Audio Quality On Apple CarPlay - Engadget
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 30 Aug 2026 07:00:00 GMT
+
+3. テスラがApple CarPlayを禁止したため、ハッカーがとにかくそれを導入 - Yahoo Autos
+   原題: Tesla Banned Apple CarPlay, So Hackers Put It In Anyway - Yahoo Autos
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 17 Oct 2026 11:20:00 GMT
+
+
+[Android Auto]
+1. Android Auto を車の外で使用できる: その方法は次のとおりです - Engadget
+   原題: Android Auto Can Be Used Outside Of Your Car: Here's How - Engadget
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 17 Oct 2026 18:45:00 GMT
+
+2. 「Cielo」アップデートの登場に伴い、すべてのユーザーが Android Auto 18.0 をダウンロードできるようになりました - autoevolution
+   原題: All Users Can Now Download Android Auto 18.0 As "Cielo" Update Is Coming - autoevolution
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 17 Oct 2026 08:46:49 GMT
+
+3. 運転がもっと楽しくなる 4 つの Android Auto アプリ - Pocket-lint
+   原題: 4 Android Auto apps that make driving a lot more fun - Pocket-lint
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 17 Oct 2026 00:00:00 GMT
+
+4. Android Auto の最も迷惑な 4 つの問題をこれらの簡単なトリックで解決しました - Yahoo Autos
+   原題: I fixed Android Auto's 4 worst annoyances with these simple tricks - Yahoo Autos
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 16 Oct 2026 12:00:13 GMT
+
+
+[Arduino]
+1. Arduino パーキングセンサー: 近づくとビープ音が速くなります - Adafruit
+   原題: Arduino parking sensor: beeps faster as you get closer - Adafruit
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 30 Sep 2026 19:08:06 GMT
