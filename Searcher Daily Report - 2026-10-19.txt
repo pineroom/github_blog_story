@@ -1,0 +1,101 @@
+Searcher Daily Report
+Generated at: 2026-10-19 08:00:53
+Removed duplicates (today): 0
+Removed duplicates (7 days): 30
+
+[AI]
+1. 'Just another scare': Wall Street sees the AI trade strong despite tech's latest rout - Yahoo Finance
+   原題: 'Just another scare': Wall Street sees the AI trade strong despite tech's latest rout - Yahoo Finance
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 18 Oct 2026 15:59:30 GMT
+
+2. Buy these 2 stocks amid AI financing concerns: Analyst - Yahoo Finance
+   原題: Buy these 2 stocks amid AI financing concerns: Analyst - Yahoo Finance
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 18 Oct 2026 12:46:35 GMT
+
+3. Option Traders Brace for Volatility Surge as AI Jitters Jolt Market - Bloomberg.com
+   原題: Option Traders Brace for Volatility Surge as AI Jitters Jolt Market - Bloomberg.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 18 Oct 2026 14:00:00 GMT
+
+4. Consumer apprehension grows as US retailers adopt AI-assisted pricing tools - AP News
+   原題: Consumer apprehension grows as US retailers adopt AI-assisted pricing tools - AP News
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 18 Oct 2026 07:07:00 GMT
+
+5. How to fight the AI machine - Politico
+   原題: How to fight the AI machine - Politico
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 18 Oct 2026 21:15:15 GMT
+
+
+[CarPlay]
+1. iOS 27's New CarPlay Features Are Great, But Only These iPhones Can Actually Use Them - Engadget
+   原題: iOS 27's New CarPlay Features Are Great, But Only These iPhones Can Actually Use Them - Engadget
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 18 Oct 2026 14:45:00 GMT
+
+2. Tesla Banned Apple CarPlay, So Hackers Put It In Anyway - Autoblog
+   原題: Tesla Banned Apple CarPlay, So Hackers Put It In Anyway - Autoblog
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 17 Oct 2026 11:20:00 GMT
+
+3. Spatial Audio in CarPlay Now Rolling Out in Volvo Vehicles - MacRumors
+   原題: Spatial Audio in CarPlay Now Rolling Out in Volvo Vehicles - MacRumors
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 28 Aug 2026 07:00:00 GMT
+
+4. Car Manufacturers Are Ditching CarPlay In 2026: Here's Why - Engadget
+   原題: Car Manufacturers Are Ditching CarPlay In 2026: Here's Why - Engadget
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 13 Sep 2026 07:00:00 GMT
+
+5. CarPlay keeps getting better with three recent exciting app updates - 9to5Mac
+   原題: CarPlay keeps getting better with three recent exciting app updates - 9to5Mac
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 31 Aug 2026 07:00:00 GMT
+
+
+[Android Auto]
+1. 4 hidden-gem Android Auto apps I tried last week - How-To Geek
+   原題: 4 hidden-gem Android Auto apps I tried last week - How-To Geek
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 17 Oct 2026 23:00:17 GMT
+
+2. Android Auto Users Claim Gemini Is Just Playing a Random Song on Amazon Music - autoevolution
+   原題: Android Auto Users Claim Gemini Is Just Playing a Random Song on Amazon Music - autoevolution
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 18 Oct 2026 13:54:10 GMT
+
+3. I turned an old phone into a permanent Android Auto device, and my main phone never connects to the car anymore - XDA
+   原題: I turned an old phone into a permanent Android Auto device, and my main phone never connects to the car anymore - XDA
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 03 Oct 2026 07:00:00 GMT
+
+
+[Arduino]
+1. Arduino's $34 USB Camera Simplifies Computer Vision - Hackster.io
+   原題: Arduino's $34 USB Camera Simplifies Computer Vision - Hackster.io
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 18 Oct 2026 20:00:28 GMT
+
+2. With the new VENTUNO Q board, Arduino hopes to make robotics development easier - The Robot Report
+   原題: With the new VENTUNO Q board, Arduino hopes to make robotics development easier - The Robot Report
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 23 Sep 2026 18:21:32 GMT
+
+3. Gerald S. Arduino Obituary (2026) - Wheaton, IL - Hultgren Funeral Home and Cremation Center - Wheaton - Legacy | Obituary
+   原題: Gerald S. Arduino Obituary (2026) - Wheaton, IL - Hultgren Funeral Home and Cremation Center - Wheaton - Legacy | Obituary
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 08 Oct 2026 07:00:00 GMT
+
+4. Plenty of Fish in the AI Sea - Hackster.io
+   原題: Plenty of Fish in the AI Sea - Hackster.io
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 18 Oct 2026 13:40:51 GMT
+
+5. Arduino Announces Arduino VENTUNO Q, Powered by Qualcomm Dragonwing IQ8 Series - Qualcomm
+   原題: Arduino Announces Arduino VENTUNO Q, Powered by Qualcomm Dragonwing IQ8 Series - Qualcomm
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 09 Mar 2026 07:00:00 GMT
