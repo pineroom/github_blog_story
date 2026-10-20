@@ -1,0 +1,111 @@
+Searcher Daily Report
+Generated at: 2026-10-21 08:01:04
+Removed duplicates (today): 1
+Removed duplicates (7 days): 16
+
+[AI]
+1. AI バブルが崩壊し、AI の雇用喪失が加速したらどうなるでしょうか? : プラネット マネー - NPR
+   原題: What if an AI bubble bursts — and that accelerates AI job losses? : Planet Money - NPR
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 20 Oct 2026 10:30:00 GMT
+
+2. 意見 |マムダニの次の標的: ますます AI を活用した顧客サービスの破滅ループ - ニューヨーク・タイムズ
+   原題: Opinion | Mamdani’s Next Target: The Increasingly A.I.-Powered, Customer Service Doom Loop - The New York Times
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 20 Oct 2026 09:01:39 GMT
+
+3. 主要なインターネット セキュリティ ツールが AI 生成のバグ レポートに埋もれつつある - Axios
+   原題: A key internet security tool is getting buried in AI-generated bug reports - Axios
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 20 Oct 2026 22:08:16 GMT
+
+4. AIで生成した6歳の娘の成人写真を母親が学校に告発（独占） - People.com
+   原題: Mom Calls Out School for Making an AI-Generated Photo of 6-Year-Old Daughter as an Adult (Exclusive) - People.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 20 Oct 2026 22:01:18 GMT
+
+5. スペースXの四半期売上高、AI事業の急増で予想を上回る - ロイター
+   原題: SpaceX quarterly revenue jumps, beats estimates as AI business surges - Reuters
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 20 Oct 2026 21:39:23 GMT
+
+
+[CarPlay]
+1. Apple マップの代わりに使用すべき 5 つの CarPlay ナビゲーション アプリ - Engadget
+   原題: 5 CarPlay Navigation Apps You Should Be Using Instead Of Apple Maps - Engadget
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 20 Oct 2026 15:15:00 GMT
+
+2. Apple CarPlay ディスプレイを変更およびカスタマイズする方法 - Engadget
+   原題: How To Change And Customize Your Apple CarPlay Display - Engadget
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 08 Sep 2026 07:00:00 GMT
+
+3. CarPlay が 5 つの主要なチャットボット アプリ - 9to5Mac で動作するようになりました
+   原題: CarPlay now works with five major chatbot apps - 9to5Mac
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 04 Sep 2026 07:00:00 GMT
+
+4. あなたのドライブをアップグレードする iOS 27 の 5 つの新しい CarPlay 機能 - Man of Many
+   原題: 5 New CarPlay Features in iOS 27 That Will Upgrade Your Drive - Man of Many
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 26 Sep 2026 07:00:00 GMT
+
+5. iOS 27 の最大の CarPlay アップグレードを試してみました。そのうちの 1 つは毎日使用します - MakeUseOf
+   原題: I tried iOS 27's biggest CarPlay upgrades, and one of them I’ll use every day - MakeUseOf
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 04 Oct 2026 07:00:00 GMT
+
+
+[Android Auto]
+1. Android Auto でオーディオの自動再生を停止する方法 - Engadget
+   原題: How To Stop Audio From Auto-Playing On Android Auto - Engadget
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 20 Oct 2026 01:30:00 GMT
+
+2. Google、Gemini Personal Intelligence を Android Auto に導入 - Engadget
+   原題: Google Brings Gemini Personal Intelligence To Android Auto - Engadget
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 20 Oct 2026 20:00:00 GMT
+
+3. ホーム アシスタントのショートカットのために Android Auto の音声コントロールを廃止しました - 何が変わったかは次のとおりです - How-To Geek
+   原題: I ditched Android Auto voice control for Home Assistant shortcuts—here's what changed - How-To Geek
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 20 Oct 2026 17:01:14 GMT
+
+4. 「仕事用アカウント」は、ドライバーにとって Android Auto の次の焦点となる可能性があります - Android Central
+   原題: 'Work Accounts' may be Android Auto's next focus for drivers - Android Central
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 20 Oct 2026 10:11:00 GMT
+
+5. Android Auto の Gemini はさらに個人的なものになりますが、それはあなたが許可した場合に限ります - PhoneArena
+   原題: Gemini on Android Auto just got way more personal, but only if you let it - PhoneArena
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 20 Oct 2026 20:39:32 GMT
+
+
+[Arduino]
+1. Arduino、新しいArduino UNO Q SBCコントローラバンドルで「デュアルブレイン」制御オプションを紹介 - Hackster.io
+   原題: Arduino Showcases "Dual-Brain" Control Options with Its New Arduino UNO Q SBC Controller Bundle - Hackster.io
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 20 Oct 2026 14:21:26 GMT
+
+2. Arduinoは、メモリモジュールのコストの高騰を理由に、VENTUNO Qを10月19日に初売り価格の299ドルから399ドルに値上げした。 - 技術をもっと簡単に
+   原題: Arduino raises the VENTUNO Q from its $299 introductory price to $399 on 19 October, blaming a sharp rise in memory module costs. - Make Tech Easier
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 20 Oct 2026 19:52:56 GMT
+
+3. MicroPython または Arduino で STM32 プログラミングを学ぶ ... - eeNews Europe
+   原題: Learn STM32 Programming with MicroPython or Arduino ... - eeNews Europe
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 20 Oct 2026 13:11:07 GMT
+
+4. カルラ・ウィズ・ラブ：カルラ・フラッチへのバレエトリビュートがトリノの王宮に届く - Gramilano
+   原題: Carla With Love: ballet tribute to Carla Fracci reaches Turin’s Palazzo Reale - Gramilano
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 20 Oct 2026 15:44:14 GMT
+
+5. Arduinoの大型化が限界に達: Arduino VENTUNO Qがお試し価格終了で100ドル値上がり - Hackster.io
+   原題: Arduino's Largesse Hits Its Limit: Arduino VENTUNO Q Jumps by $100 as Introductory Pricing Ends - Hackster.io
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 20 Oct 2026 11:10:55 GMT
