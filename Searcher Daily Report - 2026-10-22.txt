@@ -1,0 +1,96 @@
+Searcher Daily Report
+Generated at: 2026-10-22 08:01:05
+Removed duplicates (today): 0
+Removed duplicates (7 days): 27
+
+[AI]
+1. Why AI’s Deepest Mind Believes the World Is About to Change Radically - WSJ
+   原題: Why AI’s Deepest Mind Believes the World Is About to Change Radically - WSJ
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 21 Oct 2026 05:52:13 GMT
+
+2. Google staff resign in backlash over its AI contracts with military - BBC
+   原題: Google staff resign in backlash over its AI contracts with military - BBC
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 21 Oct 2026 15:41:25 GMT
+
+3. Blackstone’s Jas Khaira says fears over AI-buildout debt are overblown - TechCrunch
+   原題: Blackstone’s Jas Khaira says fears over AI-buildout debt are overblown - TechCrunch
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 21 Oct 2026 22:51:22 GMT
+
+4. Micron Stocks Rise as AI-Memory Roadmap Takes Center Stage - Yahoo Finance
+   原題: Micron Stocks Rise as AI-Memory Roadmap Takes Center Stage - Yahoo Finance
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 21 Oct 2026 22:28:16 GMT
+
+5. Spring restaurant turns to AI for ordering, putting tips directly in cooks’ pockets - Click2Houston
+   原題: Spring restaurant turns to AI for ordering, putting tips directly in cooks’ pockets - Click2Houston
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 21 Oct 2026 22:55:12 GMT
+
+
+[CarPlay]
+1. Spotify is busting free of CarPlay with the launch of its first native car app - The Verge
+   原題: Spotify is busting free of CarPlay with the launch of its first native car app - The Verge
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 21 Oct 2026 12:00:00 GMT
+
+2. Now You Can Chat With Gemini While Using Google Maps Through CarPlay - Engadget
+   原題: Now You Can Chat With Gemini While Using Google Maps Through CarPlay - Engadget
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 21 Oct 2026 15:00:00 GMT
+
+3. Conversational Gemini navigation comes to Apple CarPlay - The Verge
+   原題: Conversational Gemini navigation comes to Apple CarPlay - The Verge
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 21 Oct 2026 15:00:00 GMT
+
+4. Google Maps Is Getting Gemini AI In CarPlay - InsideEVs
+   原題: Google Maps Is Getting Gemini AI In CarPlay - InsideEVs
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 21 Oct 2026 16:25:39 GMT
+
+5. This Guy Invented the Ultimate Old-School Stereo Head Unit With Hidden CarPlay - The Drive
+   原題: This Guy Invented the Ultimate Old-School Stereo Head Unit With Hidden CarPlay - The Drive
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 21 Oct 2026 14:04:12 GMT
+
+
+[Android Auto]
+1. Google Puts Gemini AI In The Passenger Seat To Co-Pilot Android Auto - HotHardware
+   原題: Google Puts Gemini AI In The Passenger Seat To Co-Pilot Android Auto - HotHardware
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 21 Oct 2026 14:08:00 GMT
+
+2. These 5 apps make Android Auto useful in ways Google Maps can’t - MakeUseOf
+   原題: These 5 apps make Android Auto useful in ways Google Maps can’t - MakeUseOf
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 21 Oct 2026 10:30:17 GMT
+
+3. You can use Android Auto with a de-Googled phone, and it’s easier than you think - How-To Geek
+   原題: You can use Android Auto with a de-Googled phone, and it’s easier than you think - How-To Geek
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 21 Oct 2026 10:30:17 GMT
+
+4. Google is rolling out Personal Intelligence with Gemini to Android Auto - BetaNews
+   原題: Google is rolling out Personal Intelligence with Gemini to Android Auto - BetaNews
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 21 Oct 2026 19:24:21 GMT
+
+5. Gemini’s Personal Intelligence Makes Its Way to Android Auto - SammyGuru
+   原題: Gemini’s Personal Intelligence Makes Its Way to Android Auto - SammyGuru
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 21 Oct 2026 11:23:36 GMT
+
+
+[Arduino]
+1. Arduino VENTUNO Q: Physical AI for All, Including You! - EEJournal
+   原題: Arduino VENTUNO Q: Physical AI for All, Including You! - EEJournal
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 29 Sep 2026 07:00:00 GMT
+
+2. Arduino's Latest Update Writes Your Code for You - Hackster.io
+   原題: Arduino's Latest Update Writes Your Code for You - Hackster.io
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 12 Aug 2026 14:15:23 GMT
