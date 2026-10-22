@@ -1,0 +1,101 @@
+Searcher Daily Report
+Generated at: 2026-10-23 08:01:17
+Removed duplicates (today): 1
+Removed duplicates (7 days): 31
+
+[AI]
+1. インターネットの広範囲に影響を与えるAIによって検出されたセキュリティバグについて知っておくべきこと - APニュース
+   原題: What to know about the AI-detected security bug impacting wide swaths of the internet - AP News
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 22 Oct 2026 20:46:00 GMT
+
+2. グレーのペイントは、A.I. ほど優れたものはありませんでした。ブーム - ニューヨーク・タイムズ
+   原題: Gray Paint Has Never Had It as Good as in the A.I. Boom - The New York Times
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 22 Oct 2026 09:02:51 GMT
+
+3. AI疑惑再燃でハイテク株安に拍車、S&P500種、ナスダックは大幅安で終了 - ロイター
+   原題: S&P 500, Nasdaq end sharply lower as revived AI doubts ignite tech selloff - Reuters
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 22 Oct 2026 20:48:22 GMT
+
+4. 原油価格高騰でAI株の急落が世界市場を圧倒 - ガーディアン紙
+   原題: Sharp drops for AI stocks overwhelm markets worldwide as oil prices jump - The Guardian
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 22 Oct 2026 21:50:00 GMT
+
+5. AI支出への懸念がテクノロジー株の下落を引き起こし、ナスダックは2.6％急落 - ホノルル・スター・アドバタイザー
+   原題: Nasdaq plunges 2.6% as AI spending fears spark tech selloff - Honolulu Star-Advertiser
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 22 Oct 2026 22:28:18 GMT
+
+
+[CarPlay]
+1. CarPlay が多くの Android Auto ユーザーが嫌がる Google マップ機能を搭載 - autoevolution
+   原題: CarPlay Is Getting the Google Maps Feature Many Android Auto Users Hate - autoevolution
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 22 Oct 2026 04:50:47 GMT
+
+2. Gemini が Apple CarPlay の Google マップに登場: 何が機能するのか - TechRepublic
+   原題: Gemini Comes to Google Maps on Apple CarPlay: What Works - TechRepublic
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 22 Oct 2026 10:19:58 GMT
+
+3. Google マップ CarPlay の Gemini: 5 つの音声タスク [2026] - shattered.io
+   原題: Gemini in Google Maps CarPlay: 5 Voice Tasks [2026] - shattered.io
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 22 Oct 2026 14:46:26 GMT
+
+
+[Android Auto]
+1. Android Auto が Gemini Personal Intelligence を取得: これがどのように役立つか - PCMag
+   原題: Android Auto Gets Gemini Personal Intelligence: Here's How It Can Help - PCMag
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 22 Oct 2026 09:05:11 GMT
+
+2. 車載技術を巡る競争激化に伴い、Google、よりパーソナライズされたGemini AIを発表 - Car Dealership Guy News
+   原題: Google launches more personalized Gemini AI as competition over in-car technology intensifies - Car Dealership Guy News
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 22 Oct 2026 21:00:39 GMT
+
+3. Spotify Launches Phone-Free App for Cars - Ubergizmo
+   原題: Spotify Launches Phone-Free App for Cars - Ubergizmo
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 22 Oct 2026 15:00:31 GMT
+
+4. パーソナル インテリジェンス Google Gemini Android Auto - Thurrott.com
+   原題: Personal Intelligence Google Gemini Android Auto - Thurrott.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 22 Oct 2026 07:57:08 GMT
+
+5. Android Auto が Gemini Personal Intelligence を取得: これがどのように役立つか - PCMag Japan
+   原題: Android Auto Gets Gemini Personal Intelligence: Here's How It Can Help - PCMag Middle East
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 22 Oct 2026 03:02:47 GMT
+
+
+[Arduino]
+1. Arduino Uno R4 WiFi + Minima ケース – いくつかのトップケース コネクタのバリエーション #3DMonday #3DPrinting - Adafruit
+   原題: Arduino Uno R4 WiFi + Minima Case – Several Top-Case Connector Variants #3DThursday #3DPrinting - Adafruit
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 22 Oct 2026 11:00:11 GMT
+
+2. Arduino 従業員数 2026 |従業員数と従業員数のデータ - Revelio Labs
+   原題: Arduino Number of Employees 2026 | Employee Count & Headcount Data - Revelio Labs
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 01 Aug 2026 14:06:12 GMT
+
+3. DigiKey と Arduino が賞金 20,000 ドルを賭けたマイクロコントローラー プロジェクト チャレンジを開始 - Putman Media
+   原題: DigiKey and Arduino launch microcontroller project challenge with $20,000 in prizes - Putman Media
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 03 Sep 2026 07:00:00 GMT
+
+4. Arduino 対 Raspberry Pi 2026: 50x ギャップ [テスト済み] - tech-insider.org
+   原題: Arduino vs Raspberry Pi 2026: 50x Gap [Tested] - tech-insider.org
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 24 Apr 2026 07:00:00 GMT
+
+5. PiZZa が Raspberry Pi SBC を強力な Arduino に変える - Hackster.io
+   原題: PiZZa Turns Your Raspberry Pi SBC Into a Powerful Arduino - Hackster.io
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 08 Jul 2026 01:26:46 GMT
