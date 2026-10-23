@@ -1,0 +1,81 @@
+Searcher Daily Report
+Generated at: 2026-10-24 08:00:56
+Removed duplicates (today): 1
+Removed duplicates (7 days): 36
+
+[AI]
+1. 史上最大のインターネット セキュリティの脅威は 22 年前から知られています。 AIにより2日で危機に - CNN
+   原題: The biggest-ever internet security threat has been known for 22 years. AI made it a crisis in 2 days - CNN
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 23 Oct 2026 09:00:15 GMT
+
+2. 「ブラック・オクトーバー」：サイバーセキュリティ専門家がAIを利用したハッキン​​グの新時代に警鐘を鳴らす - ガーディアン紙
+   原題: ‘Black October’: cybersecurity experts sound the alarm over new era of AI-enabled hacking - The Guardian
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 23 Oct 2026 18:59:00 GMT
+
+3. AIハッキングパニックと「ブラックオクトーバー」についてどれだけ心配すべきでしょうか？ - ヴォックス
+   原題: How worried should I be about the AI hacking panic and “Black October”? - Vox
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 23 Oct 2026 21:55:00 GMT
+
+4. 彼女の 6 歳の子供は、AI が生成した写真を学校から持ち帰ってきました。この母親はそれを持っていません - USA Today
+   原題: Her 6-year-old brought home an AI-generated photo from school. This mom isn’t having it - USA Today
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 23 Oct 2026 13:27:00 GMT
+
+5. AI ピクシーダストは株式市場での影響力を失いつつある - Axios
+   原題: AI pixie dust is losing its stock market power - Axios
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 23 Oct 2026 21:37:47 GMT
+
+
+[CarPlay]
+1. Android Auto に切り替えたら、CarPlay に何が足りないのかがわかりました - How-To Geek
+   原題: I switched to Android Auto, and now I see what CarPlay is missing - How-To Geek
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 23 Oct 2026 13:00:18 GMT
+
+2. Apple CarPlay の Spotify にはイライラするが、アウディのストリーミング サービス用の新しいネイティブ アプリは一歩前進のように見える - Yahoo Autos
+   原題: I get frustrated with Spotify on Apple CarPlay —but Audi's new native app for the streaming service looks like a step forward - Yahoo Autos
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 23 Oct 2026 17:00:27 GMT
+
+
+[Android Auto]
+1. Gemini を使用すると、外出中にハンズフリーでパーソナライズされたサポートを受けることができます - blog.google
+   原題: Get hands-free personalized help on the road with Gemini - blog.google
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 20 Oct 2026 20:10:26 GMT
+
+2. Android Auto にドライバーが知っておくべき大きな新しいアップデートが登場 - BGR
+   原題: Android Auto Just Got A Big New Update Drivers Should Know About - BGR
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 22 Oct 2026 10:17:00 GMT
+
+3. 毎日の Android Auto エクスペリエンスをよりスムーズにするために、Waze の 3 つの設定を変更しました - Android Police
+   原題: I changed 3 settings in Waze to make my daily Android Auto experience smoother - Android Police
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 23 Oct 2026 14:30:14 GMT
+
+4. MapQuest がバイラルに復活した後、Android Auto で MapQuest を試してみましたが、荒削りではありましたが、予想よりもはるかに優れていました - XDA
+   原題: I tried MapQuest in Android Auto after its viral comeback, and despite its rough edges, it’s way better than I expected - XDA
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 23 Oct 2026 15:30:22 GMT
+
+5. オプトインすると、Android Auto でフライトの確認や予約の検索ができるようになりました - Talk Android
+   原題: Android Auto Can Now Check Your Flight or Find Your Appointment, if You Opt In - Talk Android
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 22 Oct 2026 17:00:00 GMT
+
+
+[Arduino]
+1. Arduino の最新 App Lab アップデートにより、「プロダクション グレード」リリース バンドル、電話センサー ストリーミングが提供される - Hackster.io
+   原題: Arduino's Latest App Lab Update Brings "Production Grade" Release Bundles, Phone Sensor Streaming - Hackster.io
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 23 Oct 2026 11:17:41 GMT
+
+2. Arduino® UNO™ Q Board でのローカル LLM の実行: 実践ガイド - EE Times
+   原題: Running Local LLMs on the Arduino® UNO™ Q Board: a Practical Guide - EE Times
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 19 Aug 2026 13:01:36 GMT
