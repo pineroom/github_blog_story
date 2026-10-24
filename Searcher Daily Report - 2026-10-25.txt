@@ -1,0 +1,86 @@
+Searcher Daily Report
+Generated at: 2026-10-25 08:00:56
+Removed duplicates (today): 1
+Removed duplicates (7 days): 31
+
+[AI]
+1. テクノロジー分野以外では AI が利益をもたらす兆候はない - Apollo Global Management
+   原題: No Signs of AI Payoff Outside the Tech Sector - Apollo Global Management
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 24 Oct 2026 10:44:59 GMT
+
+2. テキサスADデルコンテ、フロリダ戦で敗れた重要なプレーでのAI使用を明らかに - ESPN
+   原題: Texas AD Del Conte clarifies AI use on key play that failed in loss to Florida - ESPN
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 24 Oct 2026 02:48:00 GMT
+
+3. 子供たちにクレイジーな AI の世界への備えをさせる - Yahoo!
+   原題: Preparing Our Children For A Crazy AI World - Yahoo
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 24 Oct 2026 22:19:27 GMT
+
+4. Blue Planet III は AI 時代の荒削りな部分を維持しています - The Verge
+   原題: Blue Planet III is keeping the rough edges in the age of AI - The Verge
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 24 Oct 2026 21:29:12 GMT
+
+5. インターネットの 70% に影響を与えるサイバーセキュリティの欠陥を AI が発見し、ウェブサイトが世界的に閉鎖 - CNN
+   原題: Websites shut down globally after AI finds cybersecurity flaw affecting 70% of the internet - CNN
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 21 Oct 2026 16:36:24 GMT
+
+
+[CarPlay]
+1. Genius が第 1 世代 Amazon Echo Show に CarPlay をインストールした理由 - autoevolution
+   原題: Genius Installs CarPlay on First-Gen Amazon Echo Show Because Why Not - autoevolution
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 24 Oct 2026 03:30:01 GMT
+
+2. Gemini が CarPlay Google マップに登場: 5 つの音声タスク [2026] - shattered.io
+   原題: Gemini Hits CarPlay Google Maps: 5 Voice Tasks [2026] - shattered.io
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 22 Oct 2026 14:47:45 GMT
+
+3. Google マップが Apple CarPlay ユーザーに無料アップグレードを提供 - Pocket-lint
+   原題: Google Maps just gave Apple CarPlay users a free upgrade - Pocket-lint
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 21 Oct 2026 15:03:28 GMT
+
+
+[Android Auto]
+1. Samsung の One UI 9 には、Android Auto ドライブをより快適にする賢い機能が搭載されています - Android Police
+   原題: Samsung's One UI 9 has a clever feature that makes my Android Auto drives better - Android Police
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 24 Oct 2026 15:00:14 GMT
+
+2. Android Auto でパーソナル インテリジェンスを試してみた - 不満は 1 つだけ - ZDNET
+   原題: I tried Personal Intelligence in Android Auto – and only have one complaint - ZDNET
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 24 Oct 2026 03:00:18 GMT
+
+3. あなたの車では、完全な Spotify エクスペリエンスを得るために携帯電話はもう必要ないかもしれません - Android Authority
+   原題: Your car may no longer need your phone to get the full Spotify experience - Android Authority
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 21 Oct 2026 14:39:00 GMT
+
+4. 一部の Android Auto では Google マップの速度計が表示されなくなり、交通データも依然として表示されない - 9to5Google
+   原題: Google Maps speedometer disappears on Android Auto for some, traffic data still missing too - 9to5Google
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 08 Sep 2026 07:00:00 GMT
+
+5. ワイヤレス Android Auto を使用するメリットとデメリット - Engadget
+   原題: The Pros And Cons Of Using Wireless Android Auto - Engadget
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 06 Sep 2026 07:00:00 GMT
+
+
+[Arduino]
+1. Arduino、2番目のUNOブランドのシングルボードコンピュータである強力なVENTUNO Qの予約注文を開始 - Hackster.io
+   原題: Arduino Opens Pre-Orders for the Powerful VENTUNO Q, Its Second UNO-Branded Single-Board Computer - Hackster.io
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 25 Aug 2026 14:45:50 GMT
+
+2. Arduino R4 ユニバーサル ケース / ユニバーサル エンクロージャ #3DMonday #3DPrinting - Adafruit
+   原題: Arduino R4 Universal Case / Universal Enclosure #3DThursday #3DPrinting - Adafruit
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 08 Oct 2026 23:00:47 GMT
