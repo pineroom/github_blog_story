@@ -1,0 +1,106 @@
+Searcher Daily Report
+Generated at: 2026-10-27 08:00:57
+Removed duplicates (today): 2
+Removed duplicates (7 days): 27
+
+[AI]
+1. Anthropic の IPO 計画: S-1 で概説される記録的な損失、AI リスク、成長の可能性 - CNBC
+   原題: Anthropic's IPO plans: Record losses, AI risks and growth potential outlined in the S-1 - CNBC
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 26 Oct 2026 21:51:00 GMT
+
+2. アンスロピック、800億ドルの損失を明らかに、IPOを前に巨額支出 - NBCニュース
+   原題: Anthropic reveals $80 billion loss, huge spending spree ahead of IPO - NBC News
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 26 Oct 2026 15:16:12 GMT
+
+3. CEOがAIによる人類へのリスクを警告、アンスロピックが史上最大規模となる可能性のあるIPOを申請 - APニュース
+   原題: Anthropic files for potentially the biggest IPO ever as CEO warns of risk to humanity from AI - AP News
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 26 Oct 2026 21:31:00 GMT
+
+4. Yahooの元CEOであるマリッサ・メイヤーはAIのジェンダー問題の解決に貢献できるだろうか？ - ニューヨーク・タイムズ紙
+   原題: Can Marissa Mayer, Yahoo’s Former CEO, Help Fix A.I.’s Gender Problem? - The New York Times
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 26 Oct 2026 22:50:35 GMT
+
+5. Yahooの元CEOは自分の娘の特別な理由を説明するのに役立つAIを必要としていた - ギズモード
+   原題: Former Yahoo CEO Needed AI to Help Describe What Makes Her Own Daughter Special - Gizmodo
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 26 Oct 2026 21:45:48 GMT
+
+
+[CarPlay]
+1. HomeView 上のアプリはどのように機能しますか?CarPlay はそれとどのような関係がありますか? - エンガジェット
+   原題: How Do Apps On The HomeView Work, And What Does CarPlay Have To Do With It? - Engadget
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 26 Oct 2026 16:15:00 GMT
+
+2. GM、購入者の要望を受けてApple CarPlayを復活 - Yahoo Finance
+   原題: GM brings back Apple CarPlay as buyers demand it - Yahoo Finance
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 19 Sep 2026 07:00:00 GMT
+
+3. iOS 27 CarPlay のどの機能があなたの車で実際に動作しますか? - MacRumors
+   原題: Which iOS 27 CarPlay Features Actually Work in Your Car? - MacRumors
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 17 Sep 2026 07:00:00 GMT
+
+4. GM gives its most important trucks a new UI—and includes CarPlay - Ars Technica
+   原題: GM gives its most important trucks a new UI—and includes CarPlay - Ars Technica
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 15 Sep 2026 07:00:00 GMT
+
+
+[Android Auto]
+1. Android Auto 画面でプレイできるように携帯電話のゲームを設定する方法 - Engadget
+   原題: How To Set Up Your Phone Games To Play On An Android Auto Screen - Engadget
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 26 Oct 2026 15:45:00 GMT
+
+2. Google、Android Auto 18.1をひっそりとリリース：ダウンロード方法と今後の展開 - autoevolution
+   原題: Google Quietly Releases Android Auto 18.1: How To Download and What's To Come - autoevolution
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 26 Oct 2026 04:49:17 GMT
+
+3. このオープンソース アプリを使用すると、Android Auto 車の画面上で実質的にあらゆる電話アプリを実行できます - Android Authority
+   原題: This open-source app lets you run practically any phone app on your Android Auto car screen - Android Authority
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 26 Oct 2026 12:16:00 GMT
+
+4. Android Auto が最も迷惑な通話習慣の修正をテスト中 - Android Police
+   原題: Android Auto is testing a fix for its most annoying calling habit - Android Police
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 26 Oct 2026 12:39:06 GMT
+
+5. Android Auto が間もなくあなたの優先電話番号を記憶できるようになる - Android ヘッドライン
+   原題: Android Auto Could Soon Remember Your Preferred Phone Numbers - Android Headlines
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 26 Oct 2026 20:17:51 GMT
+
+
+[Arduino]
+1. Adafruit Metro ESP32-P4 Hydra は、WiFi 6、MIPI インターフェイスを備えた Arduino UNO 形状の ESP32-P4 + ESP32-C6 ボードです - Adafruit
+   原題: The Adafruit Metro ESP32-P4 Hydra is an Arduino UNO-shaped ESP32-P4 + ESP32-C6 board with WiFi 6, MIPI interfaces - Adafruit
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 26 Oct 2026 15:50:24 GMT
+
+2. €225 Arduino PLC は制御とそれが何をしているのかを知ることを組み合わせます - drivesncontrols.com
+   原題: €225 Arduino PLC combines control with knowing what it is doing - drivesncontrols.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 26 Oct 2026 20:38:36 GMT
+
+3. Adafruit Metro ESP32-P4 Hydra – WiFi 6、MIPI インターフェイスを備えた Arduino UNO 形状の ESP32-P4 + ESP32-C6 ボード - CNX ソフトウェア
+   原題: Adafruit Metro ESP32-P4 Hydra – An Arduino UNO-shaped ESP32-P4 + ESP32-C6 board with WiFi 6, MIPI interfaces - CNX Software
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 26 Oct 2026 09:00:37 GMT
+
+4. ESP32 上の Espressif Matter エンドポイント用の簡素化された Arduino ライブラリ - Adafruit
+   原題: A simplified Arduino library for Espressif Matter endpoints on ESP32 - Adafruit
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 26 Oct 2026 14:29:55 GMT
+
+5. Arduino VENTUNO Q 上の VLM 駆動の不気味で生意気なジャック・オ・ランタン - Hackster.io
+   原題: VLM-Driven Spooky Sassy Jack-o’-Lantern on Arduino VENTUNO Q - Hackster.io
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 19 Oct 2026 20:40:31 GMT
