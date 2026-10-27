@@ -1,0 +1,101 @@
+Searcher Daily Report
+Generated at: 2026-10-28 08:01:18
+Removed duplicates (today): 2
+Removed duplicates (7 days): 29
+
+[AI]
+1. Amazonのトークンマックス対策反対メモ、エンジニアはAIの使用についてもっと慎重になるべきだと述べている - CNBC
+   原題: Amazon's anti-tokenmaxxing memo says engineers should be pickier about using AI - CNBC
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 27 Oct 2026 18:41:02 GMT
+
+2. 中国ではAIバブルはすでに崩壊 - ロイター
+   原題: In China, the AI bubble has already burst - Reuters
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 26 Oct 2026 12:02:00 GMT
+
+3. AIボットが氾濫 使い捨て電子タバコ禁止に関する2023年の英国政府協議 - ガーディアン
+   原題: AI bots flooded 2023 UK government consultation on disposable vapes ban - The Guardian
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 27 Oct 2026 22:30:00 GMT
+
+4. AnthropicのIPO計画：900%の収益維持も、上半期は800億ドルの損失 - CNBC
+   原題: Anthropic's IPO plans: 900% revenue retention, but $80 billion in first-half losses - CNBC
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 26 Oct 2026 21:50:10 GMT
+
+5. 人間のIPO申請でAIセキュリティ侵害、訓練停止が明らかに - FOXニュース
+   原題: Anthropic IPO filing reveals AI security breaches, training halt - Fox News
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 27 Oct 2026 19:58:00 GMT
+
+
+[CarPlay]
+1. iOS 27.2 には CarPlay が 2 つ改善されました。新機能は次のとおりです - 9to5Mac
+   原題: iOS 27.2 has two CarPlay improvements, here’s what’s new - 9to5Mac
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 27 Oct 2026 19:20:00 GMT
+
+2. 一部の iPhone アプリが Apple CarPlay に表示されない理由 - Engadget
+   原題: Why Some iPhone Apps Don't Appear In Apple CarPlay - Engadget
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 27 Oct 2026 14:45:00 GMT
+
+3. DENZA D9 Expected to Gain Apple CarPlay in Q2 2027 - Gasgoo
+   原題: DENZA D9 Expected to Gain Apple CarPlay in Q2 2027 - Gasgoo
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 27 Oct 2026 10:41:16 GMT
+
+4. 帰ってきた：人気の新しい Airfly Drive CarPlay および Android Auto ワイヤレス アダプターが今週末に配信開始 - 9to5Toys
+   原題: It's back: Popular new Airfly Drive CarPlay and Android Auto wireless adapter delivering as soon as this weekend - 9to5Toys
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 27 Oct 2026 11:36:00 GMT
+
+
+[Android Auto]
+1. Google が密かに取り組んでいる 2 つの新しい Android Auto 機能 - autoevolution
+   原題: Two New Android Auto Features Google Is Secretly Working On - autoevolution
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 27 Oct 2026 05:12:53 GMT
+
+2. Android Auto は、実際に電話をかけたい番号をついに記憶できるようになりました - Android Authority
+   原題: Android Auto could finally remember which number you actually want to call - Android Authority
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 26 Oct 2026 10:08:00 GMT
+
+3. EV ロードトリップの計画は Android Auto に任せています。仕組みは次のとおりです - InsideEVs
+   原題: I Let Android Auto Plan My EV Roadtrip. Here’s How It Worked - InsideEVs
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 19 Oct 2026 17:17:00 GMT
+
+4. Android Auto がゲームのサポートを展開、ベータ版は終了 - 9to5Google
+   原題: Android Auto rolls out game support, no longer in beta - 9to5Google
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 22 Sep 2026 07:00:00 GMT
+
+5. 誰かが Android Auto を携帯電話の画面に戻し、実際に機能する [ギャラリー] - 9to5Google
+   原題: Someone is bringing Android Auto back to your phone's screen, and it actually works [Gallery] - 9to5Google
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 27 Oct 2026 18:30:00 GMT
+
+
+[Arduino]
+1. nrf54-arduino-core: XIAO nRF54L15 およびその他の nRF54 ボード用の nRF54 Arduino コア - Adafruit
+   原題: nrf54-arduino-core: nRF54 Arduino core for XIAO nRF54L15 and other nRF54 boards - Adafruit
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 27 Oct 2026 18:09:13 GMT
+
+2. MicroPython または Arduino で STM32 プログラミングを学ぶ ... - eeNews Europe
+   原題: Learn STM32 Programming with MicroPython or Arduino ... - eeNews Europe
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 20 Oct 2026 13:11:07 GMT
+
+3. Arduinoは、メモリモジュールのコストの高騰を理由に、VENTUNO Qを10月19日に初売り価格の299ドルから399ドルに値上げした。 - 技術をもっと簡単に
+   原題: Arduino raises the VENTUNO Q from its $299 introductory price to $399 on 19 October, blaming a sharp rise in memory module costs. - Make Tech Easier
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 20 Oct 2026 19:52:56 GMT
+
+4. GitHub – ankur608/ArduinoUnoQ_AdafruitTouch - Adafruit
+   原題: GitHub – ankur608/ArduinoUnoQ_AdafruitTouch - Adafruit
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 24 Oct 2026 14:28:12 GMT
