@@ -1,0 +1,111 @@
+Searcher Daily Report
+Generated at: 2026-10-29 08:01:10
+Removed duplicates (today): 2
+Removed duplicates (7 days): 23
+
+[AI]
+1. AI が大量のバグを発見、シリコンバレーはその修正を急いでいる - ニューヨーク・タイムズ
+   原題: AI Is Finding a Flood of Bugs, and Silicon Valley Is Rushing to Fix Them - The New York Times
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 28 Oct 2026 19:14:53 GMT
+
+2. マーベル、AI関連の大型取引でLumentumとの合意に近づくと言われる - Bloomberg.com
+   原題: Marvell Is Said to Near Deal for Lumentum In AI-Related Megadeal - Bloomberg.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 28 Oct 2026 21:18:58 GMT
+
+3. ダートマス大学の高官がAI利用問題で辞任 - ワシントン・ポスト
+   原題: Senior official at Dartmouth College resigns over AI use - The Washington Post
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 28 Oct 2026 22:16:21 GMT
+
+4. マイクロソフトのクラウド収益が予想を上回り、AIへの賭けが功を奏す - ロイター
+   原題: Microsoft cloud revenue beats estimates in sign that AI bet is paying off - Reuters
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 28 Oct 2026 21:06:30 GMT
+
+5. MicrosoftはAI能力の遅れによる設備投資の予測を下方修正 Business Insider Japan
+   原題: Microsoft cuts capex forecast on AI capacity delays - Business Insider
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 28 Oct 2026 22:59:02 GMT
+
+
+[CarPlay]
+1. iOS 27.2はAppleのCarPlayに2つの新機能をもたらす - Engadget
+   原題: iOS 27.2 Brings Two New Features To Apple's CarPlay - Engadget
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 28 Oct 2026 04:51:00 GMT
+
+2. CarPlay で YouTube が廃止: 人気アプリ APTV が iOS 27.2 以降動作しなくなる - autoevolution
+   原題: YouTube on CarPlay No More: Popular App APTV No Longer Working After iOS 27.2 - autoevolution
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 28 Oct 2026 07:00:38 GMT
+
+3. Spotify、初のネイティブ自動車アプリをリリースし、CarPlay から解放される - The Verge
+   原題: Spotify is busting free of CarPlay with the launch of its first native car app - The Verge
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 21 Oct 2026 12:00:00 GMT
+
+4. GMは将来のEVからApple CarPlayを廃止する計画を持っていることを知っておいてほしい - MacRumors
+   原題: GM Wants You to Know It Still Plans to Ditch Apple CarPlay in Future EVs - MacRumors
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 21 Sep 2026 07:00:00 GMT
+
+5. Google マップが CarPlay に Gemini AI を導入 - InsideEVs
+   原題: Google Maps Is Getting Gemini AI In CarPlay - InsideEVs
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 28 Oct 2026 11:38:40 GMT
+
+
+[Android Auto]
+1. Android の自動表示を変更およびカスタマイズする方法 - Engadget
+   原題: How To Change And Customize Your Android Auto Display - Engadget
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 27 Oct 2026 23:00:00 GMT
+
+2. Android Auto の 4 つの問題を抱えて生きていかなければならないと思っていました (私は間違っていました) - How-To Geek
+   原題: I thought I had to live with these 4 Android Auto problems (I was wrong) - How-To Geek
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 28 Oct 2026 17:00:15 GMT
+
+3. Google マップがダッシュボードに秋の色をもたらします - Android Authority
+   原題: Google Maps is bringing fall colors to your dashboard - Android Authority
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 28 Oct 2026 14:21:00 GMT
+
+4. Google マップや Waze ではできないことを行う 3 つの Android Auto アプリ - Tom's Guide
+   原題: 3 Android Auto apps that do what Google Maps and Waze can’t - Tom's Guide
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 28 Oct 2026 08:00:00 GMT
+
+5. この無料アプリのおかげで電話画面用 Android Auto が復活 - autoevolution
+   原題: Android Auto for Phone Screens Is Back Thanks to This Free App - autoevolution
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 28 Oct 2026 05:20:31 GMT
+
+
+[Arduino]
+1. Arduino 搭載車の SLAM ナビゲーション - ハッカデイ
+   原題: SLAM Navigation For An Arduino Powered Car - Hackaday
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 28 Oct 2026 08:00:00 GMT
+
+2. STM32Cube 開発: エレクトロニカ 2026 における STMicroelectronics - Elektor Magazine
+   原題: STM32Cube Development: STMicroelectronics at electronica 2026 - Elektor Magazine
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 28 Oct 2026 14:49:00 GMT
+
+3. この委員会は見て、聞いて、考えることができます - Hackster.io
+   原題: This Board Can See, Hear, and Think - Hackster.io
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 28 Oct 2026 18:03:01 GMT
+
+4. Arduino を使用して作成された最新の発明とともに、「DIY」の魅力が戻ってきました - Il Sole 24 ORE
+   原題: The appeal of ‘do-it-yourself’ is back, along with the latest inventions created using Arduino - Il Sole 24 ORE
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 28 Oct 2026 06:18:51 GMT
+
+5. TME、エレクトロニカで AI ビジョン品質管理用の Arduino UNO Q を展示 - TimesTech
+   原題: TME Showcases Arduino UNO Q for AI Vision Quality Control at electronica - TimesTech
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 28 Oct 2026 04:21:22 GMT
