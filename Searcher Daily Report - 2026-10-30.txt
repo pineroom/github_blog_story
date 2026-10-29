@@ -1,0 +1,96 @@
+Searcher Daily Report
+Generated at: 2026-10-30 08:01:06
+Removed duplicates (today): 2
+Removed duplicates (7 days): 30
+
+[AI]
+1. アルファベットの業績不振は、AIが検索に食い込むという初めての本当の兆候を反映している - CNBC
+   原題: Alphabet earnings miss reflects first real sign that AI is taking a bite out of search - CNBC
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 29 Oct 2026 11:00:02 GMT
+
+2. アルファベット株、史上最悪の日を記録、価値5000億ドル下落 - NBCニュース
+   原題: Alphabet shares record their worst day ever, shedding $500 billion in value - NBC News
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 29 Oct 2026 20:33:32 GMT
+
+3. AIが売上を侵食し、Googleが過去最高の5,000億ドルを消去 - Honolulu Star-Advertiser
+   原題: Google erases a record $500 billion as AI eats into sales - Honolulu Star-Advertiser
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 29 Oct 2026 22:18:45 GMT
+
+4. AIの画期的な進歩により、数十年にわたるコンピューターサイエンス研究は「無意味」になった - WIRED
+   原題: An AI Breakthrough Has Made Decades of Computer Science Research ‘Irrelevant’ - WIRED
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 29 Oct 2026 10:45:00 GMT
+
+5. 検索トラフィックが枯渇する中、Redditはログイン体験への移行を発表 - TechCrunch
+   原題: As search traffic dries up, Reddit announces it’s shifting to a logged-in experience - TechCrunch
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 29 Oct 2026 20:08:31 GMT
+
+
+[CarPlay]
+1. 会話型 Gemini ナビゲーションが Apple CarPlay に登場 - The Verge
+   原題: Conversational Gemini navigation comes to Apple CarPlay - The Verge
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 21 Oct 2026 07:00:00 GMT
+
+2. iPhone のクロードが CarPlay 音声モードとプルダウン検索を取得 - カナダの iPhone
+   原題: Claude on iPhone Gets CarPlay Voice Mode and Pull-Down Search - iPhone in Canada
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 29 Oct 2026 22:24:31 GMT
+
+3. この男は、CarPlay を隠した究極のオールドスクール ステレオ ヘッド ユニットを発明しました - The Drive
+   原題: This Guy Invented the Ultimate Old-School Stereo Head Unit With Hidden CarPlay - The Drive
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 21 Oct 2026 14:04:12 GMT
+
+
+[Android Auto]
+1. 見逃しているかもしれない 3 つの強力な Android Auto 機能 - How-To Geek
+   原題: 3 new and powerful Android Auto features you might have missed - How-To Geek
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 28 Oct 2026 10:30:15 GMT
+
+2. これらのユーティリティ アプリにより Android Auto が 10 倍便利になります - MakeUseOf
+   原題: These utility apps make Android Auto 10x more useful - MakeUseOf
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 29 Oct 2026 13:01:16 GMT
+
+3. MINI、丸いスクリーンを捨てない理由を説明 - bmwblog
+   原題: MINI Explains Why It Won’t Ditch Its Round Screen - bmwblog
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 29 Oct 2026 14:33:30 GMT
+
+4. 私は有線を試すまではワイヤレス Android Auto の大ファンでしたが、今はもう戻れません - ZDNET
+   原題: I was a big wireless Android Auto fan, until I tried wired – now I won’t go back - ZDNET
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 12 Oct 2026 07:00:00 GMT
+
+
+[Arduino]
+1. Warm Fire LED ランプ – NeoPixel Ring 24 with Arduino Uno + Adafruit NeoPixel Library #3DMonday #3DPrinting - Adafruit
+   原題: Warm Fire LED Lamp – NeoPixel Ring 24 with Arduino Uno + Adafruit NeoPixel Library #3DThursday #3DPrinting - Adafruit
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 29 Oct 2026 17:15:39 GMT
+
+2. Adafruit：Arduinoのルールは「オープンソースと互換性がない」 - 新しいスタック
+   原題: Adafruit: Arduino’s Rules Are ‘Incompatible With Open Source’ - The New Stack
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 14 Dec 2025 08:00:00 GMT
+
+3. Arduino の最新アップデートによりコードが自動的に作成される - Hackster.io
+   原題: Arduino's Latest Update Writes Your Code for You - Hackster.io
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 12 Aug 2026 14:15:23 GMT
+
+4. Arduino UNO Q ボード: 次世代エッジ AI のデュアルブレイン パワーを解き明かす - クアルコム
+   原題: The Arduino UNO Q Board: Unpack the Dual-Brain Power for Next-Gen Edge AI - Qualcomm
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 10 May 2026 07:00:00 GMT
+
+5. Arduino UNO用のLinux風のOS - Hackster.io
+   原題: A Linux-Like OS for the Arduino UNO - Hackster.io
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 23 Apr 2026 15:26:03 GMT
