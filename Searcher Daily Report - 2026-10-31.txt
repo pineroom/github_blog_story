@@ -1,0 +1,106 @@
+Searcher Daily Report
+Generated at: 2026-10-31 08:01:14
+Removed duplicates (today): 2
+Removed duplicates (7 days): 27
+
+[AI]
+1. AI支出が1兆ドルに近づく中、米国のハイテク株が急落 - BBC
+   原題: US tech stocks see sharp falls as AI spending nears $1tn - BBC
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 30 Oct 2026 20:34:46 GMT
+
+2. A.I.を使用した強力な蚊狩りレーザー羽のある害虫を駆除する - ニューヨーク・タイムズ
+   原題: A Powerful Mosquito-Hunting Laser Uses A.I. to Zap Winged Pests - The New York Times
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 30 Oct 2026 14:14:36 GMT
+
+3. AI の未来に向けた PC 業界の苦難の道 - Axios
+   原題: The PC industry's painful path to an AI future - Axios
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 30 Oct 2026 21:51:08 GMT
+
+4. 独占：ジェフ・ベゾスの AI スタートアップが巨大な SF 企業に迫っているGapの旧オフィスを賃貸 - サンフランシスコ・クロニクル
+   原題: Exclusive: Jeff Bezos’ AI startup is closing in on a huge S.F. lease in a former Gap office - San Francisco Chronicle
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 30 Oct 2026 21:42:38 GMT
+
+5. 企業がAIデータセンターへの電力供給に移行する中、超音速旅客機に疑問の声 - Ars Technica
+   原題: Supersonic airliner in doubt as company shifts to powering AI data centers - Ars Technica
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 30 Oct 2026 21:41:54 GMT
+
+
+[CarPlay]
+1. GMはApple CarPlayを「復活」させることはできない、なぜならそれは決して去らなかったからだ - The Verge
+   原題: GM can’t ‘bring back’ Apple CarPlay because it never left - The Verge
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 21 Sep 2026 07:00:00 GMT
+
+2. 【ニューモデル】トライアンフ新型「TIGER 1200」登場：CarPlay対応や前後レーダーを搭載し158PSにパワーアップしたフラッグシップアドベンチャーバイク - ウェビック
+   原題: [New Model] Triumph's new "TIGER 1200" arrives: Flagship adventure bike upgraded to 158PS, featuring CarPlay support and front/rear radar - Webike Japan
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 28 Oct 2026 01:25:55 GMT
+
+3. iOS 27.2 は Apple CarPlay に 2 つの機能を追加します - Mezha.net
+   原題: iOS 27.2 adds two features to Apple CarPlay - Mezha.net
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 28 Oct 2026 04:20:35 GMT
+
+4. 驚くほど簡単に修正できる CarPlay の 4 つの問題点 - Pocket-lint
+   原題: 4 CarPlay annoyances that are surprisingly easy to fix - Pocket-lint
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 12 Oct 2026 07:00:00 GMT
+
+
+[Android Auto]
+1. Google、Android Auto ビデオアプリは期限が近づいても「近日公開」と発表 - 9to5Google
+   原題: Google says Android Auto video apps are still ‘coming soon’ as deadline nears - 9to5Google
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 30 Oct 2026 15:30:00 GMT
+
+2. Android Auto 画面が間違った解像度で実行されている可能性があります - MakeUseOf
+   原題: Your Android Auto screen may be running at the wrong resolution - MakeUseOf
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 30 Oct 2026 14:00:17 GMT
+
+3. 新しい Android Auto アップデートは通知に関して悪い知らせ、バージョン 18.1 は役に立たない - autoevolution
+   原題: New Android Auto Update Is Bad News for Notifications, Version 18.1 Doesn't Help - autoevolution
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 30 Oct 2026 06:29:54 GMT
+
+4. Gemini を使用すると、外出中にハンズフリーでカスタマイズされたヘルプを入手できます - blog.google
+   原題: Get hands-free personalized help on the road with Gemini - blog.google
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 20 Oct 2026 07:00:00 GMT
+
+5. GM、新しいトラックインターフェースにApple CarPlayとAndroid Autoを搭載 - Motor1.com
+   原題: GM Keeps Apple CarPlay And Android Auto On Its New Truck Interface - Motor1.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 15 Sep 2026 07:00:00 GMT
+
+
+[Arduino]
+1. Arduino UNO Q 上の GenAI が異常を発見して説明する - Hackster.io
+   原題: GenAI on Arduino UNO Q spots and describes anomalies - Hackster.io
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 30 Oct 2026 20:40:12 GMT
+
+2. Arduino® UNO™ Q Board でのローカル LLM の実行: 実践ガイド - EE Times
+   原題: Running Local LLMs on the Arduino® UNO™ Q Board: a Practical Guide - EE Times
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 23 Oct 2026 07:00:00 GMT
+
+3. 新しい VENTUNO Q ボードにより、Arduino はロボット開発を容易にしたいと考えています - The Robot Report
+   原題: With the new VENTUNO Q board, Arduino hopes to make robotics development easier - The Robot Report
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 23 Sep 2026 07:00:00 GMT
+
+4. Arduino VENTUNO Q: あなたを含むすべての人のための物理 AI! - 電子工学ジャーナル
+   原題: Arduino VENTUNO Q: Physical AI for All, Including You! - Electronic Engineering Journal
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 29 Sep 2026 07:00:00 GMT
+
+5. Arduinoの大型化が限界に達: Arduino VENTUNO Qがお試し価格終了で100ドル値上がり - Hackster.io
+   原題: Arduino's Largesse Hits Its Limit: Arduino VENTUNO Q Jumps by $100 as Introductory Pricing Ends - Hackster.io
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 20 Oct 2026 13:49:30 GMT
