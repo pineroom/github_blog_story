@@ -1,0 +1,81 @@
+Searcher Daily Report
+Generated at: 2026-11-01 08:01:06
+Removed duplicates (today): 2
+Removed duplicates (7 days): 34
+
+[AI]
+1. サンフランシスコの A.I.ブーム、初デートが面接になった - ニューヨーク・タイムズ
+   原題: In San Francisco’s A.I. Boom, a First Date Has Become an Interview - The New York Times
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 31 Oct 2026 09:00:54 GMT
+
+2. AIに依存すると脳が腐ってしまいます。しかし、それに対してできることは次のとおりです |カーリー・ドーバー - ガーディアン紙
+   原題: Relying on AI is rotting your brain. But here’s what you can do about it | Carly Dober - The Guardian
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 31 Oct 2026 16:20:00 GMT
+
+3. Apple CEO、同社は「AIのためにAIを出荷したくない」と語る - TechCrunch
+   原題: Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’ - TechCrunch
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 31 Oct 2026 21:41:00 GMT
+
+4. AI による評価: VOLTA インフォスティーラーにおけるモデル駆動型の被害者の優先順位付け - Cisco Talos ブログ
+   原題: Appraisal by AI: Model-driven victim prioritization in the VOLTA infostealer - Cisco Talos Blog
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 31 Oct 2026 12:00:12 GMT
+
+5. AI について私たち全員が問うべき本当の質問 - CNN
+   原題: The real question we should all be asking about AI - CNN
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 30 Oct 2026 20:25:44 GMT
+
+
+[CarPlay]
+1. カスタマイズでは Android Auto が勝りますが、私にとって重要な点では CarPlay が勝ります - MakeUseOf
+   原題: Android Auto wins on customization, but CarPlay wins where it matters to me - MakeUseOf
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 31 Oct 2026 18:00:16 GMT
+
+2. あなたの iPhone には、iOS 27 の最もクールな新 CarPlay 機能の一部が欠けている可能性があります - SlashGear
+   原題: Your iPhone Might Be Missing Some Of iOS 27's Coolest New CarPlay Features - SlashGear
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 31 Oct 2026 16:15:00 GMT
+
+3. これらの簡単なことを実行して Apple CarPlay エクスペリエンスを向上させましょう - Engadget
+   原題: Improve Your Apple CarPlay Experience By Doing These Simple Things - Engadget
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 22 Sep 2026 07:00:00 GMT
+
+4. Apple CarPlay と CarPlay Ultra の違いは何ですか? - エンガジェット
+   原題: What Is The Difference Between Apple CarPlay And CarPlay Ultra? - Engadget
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 19 Sep 2026 07:00:00 GMT
+
+5. Apple CarPlay の Google マップがさらに面白くなりました – この Gemini アップデートは日常の運転に大きな変革をもたらします - T3
+   原題: Google Maps on Apple CarPlay just got a whole lot more interesting – this Gemini update is a game changer for everyday driving - T3
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 21 Oct 2026 07:00:00 GMT
+
+
+[Android Auto]
+1. Android Auto は、この新しいツールを使用してサイドロードされたアプリを無料で実行できます - Android Authority
+   原題: Android Auto can run sideloaded apps for free with this new tool - Android Authority
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 30 Oct 2026 20:59:00 GMT
+
+2. Android Auto のこれら 4 つの問題を抱えて生きなければならないと思っていました (私は間違っていました) - Yahoo Autos
+   原題: I thought I had to live with these 4 Android Auto problems (I was wrong) - Yahoo Autos
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 28 Oct 2026 17:00:15 GMT
+
+
+[Arduino]
+1. Arduino UNO Q は、統合スピーカー、オーディオ ジャック、カメラ コネクタを備えた 10.1 インチ タッチ ディスプレイを取得 - CNX ソフトウェア
+   原題: Arduino UNO Q gets a 10.1-inch touch display with integrated speakers, audio jacks, camera connectors - CNX Software
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 31 Oct 2026 03:00:37 GMT
+
+2. このカボチャはあなたが来るのが見えます 🎃 - Hackster.io
+   原題: This Pumpkin Can See You Coming 🎃 - Hackster.io
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 30 Oct 2026 00:35:05 GMT
