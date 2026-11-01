@@ -1,0 +1,71 @@
+Searcher Daily Report
+Generated at: 2026-11-02 08:01:33
+Removed duplicates (today): 1
+Removed duplicates (7 days): 37
+
+[AI]
+1. なぜ AI は Google 検索に悪影響を及ぼしながら Meta の広告ビジネスを後押ししているのか - CNBC
+   原題: Why AI is boosting Meta's ad business while hurting Google search - CNBC
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 01 Nov 2026 12:00:01 GMT
+
+2. 意見 | A.I.意識してください?それは間違いなく可能です。 - ニューヨーク・タイムズ紙
+   原題: Opinion | Could A.I. Be Conscious? It’s Definitely Possible. - The New York Times
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 01 Nov 2026 11:00:14 GMT
+
+3. OpenAI、データセンターのブランド名を「AI コンピューティング キャンパス」に変更する可能性がある - TechCrunch
+   原題: OpenAI might rebrand its data centers as ‘AI compute campuses’ - TechCrunch
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 01 Nov 2026 21:55:23 GMT
+
+4. ハッカーがAIを使って暴動を起こしている。メーカーは現金化を望んでいる - エコノミスト
+   原題: Hackers are running riot with AI. Its makers want to cash in - The Economist
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 01 Nov 2026 21:41:42 GMT
+
+5. OpenAI、誰もが AI データセンターを「コンピューティング キャンパス」と呼ぶことを望んでいる Business Insider Japan
+   原題: OpenAI Wants Everyone to Call AI Data Centers 'Compute Campuses' - Business Insider
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 01 Nov 2026 22:28:00 GMT
+
+
+[CarPlay]
+1. スレート対フォード・ファゾムの論争は、この 1 つの重要な技術機能によって決着するかもしれない - Engadget
+   原題: The Slate Vs Ford Fathom Debate Might Be Settled By This One Key Tech Feature - Engadget
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 31 Oct 2026 23:00:00 GMT
+
+2. YouTube Premium をやめて、今は Brave を愛しています: CarPlay ユーザーが知っておくべきこと - autoevolution
+   原題: I Gave Up on YouTube Premium and Now I Love Brave: What CarPlay Users Must Know - autoevolution
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 01 Nov 2026 13:25:17 GMT
+
+3. Apple CarPlay と Android Auto で携帯電話が熱くなります。涼しく保つ方法 - WIRED
+   原題: Apple CarPlay and Android Auto Make Your Phone Hot. Here’s How to Keep It Cool - WIRED
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 25 Oct 2026 10:15:00 GMT
+
+4. iPhoneのアップデートにより、CarPlayでのGoogleマップとWazeの使用がさらに困難になる - autoevolution
+   原題: iPhone Update Makes Google Maps and Waze More Difficult To Use on CarPlay - autoevolution
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 01 Nov 2026 14:32:19 GMT
+
+
+[Android Auto]
+1. Android Auto の開発者設定を開いたところ、そのうち 3 つが車での使用方法を変更しました - MakeUseOf
+   原題: I opened Android Auto's developer settings, and 3 of them changed how I use it in my car - MakeUseOf
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 01 Nov 2026 17:00:18 GMT
+
+
+[Arduino]
+1. Arduino、2番目のUNOブランドのシングルボードコンピュータである強力なVENTUNO Qの予約注文を開始 - Hackster.io
+   原題: Arduino Opens Pre-Orders for the Powerful VENTUNO Q, Its Second UNO-Branded Single-Board Computer - Hackster.io
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 25 Aug 2026 14:45:50 GMT
+
+2. Arduino Uno R4 WiFi + Minima ケース – いくつかのトップケース コネクタのバリエーション #3DMonday #3DPrinting - Adafruit
+   原題: Arduino Uno R4 WiFi + Minima Case – Several Top-Case Connector Variants #3DThursday #3DPrinting - Adafruit
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 22 Oct 2026 11:00:11 GMT
