@@ -1,0 +1,111 @@
+Searcher Daily Report
+Generated at: 2026-11-03 08:01:22
+Removed duplicates (today): 2
+Removed duplicates (7 days): 22
+
+[AI]
+1. 米国ハイテク株、AIと中間選挙リスクで調整入り - Bloomberg.com
+   原題: US Tech Stocks Enter Correction on AI and Midterm Election Risks - Bloomberg.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 02 Nov 2026 21:15:33 GMT
+
+2. AIの急落がテクノロジーに打撃を与え、11月の株価は下落で始まる - Yahoo Finance
+   原題: Stocks kick off November lower as AI sell-off hits Tech - Yahoo Finance
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 02 Nov 2026 21:30:23 GMT
+
+3. AI株とハイテク株のさらなる下落がウォール街の大部分の利益に影を落とす - APニュース
+   原題: More drops for AI and tech stocks overshadow gains for most of Wall Street - AP News
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 02 Nov 2026 21:18:00 GMT
+
+4. Anthropicは、それがRSI機能、別名自己構築AIに非常に近いと警告 - TechCrunch
+   原題: Anthropic warns that it’s very close to RSI capability, aka self-building AI - TechCrunch
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 02 Nov 2026 22:14:50 GMT
+
+5. Anthropic、IPOに先立って9,000億ドルのAI支出の約束を明らかに - Financial Times
+   原題: Anthropic reveals $900bn AI spending commitments ahead of IPO - Financial Times
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 02 Nov 2026 16:31:21 GMT
+
+
+[CarPlay]
+1. Android Auto と Android Auto でより良く機能する 6 つの Google マップ機能CarPlay - Engadget
+   原題: 6 Google Maps Features That Work Better On Android Auto Vs. CarPlay - Engadget
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 02 Nov 2026 01:00:00 GMT
+
+2. HomeView OS ツアーでは、スマート ホーム ハブがアプリに対してどのようにロックダウンされているかを開発者が説明 - AppleInsider
+   原題: HomeView OS tour shows developers how locked-down the smart home hub is for apps - AppleInsider
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 02 Nov 2026 13:55:00 GMT
+
+3. GM、購入者の要望を受けてApple CarPlayを復活 - Yahoo Finance
+   原題: GM brings back Apple CarPlay as buyers demand it - Yahoo Finance
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 19 Sep 2026 07:00:00 GMT
+
+4. iOS 27 CarPlay のどの機能があなたの車で実際に動作しますか? - MacRumors
+   原題: Which iOS 27 CarPlay Features Actually Work in Your Car? - MacRumors
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 17 Sep 2026 07:00:00 GMT
+
+5. 有線からワイヤレス CarPlay と Android Auto: アダプター、ビデオ ボックス、スクリーンの比較 - ウィークリー ドライバー
+   原題: Wired to Wireless CarPlay and Android Auto: Adapters, Video Boxes and Screens Compared - The Weekly Driver
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 02 Nov 2026 16:01:34 GMT
+
+
+[Android Auto]
+1. Android Auto の次のアップデートでワークライフ バランスが崩れる可能性 - Engadget
+   原題: Android Auto Could Upset Your Work-Life Balance With Its Next Update - Engadget
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 02 Nov 2026 00:30:00 GMT
+
+2. AAWireless が新しい冷却型 Qi2 カーチャージャーで Android Auto アダプターを超えて拡張 - 9to5Google
+   原題: AAWireless expands beyond Android Auto adapters with new cooled Qi2 car charger - 9to5Google
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 02 Nov 2026 20:05:00 GMT
+
+3. 100 ドルで車のダッシュボードをこの 11 インチ Android Auto スクリーンにアップグレード - Android Police
+   原題: Upgrade your car's dash with this 11-inch Android Auto screen for $100 - Android Police
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 02 Nov 2026 16:59:44 GMT
+
+4. GoogleがYouTubeの登場を宣言、Android Auto 18.1安定版がダウンロード可能に - autoevolution
+   原題: Android Auto 18.1 Stable Version Now Available for Download As Google Says YouTube Is Coming - autoevolution
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 02 Nov 2026 08:58:06 GMT
+
+5. Samsung Galaxy スマートフォンで Android Auto を使用していますか?新しいアップデートにより壊れる可能性があります - PhoneArena
+   原題: Using Android Auto with a Samsung Galaxy phone? The new update might break it for you - PhoneArena
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 02 Nov 2026 18:15:41 GMT
+
+
+[Arduino]
+1. 今年 11 月に Makers Mill でエレクトロニクスと Arduino を探索 - The Laconia Daily Sun
+   原題: Explore electronics and Arduino at Makers Mill this November - The Laconia Daily Sun
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 02 Nov 2026 21:04:00 GMT
+
+2. Arduino の USB カメラは、次のビジョン プロジェクトにリング ライトをもたらします - The Gadgeteer
+   原題: Arduino’s USB Camera brings a ring light to your next vision project - The Gadgeteer
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 01 Nov 2026 23:00:00 GMT
+
+3. ジェラルド S. Arduino の死亡記事 (2026) - イリノイ州ウィートン - ハルトグレン葬儀場および火葬センター - ウィートン - レガシー |訃報
+   原題: Gerald S. Arduino Obituary (2026) - Wheaton, IL - Hultgren Funeral Home and Cremation Center - Wheaton - Legacy | Obituary
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 08 Oct 2026 07:00:00 GMT
+
+4. ハプティックスマートノブ: カチッと音が戻るモーター駆動のダイヤル - Hackster.io
+   原題: Haptic Smart Knob: A Motor-Driven Dial That Clicks Back - Hackster.io
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 02 Nov 2026 20:38:36 GMT
+
+5. Adafruit Metro ESP32-P4 Hydra – WiFi 6、MIPI インターフェイスを備えた Arduino UNO 形状の ESP32-P4 + ESP32-C6 ボード - CNX ソフトウェア
+   原題: Adafruit Metro ESP32-P4 Hydra – An Arduino UNO-shaped ESP32-P4 + ESP32-C6 board with WiFi 6, MIPI interfaces - CNX Software
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 26 Oct 2026 09:00:37 GMT
