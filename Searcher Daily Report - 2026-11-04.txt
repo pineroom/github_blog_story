@@ -1,0 +1,91 @@
+Searcher Daily Report
+Generated at: 2026-11-04 08:01:02
+Removed duplicates (today): 2
+Removed duplicates (7 days): 29
+
+[AI]
+1. Google、AIを拒否する学校の検索を停止へ- ニューヨーク・タイムズ紙
+   原題: Google Will Turn Off Search for Schools That Reject A.I. - The New York Times
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 03 Nov 2026 20:53:40 GMT
+
+2. Google、AIをオプトアウトした学校の検索を遮断へ - NBCニュース
+   原題: Google to shut off search for schools that opt out of AI - NBC News
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 03 Nov 2026 18:32:31 GMT
+
+3. 教室アカウントでGoogle検索を使用する学生はAIツールにアクセスする必要があると同社が発表 - APニュース
+   原題: Students using Google search in classroom accounts will need access to AI tools, the company says - AP News
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 03 Nov 2026 21:07:00 GMT
+
+4. AIチップの需要が急増する中、AMDの予測が予想を上回っているのを見る - Bloomberg.com
+   原題: Watch AMD Forecast Exceeds Estimates as AI Chip Demand Soars - Bloomberg.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 03 Nov 2026 22:36:06 GMT
+
+5. 米国ハイテク株、AI投資を巡る投資家を驚かせた下落の後回復 - ガーディアン
+   原題: US tech stocks recover after selloff spooks investors over AI spending - The Guardian
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 03 Nov 2026 22:23:24 GMT
+
+
+[CarPlay]
+1. 新しいヒーロー Xpulse 450 がデビュー – 421cc、大型 TFT、Android Auto、Apple CarPlay - RushLane
+   原題: New Hero Xpulse 450 Debuts – 421cc, Large TFT, Android Auto, Apple CarPlay - RushLane
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 03 Nov 2026 13:40:25 GMT
+
+2. Waze は CarPlay で行動していますか?最新の iOS アップデートが原因の可能性がある - BGR
+   原題: Waze Acting Up On CarPlay? The Latest iOS Update May Be To Blame - BGR
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 03 Nov 2026 21:17:00 GMT
+
+3. 有線の Apple CarPlay をお持ちですか?これはあなたにとって必須のアクセサリーです - スタッフ
+   原題: Got wired Apple CarPlay? This is the must-have accessory for you - Stuff
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 03 Nov 2026 15:20:00 GMT
+
+
+[Android Auto]
+1. Android Auto 18.1 アップデートが展開され、ライト モードと再設計の追加準備が行われる - 9to5Google
+   原題: Android Auto 18.1 update rolling out with additional prep for light mode and redesign - 9to5Google
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 03 Nov 2026 17:10:00 GMT
+
+2. Google、One UI 9 [U] を実行している Samsung Galaxy スマートフォンでの Android Auto の問題を修正 - 9to5Google
+   原題: Google has fixed Android Auto issues on Samsung Galaxy phones running One UI 9 [U] - 9to5Google
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 03 Nov 2026 13:51:00 GMT
+
+3. GoogleはすでにAndroid Auto One UI 9の接続問題に対する修正を公開している - Android Authority
+   原題: Google already has a fix rolling out for those Android Auto One UI 9 connectivity problems - Android Authority
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 03 Nov 2026 01:03:00 GMT
+
+4. Samsung の One UI 9 アップデートにより Android Auto 接続の問題が発生 - Android Police
+   原題: Samsung's One UI 9 update is causing Android Auto connection problems - Android Police
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 02 Nov 2026 22:12:20 GMT
+
+5. ワイヤレス Android Auto が Samsung 製携帯電話のバッテリーを消耗していた: 私がそれを解決した方法は次のとおりです - How-To Geek
+   原題: Wireless Android Auto was draining my Samsung phone’s battery: Here's how I fixed it - How-To Geek
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 03 Nov 2026 11:30:15 GMT
+
+
+[Arduino]
+1. ボール遊びが大好きな AI ロボット、Fetch を紹介 - Hackster.io
+   原題: Meet Fetch, the AI Robot That Loves to Play Ball - Hackster.io
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 03 Nov 2026 15:46:46 GMT
+
+2. REPA、Nuova Simonelli および Victoria Arduino エスプレッソ マシンの予防メンテナンス キットを発売 - Comunicaffe International
+   原題: REPA rolls out preventive maintenance kits for Nuova Simonelli and Victoria Arduino espresso machines - Comunicaffe International
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 02 Nov 2026 23:50:04 GMT
+
+3. ボールを取ってきてすべて自力で持ち帰る300ドルのロボット - ガジェットレビュー
+   原題: A $300 Robot That Fetches a Ball and Brings It Back, All on Its Own - Gadget Review
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 03 Nov 2026 20:17:53 GMT
