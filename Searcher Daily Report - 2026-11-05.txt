@@ -1,0 +1,96 @@
+Searcher Daily Report
+Generated at: 2026-11-05 08:01:01
+Removed duplicates (today): 1
+Removed duplicates (7 days): 34
+
+[AI]
+1. Apple、支出削減のため社内のAI使用予算を削減 - Bloomberg.com
+   原題: Apple Cuts Internal AI Usage Budgets in Move to Reduce Spending - Bloomberg.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 04 Nov 2026 19:45:00 GMT
+
+2. Apple、コスト管理推進で従業員向けAI予算を削減、ブルームバーグニュースが報じ - ロイター
+   原題: Apple cuts employee AI budgets in cost-control push, Bloomberg News reports - Reuters
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 04 Nov 2026 20:29:43 GMT
+
+3. Google、AIを禁止する学校からの検索削除に対する政治的反発に対応 - CNBC
+   原題: Google responds to political backlash over removing search from schools that ban AI - CNBC
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 04 Nov 2026 00:08:00 GMT
+
+4. 英国当局者らは、AIは経済に4000億ポンドを追加すると述べた。この数字は主にGoogleから来ている - WIRED
+   原題: UK Officials Said AI Would Add £400 Billion to the Economy. That Figure Mainly Came From Google - WIRED
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 04 Nov 2026 13:49:00 GMT
+
+5. Figma、AIの変化による長期的な成長を優先、収益が大幅に悪化 - CNBC
+   原題: Figma sinks after earnings beat as company prioritizes long-term growth with AI changes - CNBC
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 04 Nov 2026 21:38:33 GMT
+
+
+[CarPlay]
+1. iOS 27.3 は Apple Music 用に CarPlay の再設計を追加、新機能は次のとおりです - 9to5Mac
+   原題: iOS 27.3 adds CarPlay redesign for Apple Music, here’s what’s new - 9to5Mac
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 04 Nov 2026 14:46:00 GMT
+
+2. GM、最も重要なトラックに新しい UI を提供 - CarPlay も搭載 - Ars Technica
+   原題: GM gives its most important trucks a new UI—and includes CarPlay - Ars Technica
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 15 Sep 2026 07:00:00 GMT
+
+3. iOS 27.2 には CarPlay が 2 つ改善されました。新機能は次のとおりです - 9to5Mac
+   原題: iOS 27.2 has two CarPlay improvements, here’s what’s new - 9to5Mac
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 27 Oct 2026 07:00:00 GMT
+
+4. iOS 27.3 Apple Music CarPlay の再設計: ベータ 1 での変更点 - ガジェットハック
+   原題: iOS 27.3 Apple Music CarPlay Redesign: What Changed in Beta 1 - Gadget Hacks
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 04 Nov 2026 20:21:48 GMT
+
+
+[Android Auto]
+1. このアプリは Android Auto に無料のインターネット ラジオをもたらし、日々改良されています - Android Authority
+   原題: This app brings free internet radio to Android Auto, and it's only getting better by the day - Android Authority
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 04 Nov 2026 07:44:00 GMT
+
+2. SamsungのOne UI 9はAndroid Autoユーザーにとって悪いニュースだが、Googleは良いニュースを持っている - autoevolution
+   原題: Samsung's One UI 9 Is Bad News for Android Auto Users, Google Has the Good News - autoevolution
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 03 Nov 2026 05:55:43 GMT
+
+3. Android Auto を搭載した新しい TVS iQube が EICMA 2026 でデビュー - RushLane
+   原題: New TVS iQube With Android Auto Debuts At EICMA 2026 - RushLane
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 04 Nov 2026 05:37:56 GMT
+
+4. Google、Samsung Galaxy スマートフォン向け Android Auto 修正プログラムを公開 - TechRepublic
+   原題: Google Rolls Out Android Auto Fix for Samsung Galaxy Phones - TechRepublic
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 04 Nov 2026 14:17:40 GMT
+
+
+[Arduino]
+1. AI が Arduino UNO Q を搭載した初の PLC で産業用コントローラーに移行 - Electropages
+   原題: AI moves into the industrial controller with the first PLC with Arduino UNO Q - Electropages
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 04 Nov 2026 15:21:38 GMT
+
+2. レビュー: Carla with Love – トリノでのカルラ・フラッチへの王室の賛辞 - グラミラノ
+   原題: Review: Carla with Love – a royal tribute to Carla Fracci in Turin - Gramilano
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 21 Oct 2026 07:00:00 GMT
+
+3. Arduino でトースターをスマートにしようとしました – 計画通りにはいきませんでした - MakeUseOf
+   原題: I tried to make my toaster smart with Arduino — it did not go as planned - MakeUseOf
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 14 Dec 2025 08:00:00 GMT
+
+4. Qualcomm Arduino ボード、Rubik Pi 3、および Snapdragon 搭載 PC に OpenClaw と Hermes Agent をインストールする方法 - Qualcomm
+   原題: How to Install OpenClaw and Hermes Agent on Qualcomm Arduino Boards, Rubik Pi 3 and PCs with Snapdragon - Qualcomm
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 24 Apr 2026 07:00:00 GMT
