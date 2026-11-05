@@ -1,0 +1,101 @@
+Searcher Daily Report
+Generated at: 2026-11-06 08:01:46
+Removed duplicates (today): 0
+Removed duplicates (7 days): 28
+
+[AI]
+1. 民主党幹部、中間選挙総選挙後にAI増強の抑制を求める：「国家データセンターは今は一時停止」 - CNBC
+   原題: Top Democrats call to rein in AI buildout after midterms sweep: 'National data center moratorium now' - CNBC
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 05 Nov 2026 20:16:52 GMT
+
+2. 民主党はAIブームを停滞させるだろうか？ - フィナンシャル・タイムズ
+   原題: Will Democrats stall the AI boom? - Financial Times
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 05 Nov 2026 20:28:44 GMT
+
+3. 次期民主党多数派がAI巨人に注目 - KOMO
+   原題: Incoming Democratic majorities put AI giants on notice - KOMO
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 05 Nov 2026 22:25:16 GMT
+
+4. 選挙結果とAI懸念でハイテク株が暴落、株価急落 - NBCニュース
+   原題: Stocks plunge as election outcome and AI worries crush tech shares - NBC News
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 04 Nov 2026 19:40:56 GMT
+
+5. 詐欺師が AI で生成した写真を使用して、迷子のペットの身代金を要求 - NEWS10 ABC
+   原題: Scammers are using AI-generated photos to demand ransom for lost pets - NEWS10 ABC
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 05 Nov 2026 22:21:52 GMT
+
+
+[CarPlay]
+1. Pocket Shack が AllStarLink を iPhone、iPad、Mac、Apple Watch、Carplay に提供 - Amature Radio Daily
+   原題: Pocket Shack Brings AllStarLink to iPhone, iPad, Mac, Apple Watch, and Carplay - Amateur Radio Daily
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 04 Nov 2026 19:42:39 GMT
+
+2. Apple マップではなく Google マップを使用する場合に CarPlay ナビゲーションを改善する方法 - Engadget
+   原題: How To Improve CarPlay Navigation If You Use Google Maps Over Apple Maps - Engadget
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 27 Sep 2026 07:00:00 GMT
+
+3. Bentley のレトロフィットにより、古いコンチネンタル GT にワイヤレス CarPlay が実現 - AutoNext.co
+   原題: Bentley retrofit brings wireless CarPlay to older Continental GTs - AutoNext.co
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 05 Nov 2026 14:31:41 GMT
+
+
+[Android Auto]
+1. Android Auto の無限の通話ループが Pixel と Galaxy の所有者を狂わせている - Android Authority
+   原題: Android Auto’s endless calling loop is driving Pixel and Galaxy owners crazy - Android Authority
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 05 Nov 2026 09:15:00 GMT
+
+2. AAWireless が新しい冷却型 Qi2 カーチャージャーで Android Auto アダプターを超えて拡張 - 9to5Google
+   原題: AAWireless expands beyond Android Auto adapters with new cooled Qi2 car charger - 9to5Google
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 05 Nov 2026 16:05:00 GMT
+
+3. Android Auto の最新の Gemini の失敗により、「誰に電話しますか」と尋ねられ続ける - 9to5Google
+   原題: Android Auto’s latest Gemini failing keeps asking ‘who do you want to call’ - 9to5Google
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 05 Nov 2026 17:05:00 GMT
+
+4. Android Autoには別のバグがあり、ユーザーを無限の通話ループに陥らせる - SammyGuru
+   原題: Android Auto Has Another Bug, Trapping Users in an Endless Calling Loop - SammyGuru
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 05 Nov 2026 16:09:19 GMT
+
+5. Google マップと Waze をテストするために 500 マイルを運転しました。 1 つのアプリが道を勝ち取った - Android Police
+   原題: I drove 500 miles testing Google Maps against Waze; one app won the road - Android Police
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 05 Nov 2026 11:00:11 GMT
+
+
+[Arduino]
+1. TME がエレクトロニカで Arduino VENTUNO Q を紹介 - TimesTech
+   原題: TME highlights the Arduino VENTUNO Q at electronica - TimesTech
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 05 Nov 2026 11:58:38 GMT
+
+2. Arduino の新しいボードは Raspberry Pi と ESP32 を目指していますが、タイミングが最悪です - MakeUseOf
+   原題: Arduino’s new board wants to be a Raspberry Pi and an ESP32, but the timing is awful - MakeUseOf
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 04 Sep 2026 07:00:00 GMT
+
+3. Arduino VENTUNO Q が登場: Qualcomm Dragonwing IQ8 シリーズで Agentic AI を物理世界に導入 - Qualcomm
+   原題: Arduino VENTUNO Q is Here: Bringing Agentic AI to the Physical World with Qualcomm Dragonwing IQ8 Series - Qualcomm
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 25 Aug 2026 14:00:40 GMT
+
+4. Arduino Uno Q 上にクリップボード サーバーを構築したところ、自分が嫌いだと気づいていなかったワークフローが置き換えられました - XDA
+   原題: I built a clipboard server on the Arduino Uno Q, and it replaced a workflow I didn't realize I hated - XDA
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 01 Apr 2026 07:00:00 GMT
+
+5. Adafruit：Arduinoのルールは「オープンソースと互換性がない」 - 新しいスタック
+   原題: Adafruit: Arduino’s Rules Are ‘Incompatible With Open Source’ - The New Stack
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 14 Dec 2025 08:00:00 GMT
