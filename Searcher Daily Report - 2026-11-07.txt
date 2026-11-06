@@ -1,0 +1,106 @@
+Searcher Daily Report
+Generated at: 2026-11-07 08:01:23
+Removed duplicates (today): 0
+Removed duplicates (7 days): 30
+
+[AI]
+1. AIの減速懸念が企業価値に打撃を与えた後、米国のハイテク株が小幅上昇 - ライブ最新情報 - BBC
+   原題: US tech stocks edge up after AI slowdown fears hit value of firms - live updates - BBC
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 06 Nov 2026 15:25:35 GMT
+
+2. 米国ハイテク株暴落：AIバブルは崩壊か？ - ガーディアン紙
+   原題: US tech stock rout: is the AI bubble bursting? - The Guardian
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 06 Nov 2026 20:38:00 GMT
+
+3. 雇用統計を受けて米国株はまちまち、AIの回復鈍化 - WSJ
+   原題: U.S. Stocks Mixed After Jobs Data, Muted AI Rebound - WSJ
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 06 Nov 2026 22:01:00 GMT
+
+4. データセンターの二重苦：ハセット氏、ブルーウェーブはAIの発展を止められないと語る - CNBC
+   原題: Data center double-down: Hassett says blue wave won't stop AI build-out - CNBC
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 06 Nov 2026 15:55:48 GMT
+
+5. 公有地にデータセンターを設置したいトランプ政権関係者、AI産業に数千万ドル投資 - ProPublica
+   原題: Trump Official Who Wants Data Centers on Public Lands Has Tens of Millions Invested in AI Industry - ProPublica
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 06 Nov 2026 11:00:00 GMT
+
+
+[CarPlay]
+1. Apple の iOS 27.2 が CarPlay 上の YouTube を静かに破壊する - Geeky Gadgets
+   原題: Apple’s iOS 27.2 Quietly Kills YouTube on CarPlay - Geeky Gadgets
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 06 Nov 2026 12:14:28 GMT
+
+2. GMはApple CarPlayを「復活」させることはできない、なぜならそれは決して去らなかったからだ - The Verge
+   原題: GM can’t ‘bring back’ Apple CarPlay because it never left - The Verge
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 21 Sep 2026 07:00:00 GMT
+
+3. GM、新しいトラックインターフェースにApple CarPlayとAndroid Autoを搭載 - Motor1.com
+   原題: GM Keeps Apple CarPlay And Android Auto On Its New Truck Interface - Motor1.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 15 Sep 2026 07:00:00 GMT
+
+4. 古い車に Apple CarPlay を追加したいですか?これらはそれを行う方法です - スタッフ
+   原題: Want to add Apple CarPlay to your old car? These are the ways to do it - Stuff
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 06 Nov 2026 08:00:00 GMT
+
+5. 2027 シボレー シルバラード 1500 ピックアップの新しいインフォテインメント システムは、Apple CarPlay と互換性があります。 - ラフキン・デイリー・ニュース
+   原題: The 2027 Chevrolet Silverado 1500 pickup's new infotainment system is compatible with Apple CarPlay. - The Lufkin Daily News
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 06 Nov 2026 19:46:00 GMT
+
+
+[Android Auto]
+1. Samsung Galaxy と Pixel の所有者は、Android Auto の新たな頭痛の種に対処している - PhoneArena
+   原題: Samsung Galaxy and Pixel owners are dealing with a new Android Auto headache - PhoneArena
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 06 Nov 2026 11:08:08 GMT
+
+2. Google が Android Auto でお気に入りのアプリを使用することを許可してくれないので、無料の回避策を見つけました - Android Police
+   原題: Google won't let me use my favorite apps in Android Auto, so I found a free workaround - Android Police
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 06 Nov 2026 11:30:10 GMT
+
+3. オープンソースの Android Auto 代替ソフトを車で試してみたところ、1 つを除いてすべての点で Google のバージョンを上回りました - How-To Geek
+   原題: I tried an open-source Android Auto alternative in my car, and it beats Google's version in every way but one - How-To Geek
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 06 Nov 2026 21:31:16 GMT
+
+4. Android Auto Cielo アップデートにはさらなるサプライズが含まれる可能性、Android Auto 18.1 コードが表示 - autoevolution
+   原題: Android Auto Cielo Update Could Include More Surprises, Android Auto 18.1 Code Shows - autoevolution
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 04 Nov 2026 05:55:32 GMT
+
+5. Gemini を使用すると、外出中にハンズフリーでパーソナライズされたサポートを受けることができます - blog.google
+   原題: Get hands-free personalized help on the road with Gemini - blog.google
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 20 Oct 2026 07:00:00 GMT
+
+
+[Arduino]
+1. Arduino UNO Q 上のエッジ AI 出席ノード (スプーフィング対策付き) - Hackster.io
+   原題: Edge AI Attendance Node on Arduino UNO Q with anti-Spoofing - Hackster.io
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 06 Nov 2026 10:22:32 GMT
+
+2. TME が Arduino の高度な VENTUNO Q Edge AI を展示 - Bisinfotech
+   原題: TME Showcases Arduino’s Advanced VENTUNO Q Edge AI - Bisinfotech
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 06 Nov 2026 05:09:34 GMT
+
+3. Arduinoは、メモリモジュールのコストの高騰を理由に、VENTUNO Qを10月19日に初売り価格の299ドルから399ドルに値上げした。 - 技術をもっと簡単に
+   原題: Arduino raises the VENTUNO Q from its $299 introductory price to $399 on 19 October, blaming a sharp rise in memory module costs. - Make Tech Easier
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 20 Oct 2026 07:00:00 GMT
+
+4. OpenClaw で Arduino をプログラムできる - Hackster.io
+   原題: OpenClaw Can Program Your Arduino - Hackster.io
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 09 Feb 2026 15:20:07 GMT
