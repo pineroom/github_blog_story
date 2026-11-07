@@ -1,0 +1,96 @@
+Searcher Daily Report
+Generated at: 2026-11-08 08:00:52
+Removed duplicates (today): 0
+Removed duplicates (7 days): 33
+
+[AI]
+1. 中間決算でデータセンターに対する痛烈な非難が示された後、人間的なIPOがAIの反発に遭遇 - CNBC
+   原題: Anthropic IPO meets AI backlash after midterms show stinging rebuke of data centers - CNBC
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 07 Nov 2026 13:00:01 GMT
+
+2. 中間選挙とAIの下落を受け、人類のIPO発表の可能性はカルシに低下 - CNBC
+   原題: Anthropic IPO announcement odds drop on Kalshi following midterms and AI sell-off - CNBC
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 06 Nov 2026 15:42:41 GMT
+
+3. OpenAIは1兆2500億ドルの評価額でさらに110億ドルを調達すると報じられている - TechCrunch
+   原題: OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation - TechCrunch
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 06 Nov 2026 22:53:46 GMT
+
+4. AIの神経が長年の投資の教訓を強化する：多様化せよ - CNN
+   原題: AI nerves reinforce age-old investing lesson: Get diversified - CNN
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 07 Nov 2026 17:00:16 GMT
+
+5. 民主党の中間選挙勝利後、「AIを巡る大きな懸念」の中で世界株が下落 |株式市場 - ガーディアン紙
+   原題: Global stocks fall amid ‘big worries over AI’ after Democrats’ midterms triumph | Stock markets - The Guardian
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 06 Nov 2026 08:58:00 GMT
+
+
+[CarPlay]
+1. 駐車中に Apple CarPlay でビデオを見る方法 - Engadget
+   原題: How To Watch Videos On Apple CarPlay While Parked - Engadget
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 07 Nov 2026 18:30:00 GMT
+
+2. このアプリを使用すると、iPad を CarPlay ヘッドユニットに変えて、時代遅れのタブレットを引き出しから取り出すことができます - autoevolution
+   原題: This App Lets You Turn iPads Into CarPlay Head Units, Pull That Outdated Tablet From the Drawer - autoevolution
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 07 Nov 2026 11:27:46 GMT
+
+3. 新しい「AirFly Drive」アクセサリが有線CarPlayをワイヤレスCarPlayに変える - MacRumors
+   原題: New 'AirFly Drive' Accessory Turns Wired CarPlay Into Wireless CarPlay - MacRumors
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 01 Oct 2026 07:00:00 GMT
+
+4. Apple、iOS 27.2でCarPlayからビデオ再生を廃止、アップデートしたユーザーが孤立 - BigGo Finance
+   原題: Apple Pulls Video Playback From CarPlay in iOS 27.2, Stranding Users Who Updated - BigGo Finance
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 07 Nov 2026 18:55:00 GMT
+
+5. iOS 27.3 で CarPlay の Apple Music が新しくなる - 何が変わったのか - ガジェットハック
+   原題: iOS 27.3 Gives Apple Music in CarPlay a New Look — Here's What Changed - Gadget Hacks
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 04 Nov 2026 20:21:48 GMT
+
+
+[Android Auto]
+1. この素早い Android Auto セットアップのおかげで、何度もドライブ旅行が救われました - Android Police
+   原題: This quick Android Auto setup has saved my road trips more than once - Android Police
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 07 Nov 2026 11:30:10 GMT
+
+2. Android Auto の新しい Gemini 機能は予期していなかった問題を解決します - How-To Geek
+   原題: Android Auto's new Gemini feature solves a problem I didn't expect - How-To Geek
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 07 Nov 2026 20:00:15 GMT
+
+3. このオープンソース アプリを使用すると、Android Auto 車の画面上で実質的にあらゆる電話アプリを実行できます - Android Authority
+   原題: This open-source app lets you run practically any phone app on your Android Auto car screen - Android Authority
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 26 Oct 2026 07:00:00 GMT
+
+4. 誰でもできる 3 つの Android Auto 修正 - Pocket-lint
+   原題: 3 Android Auto fixes anyone can do - Pocket-lint
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 07 Nov 2026 12:01:17 GMT
+
+
+[Arduino]
+1. ESP32 デモボード: オンボード ハードウェアを使用した新しいデモ プロジェクト - Adafruit
+   原題: ESP32 Demoboard: New demo projects using on-board hardware - Adafruit
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 06 Nov 2026 21:36:12 GMT
+
+2. 物理的およびデジタル的な相互作用を通じて Arduino を学習するための進歩的な拡張現実フレームワーク - Nature
+   原題: A progressive augmented reality framework for learning Arduino through physical and digital interaction - Nature
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 03 Aug 2026 07:00:00 GMT
+
+3. Arduino の新しい AI 中心ボードは VENTUNO Q - ハッカデイ
+   原題: Arduino’s New AI-Centric Board Is The VENTUNO Q - Hackaday
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 10 Mar 2026 07:00:00 GMT
