@@ -1,0 +1,61 @@
+Searcher Daily Report
+Generated at: 2026-11-09 08:00:52
+Removed duplicates (today): 1
+Removed duplicates (7 days): 39
+
+[AI]
+1. Apple CEO、ソフトウェア責任者にさらに野心的なAI戦略推進を迫る - Bloomberg
+   原題: Apple CEO Presses Software Chief to Pursue More Ambitious AI Strategy - Bloomberg
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 08 Nov 2026 15:00:01 GMT
+
+2. AppleはSiriをよりエージェント的にするために競争している - The Verge
+   原題: Apple is racing to make Siri more agentic - The Verge
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 08 Nov 2026 19:18:19 GMT
+
+3. Apple CEO、より多くのAI機能をより迅速に推進していると伝えられる - ギズモード
+   原題: Apple's CEO Reportedly Pushing for More AI Features, Faster - Gizmodo
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 08 Nov 2026 18:04:44 GMT
+
+4. 「AI の詰まり」：英国の公共団体、チャットボット生成の苦情の猛攻撃と戦う - ガーディアン
+   原題: ‘AI clog’: UK public bodies battle onslaught of chatbot-generated complaints - The Guardian
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 08 Nov 2026 13:51:00 GMT
+
+5. すべての AI サブスクリプションを、この 60 ドルの生涯バンドルに置き換えてください - Popular Science
+   原題: Replace all your AI subscriptions with this one $60 lifetime bundle - Popular Science
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 08 Nov 2026 21:55:13 GMT
+
+
+[CarPlay]
+1. これらの簡単なことを実行して Apple CarPlay エクスペリエンスを向上させましょう - Engadget
+   原題: Improve Your Apple CarPlay Experience By Doing These Simple Things - Engadget
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 22 Sep 2026 07:00:00 GMT
+
+2. あなたの古い車は、この 110 ドルのタッチスクリーンで CarPlay と Android Auto を実行できます - Boing Boing
+   原題: Your old car can run CarPlay and Android Auto on this $110 touchscreen - Boing Boing
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 08 Nov 2026 16:00:00 GMT
+
+3. Apple CarPlay の Google マップがさらに面白くなりました – この Gemini アップデートは日常の運転に大きな変革をもたらします - T3
+   原題: Google Maps on Apple CarPlay just got a whole lot more interesting – this Gemini update is a game changer for everyday driving - T3
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 21 Oct 2026 07:00:00 GMT
+
+
+[Android Auto]
+1. Google マップが謎の Android Auto 上の重要なデータを失う、影響を受けていますか? - 自動進化
+   原題: Google Maps Mysteriously Loses Key Data on Android Auto, Are You Affected? - autoevolution
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 08 Nov 2026 13:01:07 GMT
+
+
+[Arduino]
+1. Arduino UNO Q は、統合スピーカー、オーディオ ジャック、カメラ コネクタを備えた 10.1 インチ タッチ ディスプレイを搭載 - CNX ソフトウェア
+   原題: Arduino UNO Q gets a 10.1-inch touch display with integrated speakers, audio jacks, camera connectors - CNX Software
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 31 Oct 2026 03:00:37 GMT
