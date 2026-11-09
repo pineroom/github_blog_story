@@ -1,0 +1,91 @@
+Searcher Daily Report
+Generated at: 2026-11-10 08:01:19
+Removed duplicates (today): 1
+Removed duplicates (7 days): 28
+
+[AI]
+1. 民主党はトランプ大統領のAIに関する答えを要求スパイ陰謀中の政策 - ニューヨーク・タイムズ
+   原題: Democrats Demand Answers on Trump’s A.I. Policy Amid Spy Plot - The New York Times
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 09 Nov 2026 19:51:37 GMT
+
+2. 保護者と教師、学校がAIをブロックすれば検索を排除するというGoogleの約束を非難：「この脅威は恐喝にほかならない」 - ガーディアン紙
+   原題: Parents and teachers decry Google pledge to yank Search if schools block AI: ‘This threat is nothing but extortion’ - The Guardian
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 09 Nov 2026 14:00:00 GMT
+
+3. マーキー上院議員、グーグルCEOに対し、検索を失わずに学校がAIをオプトアウトできるよう要請 - Boston.com
+   原題: Sen. Markey urges Google CEO to let schools opt out of AI without losing search - Boston.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 09 Nov 2026 22:42:00 GMT
+
+4. シカゴの保護者がGoogleのAI学校政策に抗議 - Axios
+   原題: Chicago parents protest Google's AI school policy - Axios
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 09 Nov 2026 21:07:38 GMT
+
+5. ジェンセン・ファン氏は、AIのロックスターCEOにも隠れたリスクがあることの生きた証拠 - CNN
+   原題: Jensen Huang is living proof that AI’s rockstar CEOs are also a hidden risk - CNN
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 09 Nov 2026 18:29:01 GMT
+
+
+[CarPlay]
+1. Apple CarPlay と CarPlay Ultra の違いは何ですか? - エンガジェット
+   原題: What Is The Difference Between Apple CarPlay And CarPlay Ultra? - Engadget
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 19 Sep 2026 07:00:00 GMT
+
+2. 人気の新しい Airfly Drive CarPlay および Android Auto ワイヤレス アダプターが今週中に配信開始 - 9to5Toys
+   原題: Popular new Airfly Drive CarPlay and Android Auto wireless adapter delivering as soon as this week - 9to5Toys
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 09 Nov 2026 13:20:00 GMT
+
+3. Apple、iOS 27.2でCarPlayビデオ回避策をブロック、代替となるネイティブアプリなし - BigGo Finance
+   原題: Apple Blocks the CarPlay Video Workaround in iOS 27.2, With No Native App to Replace It - BigGo Finance
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 07 Nov 2026 18:58:41 GMT
+
+4. CarPlayオートバイ割引コードに従ってください 暗号ポートフォリオのおすすめ - CoinMarketCap
+   原題: Follow The CarPlay Motorcycle Discount Code Crypto Portfolio Picks - CoinMarketCap
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 09 Nov 2026 15:05:09 GMT
+
+
+[Android Auto]
+1. Android Auto には Android 11 以降が必要です – 互換性を確認してください - ZDNET
+   原題: Android Auto requires Android 11 or higher now – check your compatibility - ZDNET
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 09 Nov 2026 17:46:42 GMT
+
+2. Googleが新しい最小要件を確認したため、Android AutoはAndroid 9と10を廃止 - Android Authority
+   原題: Android Auto drops Android 9 and 10 as Google confirms new minimum requirements - Android Authority
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 09 Nov 2026 07:24:00 GMT
+
+3. Older Android phones just lost Android Auto access for good - Android Central
+   原題: Older Android phones just lost Android Auto access for good - Android Central
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 09 Nov 2026 16:00:58 GMT
+
+4. Googleは携帯電話でAndroid Autoを廃止したが、無料アプリがAndroid Autoを復活させた - Android Police
+   原題: Google killed Android Auto on phones, but a free app brought it back - Android Police
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 09 Nov 2026 16:00:11 GMT
+
+5. Android Auto が大幅に変身: 知っておくべき 4 つの変更点 - How-To Geek
+   原題: Android Auto is getting a major makeover: 4 changes to know about - How-To Geek
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 09 Nov 2026 18:00:15 GMT
+
+
+[Arduino]
+1. SparkFun IoT RedBoard ESP32-P4 – WiFi 6 または PoE オプションを備えた Arduino UNO のような ESP32-P4 v3.x 開発ボード - CNX ソフトウェア
+   原題: SparkFun IoT RedBoard ESP32-P4 – Arduino UNO-like ESP32-P4 v3.x development boards with WiFi 6 or PoE options - CNX Software
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 09 Nov 2026 08:00:07 GMT
+
+2. Arduino、2番目のUNOブランドのシングルボードコンピュータである強力なVENTUNO Qの予約注文を開始 - Hackster.io
+   原題: Arduino Opens Pre-Orders for the Powerful VENTUNO Q, Its Second UNO-Branded Single-Board Computer - Hackster.io
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 25 Aug 2026 14:45:50 GMT
