@@ -1,0 +1,86 @@
+Searcher Daily Report
+Generated at: 2026-11-11 08:00:51
+Removed duplicates (today): 4
+Removed duplicates (7 days): 27
+
+[AI]
+1. トラハン、州の優先権を狭めたAI安全法案を策定 - ポリティコ
+   原題: Trahan crafting AI safety bill with narrower state preemption - Politico
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 10 Nov 2026 18:07:39 GMT
+
+2. フロンティアで働く: フリーランスの仕事に対する AI の影響 - OpenAI
+   原題: Work at the Frontier: AI’s effect on freelance work - OpenAI
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 10 Nov 2026 15:04:04 GMT
+
+3. ジェンセン・ファンの謝罪がAIの唯一の正しい使い方かもしれない - The Atlantic
+   原題: Jensen Huang’s Apology May Be the Only Correct Use of AI - The Atlantic
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 10 Nov 2026 18:08:00 GMT
+
+4. AIの安全性、CBAの利益、JPモルガンがオーストラリアチームを拡大：オーストラリア説明会 - Bloomberg.com
+   原題: AI Safety, CBA Profit, JP Morgan Expands Australia Team: Australia Briefing - Bloomberg.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 10 Nov 2026 22:14:02 GMT
+
+5. OpenAI、AI旅行スタートアップ「オデシア」を買収 - WSJ
+   原題: OpenAI Snaps Up AI Travel Startup Odessia - WSJ
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 10 Nov 2026 22:36:00 GMT
+
+
+[CarPlay]
+1. ベントレー、古い車に Apple CarPlay を追加、しかし気候変動ボタンを削除 - Autoblog
+   原題: Bentley Adds Apple CarPlay to Older Cars, but Removes Climate Buttons - Autoblog
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 10 Nov 2026 14:15:00 GMT
+
+2. 新しいインフォテインメントのアップグレードにより、古いベントレーモデルに Apple CarPlay と Android Auto が搭載 - Motor1.com
+   原題: Older Bentley Models Get Apple CarPlay And Android Auto Thanks To New Infotainment Upgrade - Motor1.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 10 Nov 2026 09:24:00 GMT
+
+3. Surcsa 9 インチ CarPlay スクリーンを 46% オフで車のインフォテイメント システムをアップグレードしましょう - How-To Geek
+   原題: Give your car infotainment system an upgrade with 46% off the Surcsa 9-inch CarPlay Screen - How-To Geek
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 10 Nov 2026 17:41:19 GMT
+
+4. 第 2 世代 Conti GT が CarPlay アップグレードを獲得 - PistonHeads
+   原題: Second-gen Conti GT earns CarPlay upgrade - PistonHeads
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 10 Nov 2026 08:07:38 GMT
+
+5. この Amazon ガジェットは、59 ドルであらゆる車のスクリーンをワイヤレス CarPlay ハブとミニ映画館に変えます - NJ.com
+   原題: This Amazon gadget turns any car screen into a wireless CarPlay hub & mini movie theater for $59 - NJ.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 10 Nov 2026 19:05:00 GMT
+
+
+[Android Auto]
+1. Google は数百万台の Android デバイスを Android Auto から除外しています。あなたのものもそのうちの 1 つですか? - 電話アリーナ
+   原題: Google is kicking millions of Android devices off Android Auto - is yours one of them? - PhoneArena
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 10 Nov 2026 14:19:46 GMT
+
+2. Android Auto の最小要件が変更されたばかりで、これらの古い携帯電話はサポートを失います - SlashGear
+   原題: Android Auto Just Changed Its Minimum Requirements, And These Older Phones Are Losing Support - SlashGear
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 10 Nov 2026 19:27:56 GMT
+
+3. アップグレードの時期: Android Auto は Android 9 および Android 10 では動作しなくなります - autoevolution
+   原題: Time To Upgrade: Android Auto No Longer Works on Android 9 and Android 10 - autoevolution
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 10 Nov 2026 05:39:46 GMT
+
+
+[Arduino]
+1. TCAN4x5x: a hardware-agnostic Arduino library for the Texas Instruments TCAN4550 and TCAN4x5x CAN-FD controllers - Adafruit
+   原題: TCAN4x5x: a hardware-agnostic Arduino library for the Texas Instruments TCAN4550 and TCAN4x5x CAN-FD controllers - Adafruit
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 10 Nov 2026 17:04:55 GMT
+
+2. ダルアラビア語: دال · 小さな画面用のアラビア語テキスト (ESP32 / Arduino) - Adafruit
+   原題: Dal-Arabic: دال · Arabic text for small screens (ESP32 / Arduino) - Adafruit
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 10 Nov 2026 17:23:15 GMT
