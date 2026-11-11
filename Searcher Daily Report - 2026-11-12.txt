@@ -1,0 +1,111 @@
+Searcher Daily Report
+Generated at: 2026-11-12 08:00:56
+Removed duplicates (today): 1
+Removed duplicates (7 days): 18
+
+[AI]
+1. ユナイテッド航空、AIエージェントが旅行者に代わって航空券を予約することを禁止 - CBSニュース
+   原題: United Airlines bans AI agents from booking flights on behalf of travelers - CBS News
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 11 Nov 2026 19:37:38 GMT
+
+2. ユナイテッド航空、AIエージェントによる休日前の航空券予約を阻止 - Bloomberg.com
+   原題: United Blocks AI Agents From Booking Flights Ahead of Holidays - Bloomberg.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 11 Nov 2026 18:50:22 GMT
+
+3. ユナイテッド航空、AIボット禁止発表でメタ株急落 - WSJ
+   原題: Meta Stock Slips After United Airlines Announces AI-Bot Ban - WSJ
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 11 Nov 2026 21:37:34 GMT
+
+4. Nvidiaスキャンダル、世界的なAIブームの回復力を試す - WSJ
+   原題: Nvidia Scandal Tests the Resilience of the Global AI Boom - WSJ
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 11 Nov 2026 03:00:00 GMT
+
+5. ワシントンDCでのジェンセン・ファン事件：辞任要求とNVIDIAの中国への輸出強化の動き - CNBC
+   原題: Jensen Huang affair in D.C.: Resignation calls and moves to tighten Nvidia China exports - CNBC
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 11 Nov 2026 21:59:34 GMT
+
+
+[CarPlay]
+1. Gemini と話し合おう、Apple CarPlay に登場 - blog.google
+   原題: Talk it through with Gemini, now on Apple CarPlay - blog.google
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 11 Nov 2026 17:12:41 GMT
+
+2. Google の Gemini チャットボットが Apple CarPlay で利用可能に - Thurrott.com
+   原題: Google’s Gemini Chatbot is Now Available on Apple CarPlay - Thurrott.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 11 Nov 2026 18:20:34 GMT
+
+3. Google、スタンドアロンの Gemini アプリと Gemini Live を Apple CarPlay に導入 - Android Authority
+   原題: Google brings the standalone Gemini app and Gemini Live to Apple CarPlay - Android Authority
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 11 Nov 2026 19:35:00 GMT
+
+4. Google、Gemini AI 音声アシスタントを Apple CarPlay ダッシュボードに展開 - Investing.com
+   原題: Google rolls out Gemini AI voice assistant to Apple CarPlay dashboards - Investing.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 11 Nov 2026 19:46:16 GMT
+
+5. Gemini が Apple CarPlay に登場: アンヒンジド モードはないが - Droid Life
+   原題: Gemini Comes to Apple CarPlay: No Unhinged Mode Though - Droid Life
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 11 Nov 2026 19:31:28 GMT
+
+
+[Android Auto]
+1. Android Auto は Gemini にアップグレードされますが、Pixel を使用している場合に限ります - 9to5Google
+   原題: Android Auto is getting a Gemini upgrade, but only if you use a Pixel - 9to5Google
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 11 Nov 2026 12:35:00 GMT
+
+2. Google マップと Waze ではすべてができないため、まだ必要な 3 つの Android Auto アプリ - Android Police
+   原題: 3 Android Auto apps I still need because Google Maps and Waze can't do everything - Android Police
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 11 Nov 2026 00:00:00 GMT
+
+3. Google は Android Auto の要件を厳格化しています: これらの携帯電話はサポートされなくなりました - 技術アドバイザー
+   原題: Google is Tightening Android Auto Requirements: These Phones are no Longer Supported - Tech Advisor
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 11 Nov 2026 09:30:05 GMT
+
+4. 私たちのお気に入りの Android Auto ケーブル 3 つ (そして有線に切り替えたい理由) - ZDNET
+   原題: Our 3 favorite Android Auto cables (and why you might want to switch to wired) - ZDNET
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 11 Nov 2026 17:42:00 GMT
+
+5. Motorola MA2 ワイヤレス Android Auto アダプターが入手可能になりましたが、価格はほぼ 2 倍になります - 9to5Google
+   原題: Motorola MA2 wireless Android Auto adapter is now available, but at nearly twice the price - 9to5Google
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 11 Nov 2026 15:50:00 GMT
+
+
+[Arduino]
+1. Arduino Nano ファミリーが XL になりました - Adafruit
+   原題: The Arduino Nano family is now XL - Adafruit
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 11 Nov 2026 21:34:14 GMT
+
+2. エレクトロニカ: TME が「デュアル ブレイン」Arduino VENTUNO Q を展示 - Electronics Weekly
+   原題: Electronica: TME showcases the ‘Dual Brain’ Arduino VENTUNO Q - Electronics Weekly
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 11 Nov 2026 06:24:23 GMT
+
+3. ArduinoのNanoは、Arduino Nano XL Link産業開発ボードとして、サイズは大きくないが大きくなる - Hackster.io
+   原題: Arduino's Nano Goes Big — Though Not in Size — as the Arduino Nano XL Link Industrial Dev Board - Hackster.io
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 11 Nov 2026 07:06:34 GMT
+
+4. CH32 Arduino コア用の RISC-V 専用 Clang + LLD - Adafruit
+   原題: A RISC-V-only clang + lld for the CH32 Arduino core - Adafruit
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 11 Nov 2026 16:58:57 GMT
+
+5. Arduino UNO Q プラットフォームでローカル LLM を実行する |技術ガイド - 回路のすべて
+   原題: Running Local LLMs on the Arduino UNO Q Platform | Tech Guide - All About Circuits
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 10 Nov 2026 20:00:00 GMT
