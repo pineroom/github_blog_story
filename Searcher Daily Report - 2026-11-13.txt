@@ -1,0 +1,96 @@
+Searcher Daily Report
+Generated at: 2026-11-13 08:01:21
+Removed duplicates (today): 0
+Removed duplicates (7 days): 29
+
+[AI]
+1. Nvidiaのジェンスン・フアンCEO、自らが育てたAIブームへの打撃で辞任 - ロイター
+   原題: Nvidia CEO Jensen Huang resigns in blow to AI boom he helped foster - Reuters
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 12 Nov 2026 20:46:55 GMT
+
+2. 多くのアメリカ人が抵抗する中、中国はAIデータセンターブームを受け入れる - CBSニュース
+   原題: While many Americans resist, China embraces AI data center boom - CBS News
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 12 Nov 2026 21:46:52 GMT
+
+3. シスコ、AI推進の勢いを受けて売上高見通しを引き上げ - Bloomberg.com
+   原題: Cisco Raises Sales Guidance in Sign of AI-Fueled Momentum - Bloomberg.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 12 Nov 2026 22:44:31 GMT
+
+4. ユナイテッド航空、AIエージェントによる航空券の予約をブロック - ワシントン・ポスト
+   原題: United Airlines blocks AI agents from booking flights - The Washington Post
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 12 Nov 2026 20:30:00 GMT
+
+5. ユナイテッド航空がAIをブロック代理店が顧客に代わって航空券を予約することを禁止 - ニューヨーク・タイムズ
+   原題: United Airlines Blocks A.I. Agents From Booking Flights on Customers’ Behalf - The New York Times
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 11 Nov 2026 23:15:31 GMT
+
+
+[CarPlay]
+1. Gemini が Apple CarPlay に飛躍 - Android Police
+   原題: Gemini makes the leap to Apple CarPlay - Android Police
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 12 Nov 2026 00:39:00 GMT
+
+2. Google、Gemini アプリを Apple CarPlay に導入 - AppleInsider
+   原題: Google brings the Gemini app to Apple CarPlay - AppleInsider
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 11 Nov 2026 18:30:00 GMT
+
+3. Gemini アプリが世界中の Apple CarPlay に登場 - Technology Org
+   原題: Gemini App Arrives on Apple CarPlay Worldwide - Technology Org
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 12 Nov 2026 11:11:00 GMT
+
+4. Google のおかげで Apple CarPlay が AI を大幅にアップグレード - InsideEVs
+   原題: Apple CarPlay Just Got A Big AI Upgrade Thanks To Google - InsideEVs
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 12 Nov 2026 07:42:00 GMT
+
+5. Apple CarPlay がメジャー無料アップグレードされました。Google に感謝します - Pocket-lint
+   原題: Apple CarPlay just got a major free upgrade, and you can thank Google - Pocket-lint
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 12 Nov 2026 16:25:59 GMT
+
+
+[Android Auto]
+1. Android Auto には、すべてのドライバーが実際に望んでいるキラー Gemini 機能が搭載されています - Android Police
+   原題: Android Auto is getting a killer Gemini feature every driver actually wants - Android Police
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 12 Nov 2026 03:26:00 GMT
+
+2. Motorola の新しいワイヤレス Android Auto ドングルがついに登場しましたが、価格は大幅に上昇しました - Android Authority
+   原題: Motorola’s new wireless Android Auto dongle is finally here, but it has a big price hike - Android Authority
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 12 Nov 2026 06:25:00 GMT
+
+3. Motorola MA2 がワイヤレス Android Auto に電話切り替えボタンを追加 - Yanko Design
+   原題: Motorola MA2 Adds a Phone-Switching Button to Wireless Android Auto - Yanko Design
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 12 Nov 2026 12:07:23 GMT
+
+4. Android Auto の次の Gemini アップグレードは、Pixel 以外のスマートフォンを置き去りにする - Android Authority
+   原題: Android Auto’s next Gemini upgrade is leaving non-Pixel phones behind - Android Authority
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 12 Nov 2026 11:11:00 GMT
+
+5. Android Auto では古いデバイスが廃止され、Android 11 以降が必要になる - 9to5Google
+   原題: Android Auto cutting off older devices, now requires Android 11 or newer - 9to5Google
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 09 Nov 2026 14:20:00 GMT
+
+
+[Arduino]
+1. Qualcomm Arduino ボード、Rubik Pi 3、および Snapdragon 搭載 PC に OpenClaw と Hermes Agent をインストールする方法 - Qualcomm
+   原題: How to Install OpenClaw and Hermes Agent on Qualcomm Arduino Boards, Rubik Pi 3 and PCs with Snapdragon - Qualcomm
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 24 Apr 2026 07:00:00 GMT
+
+2. Arduino が Qualcomm Dragonwing IQ8 シリーズを搭載した Arduino VENTUNO Q を発表 - クアルコム
+   原題: Arduino Announces Arduino VENTUNO Q, Powered by Qualcomm Dragonwing IQ8 Series - Qualcomm
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 09 Mar 2026 07:00:00 GMT
