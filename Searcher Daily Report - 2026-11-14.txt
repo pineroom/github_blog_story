@@ -1,0 +1,111 @@
+Searcher Daily Report
+Generated at: 2026-11-14 08:01:28
+Removed duplicates (today): 0
+Removed duplicates (7 days): 23
+
+[AI]
+1. FAA、米国空域全体の航空交通渋滞を管理するための AI アドバイスを拡張 - Ars Technica
+   原題: FAA expands AI advice to manage air traffic congestion across entire US airspace - Ars Technica
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 10 Nov 2026 08:00:00 GMT
+
+2. FAAがAI航空交通ツールを全国展開中 - ギズモード
+   原題: The FAA Is Rolling Out Its AI Air Traffic Tool Nationwide - Gizmodo
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 13 Nov 2026 01:12:02 GMT
+
+3. FAA、全米地上停止の数日前に AI 航空交通ツールをすべてのセンターに拡張 - ワシントン・タイムズ
+   原題: FAA expanded AI air traffic tool to all centers days before nationwide ground stop - Washington Times
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 13 Nov 2026 22:49:32 GMT
+
+4. 独占：OpenAI、一般モデルでロボットの実行を開始するため、スタンドアロンのロボット工学チームを解散 - Fortune
+   原題: Exclusive: OpenAI disbands its stand-alone robotics team as its general models start running robots - Fortune
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 13 Nov 2026 17:05:00 GMT
+
+5. FRBが金融安定報告書を発表、回答者らはAIに関する懸念を表明 - CNBC
+   原題: Fed releases financial stability report, respondents raised concerns around AI - CNBC
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 13 Nov 2026 21:30:04 GMT
+
+
+[CarPlay]
+1. Google、Apple CarPlayにGemini Voice AIアシスタントを追加 - Bloomberg.com
+   原題: Google Adds Gemini Voice AI Assistant to Apple CarPlay - Bloomberg.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 11 Nov 2026 18:57:04 GMT
+
+2. Google Gemini for CarPlay が利用可能になりました - 9to5Mac
+   原題: Google Gemini for CarPlay now available - 9to5Mac
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 11 Nov 2026 17:29:00 GMT
+
+3. Google、今日からGeminiアプリをApple CarPlayで展開すると発表 - MacRumors
+   原題: Google Says Gemini App Rolling Out on Apple CarPlay Starting Today - MacRumors
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 11 Nov 2026 19:50:14 GMT
+
+4. Google、Gemini アプリを Apple CarPlay に導入 - Engadget
+   原題: Google Brings The Gemini App To Apple CarPlay - Engadget
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 11 Nov 2026 19:54:55 GMT
+
+5. Google、CarPlay 向け Gemini アプリを展開 - 9to5Google
+   原題: Google rolling out Gemini app for CarPlay - 9to5Google
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 11 Nov 2026 17:31:00 GMT
+
+
+[Android Auto]
+1. Android Auto 18.2 アップデートが展開を開始し、ライト モードの追加機能も追加 - 9to5Google
+   原題: Android Auto 18.2 update starts rolling out with more light mode teases - 9to5Google
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 13 Nov 2026 16:45:00 GMT
+
+2. 長距離のドライブに欠かせない 2 つの無料 Android Auto アプリ - Android Police
+   原題: 2 free Android Auto apps I never leave home without on long road trips - Android Police
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 13 Nov 2026 16:00:10 GMT
+
+3. Android Auto 18.2 が初めてオンラインに登場、ダウンロード方法はこちら - autoevolution
+   原題: Android Auto 18.2 Shows Up Online for the First Time, Here's How To Download It - autoevolution
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 13 Nov 2026 05:41:49 GMT
+
+4. 私は Spotify の無限の選択肢を Android Auto ラジオ アプリと交換しました。ドライブの調子が良くなりました - Android Police
+   原題: I traded Spotify's endless choices for an Android Auto radio app; my drives feel better - Android Police
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 13 Nov 2026 00:00:00 GMT
+
+5. Android Auto 18.2 アップデート、実現までに時間がかかるライト モードに少し近づいた - Android Police
+   原題: Android Auto 18.2 update inches closer to a light mode that’s taking ages to arrive - Android Police
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 13 Nov 2026 21:37:32 GMT
+
+
+[Arduino]
+1. Arduino UNO Q での無線 ML モデルのアップデート - Hackster.io
+   原題: Over-the-Air ML Model Updates on the Arduino UNO Q - Hackster.io
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 13 Nov 2026 20:37:30 GMT
+
+2. Arduino Nano XL に 3 つの産業用通信インターフェイスが追加 - オープンソースをあなたに
+   原題: Arduino Nano XL Adds Three Industrial Communication Interfaces - Open Source For You
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 13 Nov 2026 08:26:55 GMT
+
+3. Arduino の新しいボードは Raspberry Pi と ESP32 を目指していますが、タイミングが最悪です - MakeUseOf
+   原題: Arduino’s new board wants to be a Raspberry Pi and an ESP32, but the timing is awful - MakeUseOf
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 04 Sep 2026 07:00:00 GMT
+
+4. Arduino Uno Q 上にクリップボード サーバーを構築したところ、自分が嫌いだと気づいていなかったワークフローが置き換えられました - XDA
+   原題: I built a clipboard server on the Arduino Uno Q, and it replaced a workflow I didn't realize I hated - XDA
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 01 Apr 2026 07:00:00 GMT
+
+5. Arduino UNO Q ボード: 次世代エッジ AI のデュアルブレイン パワーを解き明かす - クアルコム
+   原題: The Arduino UNO Q Board: Unpack the Dual-Brain Power for Next-Gen Edge AI - Qualcomm
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 10 May 2026 07:00:00 GMT
