@@ -1,0 +1,81 @@
+Searcher Daily Report
+Generated at: 2026-11-15 08:01:25
+Removed duplicates (today): 0
+Removed duplicates (7 days): 36
+
+[AI]
+1. 「まるで西部開拓時代」: AI が文学界をいかに揺るがしたか - ガーディアン紙
+   原題: ‘It’s like the wild west’: how AI has rocked the literary world - The Guardian
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 14 Nov 2026 09:02:00 GMT
+
+2. AI の 4 つの衝突する危機 - Axios
+   原題: AI's four colliding crises - Axios
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 14 Nov 2026 12:40:34 GMT
+
+3. 映画のようなグリットを備えたニュルンベルクスタンの AI トレーラー - X
+   原題: AI Trailer for Nuremberg Stuns with Cinematic Grit - X
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 14 Nov 2026 21:21:36 GMT
+
+4. ベインキャピタルのライアン・コットン氏、オフィス不動産に対するAIの影響について語る - CNBC
+   原題: Bain Capital's Ryan Cotton on the impact of AI on office real estate - CNBC
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 14 Nov 2026 22:16:03 GMT
+
+5. マスク氏、ジェンセン・ファンなしではエヌビディアは「重要な」取引を失うだろうと発言 - ロイター
+   原題: Musk says Nvidia will lose 'critical' deals without Jensen Huang - Reuters
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 14 Nov 2026 15:08:32 GMT
+
+
+[CarPlay]
+1. Apple CarPlay は最新の iOS 27.2 アップデートで 2 つの大きな新しいアップグレードを取得、これがその仕組み - Supercar Blondie
+   原題: Apple CarPlay gets two major new upgrades with the latest iOS 27.2 update and this is how they work - Supercar Blondie
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 13 Nov 2026 11:42:00 GMT
+
+2. GMはApple CarPlayを「復活」させることはできない、なぜならそれは決して去らなかったからだ - The Verge
+   原題: GM can’t ‘bring back’ Apple CarPlay because it never left - The Verge
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 21 Sep 2026 07:00:00 GMT
+
+
+[Android Auto]
+1. Motorola MA2 ワイヤレス Android Auto アダプター、ついに発売から数日後に消えた - 9to5Google
+   原題: Motorola MA2 wireless Android Auto adapter just vanished days after finally going on sale - 9to5Google
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 13 Nov 2026 19:30:00 GMT
+
+2. Get hands-free personalized help on the road with Gemini - blog.google
+   原題: Get hands-free personalized help on the road with Gemini - blog.google
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 20 Oct 2026 07:00:00 GMT
+
+
+[Arduino]
+1. エッジ AI とフィジカル AI が必要ですか? Arduino Ventuno Q のご紹介 - デザインニュース
+   原題: Want Edge & Physical AI? Meet the Arduino Ventuno Q - Design News
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 14 Nov 2026 04:51:24 GMT
+
+2. 「他にエージェントを接続できるものは何ですか?」: ある AI 開発者は、3 ドルの Arduino を使ってクロードに 1994 年製ジープ チェロキーを修理してもらいました - TechRadar
+   原題: 'What else can you plug your agent into?': one AI developer got Claude to fix his 1994 Jeep Cherokee with the help of a $3 Arduino - TechRadar
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 14 Nov 2026 11:30:00 GMT
+
+3. Arduino の USB カメラは、次のビジョン プロジェクトにリング ライトをもたらします - The Gadgeteer
+   原題: Arduino’s USB Camera brings a ring light to your next vision project - The Gadgeteer
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 01 Nov 2026 07:00:00 GMT
+
+4. IoT ベースの沿岸洪水検出システム - Hackster.io
+   原題: IoT-Based Coastal Flood Detection System - Hackster.io
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 14 Nov 2026 13:41:52 GMT
+
+5. 物理的およびデジタル的な相互作用を通じて Arduino を学習するための進歩的な拡張現実フレームワーク - Nature
+   原題: A progressive augmented reality framework for learning Arduino through physical and digital interaction - Nature
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 03 Aug 2026 07:00:00 GMT
