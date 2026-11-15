@@ -1,0 +1,96 @@
+Searcher Daily Report
+Generated at: 2026-11-16 08:00:54
+Removed duplicates (today): 0
+Removed duplicates (7 days): 30
+
+[AI]
+1. ジェンセン・ファン氏はいかにして北京をAI競争に参加させ続けるバックドアルートを構築したか - WSJ
+   原題: How Jensen Huang Built the Backdoor Route That Keeps Beijing in the AI Race - WSJ
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 15 Nov 2026 09:48:00 GMT
+
+2. 「ジェンセン・ファンは正気を失った」: AI で最も賢い男はいかにして世界最古のトリックに騙されたか - ガーディアン紙
+   原題: ‘Jensen Huang lost his mind’: how AI’s smartest man fell for the world’s oldest trick - The Guardian
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 15 Nov 2026 18:34:00 GMT
+
+3. ジェンセン・ファンにとって悪いニュースは、AI業界にとっても悪いニュースなのでしょうか? - TechCrunch
+   原題: Is bad news for Jensen Huang also bad news for the AI industry? - TechCrunch
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 15 Nov 2026 21:56:35 GMT
+
+4. アジア株、AI圧力とデータダンプに備える：相場一巡 - Bloomberg.com
+   原題: Asian Stocks Brace for AI Pressure, Data Dump: Markets Wrap - Bloomberg.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 15 Nov 2026 22:11:32 GMT
+
+5. 「とんでもない」と記者は冗談を言った。 「AIを信用してはいけない」 … - Yahooスポーツ
+   原題: "Gotcha," the reporter quipped. "Don't trust AI." … - Yahoo Sports
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 15 Nov 2026 22:36:55 GMT
+
+
+[CarPlay]
+1. 自分の車が Apple CarPlay をサポートしているかどうかを確認する方法 - Engadget
+   原題: How To Tell Whether Your Car Supports Apple CarPlay - Engadget
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 15 Nov 2026 21:45:00 GMT
+
+2. BMW、物理ボタンを復活させるかもしれない - 記事執筆者
+   原題: BMW May Bring Back Physical Buttons - Autoblog
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 15 Nov 2026 18:30:00 GMT
+
+3. 駐車中にApple CarPlayでビデオを見る方法 - Engadget
+   原題: How To Watch Videos On Apple CarPlay While Parked - Engadget
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 07 Nov 2026 08:00:00 GMT
+
+4. これらの簡単なことを実行して Apple CarPlay エクスペリエンスを向上させましょう - Engadget
+   原題: Improve Your Apple CarPlay Experience By Doing These Simple Things - Engadget
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 22 Sep 2026 07:00:00 GMT
+
+5. Apple マップではなく Google マップを使用する場合に CarPlay ナビゲーションを改善する方法 - Engadget
+   原題: How To Improve CarPlay Navigation If You Use Google Maps Over Apple Maps - Engadget
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 27 Sep 2026 07:00:00 GMT
+
+
+[Android Auto]
+1. Gemini を搭載した Android Auto では、ショットガンに乗る前に 5 分間のプライバシー チェックが必要 - Android Police
+   原題: Android Auto with Gemini needs a 5-minute privacy check before anyone rides shotgun - Android Police
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 15 Nov 2026 00:00:00 GMT
+
+2. Android Auto 18.1 アップデートが展開され、ライト モードと再設計の追加準備が行われる - 9to5Google
+   原題: Android Auto 18.1 update rolling out with additional prep for light mode and redesign - 9to5Google
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 03 Nov 2026 08:00:00 GMT
+
+3. Android Auto には Android 11 が必要になり、古い携帯電話はロックアウトされます - AutoNext.co
+   原題: Android Auto now needs Android 11, and older phones are locked out - AutoNext.co
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 15 Nov 2026 14:43:55 GMT
+
+
+[Arduino]
+1. Arduino の新しい AI 中心ボードは VENTUNO Q - ハッカデイ
+   原題: Arduino’s New AI-Centric Board Is The VENTUNO Q - Hackaday
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 10 Mar 2026 07:00:00 GMT
+
+2. Adafruit：Arduinoのルールは「オープンソースと互換性がない」 - 新しいスタック
+   原題: Adafruit: Arduino’s Rules Are ‘Incompatible With Open Source’ - The New Stack
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 14 Dec 2025 14:04:59 GMT
+
+3. I tried to make my toaster smart with Arduino — it did not go as planned - MakeUseOf
+   原題: I tried to make my toaster smart with Arduino — it did not go as planned - MakeUseOf
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 14 Dec 2025 08:00:00 GMT
+
+4. Arduino UNO用のLinux風のOS - Hackster.io
+   原題: A Linux-Like OS for the Arduino UNO - Hackster.io
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 23 Apr 2026 15:26:03 GMT
