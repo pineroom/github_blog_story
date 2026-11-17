@@ -1,0 +1,106 @@
+Searcher Daily Report
+Generated at: 2026-11-17 21:12:34
+Removed duplicates (today): 2
+Removed duplicates (7 days): 27
+
+[AI]
+1. Nvidia、中国のAIアクセスに伴う法的リスクについてチップ購入者に警告、関係者がCNBCに語る - CNBC
+   原題: Nvidia warns chip buyers of legal risks tied to China AI access, sources tell CNBC - CNBC
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 17 Nov 2026 07:07:35 GMT
+
+2. トランプ政権、AI閉鎖に動く中国旅行を控えたチップの抜け穴 - ニューヨーク・タイムズ
+   原題: Trump Administration Moves to Close A.I. Chip Loophole Ahead of China Trip - The New York Times
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 16 Nov 2026 21:07:23 GMT
+
+3. 中国のAI世代が自国に戻って開発する理由 - Bloomberg.com
+   原題: Why China’s AI Generation Is Going Back Home to Build - Bloomberg.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 17 Nov 2026 12:00:07 GMT
+
+4. 私は人間の知性を持った人間の医師です。でも、AI ノートテイカーは確かに気に入っています - NPR
+   原題: I’m a human doctor with human intelligence. But I sure do like my AI notetaker - NPR
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 17 Nov 2026 11:00:00 GMT
+
+5. LiDAR と AI が信号機をよりスマートに - Axios
+   原題: Lidar and AI are making traffic lights smarter - Axios
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 17 Nov 2026 12:01:54 GMT
+
+
+[CarPlay]
+1. すべての CarPlay ユーザーが知っておくべきシンプルで便利な Apple マップ機能 - Engadget
+   原題: The Simple And Convenient Apple Maps Feature Every CarPlay User Should Know About - Engadget
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 16 Nov 2026 17:15:00 GMT
+
+2. ネイティブ YouTube アプリがオープンソース プロジェクトで CarPlay に登場 - autoevolution
+   原題: Native YouTube App Lands on CarPlay With Open-Source Project - autoevolution
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 16 Nov 2026 06:32:03 GMT
+
+3. Waze は CarPlay で行動していますか?最新の iOS アップデートが原因の可能性がある - BGR
+   原題: Waze Acting Up On CarPlay? The Latest iOS Update May Be To Blame - BGR
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 03 Nov 2026 08:00:00 GMT
+
+4. 1ペニーの価値がある10の安価な車用ガジェット（すべてテスト済み） - ZDNET
+   原題: 10 cheap car gadgets worth every penny (we’ve tested them all) - ZDNET
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 17 Nov 2026 02:39:22 GMT
+
+
+[Android Auto]
+1. この Samsung Galaxy の隠れた機能は Android Auto と完璧に連携します - How-To Geek
+   原題: This hidden Samsung Galaxy feature pairs perfectly with Android Auto - How-To Geek
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 16 Nov 2026 21:30:15 GMT
+
+2. Xtream Player の最新の無料アップデートにより、Android Auto のマップ上に小さなビデオ プレーヤーが追加されます - Android Authority
+   原題: Xtream Player’s latest free update puts a tiny video player on top of your map on Android Auto - Android Authority
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 17 Nov 2026 09:59:00 GMT
+
+3. Android Auto ナビゲーション アプリのベスト 5 をランク付け - How-To Geek
+   原題: The 5 best Android Auto navigation apps, ranked - How-To Geek
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 16 Nov 2026 20:00:23 GMT
+
+4. Android Auto の Gemini がついに赤信号で携帯電話から手を離さなくなるようになった - Android Police
+   原題: Gemini in Android Auto could finally keep my hands off my phone at red lights - Android Police
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 16 Nov 2026 16:00:10 GMT
+
+5. Android Auto には Android 11 以降が必要です – 互換性を確認してください - ZDNET
+   原題: Android Auto requires Android 11 or higher now – check your compatibility - ZDNET
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 09 Nov 2026 08:00:00 GMT
+
+
+[Arduino]
+1. Arduino Uno でグリッドを追跡する - ハッカデイ
+   原題: Follow The Grid With An Arduino Uno - Hackaday
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 16 Nov 2026 09:00:00 GMT
+
+2. IoT ベースの水塩分モニタリング - Hackster.io
+   原題: IoT-Based Water Salinity Monitoring - Hackster.io
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 16 Nov 2026 19:02:31 GMT
+
+3. Arduino VENTUNO Q – エッジ AI、ロボティクス、インテリジェント システム用の新しいプラットフォーム - TimesTech
+   原題: Arduino VENTUNO Q – a new platform for Edge AI, robotics, and intelligent systems - TimesTech
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 16 Nov 2026 06:58:28 GMT
+
+4. Claude AI、32 年前のジープエンジンコンピューターを 3 ドルの Arduino でハッキングしてカスタムコードを実行 - GBHackers News
+   原題: Claude AI Hacks 32-Year-Old Jeep Engine Computer Using $3 Arduino to Execute Custom Code - GBHackers News
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 16 Nov 2026 06:11:15 GMT
+
+5. Arduino、2番目のUNOブランドのシングルボードコンピュータである強力なVENTUNO Qの予約注文を開始 - Hackster.io
+   原題: Arduino Opens Pre-Orders for the Powerful VENTUNO Q, Its Second UNO-Branded Single-Board Computer - Hackster.io
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 25 Aug 2026 14:45:50 GMT
