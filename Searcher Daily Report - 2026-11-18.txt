@@ -1,0 +1,91 @@
+Searcher Daily Report
+Generated at: 2026-11-18 09:10:55
+Removed duplicates (today): 2
+Removed duplicates (7 days): 34
+
+[AI]
+1. A.I.インターネットに不可欠なソフトウェア プラットフォーム Java の重大なセキュリティ バグの発見に貢献 - The New York Times
+   原題: A.I. Helps Find Major Security Bug in Java, a Software Platform Vital to the Internet - The New York Times
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 17 Nov 2026 21:05:54 GMT
+
+2. オープンソース AI のトップ支持者がサイバー機能の制御を開始 - Axios
+   原題: A top open-source AI advocate is starting to gate cyber capabilities - Axios
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 17 Nov 2026 23:37:30 GMT
+
+3. オープンソースの AI ツールがサイバー侵入を自動化するために使用されている: FBI - ABC ニュース - 速報ニュース、最新ニュースとビデオ
+   原題: Open-source AI tool has been used to automate cyber intrusions: FBI - ABC News - Breaking News, Latest News and Videos
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 17 Nov 2026 21:36:42 GMT
+
+4. Google: 「自律攻撃の時代が到来」 - The Hill
+   原題: Google: ‘The era of autonomous attacks has arrived’ - The Hill
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 17 Nov 2026 15:27:00 GMT
+
+5. 76ersのレブロン・ジェームズ、AIスポーツ賭博アプリ「ブロン」のメーカーを訴訟 - ESPN
+   原題: 76ers' LeBron James sues makers of AI sports-betting app 'Bron' - ESPN
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 17 Nov 2026 23:36:00 GMT
+
+
+[CarPlay]
+1. Android Auto と CarPlay: どちらがより優れたカスタマイズを提供しますか? - ハウツーオタク
+   原題: Android Auto vs. CarPlay: Which offers better customization? - How-To Geek
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 17 Nov 2026 14:00:15 GMT
+
+2. 音楽やポッドキャストを聴くための 5 つの CarPlay アプリ - Engadget
+   原題: 5 CarPlay Apps For Listening To Music And Podcasts - Engadget
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 17 Nov 2026 16:15:00 GMT
+
+3. CarPlay を初めてセットアップする最も簡単な方法 - Engadget
+   原題: The Easiest Way To Set Up CarPlay For The First Time - Engadget
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 17 Nov 2026 17:45:00 GMT
+
+4. RDVFL がワイヤレス CarPlay とワイヤレス Android Auto をマクラーレンに導入 - CEoutlook.com
+   原題: RDVFL Brings Wireless CarPlay and Wireless Android Auto to McLaren - CEoutlook.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 17 Nov 2026 16:17:23 GMT
+
+
+[Android Auto]
+1. Android Auto の大規模な再設計を何ヶ月も待っていましたが、Google はまだ提供していません - XDA
+   原題: I've been waiting months for Android Auto's big redesign, and Google still hasn't delivered - XDA
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 17 Nov 2026 13:30:20 GMT
+
+2. Android Auto Android 11 の要件: Google のルール - NeoTeo
+   原題: Android Auto Android 11 requirement: Google’s rules - NeoTeo
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 17 Nov 2026 14:18:36 GMT
+
+
+[Arduino]
+1. Arduino と Python を使用したスマート製品カウンター - Hackster.io
+   原題: Smart Product Counter with Arduino & Python - Hackster.io
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 17 Nov 2026 21:17:05 GMT
+
+2. ESP32-S3上でArduinoを使って動作する日本語音声合成ライブラリ - Adafruit
+   原題: A Japanese speech synthesis library that runs on an ESP32-S3 using Arduino - Adafruit
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 17 Nov 2026 16:18:08 GMT
+
+3. 光からパルスへ: 光学式心拍センサー - Hackster.io
+   原題: From Light to Pulse: Optical Heartbeat Sensor - Hackster.io
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 17 Nov 2026 13:14:03 GMT
+
+4. 1994 ジープに AI を活用したチューンアップを施す - Hackster.io
+   原題: Giving a 1994 Jeep an AI-Powered Tune-Up - Hackster.io
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 17 Nov 2026 15:32:56 GMT
+
+5. Echo Studio: タッチレス エアドラム楽器 - Hackster.io
+   原題: Echo Studio: Touchless Air Drum Instrument - Hackster.io
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 17 Nov 2026 00:37:57 GMT
