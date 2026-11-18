@@ -1,0 +1,111 @@
+Searcher Daily Report
+Generated at: 2026-11-19 08:01:17
+Removed duplicates (today): 4
+Removed duplicates (7 days): 21
+
+[AI]
+1. 米国の学区はAIよりもGoogle検索との決別を重視- ニューヨーク・タイムズ紙
+   原題: U.S. School Districts Weigh Breaking Up With Google Search Over A.I. - The New York Times
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 18 Nov 2026 18:11:27 GMT
+
+2. 独占 |パロアルトネットワークス、AIスタートアップのアプライド・コンピューティングを45億ドルで買収 - WSJ
+   原題: Exclusive | Palo Alto Networks to Buy AI-Startup Applied Compute for $4.5 Billion - WSJ
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 18 Nov 2026 21:00:00 GMT
+
+3. パロアルト、AIスタートアップのアプライド・コンピューティングと45億ドルの契約を締結、株価は収益で8％急上昇 - CNBC
+   原題: Palo Alto inks $4.5 billion deal for AI startup Applied Compute, shares pop 8% on earnings - CNBC
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 18 Nov 2026 21:47:56 GMT
+
+4. AIによるサイバーセキュリティへの関心の高まりを示す決算を受け、パロアルトネットワークスの株価が急騰 - MarketWatch
+   原題: Palo Alto Networks’ stock soars as earnings show AI has upped the stakes for cybersecurity - MarketWatch
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 18 Nov 2026 21:55:00 GMT
+
+5. ヘンプフィールド地域学区、身元確認の問題でAI兵器探知システムの展開を延期 - CBSニュース
+   原題: Hempfield Area School District delays rollout of AI weapon detection system due to identification issues - CBS News
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 18 Nov 2026 22:22:20 GMT
+
+
+[CarPlay]
+1. CarPlay と Android Auto で EV ルーティングを設定する方法 - Engadget
+   原題: How To Set Up EV Routing On CarPlay And Android Auto - Engadget
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 18 Nov 2026 00:30:00 GMT
+
+2. YouTube には CarPlay と Android Auto アプリが必要です (はい、本当に) - How-To Geek
+   原題: YouTube needs a CarPlay and Android Auto app (yes, really) - How-To Geek
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 18 Nov 2026 15:00:15 GMT
+
+3. Android Auto と CarPlay の接続を瞬時に実現するこの取り外し可能なスクリーンをテストしてみました。スレート トラックに最適です - Tom's Guide
+   原題: I tested this detachable screen that instantly brings Android Auto and CarPlay connectivity — and it’s perfect for the Slate Truck - Tom's Guide
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 18 Nov 2026 08:00:00 GMT
+
+4. Android Auto と CarPlay の接続を即座に実現するこの取り外し可能なスクリーンをテストしました。スレート トラックに最適です - Yahoo Autos
+   原題: I tested this detachable screen that instantly brings Android Auto and CarPlay connectivity — and it’s perfect for the Slate Truck - Yahoo Autos
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 18 Nov 2026 08:00:00 GMT
+
+5. トヨタはCarPlay訴訟で特許を侵害していない、テキサス州判事の規則 - Law.com
+   原題: Toyota Did Not Infringe Patents in CarPlay Lawsuit, Texas Judge Rules - Law.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 17 Nov 2026 22:18:38 GMT
+
+
+[Android Auto]
+1. AAWireless が、新しい小型の Nexus および Nano ワイヤレス Android Auto アダプターをリリース - 9to5Google
+   原題: AAWireless releases new, smaller Nexus and Nano wireless Android Auto adapters - 9to5Google
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 18 Nov 2026 14:00:00 GMT
+
+2. AAWireless が接続性を大幅にアップグレードした 2 つの新しいワイヤレス Android Auto アダプターを発表 - Android Authority
+   原題: AAWireless unveils two new wireless Android Auto adapters with a big connectivity upgrade - Android Authority
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 18 Nov 2026 14:00:00 GMT
+
+3. GM の「Google 内蔵」は Android Auto ではない、それが問題だ - MakeUseOf
+   原題: GM's 'Google built-in' isn't Android Auto, and that's a problem - MakeUseOf
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 18 Nov 2026 17:00:17 GMT
+
+4. ディスプレイとバッテリーの問題を修正するために Android Auto 開発者設定のロックを解除しました - Android Police
+   原題: I unlocked Android Auto developer settings to fix display and battery problems - Android Police
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 18 Nov 2026 20:00:10 GMT
+
+5. AAWireless が小型の Nexus および Nano ワイヤレス Android Auto アダプターを発表 - Mezha.net
+   原題: AAWireless introduces smaller Nexus and Nano wireless Android Auto adapters - Mezha.net
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 18 Nov 2026 14:04:51 GMT
+
+
+[Arduino]
+1. Arduino と Python を使用したスマートな商品カウンター - Adafruit
+   原題: A smart product counter with Arduino & Python - Adafruit
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 18 Nov 2026 15:52:50 GMT
+
+2. Arduino 上で動作する ESP プロファイラー アプリ - Hackster.io
+   原題: ESP profiler app running on Arduino - Hackster.io
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 18 Nov 2026 19:37:13 GMT
+
+3. DigiKey ウェビナーで新しい Arduino® VENTUNO™ Q Edge AI コンピュータのデモンストレーションを実施 - PR Newswire
+   原題: DigiKey Webinar Will Demonstrate New Arduino® VENTUNO™ Q Edge AI Computer - PR Newswire
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 18 Nov 2026 16:41:00 GMT
+
+4. ポルトフィーノ・クルムからヴィクトリア・アルドゥイーノコーヒーまで：レオネット・カピエッロのポスターでイタリアが動き出す - Comunicaffe International
+   原題: From Portofino Kulm to Victoria Arduino coffee: Italy on the move in Leonetto Cappiello’s posters - Comunicaffe International
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 17 Nov 2026 23:45:18 GMT
+
+5. 5 ドルの ESP32 は、追加のハードウェアなしで正常に動作する Web サイトをホストできます - How-To Geek
+   原題: Your $5 ESP32 can host a working website with no extra hardware - How-To Geek
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 16 Nov 2026 20:30:31 GMT
