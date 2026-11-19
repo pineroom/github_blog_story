@@ -1,0 +1,111 @@
+Searcher Daily Report
+Generated at: 2026-11-20 08:01:14
+Removed duplicates (today): 1
+Removed duplicates (7 days): 23
+
+[AI]
+1. 人間的なIPO、AIの富がスリムな新しい種類のファミリーオフィスを生み出す - CNBC
+   原題: Anthropic IPO, AI wealth spawn a new, leaner kind of family office - CNBC
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 19 Nov 2026 14:00:01 GMT
+
+2. Anthropic、史上初のIPOで最も価値のあるAI企業に - BBC
+   原題: Anthropic becomes most valuable AI firm in first-of-its kind IPO - BBC
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 19 Nov 2026 21:38:42 GMT
+
+3. 人間的 IPO ライブ最新情報: 株式市場デビューで企業価値が急上昇 - ニューヨーク・タイムズ
+   原題: Anthropic IPO Live Updates: Company Value Surges in Stock Market Debut - The New York Times
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 19 Nov 2026 22:45:17 GMT
+
+4. GoogleがAIに傾倒し、中核事業に損害を与える - ニューヨーク・タイムズ
+   原題: Google Leaned Into A.I., Hurting Its Core Business - The New York Times
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 19 Nov 2026 10:01:55 GMT
+
+5. ニューヨーク市、ロサンゼルス、シカゴの学区はAIよりもGoogle検索との決別を検討中- ニューヨーク・タイムズ紙
+   原題: NYC, LA and Chicago School Districts Weigh Breaking Up With Google Search Over A.I. - The New York Times
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 18 Nov 2026 23:23:06 GMT
+
+
+[CarPlay]
+1. Twelve South の小型 Airfly Drive ワイヤレス CarPlay ドングルが 20% オフ - 9to5Mac
+   原題: Save 20% on Twelve South’s tiny Airfly Drive wireless CarPlay dongle - 9to5Mac
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 19 Nov 2026 12:55:00 GMT
+
+2. 新しい「AirFly Drive」アクセサリが有線CarPlayをワイヤレスCarPlayに変える - MacRumors
+   原題: New 'AirFly Drive' Accessory Turns Wired CarPlay Into Wireless CarPlay - MacRumors
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 01 Oct 2026 07:00:00 GMT
+
+3. Gemini と話し合おう、Apple CarPlay に登場 - blog.google
+   原題: Talk it through with Gemini, now on Apple CarPlay - blog.google
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 11 Nov 2026 08:00:00 GMT
+
+4. CarPlay ウィジェットを追加してカスタマイズする方法 - Engadget
+   原題: How To Add And Customize Your CarPlay Widgets - Engadget
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 05 Oct 2026 07:00:00 GMT
+
+5. この Apple CarPlay アプリは、次のロードトリップで隠れた美しいスポットを見つけるのに最適です - アマチュア写真家
+   原題: This Apple CarPlay app is perfect for finding hidden beauty spots on your next road trip - Amateur Photographer
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 19 Nov 2026 18:31:32 GMT
+
+
+[Android Auto]
+1. ブラック フライデー ウィーク: Pixel 11、Watch 5、Android Auto、1000X、その他 - 9to5Google
+   原題: Black Friday Week: Pixel 11, Watch 5, Android Auto, 1000X, more - 9to5Google
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 19 Nov 2026 16:30:00 GMT
+
+2. Google が Play ストアに対して決して承認しない、サイドロードした 4 つの Android Auto アプリ - XDA
+   原題: 4 Android Auto apps I sideloaded that Google would never approve for the Play Store - XDA
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 18 Nov 2026 16:30:24 GMT
+
+3. Android Autoは間もなく数百万台の携帯電話で動作しなくなる可能性がある - Android Authority
+   原題: Android Auto could soon stop working on millions of phones - Android Authority
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 05 Oct 2026 07:00:00 GMT
+
+4. Gemini は Android Auto (アップデート) に関する質問に答えることに興味を失っています - Android Authority
+   原題: Gemini has lost interest in answering your questions on Android Auto (Update) - Android Authority
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 02 Oct 2026 07:00:00 GMT
+
+5. ワイヤレス Android Auto アダプター: AAWireless、Wi-Fi 6 NEXUS と NANO をそれぞれ 69.99 ドルで発表 - Tech Times
+   原題: Wireless Android Auto Adapter: AAWireless Unveils Wi-Fi 6 NEXUS and NANO for $69.99 Each - Tech Times
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 19 Nov 2026 00:24:08 GMT
+
+
+[Arduino]
+1. ArBEN 国際ワークショップ: Arduino と基本的なエレクトロニクスを神経科学に応用 - バルセロナ自治大学
+   原題: ArBEN International Workshop: Arduino and Basic Electronics Applied to Neuroscience - Universitat Autònoma de Barcelona
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 19 Nov 2026 19:12:13 GMT
+
+2. Arduino Ventuno Q: ハードウェアからアプリケーションまでのウォークスルー - 電子製品とテクノロジー
+   原題: Arduino Ventuno Q: A walkthrough on hardware to applications - Electronic Products & Technology
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 19 Nov 2026 18:42:59 GMT
+
+3. クロード コードとコーデックス 1994 年ジープのエンジン コンピューターのリバース エンジニアリング - Technology Org
+   原題: Claude Code and Codex Reverse-Engineer a 1994 Jeep’s Engine Computer - Technology Org
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 19 Nov 2026 16:19:00 GMT
+
+4. Java4Shell (CVE-2026-114938): クラッシュしやすく、悪用は難しい — RCE のリスクがあると推定される JVM は 0.12% 未満 - OX Security
+   原題: Java4Shell (CVE-2026-114938): Easy to Crash, Hard to Exploit — Less Than 0.12% of JVMs Estimated at Risk of RCE - OX Security
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 18 Nov 2026 13:13:16 GMT
+
+5. Running Local LLMs on the Arduino® UNO™ Q Board: a Practical Guide - EE Times
+   原題: Running Local LLMs on the Arduino® UNO™ Q Board: a Practical Guide - EE Times
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 11 Nov 2026 08:00:00 GMT
