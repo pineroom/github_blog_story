@@ -1,0 +1,91 @@
+Searcher Daily Report
+Generated at: 2026-11-21 08:00:50
+Removed duplicates (today): 1
+Removed duplicates (7 days): 32
+
+[AI]
+1. AIとハイテク株の下落が続く中、人類株は下落 - ニューヨーク・タイムズ
+   原題: Anthropic Shares Slip as AI and Tech Stock Sell-Off Continues - The New York Times
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 20 Nov 2026 22:26:16 GMT
+
+2. 人類数学者、AIが数学の最も有名な問題を解決したと語る - WSJ
+   原題: Anthropic Mathematician Says AI Has Solved the Most Famous Problem in Math - WSJ
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 20 Nov 2026 17:28:00 GMT
+
+3. AI リーマン予想の証明はほぼ確実に真実であると独立数学者が証明 - Scientific American
+   原題: The AI Riemann hypothesis proof is almost certainly true, independent mathematicians attest - Scientific American
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 20 Nov 2026 21:00:00 GMT
+
+4. AIは数学における最も重要な問題を解決したかもしれない - エコノミスト
+   原題: AI may have solved the most important problem in mathematics - The Economist
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 20 Nov 2026 21:41:15 GMT
+
+5. Foxconn の次の章: Apple の iPhone メーカーが AI に大きく賭けている理由 - CNBC
+   原題: Foxconn's next chapter: Why Apple's iPhone maker is betting big on AI - CNBC
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 20 Nov 2026 22:00:18 GMT
+
+
+[CarPlay]
+1. iPhone と CarPlay でライブ アクティビティを有効にする方法 - Engadget
+   原題: How To Enable Live Activities On iPhone And CarPlay - Engadget
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 10 Oct 2026 07:00:00 GMT
+
+2. iOS 27 で試すのに最適な CarPlay アップグレード - 9to5Mac
+   原題: The best CarPlay upgrades to try in iOS 27 - 9to5Mac
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 08 Oct 2026 07:00:00 GMT
+
+
+[Android Auto]
+1. Android Auto 18.0 アップデートの展開が開始され、再設計に向けた準備が継続 - 9to5Google
+   原題: Android Auto 18.0 update starts rolling out, continues to gear up for redesign - 9to5Google
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 13 Oct 2026 07:00:00 GMT
+
+2. マップクエストを覚えていますか? Android Autoでも使えるようになりました - Engadget
+   原題: Remember MapQuest? You Can Now Use It With Android Auto - Engadget
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 06 Oct 2026 07:00:00 GMT
+
+3. オープンソースの Android Auto 代替ソフトを車で試してみたところ、1 つを除いてすべての点で Google のバージョンを上回りました - How-To Geek
+   原題: I tried an open-source Android Auto alternative in my car, and it beats Google's version in every way but one - How-To Geek
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 06 Nov 2026 08:00:00 GMT
+
+4. 車の始動時に音楽の自動再生を停止する Android Auto の修正を公開 - 9to5Google
+   原題: Android Auto rolling out fix that stops auto-playing music when you start your car - 9to5Google
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 07 Oct 2026 07:00:00 GMT
+
+5. Android Auto の Gemini は、ついに道案内以上の用途で使えるようになりました - How-To Geek
+   原題: Gemini in Android Auto is finally good for more than just giving directions - How-To Geek
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 17 Nov 2026 20:00:16 GMT
+
+
+[Arduino]
+1. ICYMI Ep 83: メビウス マテリアル、ローデ・シュワルツ、SiTime、Arduino、WINSYSTEMS、Raspberry Pi - 組み込みコンピューティング設計
+   原題: ICYMI Ep 83: Mobius Materials, Rohde & Schwarz, SiTime, Arduino, WINSYSTEMS, Raspberry Pi - Embedded Computing Design
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 20 Nov 2026 20:23:21 GMT
+
+2. 2026 年のエンジニアへのベストギフト 10: 実際に使う (そして自慢する) テクノロジー ガジェット - Hackster.io
+   原題: 10 Best Gifts for Engineers in 2026: Tech Gadgets They Will Actually Use (and Brag About!) - Hackster.io
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 20 Nov 2026 18:37:44 GMT
+
+3. 回路: PRBSynth1 ノイズ シンセサイザー - Elektor Magazine
+   原題: Circuit: PRBSynth1 Noise Synthesizer - Elektor Magazine
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 18 Nov 2026 19:32:00 GMT
+
+4. KiwisIoT を使用したスマート倉庫温度監視 - Hackster.io
+   原題: Smart Warehouse Temperature Monitoring Using KiwisIoT - Hackster.io
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 20 Nov 2026 20:06:24 GMT
