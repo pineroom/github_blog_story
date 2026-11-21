@@ -1,0 +1,101 @@
+Searcher Daily Report
+Generated at: 2026-11-22 08:01:14
+Removed duplicates (today): 1
+Removed duplicates (7 days): 30
+
+[AI]
+1. テクノロジーの停止は始まりにすぎません。 A.I.さらなる混乱をもたらすだろう。 - ニューヨーク・タイムズ紙
+   原題: Tech Outages Are Only the Beginning. A.I. Will Bring More Disruptions. - The New York Times
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 21 Nov 2026 17:40:46 GMT
+
+2. あなたの 401(k) には AI が満載です。ボラティリティにどう対処するか - CNN
+   原題: Your 401(k) is full of AI. How to deal with the volatility - CNN
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 21 Nov 2026 11:00:15 GMT
+
+3. AIの影響で株価は調整局面に突入懸念は強まる - ニューヨーク・タイムズ
+   原題: Stocks Skid Into a Correction, as A.I. Worries Intensify - The New York Times
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 20 Nov 2026 12:06:55 GMT
+
+4. AI破綻は中国経済への脅威増大であり、習近平国家主席にとって「真の危険の瞬間」であるとアナリストが警告 - フォーチュン
+   原題: The AI bust is a growing threat to China's economy and a 'moment of real danger' for President Xi Jinping, analyst warns - Fortune
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 21 Nov 2026 21:45:00 GMT
+
+5. AI が生成した Beatline Sports のポッドキャストは、駄作と呼ぶには十分ではない - Boston.com
+   原題: The AI-generated podcasts of Beatline Sports aren’t even good enough to be called slop - Boston.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 21 Nov 2026 22:52:00 GMT
+
+
+[CarPlay]
+1. さようなら、ケーブル: 新しい AAWireless Android Auto および CarPlay ワイヤレス アダプターはより小さく、よりスマートになりました - autoevolution
+   原題: Goodbye, Cables: New AAWireless Android Auto and CarPlay Wireless Adapters Are Smaller, Smarter - autoevolution
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 21 Nov 2026 06:03:54 GMT
+
+2. Twelve South の AirFly Drive Wireless CarPlay & Android Auto アダプターがブラック フライデー史上最安値の 32 ドルに - 9to5Toys
+   原題: Twelve South's AirFly Drive Wireless CarPlay & Android Auto Adapter hits $32 Black Friday all-time low - 9to5Toys
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 19 Nov 2026 12:54:00 GMT
+
+3. iOS 27の新しいCarPlay機能は素晴らしいが、実際に使えるのはこれらのiPhoneだけ - Engadget
+   原題: iOS 27's New CarPlay Features Are Great, But Only These iPhones Can Actually Use Them - Engadget
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 18 Oct 2026 07:00:00 GMT
+
+4. Twelve South、小型の新しい「Airfly Drive」ワイヤレス CarPlay アダプターを発売 [更新] - 9to5Mac
+   原題: Twelve South launches tiny new ‘Airfly Drive’ wireless CarPlay adapter [Updated] - 9to5Mac
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 02 Oct 2026 07:00:00 GMT
+
+5. iOS 27.2 には CarPlay が 2 つ改善されました。新機能は次のとおりです - 9to5Mac
+   原題: iOS 27.2 has two CarPlay improvements, here’s what’s new - 9to5Mac
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 13 Nov 2026 08:00:00 GMT
+
+
+[Android Auto]
+1. 誰でも Android Auto 18.2 にアップデートできるようになりました: その方法は次のとおりです - autoevolution
+   原題: Everyone Can Now Update to Android Auto 18.2: Here's How To Do It - autoevolution
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 20 Nov 2026 23:00:01 GMT
+
+2. Google マップと Spotify の設定を変更せずに Android Auto を使用することはありません - How-To Geek
+   原題: I never use Android Auto without changing these Google Maps and Spotify settings - How-To Geek
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 21 Nov 2026 14:00:15 GMT
+
+3. Android Auto を搭載した 10 年前の車がほとんどの新車の内蔵インフォテインメント システムを上回るが、それには遠く及ばない - XDA
+   原題: A ten-year-old car running Android Auto beats most new cars' built-in infotainment systems, and it isn't close - XDA
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 21 Nov 2026 20:00:20 GMT
+
+4. EV ロードトリップの計画は Android Auto に任せています。仕組みは次のとおりです - InsideEVs
+   原題: I Let Android Auto Plan My EV Roadtrip. Here’s How It Worked - InsideEVs
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 19 Oct 2026 07:00:00 GMT
+
+5. 私は有線を試すまではワイヤレス Android Auto の大ファンでしたが、今はもう戻れません - ZDNET
+   原題: I was a big wireless Android Auto fan, until I tried wired – now I won’t go back - ZDNET
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 12 Oct 2026 07:00:00 GMT
+
+
+[Arduino]
+1. Arduino の新しいボードは Raspberry Pi と ESP32 を目指していますが、タイミングが最悪です - MakeUseOf
+   原題: Arduino’s new board wants to be a Raspberry Pi and an ESP32, but the timing is awful - MakeUseOf
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 04 Sep 2026 07:00:00 GMT
+
+2. nRF54L15 (Zephyr ベース) 用の Arduino コア - Adafruit
+   原題: An Arduino core for nRF54L15 (Zephyr-based) - Adafruit
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 17 Feb 2026 08:00:00 GMT
+
+3. Arduino UNO Q ボード: 次世代エッジ AI のデュアルブレイン パワーを解き明かす - クアルコム
+   原題: The Arduino UNO Q Board: Unpack the Dual-Brain Power for Next-Gen Edge AI - Qualcomm
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 10 May 2026 07:00:00 GMT
