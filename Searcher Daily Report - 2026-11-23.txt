@@ -1,0 +1,111 @@
+Searcher Daily Report
+Generated at: 2026-11-23 08:01:12
+Removed duplicates (today): 2
+Removed duplicates (7 days): 24
+
+[AI]
+1. 黙示録を阻止する公式を探して - ニューヨーク・タイムズ
+   原題: Looking for the Formula to Stop an Apocalypse - The New York Times
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 22 Nov 2026 12:27:46 GMT
+
+2. AI は数学の最大の課題を克服した - エコノミスト
+   原題: AI has conquered mathematics’ greatest challenge - The Economist
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 20 Nov 2026 21:41:15 GMT
+
+3. AI が何世紀にもわたる問題を解決しているにもかかわらず、私が数学から離れられない理由 |小野賢 - ガーディアン紙
+   原題: Why I won’t leave mathematics, despite AI solving centuries-old problems | Ken Ono - The Guardian
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 22 Nov 2026 11:00:00 GMT
+
+4. Anthropic IPOがAI取引の不安を静めることができず、株式は「投げ売り」中 - Yahoo Finance
+   原題: Stocks are 'on fire sale' as Anthropic IPO fails to calm AI trade jitters - Yahoo Finance
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 22 Nov 2026 19:00:51 GMT
+
+5. AI貿易が低迷する中、投資家たちは株式市場の「脆弱性」に勇敢 - Bloomberg.com
+   原題: Investors Brave Stock Market ‘Fragility’ as AI Trade Falters - Bloomberg.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 22 Nov 2026 15:00:00 GMT
+
+
+[CarPlay]
+1. CarPlay は Siri AI によってさらに便利になります。次のドライブで試してほしい 10 のこと - PCMag
+   原題: CarPlay Is Much More Useful With Siri AI. 10 Things to Try on Your Next Drive - PCMag
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 22 Nov 2026 14:00:35 GMT
+
+2. Apple CarPlayでスピードカメラに関する警告を受け取る方法 - Engadget
+   原題: How To Get Warnings About Speed Cameras In Apple CarPlay - Engadget
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 15 Nov 2026 22:00:00 GMT
+
+3. 自分の車が Apple CarPlay をサポートしているかどうかを確認する方法 - Engadget
+   原題: How To Tell Whether Your Car Supports Apple CarPlay - Engadget
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 15 Nov 2026 21:45:00 GMT
+
+4. CarPlay: 私たちが知っていることすべて - MacRumors
+   原題: CarPlay: Everything We Know - MacRumors
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 20 Nov 2026 08:00:00 GMT
+
+5. Waze、Android Auto と CarPlay で交差点の上昇通知を表示し始める - autoevolution
+   原題: Waze Starts Showing Raised Crossing Notifications on Android Auto and CarPlay - autoevolution
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 22 Nov 2026 16:44:33 GMT
+
+
+[Android Auto]
+1. Android Auto で動作すると気づかないかもしれない 4 つのランダムなアプリ - Engadget
+   原題: 4 Random Apps You Might Not Realize Work With Android Auto - Engadget
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 22 Nov 2026 16:15:00 GMT
+
+2. これらの修正により、ドライブ中にワイヤレス Android Auto 接続が失われないようになりました - Android Police
+   原題: I stopped losing my wireless Android Auto connection mid-drive with these fixes - Android Police
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 22 Nov 2026 16:00:10 GMT
+
+3. Android Auto は、好むと好まざるにかかわらず、間もなく通勤を勤務日の一部にする可能性があります - Android Authority
+   原題: Android Auto could soon make commute part of your workday, whether you like it or not - Android Authority
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 19 Oct 2026 07:00:00 GMT
+
+4. Gemini を使用すると、外出中にハンズフリーでカスタマイズされたヘルプを入手できます - blog.google
+   原題: Get hands-free personalized help on the road with Gemini - blog.google
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 20 Oct 2026 07:00:00 GMT
+
+5. Android Auto は Gemini にアップグレードされますが、Pixel を使用している場合に限ります - 9to5Google
+   原題: Android Auto is getting a Gemini upgrade, but only if you use a Pixel - 9to5Google
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 11 Nov 2026 08:00:00 GMT
+
+
+[Arduino]
+1. スマート植木鉢: 土壌水分モニター - Hackster.io
+   原題: Smart Plant Pot: Soil Moisture Monitor - Hackster.io
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 22 Nov 2026 16:24:32 GMT
+
+2. 「他にエージェントを接続できるものは何ですか?」: ある AI 開発者は、3 ドルの Arduino を使ってクロードに 1994 年製ジープ チェロキーを修理してもらいました - TechRadar
+   原題: 'What else can you plug your agent into?': one AI developer got Claude to fix his 1994 Jeep Cherokee with the help of a $3 Arduino - TechRadar
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 14 Nov 2026 11:30:00 GMT
+
+3. アーティスト向けのエレクトロニクスと Arduino マイクロコントローラー | Oct 1 - Nov 19, 2026 | 6:30-9:30 PM | Continuing Education | School of Visual Arts | SVA NYC - スクール オブ ビジュアル アーツ | SVA
+   原題: Electronics and Arduino Microcontroller for Artists | Oct 1 - Nov 19, 2026 | 6:30-9:30 PM | Continuing Education | School of Visual Arts | SVA NYC - School of Visual Arts | SVA
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 27 Jul 2026 18:08:35 GMT
+
+4. スカラ座のダンサーたちがバランシンの「アポロ」でフラスキーニ劇場のダンスシーズンを開幕 - グラミラノ
+   原題: La Scala dancers open Teatro Fraschini’s dance season with Balanchine’s Apollo - Gramilano
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 20 Nov 2026 19:03:06 GMT
+
+5. 物理的およびデジタル的な相互作用を通じて Arduino を学習するための進歩的な拡張現実フレームワーク - Nature
+   原題: A progressive augmented reality framework for learning Arduino through physical and digital interaction - Nature
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 03 Aug 2026 07:00:00 GMT
