@@ -1,0 +1,101 @@
+Searcher Daily Report
+Generated at: 2026-11-24 08:01:30
+Removed duplicates (today): 2
+Removed duplicates (7 days): 30
+
+[AI]
+1. SpaceX、AI生成の性的画像をめぐりオレゴン州とバージニア州から訴えられる - ニューヨーク・タイムズ
+   原題: SpaceX Sued By Oregon and Virginia Over A.I.-Generated Sexualized Images - The New York Times
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 23 Nov 2026 13:40:06 GMT
+
+2. SpaceX、AIディープフェイクポルノ、Grokの安全性主張をめぐりオレゴン州とバージニア州から訴訟 - CNBC
+   原題: SpaceX sued by Oregon and Virginia over AI deepfake porn, Grok safety claims - CNBC
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 23 Nov 2026 12:40:37 GMT
+
+3. マスク氏、8月にSpaceX従業員に対しAI分野で「競争に失敗している」と警告、報告書が伝える - フォーブス
+   原題: Musk Warned SpaceX Employees Company Was ‘Failing To Compete’ On AI In August, Report Says - Forbes
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 23 Nov 2026 21:27:43 GMT
+
+4. AIが決して超えられないヒューマンスキル - フォーブス
+   原題: The Human Skills AI Can Never Surpass - Forbes
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 23 Nov 2026 22:13:14 GMT
+
+5. ジェンセンが帰ってきた。しかし、AI の問題はまだ解決していません。 - WSJ
+   原題: Jensen Is Back. But AI’s Problems Haven’t Gone Away. - WSJ
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 23 Nov 2026 18:32:00 GMT
+
+
+[CarPlay]
+1. Apple CarPlayの問題は厄介です。それらを修正する方法は次のとおりです - Motor1.com
+   原題: Apple CarPlay Problems Are Annoying. Here's How To Fix Them - Motor1.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 23 Nov 2026 19:30:00 GMT
+
+2. Android Auto と Apple CarPlay の所有者はこのユニバーサル USB ガジェットを使用できます - AOL.com
+   原題: Android Auto And Apple CarPlay Owners Can Use This Universal USB Gadget - AOL.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 23 Nov 2026 18:05:00 GMT
+
+3. これら 10 個の安価な車用ガジェットは、1 ペニーの価値があります (はい、私たちはそれらをテストしました) - ZDNET
+   原題: These 10 cheap car gadgets are worth every penny (yes, we’ve tested them) - ZDNET
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 23 Nov 2026 16:41:00 GMT
+
+
+[Android Auto]
+1. Android Auto 上の Google マップに二輪車のルートが表示されているのをバイク運転者が発見 - Android Authority
+   原題: Motorcyclists spot Google Maps on Android Auto showing routes for two-wheeled vehicles - Android Authority
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 23 Nov 2026 21:37:00 GMT
+
+2. YouTube が Android 自動車に自動バックグラウンド再生を導入 - 9to5Google
+   原題: YouTube bringing automatic background play to Android Automotive cars - 9to5Google
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 13 Oct 2026 07:00:00 GMT
+
+3. 古い車をお持ちですか？ Android Auto は簡単に追加できます: 2 つの方法、20 ドルから - ZDNET
+   原題: Got an old car? Android Auto is easy to add: 2 ways, starting at $20 - ZDNET
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 13 Oct 2026 07:00:00 GMT
+
+4. Android Auto 18.2 アップデートが展開を開始し、ライト モードの追加機能も追加 - 9to5Google
+   原題: Android Auto 18.2 update starts rolling out with more light mode teases - 9to5Google
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 13 Nov 2026 08:00:00 GMT
+
+5. Gemini は車のタッチスクリーン メニューを置き換えることができます。すでに所有しているかもしれません - MakeUseOf
+   原題: Gemini can replace the touchscreen menus in your car, and you may already own one - MakeUseOf
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 23 Nov 2026 12:30:16 GMT
+
+
+[Arduino]
+1. TinyWifiDongle: マイクロコントローラーを USB WiFi ドングルに変える Arduino ライブラリ - Adafruit
+   原題: TinyWifiDongle: an Arduino library turning a microcontroller into a USB WiFi dongle - Adafruit
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 23 Nov 2026 15:35:10 GMT
+
+2. FIRST がクアルコム、Arduino、ウォルト・ディズニーと提携して次世代のロボット工学者にインスピレーションを与える - Hackster.io
+   原題: FIRST Partners with Qualcomm, Arduino, and Walt Disney to Inspire the Next Generation of Roboticists - Hackster.io
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 23 Nov 2026 15:50:32 GMT
+
+3. Thea: アレルギーのある人向けのウェアラブル エクスペリエンスを模索 | Arduino ブログ - Howl.Link
+   原題: Thea: exploring a wearable experience for people with allergies | Arduino Blog - Howl.Link
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 23 Nov 2026 14:24:12 GMT
+
+4. エッジ AI とフィジカル AI が必要ですか? Arduino Ventuno Q のご紹介 - デザインニュース
+   原題: Want Edge & Physical AI? Meet the Arduino Ventuno Q - Design News
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 13 Nov 2026 08:00:00 GMT
+
+5. Coffee or Water? UNO Q AI コーチが一番よく知っています! - ハックスターアイオ
+   原題: Coffee or Water? Your UNO Q AI coach knows best! - Hackster.io
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 23 Nov 2026 15:13:38 GMT
