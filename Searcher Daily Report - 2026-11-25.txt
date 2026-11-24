@@ -1,0 +1,101 @@
+Searcher Daily Report
+Generated at: 2026-11-25 08:01:13
+Removed duplicates (today): 1
+Removed duplicates (7 days): 27
+
+[AI]
+1. AI の使用 - 人間性
+   原題: Working with AI - Anthropic
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 23 Nov 2026 21:12:08 GMT
+
+2. スクープ: Anthropic と OpenAI の従業員は、未リリースの AI モデルは安全すぎてリリースできないと懸念している - Axios
+   原題: Scoop: Anthropic and OpenAI employees fear unreleased AI models are too unsafe to release - Axios
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 24 Nov 2026 11:56:00 GMT
+
+3. デルの利益がAIの強みで上回り、同社は250億ドルの自社株買いを承認 - CNBC
+   原題: Dell earnings beat on AI strength, company authorizes $25 billion buyback - CNBC
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 24 Nov 2026 21:29:03 GMT
+
+4. AIサーバーの需要が急増する中、デルの第3四半期利益は予想を大幅に下回る - Yahoo Finance
+   原題: Dell's Q3 earnings crush estimates as AI server demand roars - Yahoo Finance
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 24 Nov 2026 21:32:32 GMT
+
+5. デル、AIサーバー需要の急増を受け、記録的な四半期後に年間予測を引き上げ - ロイター
+   原題: Dell lifts annual forecasts after record quarter on surging AI server demand - Reuters
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 24 Nov 2026 21:23:18 GMT
+
+
+[CarPlay]
+1. Apple によると、CarPlay Ultra がこれらの車に搭載されると発表 - 9to5Mac
+   原題: CarPlay Ultra coming to these cars, according to Apple - 9to5Mac
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 24 Nov 2026 16:41:00 GMT
+
+2. CarPlay 上の Google マップ、ナビゲーション時に Gemini を展開 - 9to5Google
+   原題: Google Maps on CarPlay rolling out Gemini when navigating - 9to5Google
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 21 Oct 2026 07:00:00 GMT
+
+3. すべての CarPlay ユーザーが知っておくべきシンプルで便利な Apple マップ機能 - Engadget
+   原題: The Simple And Convenient Apple Maps Feature Every CarPlay User Should Know About - Engadget
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 16 Nov 2026 17:15:00 GMT
+
+4. Spotify、初のネイティブ自動車アプリをリリースし、CarPlay から解放される - The Verge
+   原題: Spotify is busting free of CarPlay with the launch of its first native car app - The Verge
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 21 Oct 2026 07:00:00 GMT
+
+5. Google マップ、米国の CarPlay に Gemini AI を追加 - AppleInsider
+   原題: Google Maps adds Gemini AI to CarPlay in U.S. - AppleInsider
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 21 Oct 2026 07:00:00 GMT
+
+
+[Android Auto]
+1. Google マップが Android Auto に驚くべき機能を追加、トラックのナビゲーションはどうなる? - 自動進化
+   原題: Google Maps Gets a Surprising Feature on Android Auto, What About Truck Navigation? - autoevolution
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 24 Nov 2026 08:14:32 GMT
+
+2. Google、パーソナル インテリジェンスを備えた Android Auto 向け Gemini をアップグレード - 9to5Google
+   原題: Google upgrading Gemini for Android Auto with Personal Intelligence - 9to5Google
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 20 Oct 2026 07:00:00 GMT
+
+3. Android Auto 上の Gemini が写真、メール、カレンダーにアクセスできるようになった - なぜ（ほとんど）大丈夫なのか - ZDNET
+   原題: Gemini on Android Auto can access my photos, emails, and calendar now - why I'm OK with that (mostly) - ZDNET
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 20 Oct 2026 07:00:00 GMT
+
+4. Android Auto のバグにより Google マップが黒い画面になる - Android Authority
+   原題: Android Auto bug is turning Google Maps into a black screen - Android Authority
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 24 Nov 2026 20:52:00 GMT
+
+5. バイクのライダーは Android Auto の Google マップで特別なルートを取得できます - Android Police
+   原題: Motorbike riders are getting special routes in Google Maps on Android Auto - Android Police
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 24 Nov 2026 10:57:46 GMT
+
+
+[Arduino]
+1. Arduino Uno でグリッドを追跡する - ハッカデイ
+   原題: Follow The Grid With An Arduino Uno - Hackaday
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Mon, 16 Nov 2026 09:00:00 GMT
+
+2. 2026 年のベスト AI ハードウェア: 6 つのトップ開発ボードとキット (NVIDIA Jetson、Arduino UNO Q など) - Hackster.io
+   原題: Best AI Hardware of 2026: 6 Top Dev Boards and Kits (NVIDIA Jetson, Arduino UNO Q, and More) - Hackster.io
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 24 Nov 2026 01:20:28 GMT
+
+3. Arduino Nano ファミリーが XL になりました - Adafruit
+   原題: The Arduino Nano family is now XL - Adafruit
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 11 Nov 2026 08:00:00 GMT
