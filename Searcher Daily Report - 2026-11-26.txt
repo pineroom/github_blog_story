@@ -1,0 +1,111 @@
+Searcher Daily Report
+Generated at: 2026-11-26 08:01:02
+Removed duplicates (today): 1
+Removed duplicates (7 days): 23
+
+[AI]
+1. AIへの懸念強まり米国株さらに下落 - BBC
+   原題: US stocks fall further as fears over AI intensify - BBC
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 25 Nov 2026 17:48:09 GMT
+
+2. トランプ大統領の関税で市場が混乱、AI上昇も陰り、世界株急落 - ロイター
+   原題: World stocks tumble as Trump tariffs rattle markets, AI rally fades - Reuters
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 25 Nov 2026 01:50:00 GMT
+
+3. AIの疑いが忍び寄る中、腹を痛めるようなボラティリティがウォール街を襲う - Bloomberg
+   原題: Gut-Wrenching Volatility Grips Wall Street as AI Doubts Creep In - Bloomberg
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 25 Nov 2026 21:17:13 GMT
+
+4. 米国が中国のAIチップへのアクセスを制限する中、NVIDIAの売り手は新たな買い手を探している、関係者がCNBCに語る - CNBC
+   原題: Nvidia sellers seek new buyers as U.S. curbs China AI chip access, sources tell CNBC - CNBC
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 25 Nov 2026 17:28:24 GMT
+
+5. 独占：アリス・ファン関連企業が中国のAIサーバーに2億7000万ドル上場、記録が示す - ロイター
+   原題: EXCLUSIVE: Alice Huang-linked firms listed $270 million in AI servers in China, records show - Reuters
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 25 Nov 2026 06:13:00 GMT
+
+
+[CarPlay]
+1. この便利な Apple Watch 機能は Apple CarPlay とシームレスに連携します - Engadget
+   原題: This Helpful Apple Watch Feature Works Seamlessly With Apple CarPlay - Engadget
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 25 Nov 2026 00:30:00 GMT
+
+2. Apple アクセサリのブラック フライデー セール: AirTag 2、Apple Pencil、CarPlay ギアなど、7 ドルから 9to5Mac まで
+   原題: Apple accessory Black Friday deals: AirTag 2, Apple Pencil, CarPlay gear, more from $7 - 9to5Mac
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 25 Nov 2026 13:33:00 GMT
+
+3. CarPlay は Siri AI によってさらに便利になります。次のドライブで試してほしい 10 のこと - PCMag UK
+   原題: CarPlay Is Much More Useful With Siri AI. 10 Things to Try on Your Next Drive - PCMag UK
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 22 Nov 2026 14:00:00 GMT
+
+4. Apple CarPlay と Android Auto で携帯電話が熱くなります。涼しく保つ方法 - WIRED
+   原題: Apple CarPlay and Android Auto Make Your Phone Hot. Here’s How to Keep It Cool - WIRED
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 25 Oct 2026 07:00:00 GMT
+
+5. ワイヤレス CarPlay アダプターを購入する前に知っておくべきこと - Engadget
+   原題: Here's What You Need To Know Before Buying A Wireless CarPlay Adapter - Engadget
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sat, 24 Oct 2026 07:00:00 GMT
+
+
+[Android Auto]
+1. Android Auto は、ワイド ディスプレイに最適な新しいアプリ ナビゲーション レイアウトを展開しています - Android Authority
+   原題: Android Auto is rolling out a new app navigation layout perfect for wide displays - Android Authority
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 24 Nov 2026 22:22:00 GMT
+
+2. Android Auto の Google マップのアップデートでバイクのナビゲーション ルートが追加 - 9to5Google
+   原題: Google Maps update on Android Auto adds navigation routes for motorcycles - 9to5Google
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 25 Nov 2026 11:00:00 GMT
+
+3. Android Auto がついに、よりスマートなレイアウトで大画面の価値を実現 - Android Police
+   原題: Android Auto finally makes big screens worth it with a smarter layout - Android Police
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 25 Nov 2026 12:03:37 GMT
+
+4. Android Auto 18.2 の展開が開始され、ワイド スクリーン向けのナビゲーションが大幅に変更されました - autoevolution
+   原題: Android Auto 18.2 Starts Rolling Out With a Big Navigation Change for Wide Screens - autoevolution
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 25 Nov 2026 08:19:18 GMT
+
+5. Google Maps' latest Android Auto fixes my biggest navigation problem at last - MakeUseOf
+   原題: Google Maps' latest Android Auto fixes my biggest navigation problem at last - MakeUseOf
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 25 Nov 2026 15:20:17 GMT
+
+
+[Arduino]
+1. Arduino、新しい「Powered by Arduino」プログラムでサードパーティ互換機の氾濫を食い止めることを目指す - Hackster.io
+   原題: Arduino Seeks to Stem the Flood of Third-Party Compatibles with Its New "Powered by Arduino" Program - Hackster.io
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 25 Nov 2026 12:31:01 GMT
+
+2. Edge Impulse で YOLO26 モデルをトレーニングする - Hackster.io
+   原題: Train YOLO26 models in Edge Impulse - Hackster.io
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 25 Nov 2026 15:45:35 GMT
+
+3. ジェラルド S. アルドゥイーノの死亡記事 (2026) - イリノイ州ウィートン - ハルトグレン葬儀場および火葬センター - ウィートン - レガシーの死亡記事
+   原題: Gerald S. Arduino Obituary (2026) - Wheaton, IL - Hultgren Funeral Home and Cremation Center - Wheaton - Legacy obituary
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 08 Oct 2026 07:00:00 GMT
+
+4. KiwisIoT を使用した IoT ベースの火災安全監視 - Hackster.io
+   原題: IoT-Based Fire Safety Monitoring Using KiwisIoT - Hackster.io
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 25 Nov 2026 18:44:50 GMT
+
+5. Arduino で Sony カーラジオ LCD ディスプレイを駆動する - Adafruit
+   原題: Driving a Sony car radio LCD display with Arduino - Adafruit
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 11 Nov 2026 08:00:00 GMT
