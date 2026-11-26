@@ -1,0 +1,106 @@
+Searcher Daily Report
+Generated at: 2026-11-27 08:00:49
+Removed duplicates (today): 1
+Removed duplicates (7 days): 27
+
+[AI]
+1. SAP、AI再編で少なくとも1万人削減を検討 - Bloomberg
+   原題: SAP Weighs Cutting at Least 10,000 Positions in AI Restructuring - Bloomberg
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 26 Nov 2026 16:15:48 GMT
+
+2. トランプはファーウェイを無力化しようとした。今や中国のAIの中心となっている。押す。 - ニューヨーク・タイムズ紙
+   原題: Trump Tried to Cripple Huawei. Now It Is Central to China’s A.I. Push. - The New York Times
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 26 Nov 2026 10:01:56 GMT
+
+3. Gemini 4 Neon のご紹介 - blog.google
+   原題: Introducing Gemini 4 Neon - blog.google
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 18 Nov 2026 08:00:00 GMT
+
+4. 100年前の数学問題に対するAIが生成した解決策に数学コミュニティが反応 - NPR
+   原題: The math community reacts to an AI-generated solution to a century-old math problem - NPR
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 26 Nov 2026 22:13:39 GMT
+
+5. AI敗走でキオクシア日本の最安優良株に強気支持 - Bloomberg
+   原題: AI Rout Makes Kioxia Japan’s Cheapest Blue Chip, Backing Bulls - Bloomberg
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 26 Nov 2026 22:30:13 GMT
+
+
+[CarPlay]
+1. これら 5 つのガジェットで Android Auto または Apple CarPlay に格安で接続 - ZDNET
+   原題: Connect to Android Auto or Apple CarPlay for cheap with these 5 gadgets - ZDNET
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 26 Nov 2026 14:35:15 GMT
+
+2. AirFly Drive レビュー: 2 人ではなく 1 人のドライバーのための優れたワイヤレス CarPlay - AppleInsider
+   原題: AirFly Drive review: excellent wireless CarPlay for one driver, not two - AppleInsider
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 26 Nov 2026 01:36:28 GMT
+
+3. Apple CarPlay Ultra: サポートされているすべての車と今後のブランド - The Mac Observer
+   原題: Apple CarPlay Ultra: All Supported Cars and Upcoming Brands - The Mac Observer
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 26 Nov 2026 21:05:17 GMT
+
+4. フォルクスワーゲンはCarPlayエコーの問題を明らかにしなかった、と新たな集団訴訟が主張している。 - クレームデポ
+   原題: Volkswagen failed to disclose a CarPlay echo issue, a new class action claims. - Claim Depot
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 26 Nov 2026 19:04:25 GMT
+
+
+[Android Auto]
+1. Android Autoの新しいGemini AIでできることはすべてここにあります - WIRED
+   原題: Here’s Everything You Can Do With With the New Gemini AI on Android Auto - WIRED
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 26 Nov 2026 12:00:00 GMT
+
+2. あなただけではありません - 一部の Samsung および Pixel スマートフォン所有者にとって、Android Auto ナビゲーションが機能しなくなっています - PhoneArena
+   原題: It’s not just you - Android Auto navigation is breaking for some Samsung and Pixel phone owners - PhoneArena
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 26 Nov 2026 16:54:17 GMT
+
+3. Motorola Razr オーナーはついに問題なく Android Auto に接続できるようになりました - PhoneArena
+   原題: Motorola Razr owners can finally connect to Android Auto without trouble - PhoneArena
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 26 Nov 2026 13:30:31 GMT
+
+4. Gemini Live に同意するのをやめるように言った日から、Android Auto がさらに楽しくなりました - Android Police
+   原題: Android Auto got a lot more fun the day I told Gemini Live to stop agreeing with me - Android Police
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 25 Nov 2026 23:01:10 GMT
+
+5. Android Auto の次のアップデートでワークライフ バランスが崩れる可能性 - Engadget
+   原題: Android Auto Could Upset Your Work-Life Balance With Its Next Update - Engadget
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 01 Nov 2026 07:00:00 GMT
+
+
+[Arduino]
+1. Arduino、ビジネスベースのArduinoクラウド加入者向けにロールベースのアクセス制御機能を拡張 - Hackster.io
+   原題: Arduino Expands Its Role-Based Access Control Features for Business-Based Arduino Cloud Subscribers - Hackster.io
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 26 Nov 2026 17:08:54 GMT
+
+2. ブラウザといくつかのセンサーだけで構築できる 5 つの実用的な ESP32 プロジェクト - XDA
+   原題: 5 practical ESP32 projects you can build with nothing but a browser and some sensors - XDA
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 26 Nov 2026 20:30:21 GMT
+
+3. Arduino と Python を使用したスマートな商品カウンター - Adafruit
+   原題: A smart product counter with Arduino & Python - Adafruit
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 18 Nov 2026 15:52:50 GMT
+
+4. KiwisIoT を使用した IoT ベースの HVAC モニタリング - Hackster.io
+   原題: IoT-Based HVAC Monitoring Using KiwisIoT - Hackster.io
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 26 Nov 2026 13:19:44 GMT
+
+5. KiwisIoT を使用した IoT ベースのスマート食品包装モニタリング - Hackster.io
+   原題: IoT-Based Smart Food Packaging Monitoring Using KiwisIoT - Hackster.io
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Thu, 26 Nov 2026 13:19:48 GMT
