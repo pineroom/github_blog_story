@@ -1,0 +1,111 @@
+Searcher Daily Report
+Generated at: 2026-11-28 08:01:14
+Removed duplicates (today): 2
+Removed duplicates (7 days): 25
+
+[AI]
+1. ピザの歴史：AIエージェントのカードレス購入は英国初 - ガーディアン紙
+   原題: Pizza history: AI agent’s cardless purchase is a first for UK - The Guardian
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 27 Nov 2026 16:51:00 GMT
+
+2. ドイツのソフトウェア会社SAPがAI推進で少なくとも1万人を削減すると報じられている - CNBC
+   原題: German software firm SAP is reportedly cutting at least 10,000 jobs in AI push - CNBC
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 27 Nov 2026 06:36:30 GMT
+
+3. AI 広告の事後調査 - NPR
+   原題: Postmortem of AI ads - NPR
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 27 Nov 2026 21:58:19 GMT
+
+4. 2027 年の AI 投資収益率に懸念が高まる - Fox Business
+   原題: Concerns grow over return on AI investment in 2027 - Fox Business
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 27 Nov 2026 22:02:50 GMT
+
+5. テクノロジー大手が学校の検索アクセスを削減すると脅す中、LAUSDがGoogle AI機能をブロック - ABC7ロサンゼルス
+   原題: LAUSD blocks Google AI features as tech giant threatens to cut schools' search access - ABC7 Los Angeles
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 27 Nov 2026 21:09:43 GMT
+
+
+[CarPlay]
+1. 私が使った最高のワイヤレス Android Auto + CarPlay アダプターがブラック フライデーで珍しい割引を受ける - 9to5Google
+   原題: The best wireless Android Auto + CarPlay adapter I've used gets a rare discount for Black Friday - 9to5Google
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 27 Nov 2026 18:05:00 GMT
+
+2. Google、Apple CarPlayにGemini Voice AIアシスタントを追加 - Bloomberg.com
+   原題: Google Adds Gemini Voice AI Assistant to Apple CarPlay - Bloomberg.com
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 11 Nov 2026 08:00:00 GMT
+
+3. Gemini と話し合おう、Apple CarPlay に登場 - blog.google
+   原題: Talk it through with Gemini, now on Apple CarPlay - blog.google
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Wed, 11 Nov 2026 08:00:00 GMT
+
+4. iOS 27.2 には CarPlay が 2 つ改善されました。新機能は次のとおりです - 9to5Mac
+   原題: iOS 27.2 has two CarPlay improvements, here’s what’s new - 9to5Mac
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 27 Nov 2026 15:31:00 GMT
+
+5. 私が毎日使う CarPlay アプリ トップ 7 (あなたもそうすべきです) - スタッフ
+   原題: The top 7 CarPlay apps I use every day (and you should too) - Stuff
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 27 Nov 2026 21:38:16 GMT
+
+
+[Android Auto]
+1. Android Auto の Gemini のハックは非常に優れているため、他のものはすべて使用するのをやめました - Android Police
+   原題: This Gemini hack in Android Auto is so good that I stopped using everything else - Android Police
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 27 Nov 2026 09:39:10 GMT
+
+2. ついに、Android Auto に、見て使用できる新機能が追加されました – ナビゲーションの再設計があなたの車にやって来ます - T3
+   原題: Finally, Android Auto gets a new feature you can see and use – navigation redesign is coming to your car - T3
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 27 Nov 2026 11:00:00 GMT
+
+3. Android Auto で Pixel の常時表示ディスプレイが暗くなる - Android Police
+   原題: Your Pixel's always-on display is going dark with Android Auto - Android Police
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 27 Nov 2026 13:35:56 GMT
+
+4. このツールにより、ついに Android Auto でサイドロードされたアプリを使用できるようになりました - How-To Geek
+   原題: This tool finally lets me use sideloaded apps in Android Auto - How-To Geek
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 27 Nov 2026 18:00:15 GMT
+
+5. これら 6 つの Android Auto の習慣は、あなたの運転体験を静かに台無しにしています - XDA
+   原題: These 6 Android Auto habits are quietly ruining your driving experience - XDA
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 27 Nov 2026 13:30:21 GMT
+
+
+[Arduino]
+1. Smart Battery Charging Safety Hub - Hackster.io
+   原題: Smart Battery Charging Safety Hub - Hackster.io
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 27 Nov 2026 22:27:31 GMT
+
+2. DurHack 2026 で注目を集める学生のイノベーション - DPA マガジン
+   原題: Student innovation in the spotlight at DurHack 2026 - DPA Magazine
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Fri, 27 Nov 2026 21:16:59 GMT
+
+3. Arduino’s New AI-Centric Board Is The VENTUNO Q - Hackaday
+   原題: Arduino’s New AI-Centric Board Is The VENTUNO Q - Hackaday
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 10 Mar 2026 07:00:00 GMT
+
+4. Arduino VENTUNO Q が登場: Qualcomm Dragonwing IQ8 シリーズで Agentic AI を物理世界に導入 - Qualcomm
+   原題: Arduino VENTUNO Q is Here: Bringing Agentic AI to the Physical World with Qualcomm Dragonwing IQ8 Series - Qualcomm
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Tue, 25 Aug 2026 14:00:40 GMT
+
+5. Building a Practical Asset Tracking System with Arduino® UNO™ Q - Qualcomm
+   原題: Building a Practical Asset Tracking System with Arduino® UNO™ Q - Qualcomm
+   出典URL: https://news.google.com (Google News中継リンク。元記事URLの自動取得に失敗)
+   Published: Sun, 19 Jul 2026 07:00:00 GMT
